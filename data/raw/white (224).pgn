@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "chrollo098"]
+[Result "0-1"]
+[WhiteElo "615"]
+[BlackElo "606"]
+[ECO "C10"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "07:11:56"]
+[Termination "chrollo098 won by checkmate"]
+[CurrentPosition "2kr4/pp3Q1p/8/8/5n2/8/P4PPP/3r2K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation-2...d5-3.Nc3-Nc6-4.Nf3"]
+[StartTime "07:11:56"]
+[EndDate "2023.06.12"]
+[EndTime "07:18:57"]
+[Link "https://www.chess.com/game/live/80292709545"]
+
+1. d4 d5 2. Nc3 e6 3. Nf3 Nc6 4. e4 dxe4 5. Nxe4 Bb4+ 6. c3 Bf8 7. c4 Qe7
+8. d5 exd5 9. cxd5 Qxe4+ 10. Be2 Qb4+ 11. Bd2 Qxb2 12. Rc1 Qf6 13. O-O Ne5
+14. Nxe5 Qxe5 15. Rxc7 Qxc7 16. Qa4+ Bd7 17. Bb5 Bxb5 18. Qxb5+ Qd7 19.
+Re1+ Ne7 20. Qe2 O-O-O 21. Rc1+ Qc7 22. Rxc7+ Kxc7 23. Bf4+ Kc8 24. d6 Nd5
+25. Be5 Bxd6 26. Bxd6 Rxd6 27. Qh5 Rhd8 28. Qg4+ R8d7 29. Qxg7 Nf4 30. Qf8+
+Rd8 31. Qxf7 Rd1# 0-1
+

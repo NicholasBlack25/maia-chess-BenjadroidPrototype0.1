@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.31"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "aymft"]
+[Result "0-1"]
+[WhiteElo "508"]
+[BlackElo "564"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.05.31"]
+[UTCTime "00:49:37"]
+[Termination "aymft won by checkmate"]
+[CurrentPosition "7Q/4bk1p/8/8/8/3b2PP/PP3Pq1/4n1KR w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[StartTime "00:49:37"]
+[EndDate "2023.05.31"]
+[EndTime "01:03:06"]
+[Link "https://www.chess.com/game/live/79233119867"]
+
+1. d4 d5 2. e3 a6 3. Nf3 f6 4. c3 g6 5. h3 c6 6. Nbd2 Nh6 7. Nb3 Nd7 8.
+Nbd2 g5 9. e4 b5 10. exd5 cxd5 11. c4 Qb6 12. cxd5 Bb7 13. Nb3 Bxd5 14.
+Nxg5 Nf5 15. Qh5+ Bf7 16. Qf3 Bg6 17. Qxa8+ Qb8 18. Qxa6 Ne5 19. Bxb5+ Nd7
+20. Bxd7+ Kxd7 21. Nc5+ Ke8 22. g3 fxg5 23. Bxg5 Qb4+ 24. Ke2 Nxd4+ 25. Kf1
+Qxc5 26. Qa8+ Kf7 27. Bxe7 Kxe7 28. Re1+ Kf7 29. Qb7+ Be7 30. Qf3+ Ke8 31.
+Qa8+ Kf7 32. Qxh8 Bd3+ 33. Kg2 Qd5+ 34. Kg1 Nf3+ 35. Kg2 Nxe1+ 36. Kg1 Qg2#
+0-1
+

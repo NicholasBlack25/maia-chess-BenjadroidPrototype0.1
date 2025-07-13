@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.14"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "alwi989"]
+[Result "0-1"]
+[WhiteElo "646"]
+[BlackElo "702"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.06.14"]
+[UTCTime "08:03:48"]
+[Termination "alwi989 won by checkmate"]
+[CurrentPosition "r7/5pK1/6q1/8/8/5k2/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Queens-Knight-Variation"]
+[StartTime "08:03:48"]
+[EndDate "2023.06.14"]
+[EndTime "08:22:16"]
+[Link "https://www.chess.com/game/live/80468976409"]
+
+1. e4 e6 2. Nc3 g6 3. d4 Bg7 4. Nf3 Ne7 5. e5 O-O 6. Ng5 Nbc6 7. Qf3 Nxd4
+8. Qh3 h6 9. Rb1 Nef5 10. Nce4 Nxc2+ 11. Kd1 Nb4 12. Ra1 d5 13. Ng3 Qxg5
+14. Bxg5 Bxe5 15. Bxh6 Nxh6 16. Qxh6 Bxb2 17. Rb1 Bc3 18. h4 Re8 19. Ne2
+Nxa2 20. Rh3 Bg7 21. Qf4 Bd7 22. Qxc7 Ba4+ 23. Ke1 Rac8 24. Qxb7 Nc3 25.
+Nxc3 Bxc3+ 26. Ke2 Rb8 27. Qxa7 Rxb1 28. Rxc3 Bb5+ 29. Kf3 Rxf1 30. Rc5 Bc4
+31. Qd7 Kf8 32. Rc8 Rxc8 33. Qxc8+ Kg7 34. g4 Rh1 35. h5 gxh5 36. gxh5 Rh4
+37. Qc7 Rxh5 38. Qg3+ Kf8 39. Qd6+ Kg7 40. Qg3+ Kf6 41. Qg4 Rg5 42. Qf4+
+Rf5 43. Kg4 Rxf4+ 44. Kxf4 d4 45. Kf3 d3 46. Ke3 e5 47. f3 Kf5 48. Kd2 Kf4
+49. Kc3 Kxf3 50. Kxc4 d2 51. Kd5 e4 52. Ke5 d1=Q 53. Kf6 Qd7 54. Kg7 e3 55.
+Kf6 e2 56. Kg7 e1=R 57. Kf6 Qe6+ 58. Kg7 Qg6+ 59. Kf8 Ra1 60. Ke7 Qe6+ 61.
+Kf8 Ra8+ 62. Kg7 Qg6# 0-1
+

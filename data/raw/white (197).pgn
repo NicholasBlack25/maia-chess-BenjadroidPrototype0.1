@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "198764modr"]
+[Result "1-0"]
+[WhiteElo "613"]
+[BlackElo "529"]
+[ECO "C21"]
+[TimeControl "600"]
+[UTCDate "2023.06.03"]
+[UTCTime "08:54:27"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r1b1k1B1/p7/1p1P3p/5p2/3Bn3/7N/PP3PPP/R3K2R b KQq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Center-Game-Accepted-Kieseritzky-Variation"]
+[StartTime "08:54:27"]
+[EndDate "2023.06.03"]
+[EndTime "09:01:54"]
+[Link "https://www.chess.com/game/live/79521584539"]
+
+1. d4 e5 2. e4 exd4 3. Nf3 c5 4. c3 dxc3 5. Nxc3 b6 6. Bb5 Nc6 7. Bf4 Nf6
+8. Bc4 d5 9. exd5 Nd4 10. Nxd4 cxd4 11. Qxd4 Ng4 12. Ne4 f5 13. Ng5 h6 14.
+Nh3 Bc5 15. Qxg7 Qf6 16. Qxf6 Nxf6 17. d6 Ne4 18. Be5 Rg8 19. Bxg8 Bd4 20.
+Bxd4 1-0
+

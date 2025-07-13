@@ -1,0 +1,12 @@
+name: benjamin-model
+dataset:
+  input_train: data/processed/chunks/*.npz
+  input_test: data/processed/chunks/*.npz
+training:
+  batch_size: 32
+  num_training_steps: 100
+  learning_rate: 0.001
+model:
+  filters: 128
+  blocks: 10
+  value_head_hidden: 128

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "-"]
+[White "JakeAndux11"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "1282"]
+[BlackElo "400"]
+[ECO "A09"]
+[TimeControl "600"]
+[UTCDate "2021.01.08"]
+[UTCTime "22:23:05"]
+[Termination "JakeAndux11 won by checkmate"]
+[CurrentPosition "8/p4p1p/2p1p3/4P2k/6Q1/2N4P/PP2N1P1/R1B1KR2 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Reti-Gambit"]
+[StartTime "22:23:05"]
+[EndDate "2021.01.08"]
+[EndTime "22:27:06"]
+[Link "https://www.chess.com/game/live/6181395632"]
+
+1. Nf3 d5 2. c4 Be6 3. Nc3 dxc4 4. e4 Nc6 5. Be2 Nb4 6. Qa4+ c6 7. Qxb4 Bg4
+8. Nd4 Bxe2 9. Ndxe2 e6 10. Qxc4 Nf6 11. e5 Ng4 12. Qxg4 Bc5 13. Qxg7 Bxf2+
+14. Kxf2 Qb6+ 15. Ke1 Qc5 16. Qxh8+ Ke7 17. Qxa8 Qxe5 18. Qxb7+ Kf6 19.
+Rf1+ Kg5 20. d4+ Kh4 21. dxe5 Kg4 22. h3+ Kh4 23. Qb4+ Kh5 24. Qg4# 1-0
+

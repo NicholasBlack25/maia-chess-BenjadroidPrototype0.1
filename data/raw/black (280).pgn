@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.25"]
+[Round "-"]
+[White "akanungoe"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "504"]
+[BlackElo "391"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2021.02.25"]
+[UTCTime "14:22:31"]
+[Termination "akanungoe won by checkmate"]
+[CurrentPosition "2kr1b2/Q2b4/Bpp4p/4p1p1/8/8/P4PPP/3R2K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "14:22:31"]
+[EndDate "2021.02.25"]
+[EndTime "14:32:07"]
+[Link "https://www.chess.com/game/live/8001888301"]
+
+1. e4 d5 2. Qh5 Nc6 3. d3 Nd4 4. Na3 dxe4 5. Nh3 Nf6 6. Qe5 Ng4 7. Ng5 exd3
+8. Qf4 Nxc2+ 9. Nxc2 dxc2 10. Qxf7+ Kd7 11. Bb5+ c6 12. Bc4 Qa5+ 13. Bd2
+Qe5+ 14. Be2 Qxb2 15. O-O Ne5 16. Qb3 Qd4 17. Qxc2 Nc4 18. Rfd1 Nxd2 19.
+Rxd2 Qxd2 20. Qxd2+ Kc7 21. Rc1 h6 22. Nf7 Rh7 23. Bd3 g6 24. Ne5 g5 25.
+Bxh7 a5 26. Nd7 Bxd7 27. Rd1 Rd8 28. Qxa5+ b6 29. Qa7+ Kc8 30. Bd3 e5 31.
+Ba6# 1-0
+

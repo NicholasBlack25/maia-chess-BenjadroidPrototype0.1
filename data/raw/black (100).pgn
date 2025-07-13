@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.19"]
+[Round "-"]
+[White "Beyondrizz"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "665"]
+[BlackElo "685"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.11.19"]
+[UTCTime "05:08:06"]
+[Termination "BenjaminVega10 won on time"]
+[CurrentPosition "7r/1ppk3p/8/4p3/1pB5/1P6/q1P4P/rNK5 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.g3"]
+[StartTime "05:08:06"]
+[EndDate "2023.11.19"]
+[EndTime "05:22:39"]
+[Link "https://www.chess.com/game/live/94060606784"]
+
+1. g3 d5 2. d4 f6 3. Bf4 Nc6 4. e3 g5 5. e4 gxf4 6. exd5 Qxd5 7. gxf4 e6 8.
+Nc3 Qd6 9. Bg2 Qxf4 10. Nh3 Qf5 11. Qe2 Nb4 12. O-O-O e5 13. a3 a5 14. axb4
+axb4 15. Nb1 Bh6+ 16. f4 Bxf4+ 17. Nxf4 Qxf4+ 18. Qd2 Qf5 19. Rhf1 Qd7 20.
+Bf3 Qb5 21. Bh5+ Kf8 22. d5 Ra1 23. Be2 Qa4 24. Bc4 Bh3 25. Rf3 Bg4 26. b3
+Qa2 27. Rxf6+ Nxf6 28. Qh6+ Kf7 29. d6+ Ke8 30. d7+ Nxd7 31. Qe6+ Kd8 32.
+Qxd7+ Bxd7 33. Rxd7+ Kxd7 0-1
+

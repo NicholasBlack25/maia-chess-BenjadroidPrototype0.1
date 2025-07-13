@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.08"]
+[Round "-"]
+[White "Aldrineskirt"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "665"]
+[BlackElo "698"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.12.08"]
+[UTCTime "00:08:49"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "2krr3/Qp4pp/3b4/5p2/6q1/7K/PPPP2PP/R1B3R1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Modern-Variation-3.Bb5-Bd7"]
+[StartTime "00:08:49"]
+[EndDate "2023.12.08"]
+[EndTime "00:12:43"]
+[Link "https://www.chess.com/game/live/95698173814"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. Nc3 c6 6. dxc6 Nxc6 7.
+Nf3 O-O-O 8. Qe2 e5 9. Nxe5 Nxe5 10. Qxe5 Ng4 11. Qg3 Nxf2 12. Qxf2 Qe6+
+13. Ne2 f5 14. Rg1 Bb4 15. Qxa7 Rhe8 16. Kf2 Qxe2+ 17. Kg3 Bd6+ 18. Kh3
+Qg4# 0-1
+

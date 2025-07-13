@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.13"]
+[Round "-"]
+[White "Lordtazgb13"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "629"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2025.03.13"]
+[UTCTime "17:53:54"]
+[Termination "Lordtazgb13 won by checkmate"]
+[CurrentPosition "1Q1krr2/1pR4p/3p4/1N1P1p2/2P3p1/6P1/1P4KP/5R2 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Kennedy-Linksspringer-Variation"]
+[StartTime "17:53:54"]
+[EndDate "2025.03.13"]
+[EndTime "18:02:39"]
+[Link "https://www.chess.com/game/live/136226743114"]
+
+1. e4 e5 2. d4 Nc6 3. d5 Nb4 4. a3 Qh4 5. axb4 Bxb4+ 6. c3 Bc5 7. Be3 Bxe3
+8. g3 Qxe4 9. fxe3 Qxe3+ 10. Be2 Qe4 11. Nf3 d6 12. O-O Ne7 13. c4 Bg4 14.
+Nc3 Qe3+ 15. Kg2 O-O-O 16. Ra3 f5 17. Nb5 e4 18. Rxe3 exf3+ 19. Bxf3 Bxf3+
+20. Qxf3 Rhf8 21. Rxe7 g5 22. Nxa7+ Kb8 23. Nb5 g4 24. Qa3 Rde8 25. Qa7+
+Kc8 26. Rxc7+ Kd8 27. Qb8# 1-0
+

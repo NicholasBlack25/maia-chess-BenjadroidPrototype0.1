@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.07"]
+[Round "-"]
+[White "AZChess101"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "578"]
+[BlackElo "557"]
+[ECO "C45"]
+[TimeControl "600"]
+[UTCDate "2023.10.07"]
+[UTCTime "17:39:16"]
+[Termination "AZChess101 won by checkmate"]
+[CurrentPosition "4k3/4Q3/3K4/8/8/8/2P5/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-3...d6"]
+[StartTime "17:39:16"]
+[EndDate "2023.10.07"]
+[EndTime "17:52:42"]
+[Link "https://www.chess.com/game/live/81814787846"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Nd2
+Nf6 8. b3 b6 9. Bb2 Bb7 10. Bd3 Be7 11. Bxe5 Ng4 12. Bxg7 Rg8 13. Bb2 Rg5
+14. O-O-O Ke8 15. Rhf1 Nxh2 16. f4 Rxg2 17. Rh1 Ng4 18. Rxh7 Bd6 19. e5 Bf3
+20. Nxf3 Nf2 21. Rh8+ Bf8 22. Be4 Nxe4 23. Rh2 Rxh2 24. Nxh2 Nf2 25. Rd5
+Rd8 26. Rxd8+ Kxd8 27. Nf3 Bh6 28. Kb1 Bxf4 29. Nd4 Bxe5 30. Nc6+ Kd7 31.
+Nxe5+ Ke6 32. Nc6 Nd1 33. Bh8 f5 34. Nxa7 f4 35. Bd4 f3 36. Nb5 c5 37. Bg1
+Kf5 38. Kc1 Nc3 39. Nxc3 Kg4 40. Nd5 Kg3 41. Nxb6 Kg2 42. Bxc5 f2 43. Bxf2
+Kxf2 44. a4 Ke3 45. Kb2 Kd4 46. a5 Kc5 47. b4+ Kxb4 48. a6 Ka5 49. a7 Kxb6
+50. a8=Q Kc5 51. Qc8+ Kb4 52. Qc3+ Kb5 53. Kb3 Kb6 54. Kb4 Ka6 55. Qa3+ Kb7
+56. Kc5 Kc7 57. Qa7+ Kd8 58. Kd6 Ke8 59. Qe7# 1-0
+

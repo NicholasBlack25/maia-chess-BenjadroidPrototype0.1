@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "samad2592"]
+[Result "1-0"]
+[WhiteElo "600"]
+[BlackElo "523"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.06.03"]
+[UTCTime "06:25:51"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/7R/2k2Q2/Q7/8/8/Pr3PP1/R3K3 b Q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Gambit"]
+[StartTime "06:25:51"]
+[EndDate "2023.06.03"]
+[EndTime "06:33:06"]
+[Link "https://www.chess.com/game/live/79512601173"]
+
+1. d4 d5 2. e4 e5 3. Nc3 Nf6 4. Nf3 Nc6 5. Bg5 Be7 6. Nxe5 Nxe5 7. dxe5
+Nxe4 8. Bxe7 Qxe7 9. Bb5+ Bd7 10. Nxd5 Qe6 11. Nxc7+ Kf8 12. Nxe6+ Ke8 13.
+Nc7+ Kd8 14. Nxa8 Kc8 15. Qxd7+ Kb8 16. Qxf7 Nc5 17. Nc7 Rc8 18. Na6+ bxa6
+19. Bxa6 Nxa6 20. Qxg7 Rxc2 21. Qg8+ Kb7 22. Qxh7+ Rc7 23. Qe4+ Kb8 24. h4
+Nc5 25. Qe3 Na4 26. e6 Nxb2 27. e7 Nc4 28. e8=Q+ Rc8 29. Q3e5+ Nxe5 30.
+Qxe5+ Ka8 31. h5 Kb7 32. h6 a5 33. Qxa5 Rc6 34. h7 Rb6 35. h8=Q Rb2 36.
+Rh7+ Kc6 37. Qf6# 1-0
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.10"]
+[Round "-"]
+[White "bobur707777"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "730"]
+[BlackElo "709"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2024.01.10"]
+[UTCTime "10:59:54"]
+[Termination "bobur707777 won by checkmate"]
+[CurrentPosition "8/Q7/1R6/k7/8/7P/6PK/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "10:59:54"]
+[EndDate "2024.01.10"]
+[EndTime "11:16:22"]
+[Link "https://www.chess.com/game/live/98623468969"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. Bb5 a6 5. Ba4 b5 6. Bb3 O-O 7. d3 Ng4
+8. Qf4 d5 9. exd5 Bc5 10. d4 Qe7+ 11. Ne2 Bd6 12. Qg5 f6 13. Qh4 g5 14. Qh3
+Ne5 15. Qe3 Nbd7 16. O-O Qe8 17. dxe5 fxe5 18. Qxg5+ Kh8 19. Qe3 Qh5 20.
+Qg5 Qxe2 21. f4 Nc5 22. Nc3 Rg8 23. Qh4 Nxb3 24. Nxe2 Nxa1 25. fxe5 Bxe5
+26. Bf4 Bxb2 27. Nc1 Nxc2 28. Nd3 Bd4+ 29. Rf2 Bf5 30. Be5+ Bxe5 31. Nxe5
+Nb4 32. Rxf5 Nxd5 33. Nf7+ Kg7 34. Qg5+ Kf8 35. Nd6+ Nf6 36. Rxf6+ Ke7 37.
+Rf7+ Kxd6 38. Qd2+ Ke6 39. Qd7+ Ke5 40. Qxc7+ Ke6 41. Rxh7 Rgc8 42. Rh6+
+Kd5 43. Qa5 Rf8 44. h3 Rac8 45. Qd2+ Ke5 46. Rxa6 Rc4 47. Qh6 Rc2 48. Qg6
+Rc1+ 49. Kh2 b4 50. Qg5+ Kd4 51. Qxc1 Rf2 52. Qf4+ Kd3 53. Qxf2 Kc3 54. Qf4
+b3 55. axb3 Kxb3 56. Qc7 Kb4 57. Rb6+ Ka5 58. Qa7# 1-0
+

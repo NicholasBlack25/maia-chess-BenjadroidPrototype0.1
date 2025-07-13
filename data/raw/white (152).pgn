@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.09.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "bljj2905"]
+[Result "0-1"]
+[WhiteElo "587"]
+[BlackElo "543"]
+[ECO "C46"]
+[TimeControl "600"]
+[UTCDate "2023.09.07"]
+[UTCTime "15:25:18"]
+[Termination "bljj2905 won by resignation"]
+[CurrentPosition "3r4/8/1P1k4/8/2K5/3P4/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Three-Knights-Opening-3...Bc5"]
+[StartTime "15:25:18"]
+[EndDate "2023.09.07"]
+[EndTime "15:33:43"]
+[Link "https://www.chess.com/game/live/81561634528"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 Nc6 4. d3 Nd4 5. Nxd4 Bxd4 6. Nd5 c6 7. Qg4 d6
+8. Qxg7 cxd5 9. exd5 Qh4 10. g3 Qf6 11. Qxf6 Nxf6 12. Bg5 Ng4 13. O-O-O
+Nxf2 14. c3 Nxh1 15. cxd4 exd4 16. Be2 Nf2 17. Rf1 Ng4 18. Bxg4 Bxg4 19.
+Bf6 O-O 20. Rf4 Bd7 21. Bxd4 a6 22. h4 h5 23. Rf6 Kg7 24. Rxd6+ f6 25.
+Rxd7+ Kg6 26. Rxb7 f5 27. Rg7+ Kh6 28. Rg5 f4 29. Bg7+ Kh7 30. Bxf8 Rxf8
+31. Rxh5+ Kg6 32. g4 f3 33. Re5 f2 34. h5+ Kh6 35. Re6+ Kg5 36. Rg6+ Kh4
+37. b4 f1=Q+ 38. Kc2 Qg2+ 39. Kc3 Qxg4 40. Rxg4+ Kxg4 41. a4 Rh8 42. b5
+axb5 43. axb5 Kxh5 44. Kc4 Kg6 45. d6 Kf6 46. Kc5 Ke6 47. b6 Rd8 48. Kc4
+Kxd6 0-1
+

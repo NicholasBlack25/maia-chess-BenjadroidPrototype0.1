@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Eran1974"]
+[Result "1-0"]
+[WhiteElo "734"]
+[BlackElo "742"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2024.01.12"]
+[UTCTime "10:43:01"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "2r4k/6pp/8/8/6P1/4PQ2/5P1P/1R4K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-2.Bf4-e6-3.e3-d5-4.Nf3"]
+[StartTime "10:43:01"]
+[EndDate "2024.01.12"]
+[EndTime "10:50:57"]
+[Link "https://www.chess.com/game/live/98795121229"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Nf6 4. e3 Nc6 5. Nc3 Bb4 6. Qd2 O-O 7. a3 Bxc3 8.
+Qxc3 Bd7 9. Ne5 Nxe5 10. dxe5 Ne4 11. Qb4 b5 12. Bxb5 Rb8 13. c4 a6 14. a4
+c6 15. cxd5 cxb5 16. axb5 exd5 17. Rxa6 Rxb5 18. Qd4 Qb8 19. O-O Rxb2 20.
+Qxd5 Rb1 21. e6 Bxe6 22. Rxe6 fxe6 23. Qxe6+ Kh8 24. Bxb8 Rfxb8 25. Qxe4
+R1b4 26. Qf3 Rb1 27. g4 Rc8 28. Rxb1 1-0
+

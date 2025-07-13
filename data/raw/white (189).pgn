@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.29"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Pramayy"]
+[Result "1-0"]
+[WhiteElo "599"]
+[BlackElo "599"]
+[ECO "C26"]
+[TimeControl "600"]
+[UTCDate "2023.07.29"]
+[UTCTime "02:47:01"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "rn2r1kQ/pppq1p2/3p1B2/4P3/3bP3/3P4/PPP3PP/R4K1n b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Variation"]
+[StartTime "02:47:01"]
+[EndDate "2023.07.29"]
+[EndTime "02:51:43"]
+[Link "https://www.chess.com/game/live/84337781893"]
+
+1. e4 e5 2. Nc3 Nf6 3. f3 Bc5 4. f4 d6 5. Qf3 Ng4 6. Nd5 Nf2 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. fxe5 Nxh1 10. Nh3 Bf2+ 11. Kf1 Bc5 12. Ng5 O-O 13. Qh5 h6 14.
+d3 hxg5 15. Bxg5 Bd4 16. Nf6+ gxf6 17. Bxf6 Re8 18. Qh8# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "VinhTan278"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "761"]
+[BlackElo "740"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.01.01"]
+[UTCTime "14:24:25"]
+[Termination "VinhTan278 won by checkmate"]
+[CurrentPosition "8/2p4N/1p1k4/3Q2Q1/3B4/2Pn2P1/1q3P1P/5RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.exd5"]
+[StartTime "14:24:25"]
+[EndDate "2024.01.01"]
+[EndTime "14:33:46"]
+[Link "https://www.chess.com/game/live/97858183773"]
+
+1. e4 d5 2. exd5 Qd6 3. Nc3 Nf6 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. Nf3 Nxd5 7.
+Nxd5 Qxd5 8. d4 Qe6+ 9. Be3 Nc6 10. O-O O-O-O 11. Qd3 Qd7 12. Rad1 e6 13.
+c3 Bd6 14. Rfe1 f6 15. b4 e5 16. b5 Na5 17. dxe5 Qe6 18. Bxa7 Nc4 19. exf6
+Qf7 20. fxg7 Rhg8 21. Bd4 Nb2 22. Ng5 Qf4 23. Qh3+ Kb8 24. Rb1 Qd2 25. g3
+Rge8 26. Rxe8 Rxe8 27. Nxh7 Be5 28. Bxe5 Nd3 29. Bd4 b6 30. Qd7 Qxa2 31.
+Rf1 Qc4 32. Qxe8+ Kb7 33. g8=Q Qxb5 34. Qb8+ Kc6 35. Qg5 Qb2 36. Qa8+ Kd6
+37. Qad5# 1-0
+

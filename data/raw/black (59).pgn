@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.07"]
+[Round "-"]
+[White "benja006"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "656"]
+[BlackElo "690"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.12.07"]
+[UTCTime "00:40:24"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "2kr4/pp4b1/3p4/3R2R1/8/8/Kq6/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...f6"]
+[StartTime "00:40:24"]
+[EndDate "2023.12.07"]
+[EndTime "00:48:31"]
+[Link "https://www.chess.com/game/live/94213868148"]
+
+1. e4 d5 2. e5 Nc6 3. d4 f6 4. exf6 Nxf6 5. Nc3 Bf5 6. Bd3 e6 7. Bg5 h6 8.
+Nxd5 Qxd5 9. Bxf6 gxf6 10. Bxf5 Qxf5 11. Qf3 Qxc2 12. Qxf6 Qe4+ 13. Ne2
+Qxg2 14. O-O-O Nb4 15. Qxh8 Nxa2+ 16. Kb1 Qxf2 17. Kxa2 Qxe2 18. Qe5 Qa6+
+19. Kb1 O-O-O 20. Qxe6+ Qxe6 21. Rhe1 Qf5+ 22. Ka2 h5 23. d5 Qc2 24. Rf1
+Qxh2 25. d6 cxd6 26. Rh1 Qf4 27. Rd5 Qf3 28. Rhxh5 Bg7 29. Rhf5 Qe2 30. Rg5
+Qxb2# 0-1
+

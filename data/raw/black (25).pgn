@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "tblaiw"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "752"]
+[BlackElo "739"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2024.01.01"]
+[UTCTime "15:10:31"]
+[Termination "tblaiw won by checkmate"]
+[CurrentPosition "3Q4/8/8/3k4/p7/6P1/2R3K1/4R3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...Bf5-4.Nf3-e6"]
+[StartTime "15:10:31"]
+[EndDate "2024.01.01"]
+[EndTime "15:17:20"]
+[Link "https://www.chess.com/game/live/97860712975"]
+
+1. e4 d5 2. e5 Bf5 3. Nf3 Nc6 4. d4 e6 5. Nc3 Nh6 6. Bb5 Qd7 7. Bf4 a6 8.
+Bd3 b5 9. Bxf5 exf5 10. a3 Ng4 11. O-O b4 12. axb4 Nxb4 13. Qe2 g5 14. Bxg5
+f6 15. Bxf6 Bg7 16. Bxg7 Qxg7 17. Nb5 O-O-O 18. Nc3 Rhg8 19. g3 h5 20. Ra4
+h4 21. Nxh4 Nxh2 22. Kxh2 Qg4 23. Qxg4 fxg4 24. Rxb4 a5 25. Ra4 c5 26. dxc5
+d4 27. Ne4 Rge8 28. Nd6+ Kd7 29. Nxe8 Kxe8 30. Re1 Rd5 31. e6 Rxc5 32. e7
+Rxc2 33. Nf5 Rxf2+ 34. Kg1 Rxf5 35. Rxd4 Rb5 36. Rxg4 Rxb2 37. Ra4 Rg2+ 38.
+Kxg2 Kd7 39. e8=Q+ Kd6 40. Rc4 Kd5 41. Rc2 a4 42. Qd8# 1-0
+

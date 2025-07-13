@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.14"]
+[Round "-"]
+[White "jgghiufvi"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "712"]
+[BlackElo "697"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.02.14"]
+[UTCTime "20:24:34"]
+[Termination "jgghiufvi won by checkmate"]
+[CurrentPosition "2krr3/p1R5/Np6/R7/7p/1Q1P2p1/B2K4/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "20:24:34"]
+[EndDate "2024.02.14"]
+[EndTime "20:36:20"]
+[Link "https://www.chess.com/game/live/101681454439"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Bc4 e6 5. O-O Bc5 6. Re1 h6 7. Nxe4 Nxe4
+8. Rxe4 Nc6 9. d3 Qf6 10. Qe2 Nd4 11. Qd1 Bd7 12. Be3 e5 13. Nc3 O-O-O 14.
+Nd5 Qd6 15. c3 Bf5 16. cxd4 exd4 17. Re7 dxe3 18. fxe3 h5 19. Rxf7 g5 20.
+Rxf5 g4 21. Nf6 Bxe3+ 22. Kf1 Qxh2 23. Be6+ Kb8 24. Ke2 Qxg2+ 25. Kxe3 Qxb2
+26. Rb1 Qxa2 27. Bxa2 g3 28. Qb3 b6 29. Nd7+ Kb7 30. Nc5+ Kb8 31. Na6+ Kb7
+32. Ra5 Rhe8+ 33. Kd2 h4 34. Rc1 Kc8 35. Rxc7# 1-0
+

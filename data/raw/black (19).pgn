@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.12"]
+[Round "-"]
+[White "Michesski"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "725"]
+[BlackElo "705"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.02.12"]
+[UTCTime "21:40:05"]
+[Termination "Michesski won by checkmate"]
+[CurrentPosition "5r1k/2p2P1p/6p1/r1P1B3/1p5R/pP3b2/P7/2K5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.e5"]
+[StartTime "21:40:05"]
+[EndDate "2024.02.12"]
+[EndTime "21:51:36"]
+[Link "https://www.chess.com/game/live/101512952411"]
+
+1. e4 d5 2. e5 d4 3. d3 Nc6 4. f4 Nh6 5. h3 e6 6. b3 Bc5 7. Bb2 Nb4 8. c3
+dxc3 9. Bxc3 Qd5 10. d4 Qe4+ 11. Ne2 Nd3+ 12. Kd2 Nf5 13. dxc5 Qe3+ 14. Kc2
+Nf2 15. Qd2 Nxh1 16. Qxe3 Nxe3+ 17. Kc1 Nxf1 18. Nd2 Ne3 19. Kb2 Nxg2 20.
+Rxh1 Ne3 21. Nc4 Nd5 22. Ng3 b5 23. Na5 b4 24. Bd2 O-O 25. Rg1 g6 26. f5
+exf5 27. Nc6 a5 28. Nh5 f4 29. Nf6+ Nxf6 30. exf6 Bxh3 31. Ne7+ Kh8 32.
+Bxf4 Ra7 33. Rh1 Bg2 34. Rg1 Be4 35. Be5 a4 36. Rg4 a3+ 37. Kc1 Bf3 38. Rh4
+Ra5 39. Nxg6+ fxg6 40. f7# 1-0
+

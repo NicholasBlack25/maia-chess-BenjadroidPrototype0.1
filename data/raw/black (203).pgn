@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.10"]
+[Round "-"]
+[White "luffypuffy99"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "662"]
+[BlackElo "626"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2023.06.10"]
+[UTCTime "09:41:04"]
+[Termination "luffypuffy99 won by checkmate"]
+[CurrentPosition "R5k1/1Q6/8/8/5B2/P2BN3/7P/2K5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Maroczy-Variation-2...d5"]
+[StartTime "09:41:04"]
+[EndDate "2023.06.10"]
+[EndTime "09:54:43"]
+[Link "https://www.chess.com/game/live/80128924083"]
+
+1. e4 d5 2. d3 Nf6 3. exd5 Qxd5 4. f3 e5 5. Nc3 Qc5 6. Nge2 e4 7. dxe4 Nxe4
+8. Nxe4 Qa5+ 9. Bd2 Qh5 10. a3 Bf5 11. g4 Bxg4 12. fxg4 Qxg4 13. N4g3 Bc5
+14. b4 Bb6 15. c3 Qf3 16. Qa4+ Qc6 17. Qxc6+ Nxc6 18. O-O-O O-O-O 19. Bh3+
+Kb8 20. Nd4 Nxd4 21. cxd4 Bxd4 22. Nf5 Bf6 23. Bf4 Rxd1+ 24. Rxd1 Kc8 25.
+Ne3+ Kb8 26. Rd7 Re8 27. Bxc7+ Kc8 28. Bf4 Rd8 29. Rxf7+ Rd7 30. Bxd7+ Kd8
+31. Bf5 Bd4 32. Rd7+ Ke8 33. Rxd4 Kf7 34. Bxh7 b5 35. Rd7+ Ke6 36. Rxa7 Kf6
+37. Ra6+ Kf7 38. Bd3 g6 39. Bxb5 Kg7 40. Bc4 Kh7 41. b5 Kg7 42. b6 Kh7 43.
+b7 Kg7 44. b8=Q Kh7 45. Bd3 Kg7 46. Rxg6+ Kf7 47. Qb7+ Kf8 48. Ra6 Kg8 49.
+Ra8# 1-0
+

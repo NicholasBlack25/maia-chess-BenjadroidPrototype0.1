@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.13"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "HelenaHelloMike"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "679"]
+[ECO "C41"]
+[TimeControl "600"]
+[UTCDate "2023.06.13"]
+[UTCTime "11:33:27"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r2q1rk1/pp2b1Qp/3p1p2/3p4/1n1p1P1B/8/PPP1BP1P/R3K1R1 b Q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-3.d4"]
+[StartTime "11:33:27"]
+[EndDate "2023.06.13"]
+[EndTime "11:35:59"]
+[Link "https://www.chess.com/game/live/80395174387"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. Be2 Bxf3 5. gxf3 Nf6 6. Bg5 Be7 7. Nc3 exd4
+8. Nd5 Nxd5 9. exd5 f6 10. Bh4 O-O 11. Qd3 c6 12. Rg1 cxd5 13. f4 Nc6 14.
+Qg3 Nb4 15. Qxg7# 1-0
+

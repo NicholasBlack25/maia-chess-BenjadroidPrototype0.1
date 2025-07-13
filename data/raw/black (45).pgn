@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.14"]
+[Round "-"]
+[White "Mike67130"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "715"]
+[BlackElo "706"]
+[ECO "B13"]
+[TimeControl "600"]
+[UTCDate "2024.01.14"]
+[UTCTime "10:31:18"]
+[Termination "Mike67130 won by resignation"]
+[CurrentPosition "8/1P5k/6p1/8/3P3p/8/6PP/6RK b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Exchange-Variation-3...cxd5-4.Nf3-Nf6"]
+[StartTime "10:31:18"]
+[EndDate "2024.01.14"]
+[EndTime "10:40:42"]
+[Link "https://www.chess.com/game/live/98967291715"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bg5 Qa5+ 6. Nc3 e6 7. Ne5 Be7
+8. a3 O-O 9. b4 Qb6 10. Na4 Bxb4+ 11. Bd2 Qb5 12. c3 Qe8 13. cxb4 Nc6 14.
+Bb5 a6 15. Bxc6 bxc6 16. Nb6 Rb8 17. Nxc8 Qxc8 18. Bf4 Ne4 19. O-O Nc3 20.
+Qg4 a5 21. Nxf7 Rxf7 22. Bxb8 Qxb8 23. Qxe6 Qf8 24. Qxc6 Ne2+ 25. Kh1 Rxf2
+26. Rxf2 Qxf2 27. Qc8+ Qf8 28. Qe6+ Kh8 29. Qxe2 a4 30. Qa6 h5 31. Qxa4 Kh7
+32. Qc6 Qf5 33. a4 Qf2 34. a5 Qb2 35. Rg1 h4 36. Qxd5 g6 37. a6 Qxb4 38.
+Qb7+ Qxb7 39. axb7 1-0
+

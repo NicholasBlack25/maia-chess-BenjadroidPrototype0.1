@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.06"]
+[Round "-"]
+[White "Skinxcc"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "553"]
+[BlackElo "574"]
+[ECO "B50"]
+[TimeControl "600"]
+[UTCDate "2023.10.06"]
+[UTCTime "22:24:08"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "5br1/pp2kp1p/2n5/2pP4/5P2/3Q3R/PPP1B2P/R1B3qK w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6-3.Nc3-e5"]
+[StartTime "22:24:08"]
+[EndDate "2023.10.06"]
+[EndTime "22:30:33"]
+[Link "https://www.chess.com/game/live/81808024794"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c5 4. d3 Qa5 5. Qd2 Nf6 6. Be2 Be6 7. O-O d5 8.
+Nxe5 Qc7 9. Nb5 Qxe5 10. g3 g5 11. f4 gxf4 12. gxf4 Rg8+ 13. Kh1 Bh3 14.
+Rf3 Qh5 15. Nc7+ Kd7 16. Nxa8 dxe4 17. dxe4+ Ke6 18. Qd3 Nc6 19. Rxh3 Qg6
+20. Nc7+ Ke7 21. Nd5+ Nxd5 22. exd5 Qg1# 0-1
+

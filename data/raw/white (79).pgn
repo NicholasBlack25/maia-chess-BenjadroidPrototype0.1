@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Selviour"]
+[Result "0-1"]
+[WhiteElo "697"]
+[BlackElo "654"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.12.20"]
+[UTCTime "01:43:56"]
+[Termination "Selviour won by checkmate"]
+[CurrentPosition "3k1br1/2r2p1p/4p3/Q2pP2p/2P4q/4P3/5P2/2R4K w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Nf3-Bf5"]
+[StartTime "01:43:56"]
+[EndDate "2023.12.20"]
+[EndTime "01:48:43"]
+[Link "https://www.chess.com/game/live/96775765321"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 Bf5 4. Bf4 e6 5. Ne5 c6 6. e3 Nbd7 7. Nxd7 Qxd7
+8. Nb5 cxb5 9. Bxb5 Qxb5 10. Be5 Nd7 11. c3 Qxb2 12. Rc1 Qxa2 13. g4 Bg6
+14. h4 Nxe5 15. h5 Be4 16. dxe5 Bxh1 17. Qd3 g6 18. Qb5+ Kd8 19. Qxb7 Rc8
+20. Kf1 Qc4+ 21. Kg1 Qxg4+ 22. Kxh1 gxh5 23. Qxa7 Rg8 24. Qa5+ Rc7 25. c4
+Qh4# 0-1
+

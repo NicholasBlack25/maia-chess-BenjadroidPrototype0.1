@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.02.04"]
+[Round "-"]
+[White "Mutze1"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "606"]
+[BlackElo "645"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2025.02.04"]
+[UTCTime "22:05:23"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "4Q1nr/kpp4p/p7/3NP1p1/3Pb3/8/PP4qP/R6K w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.e5"]
+[StartTime "22:05:23"]
+[EndDate "2025.02.04"]
+[EndTime "22:12:28"]
+[Link "https://www.chess.com/game/live/122627527348"]
+
+1. e4 d5 2. e5 Be6 3. d4 Nc6 4. Nc3 Qd7 5. Bb5 Bg4 6. f3 Bh5 7. g4 Bg6 8.
+Nh3 f5 9. O-O fxg4 10. fxg4 e6 11. Qf3 Be7 12. Bg5 Bxc2 13. Bxe7 Qxe7 14.
+Nf4 g5 15. Nxe6 Qxe6 16. Qf8+ Kd7 17. Qxa8 Qxg4+ 18. Kh1 a6 19. Bxc6+ Kxc6
+20. Qe8+ Kb6 21. Nxd5+ Ka7 22. Rg1 Be4+ 23. Rg2 Qxg2# 0-1
+

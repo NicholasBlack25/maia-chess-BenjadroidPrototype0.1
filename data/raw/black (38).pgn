@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.12"]
+[Round "-"]
+[White "kevinsmart254"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "723"]
+[BlackElo "726"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2024.01.12"]
+[UTCTime "10:51:28"]
+[Termination "kevinsmart254 won by checkmate"]
+[CurrentPosition "r1bQ2k1/5ppp/8/p2pPq2/8/B3PN1P/5PP1/1N2KB1R b K -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...d5"]
+[StartTime "10:51:28"]
+[EndDate "2024.01.12"]
+[EndTime "10:57:59"]
+[Link "https://www.chess.com/game/live/98795694655"]
+
+1. e3 d5 2. Qe2 Nf6 3. d4 Nc6 4. Nf3 Bd7 5. h3 a6 6. Qd3 Nb4 7. Qc3 a5 8.
+a3 Ne4 9. Qb3 e6 10. axb4 Bxb4+ 11. c3 Nxc3 12. bxc3 Bxc3+ 13. Nxc3 O-O 14.
+Qxb7 Qf6 15. Ba3 Rfb8 16. Qxc7 Bc8 17. Rb1 Rxb1+ 18. Nxb1 e5 19. dxe5 Qf5
+20. Qd8# 1-0
+

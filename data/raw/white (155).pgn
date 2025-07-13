@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.02"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "awba01"]
+[Result "0-1"]
+[WhiteElo "566"]
+[BlackElo "577"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.08.02"]
+[UTCTime "01:55:52"]
+[Termination "awba01 won by resignation"]
+[CurrentPosition "2r5/7p/2Pk4/8/1r6/3K4/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Closed-2...d4"]
+[StartTime "01:55:52"]
+[EndDate "2023.08.02"]
+[EndTime "02:14:53"]
+[Link "https://www.chess.com/game/live/84680532827"]
+
+1. e4 d5 2. Nc3 d4 3. Qh5 Nf6 4. Qe5 dxc3 5. dxc3 Nbd7 6. Qg5 Nxe4 7. Qg4
+Ndc5 8. Bc4 Bxg4 9. f3 Nxc3 10. Bf4 N3e4 11. fxe4 Nxe4 12. Ne2 Bxe2 13.
+Bxe2 e6 14. Rd1 Qh4+ 15. g3 Nxg3 16. Bxg3 Bb4+ 17. c3 Qe4 18. Bxc7 Qxh1+
+19. Bf1 Bc5 20. b4 Qe4+ 21. Be2 Qh4+ 22. Kd2 Bf2 23. Bb5+ Ke7 24. Kc1 Be3+
+25. Kb2 Qxh2+ 26. Kb3 a6 27. Rd7+ Kf6 28. Bxh2 axb5 29. Rxb7 Kf5 30. Rxb5+
+Ke4 31. c4 f5 32. c5 f4 33. c6 f3 34. a4 f2 35. Be5 f1=Q 36. Bxg7 Rhc8 37.
+Re5+ Kf4 38. Rxe6 Qb1+ 39. Kc3 Rxa4 40. Be5+ Ke4 41. Bd6+ Kd5 42. Rxe3 Kxd6
+43. Rd3+ Qxd3+ 44. Kxd3 Rxb4 0-1
+

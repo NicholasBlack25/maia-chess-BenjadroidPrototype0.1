@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.21"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "sadeek01"]
+[Result "0-1"]
+[WhiteElo "636"]
+[BlackElo "636"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.06.21"]
+[UTCTime "22:36:48"]
+[Termination "sadeek01 won by checkmate"]
+[CurrentPosition "5rk1/8/2b2ppp/p3n3/P4RPK/1P6/7q/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation-2...Nf6"]
+[StartTime "22:36:48"]
+[EndDate "2023.06.21"]
+[EndTime "22:43:53"]
+[Link "https://www.chess.com/game/live/81126072599"]
+
+1. e4 Nf6 2. d3 e5 3. Nc3 Bc5 4. Nd5 Nxd5 5. exd5 Qf6 6. Be3 d6 7. Bxc5
+dxc5 8. d4 O-O 9. dxc5 Bf5 10. Nf3 h6 11. Bb5 c6 12. dxc6 bxc6 13. Nxe5
+cxb5 14. Qd5 Be6 15. Qxa8 Qxe5+ 16. Kd2 Bd5 17. Rhe1 Qf4+ 18. Re3 Qd4+ 19.
+Rd3 Qxf2+ 20. Kc3 Bxa8 21. Rd7 Qxc5+ 22. Kd2 Nxd7 23. Rf1 f6 24. b3 Ne5 25.
+Rf5 Qd5+ 26. Ke3 Qc5+ 27. Kf4 Qd4+ 28. Kg3 Nd7 29. Rxb5 Bc6 30. Rh5 Ne5 31.
+a4 a5 32. Rf5 g6 33. Rf4 Qc3+ 34. Kh4 Qxc2 35. g4 Qxh2# 0-1
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.30"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "bbbyskye"]
+[Result "1-0"]
+[WhiteElo "701"]
+[BlackElo "669"]
+[ECO "A06"]
+[TimeControl "600"]
+[UTCDate "2024.07.30"]
+[UTCTime "08:20:11"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "rn3rk1/ppp2ppp/3b4/8/2B1Q3/3P2P1/PPPq1P1P/RN3RK1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-1...d5"]
+[StartTime "08:20:11"]
+[EndDate "2024.07.30"]
+[EndTime "08:25:20"]
+[Link "https://www.chess.com/game/live/108471513714"]
+
+1. Nf3 d5 2. e4 e5 3. Nxe5 dxe4 4. Bc4 Nh6 5. d3 Bd6 6. Qh5 Qf6 7. Bxh6 O-O
+8. Ng4 Bc5 9. O-O Bxg4 10. Qxg4 Qxh6 11. Qxe4 Bd6 12. g3 Qd2 1-0
+

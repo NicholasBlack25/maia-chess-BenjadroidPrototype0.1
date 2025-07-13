@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.01"]
+[Round "-"]
+[White "battuajay"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "566"]
+[BlackElo "595"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.07.01"]
+[UTCTime "10:13:36"]
+[Termination "battuajay won by checkmate"]
+[CurrentPosition "r1bqkb1r/ppppnB1p/2n5/5pN1/4p3/5Q2/PPPP1PPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "10:13:36"]
+[EndDate "2023.07.01"]
+[EndTime "10:14:59"]
+[Link "https://www.chess.com/game/live/81945561545"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 f5 5. Nh3 Nge7 6. exf5 gxf5 7. Ng5 e4
+8. Bf7# 1-0
+

@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "rafael74x"]
+[Result "0-1"]
+[WhiteElo "670"]
+[BlackElo "662"]
+[ECO "B40"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "07:52:35"]
+[Termination "rafael74x won by checkmate"]
+[CurrentPosition "Nnb4r/pp1p2kp/3b3n/5p2/2B1p3/8/PPP2PPq/3RQRK1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Paulsen-Basman-Defense"]
+[StartTime "07:52:35"]
+[EndDate "2023.06.08"]
+[EndTime "07:57:18"]
+[Link "https://www.chess.com/game/live/79949947111"]
+
+1. d4 e6 2. e4 c5 3. Nf3 cxd4 4. Nxd4 Bc5 5. Nc3 e5 6. Nf5 g6 7. Ng7+ Kf8
+8. Bh6 Nxh6 9. Nd5 Kxg7 10. Bc4 Qh4 11. O-O f5 12. exf5 gxf5 13. Qe2 e4 14.
+Nc7 Bd6 15. Nxa8 Qg5 16. Qe1 Qh5 17. Rd1 Qxh2# 0-1
+

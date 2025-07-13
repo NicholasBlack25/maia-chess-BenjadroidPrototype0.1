@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.14"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Pranay70"]
+[Result "0-1"]
+[WhiteElo "700"]
+[BlackElo "737"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.14"]
+[UTCTime "02:56:05"]
+[Termination "Pranay70 won by checkmate"]
+[CurrentPosition "3r3r/pk6/4Q2b/8/P2P3p/8/1P1q4/3K4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.Bf4-Nf6"]
+[StartTime "02:56:05"]
+[EndDate "2024.01.14"]
+[EndTime "03:03:32"]
+[Link "https://www.chess.com/game/live/98939729157"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. Be5 Ng4 5. e3 f6 6. Bf4 g5 7. Bg3 h5 8. h4
+gxh4 9. Bxh4 Nc6 10. Bd3 Bd7 11. Nc3 Qe7 12. e4 dxe4 13. Bxe4 O-O-O 14. Qd3
+Qf7 15. O-O-O Nb4 16. Qc4 c6 17. Bg3 f5 18. Ng5 Qf6 19. Bf4 fxe4 20. Ncxe4
+Qxf4+ 21. Nd2 Qxg5 22. c3 Nxf2 23. cxb4 Nxh1 24. Rxh1 Qxg2 25. Rd1 Be8 26.
+a4 h4 27. b5 Bh5 28. bxc6 Bxd1 29. cxb7+ Kxb7 30. Qxe6 Bh6 31. Kxd1 Qxd2#
+0-1
+

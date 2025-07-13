@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "M9643"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "753"]
+[BlackElo "720"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2024.05.21"]
+[UTCTime "19:48:32"]
+[Termination "M9643 won by checkmate"]
+[CurrentPosition "r2q1rk1/2pb1p1Q/4p3/1p1pP3/p2P3N/P1N3P1/1PB2P1P/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation"]
+[StartTime "19:48:32"]
+[EndDate "2024.05.21"]
+[EndTime "19:52:27"]
+[Link "https://www.chess.com/game/live/107373991164"]
+
+1. e4 d5 2. e5 Nc6 3. d4 Nh6 4. Bxh6 gxh6 5. Bb5 Bd7 6. Nc3 e6 7. Nf3 a6 8.
+Ba4 b5 9. Bb3 h5 10. O-O Bh6 11. g3 h4 12. Nxh4 Nb4 13. Qh5 O-O 14. Qxh6 a5
+15. a3 Nxc2 16. Bxc2 a4 17. Qxh7# 1-0
+

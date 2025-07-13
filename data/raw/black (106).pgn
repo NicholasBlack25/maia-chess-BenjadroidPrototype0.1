@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.26"]
+[Round "-"]
+[White "AriTheCatLover"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "746"]
+[BlackElo "694"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.11.26"]
+[UTCTime "03:43:50"]
+[Termination "AriTheCatLover won by checkmate"]
+[CurrentPosition "2Q1k2r/p3bp1p/5npB/5p2/3P4/8/PrP2PPP/R3R1K1 b k -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.d4"]
+[StartTime "03:43:50"]
+[EndDate "2023.11.26"]
+[EndTime "03:47:17"]
+[Link "https://www.chess.com/game/live/94709304153"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nc6 5. Nf3 Nf6 6. Bb5 Bg4 7. Bxc6+
+bxc6 8. O-O Bf5 9. Nh4 e6 10. Nxf5 exf5 11. Qf3 g6 12. Qxc6+ Nd7 13. Re1+
+Be7 14. Bh6 Rb8 15. Nd5 Rxb2 16. Nxc7+ Qxc7 17. Qxc7 Nf6 18. Qc8# 1-0
+

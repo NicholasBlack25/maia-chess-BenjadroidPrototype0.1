@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.10"]
+[Round "-"]
+[White "757to501"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "591"]
+[BlackElo "609"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.11.10"]
+[UTCTime "03:09:03"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "2k5/p1pr3p/1p6/3pQ3/P2P1P2/8/8/q2K4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.e5"]
+[StartTime "03:09:03"]
+[EndDate "2023.11.10"]
+[EndTime "03:19:22"]
+[Link "https://www.chess.com/game/live/82121157578"]
+
+1. e4 d5 2. e5 Bf5 3. d3 Nc6 4. g4 e6 5. gxf5 exf5 6. d4 f6 7. exf6 Qxf6 8.
+Qe2+ Nce7 9. Be3 O-O-O 10. f4 Qb6 11. b3 Nf6 12. a4 Nc6 13. Qd3 g6 14. Nc3
+Nb4 15. Qb5 Qe6 16. Qe2 Nxc2+ 17. Qxc2 Qxe3+ 18. Nce2 Bb4+ 19. Kd1 Ne4 20.
+Nh3 Nf2+ 21. Nxf2 Qxf2 22. Bh3 Rhe8 23. Rf1 Qxh2 24. Bxf5+ gxf5 25. Qxf5+
+Rd7 26. Qc2 Qg2 27. Re1 Bxe1 28. Nc1 Qf3+ 29. Ne2 Rxe2 30. Qxe2 Qxb3+ 31.
+Kxe1 b6 32. Qe8+ Rd8 33. Qe6+ Rd7 34. Qe5 Qc3+ 35. Kd1 Qxa1+ 0-1
+

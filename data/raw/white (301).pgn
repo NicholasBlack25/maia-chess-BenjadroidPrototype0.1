@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "JakeAndux11"]
+[Result "0-1"]
+[WhiteElo "400"]
+[BlackElo "1282"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2021.01.08"]
+[UTCTime "23:02:15"]
+[Termination "JakeAndux11 won by checkmate"]
+[CurrentPosition "7r/p1k2ppp/P1pb3P/5p2/6q1/1b6/5n2/7K w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5"]
+[StartTime "23:02:15"]
+[EndDate "2021.01.08"]
+[EndTime "23:15:34"]
+[Link "https://www.chess.com/game/live/6181692585"]
+
+1. d4 d5 2. Qd3 Nf6 3. Nf3 Nc6 4. g4 Bxg4 5. Ne5 Nxe5 6. dxe5 Ng8 7. e3 e6
+8. Qb5+ c6 9. Qxb7 Ne7 10. Nc3 Qb8 11. Qxb8+ Rxb8 12. e4 d4 13. Na4 Ng6 14.
+Rg1 Bh5 15. Bg5 Nxe5 16. Bh3 Nf3+ 17. Ke2 Nxg1+ 18. Kf1 Nxh3 19. Nc5 Nxg5
+20. Rd1 Bxd1 21. Na6 Rb3 22. Nc7+ Kd7 23. cxb3 Kxc7 24. a4 Bxb3 25. a5 Bb4
+26. a6 Bc4+ 27. Kg2 d3 28. h4 Nxe4 29. b3 Bxb3 30. h5 d2 31. f3 Nc5 32. f4
+d1=Q 33. Kh3 Ne4 34. f5 exf5 35. h6 Qg4+ 36. Kh2 Bd6+ 37. Kh1 Nf2# 0-1
+

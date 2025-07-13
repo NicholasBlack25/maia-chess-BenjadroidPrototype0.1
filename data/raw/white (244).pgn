@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "sayanbu"]
+[Result "0-1"]
+[WhiteElo "643"]
+[BlackElo "704"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.20"]
+[UTCTime "07:12:00"]
+[Termination "sayanbu won by checkmate"]
+[CurrentPosition "r4b1r/ppp2Qp1/3kBp2/4p3/4PqK1/3P4/P5PP/7R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Closed-2...dxe4-3.Nxe4-Nf6"]
+[StartTime "07:12:00"]
+[EndDate "2023.06.20"]
+[EndTime "07:23:17"]
+[Link "https://www.chess.com/game/live/80983956113"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. f3 Nc6 5. Bc4 h6 6. d3 e5 7. Bg5 Qd7 8.
+Qd2 Nxe4 9. fxe4 hxg5 10. Qxg5 Qe7 11. Qg3 Qb4+ 12. c3 Qxb2 13. Rd1 Qxc3+
+14. Kf1 f6 15. Qg6+ Ke7 16. Qf7+ Kd6 17. Bb5 Nd4 18. Bc4 Be6 19. Ne2 Nxe2
+20. Bxe6 Ng3+ 21. Kf2 Nxh1+ 22. Rxh1 Qd2+ 23. Kg3 Qe3+ 24. Kg4 Qf4# 0-1
+

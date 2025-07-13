@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "corynaden"]
+[Result "0-1"]
+[WhiteElo "554"]
+[BlackElo "542"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.07.01"]
+[UTCTime "10:23:00"]
+[Termination "corynaden won by resignation"]
+[CurrentPosition "rn5r/1p2k2p/p2p1p1b/3Pp3/8/1P3P2/P3B1PP/2q2K1R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-2...d6"]
+[StartTime "10:23:00"]
+[EndDate "2023.07.01"]
+[EndTime "10:27:45"]
+[Link "https://www.chess.com/game/live/81946151291"]
+
+1. e4 e5 2. Nc3 d6 3. Nd5 Nh6 4. Bc4 Be6 5. Qf3 c6 6. d3 cxd5 7. exd5 Bg4
+8. Bb5+ Ke7 9. Bg5+ f6 10. Bxf6+ gxf6 11. Qe4 Bf5 12. Qb4 a6 13. Bc4 Ng4
+14. f3 Ne3 15. b3 Nxc2+ 16. Kd2 Nxb4 17. Ne2 Nxd3 18. Ng3 Bh6+ 19. Ke2 Nf4+
+20. Kf1 Bd3+ 21. Kg1 Ne2+ 22. Nxe2 Bxe2 23. Bxe2 Qb6+ 24. Kf1 Qe3 25. Rc1
+Qxc1+ 0-1
+

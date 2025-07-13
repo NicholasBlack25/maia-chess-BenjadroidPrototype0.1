@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "juve_fran"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "654"]
+[BlackElo "661"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.06.07"]
+[UTCTime "09:01:31"]
+[Termination "juve_fran won by checkmate"]
+[CurrentPosition "R7/8/k7/8/7p/8/PQ3P2/4RK2 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6"]
+[StartTime "09:01:31"]
+[EndDate "2023.06.07"]
+[EndTime "09:13:34"]
+[Link "https://www.chess.com/game/live/79867319749"]
+
+1. d4 d5 2. Nc3 Nf6 3. e4 e5 4. exd5 exd4 5. Nb5 c6 6. Nxd4 Nxd5 7. Ngf3
+Bg4 8. h3 Bh5 9. g4 Bb4+ 10. c3 Bxc3+ 11. bxc3 Nxc3 12. Qb3 Qa5 13. Bd2 c5
+14. Bxc3 Qd8 15. Qa4+ Nc6 16. gxh5 cxd4 17. Bxd4 Qe7+ 18. Be2 O-O 19. h6
+Nxd4 20. hxg7 Nxf3+ 21. Kf1 Nd2+ 22. Ke1 Nf3+ 23. Kf1 Rfd8 24. Bxf3 Kxg7
+25. Rg1+ Kf8 26. Qg4 Ke8 27. Bxb7 Rab8 28. Bc6+ Rd7 29. Bxd7+ Kd8 30. Rd1
+Qc5 31. Bf5+ Kc7 32. Qg3+ Kc6 33. Qxb8 Qxf5 34. Qxa7 Qxh3+ 35. Rg2 Qf3 36.
+Rc1+ Kd5 37. Qb7+ Kd4 38. Qxf3 Ke5 39. Re1+ Kd4 40. Qxf7 Kc3 41. Qb3+ Kd2
+42. Qb2+ Kd3 43. Rg3+ Kc4 44. Qc1+ Kd4 45. Qf4+ Kd5 46. Rge3 Kc5 47. Re8 h5
+48. Qd2 h4 49. Rc8+ Kb5 50. Qb2+ Ka6 51. Ra8# 1-0
+

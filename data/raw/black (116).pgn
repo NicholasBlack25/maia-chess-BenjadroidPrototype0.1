@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.07"]
+[Round "-"]
+[White "Nanar1n"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "543"]
+[BlackElo "565"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.10.07"]
+[UTCTime "17:31:22"]
+[Termination "Nanar1n won by checkmate"]
+[CurrentPosition "2r3rk/p6R/1p1B4/5pN1/5P2/1B2K3/PPP2P1P/3b4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "17:31:22"]
+[EndDate "2023.10.07"]
+[EndTime "17:39:09"]
+[Link "https://www.chess.com/game/live/81814726228"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ne5 e6 4. Bc4 Nf6 5. d4 Qd6 6. O-O Nc6 7. Bf4 Nxd4
+8. Nc3 g5 9. Bg3 Nf3+ 10. Nxf3 Qxd1 11. Raxd1 Bc5 12. Rfe1 Nh5 13. Nxe4 g4
+14. Nxc5 gxf3 15. Bxc7 Rg8 16. Kf1 Ke7 17. gxf3 e5 18. Rxe5+ Kf6 19. Rxh5
+b6 20. Ne4+ Ke7 21. Re5+ Kf8 22. Bd6+ Kg7 23. f4 Bh3+ 24. Ke2 Rac8 25. Bb3
+f5 26. Re7+ Kh8 27. Ng5 Bg4+ 28. Ke3 Bxd1 29. Rxh7# 1-0
+

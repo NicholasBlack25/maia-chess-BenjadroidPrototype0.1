@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Shrek5891"]
+[Result "0-1"]
+[WhiteElo "698"]
+[BlackElo "717"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2024.01.22"]
+[UTCTime "17:52:43"]
+[Termination "Shrek5891 won by resignation"]
+[CurrentPosition "r2q4/1ppkb1rB/p2p4/6p1/3P4/2Q3P1/PPP1nP1P/2KR3R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Mieses-Opening-Reversed-Rat-Variation"]
+[StartTime "17:52:43"]
+[EndDate "2024.01.22"]
+[EndTime "17:57:51"]
+[Link "https://www.chess.com/game/live/99684862313"]
+
+1. d3 e5 2. Nf3 Nc6 3. Bg5 f6 4. Nxe5 Nxe5 5. Bf4 Ng4 6. e4 f5 7. exf5 d6
+8. Qxg4 Nf6 9. Qe2+ Be7 10. Nc3 Bxf5 11. O-O-O a6 12. Ne4 Nd5 13. Qh5+ g6
+14. Qh6 Nxf4 15. Qg7 Kd7 16. Nf6+ Kc6 17. Nxh7 Rg8 18. Qc3+ Kd7 19. d4 g5
+20. Bd3 Bxh7 21. Bxh7 Rg7 22. g3 Ne2+ 0-1
+

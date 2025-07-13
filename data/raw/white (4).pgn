@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.09"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Alejandro_Polar"]
+[Result "0-1"]
+[WhiteElo "607"]
+[BlackElo "616"]
+[ECO "B06"]
+[TimeControl "600"]
+[UTCDate "2025.01.09"]
+[UTCTime "22:40:55"]
+[Termination "Alejandro_Polar won by checkmate"]
+[CurrentPosition "5bk1/8/6P1/1P6/P7/5r2/2K1q3/3q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Modern-Defense-Standard-Two-Knights-Variation-4...Bg4"]
+[StartTime "22:40:55"]
+[EndDate "2025.01.09"]
+[EndTime "22:55:01"]
+[Link "https://www.chess.com/game/live/122035979114"]
+
+1. d4 g6 2. e4 d6 3. Nf3 Bg7 4. Nc3 Bg4 5. h3 Bxf3 6. Qxf3 Nf6 7. Bb5+ c6
+8. Ba4 Nfd7 9. d5 O-O 10. dxc6 Nxc6 11. Be3 Nce5 12. Qf4 f6 13. O-O-O Nc4
+14. Qg4 Nxe3 15. fxe3 Ne5 16. Qe6+ Rf7 17. Nb5 Bf8 18. c4 Rc8 19. Nxa7
+Rxc4+ 20. Qxc4 Nxc4 21. Nc6 bxc6 22. Bxc6 Nxe3 23. Bd5 Nxd1 24. Rxd1 e6 25.
+Bxe6 Qc7+ 26. Kb1 f5 27. exf5 gxf5 28. g4 f4 29. g5 f3 30. Rf1 Qe7 31. h4
+Qxe6 32. h5 f2 33. a4 Qe1+ 34. Rxe1 fxe1=Q+ 35. Ka2 Qe6+ 36. b3 Rf2+ 37.
+Ka3 d5+ 38. b4 Rf3+ 39. Kb2 Qe2+ 40. Kc1 d4 41. g6 hxg6 42. hxg6 d3 43. b5
+d2+ 44. Kc2 d1=Q# 0-1
+

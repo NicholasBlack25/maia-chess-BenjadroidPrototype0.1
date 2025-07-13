@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.22"]
+[Round "-"]
+[White "Ayanokouji_kiyota"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "677"]
+[BlackElo "728"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.12.22"]
+[UTCTime "08:23:08"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "5rk1/6pp/p3p2B/4pq2/8/2N3r1/PP3PPP/R5K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3"]
+[StartTime "08:23:08"]
+[EndDate "2023.12.22"]
+[EndTime "08:33:53"]
+[Link "https://www.chess.com/game/live/96972552727"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nc6 5. Nf3 Qg6 6. Bd3 Bf5 7. O-O
+Bxd3 8. cxd3 Qxd3 9. Qb3 Nf6 10. Qxb7 Rd8 11. Qxc6+ Nd7 12. Re1 e6 13. Re3
+Qf5 14. Qxc7 Bc5 15. Re5 Qd3 16. Rxc5 Nxc5 17. Qxc5 a6 18. Qa7 O-O 19. Ne5
+Qf5 20. Qe3 f6 21. Qg3 fxe5 22. d3 Rxd3 23. Bh6 Rxg3 0-1
+

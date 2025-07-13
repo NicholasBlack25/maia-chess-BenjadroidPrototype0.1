@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Madi0888"]
+[Result "0-1"]
+[WhiteElo "612"]
+[BlackElo "625"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2025.03.20"]
+[UTCTime "20:32:17"]
+[Termination "Madi0888 won by checkmate"]
+[CurrentPosition "3K4/3qr2p/8/2k3PP/8/8/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5"]
+[StartTime "20:32:17"]
+[EndDate "2025.03.20"]
+[EndTime "20:47:32"]
+[Link "https://www.chess.com/game/live/136488681304"]
+
+1. e3 e5 2. d4 exd4 3. exd4 a6 4. Nf3 Nc6 5. Bg5 f6 6. Qe2+ Be7 7. Bh4 d5
+8. Nc3 Bg4 9. Qe3 Bxf3 10. Qxf3 Bb4 11. Qg4 g5 12. Qh5+ Kd7 13. g3 gxh4 14.
+Bh3+ Kd6 15. O-O-O Bxc3 16. Bg2 Nge7 17. bxc3 Qd7 18. Qxh4 Na5 19. Rhe1 Qa4
+20. Qf4+ Kd7 21. Qxf6 Rae8 22. Qe6+ Kd8 23. f4 Qxa2 24. f5 Qa1+ 25. Kd2
+Nc4+ 26. Ke2 Qxc3 27. Bxd5 Qxc2+ 28. Kf1 Nd6 29. f6 Rhf8 30. Kg1 Nxd5 31.
+Qxd5 Rxe1+ 32. Rxe1 Rxf6 33. Qg8+ Kd7 34. Qg7+ Rf7 35. Qg4+ Nf5 36. Qg8 Qc4
+37. Qe8+ Kd6 38. Qe5+ Kd7 39. g4 Qxd4+ 40. Qxd4+ Nxd4 41. g5 Nf3+ 42. Kf2
+Nxe1+ 43. Kxe1 Re7+ 44. Kd2 b5 45. Kc3 Re5 46. Kb4 Kd6 47. Ka5 Kc5 48. Kxa6
+b4 49. Kb7 b3 50. h4 b2 51. Kxc7 b1=Q 52. Kd7 Qd3+ 53. Kc7 Re6 54. h5 Qd6+
+55. Kb7 Qb6+ 56. Kc8 Re8+ 57. Kd7 Qe6+ 58. Kc7 Re7+ 59. Kd8 Qd7# 0-1
+

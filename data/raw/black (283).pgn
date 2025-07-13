@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "-"]
+[White "JakeAndux11"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "1282"]
+[BlackElo "400"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2021.01.08"]
+[UTCTime "22:32:36"]
+[Termination "JakeAndux11 won by checkmate"]
+[CurrentPosition "r1b1k2r/p1B1Q1p1/7p/4R3/8/P5P1/1PP1N2P/2K4n b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3"]
+[StartTime "22:32:36"]
+[EndDate "2021.01.08"]
+[EndTime "22:38:22"]
+[Link "https://www.chess.com/game/live/6181468405"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nge2 Nc6 5. g3 Nb4 6. Bg2 Qc6 7. Bxc6+
+bxc6 8. d4 Nf6 9. a3 Nbd5 10. Nxd5 cxd5 11. Bg5 Ng4 12. Qd3 f6 13. Bf4 h6
+14. O-O-O e5 15. dxe5 fxe5 16. Qg6+ Kd7 17. Rxd5+ Ke7 18. Bxe5 Nxf2 19.
+Bxc7 Nxh1 20. Qd6+ Ke8 21. Re5+ Be7 22. Qxe7# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.21"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "TheCoderBro"]
+[Result "0-1"]
+[WhiteElo "688"]
+[BlackElo "706"]
+[ECO "A04"]
+[TimeControl "600"]
+[UTCDate "2024.02.21"]
+[UTCTime "06:40:35"]
+[Termination "TheCoderBro won by checkmate"]
+[CurrentPosition "6k1/1bpn1p1p/6pK/p6P/8/4q3/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Queenside-Fianchetto-Variation-2.d4"]
+[StartTime "06:40:35"]
+[EndDate "2024.02.21"]
+[EndTime "06:54:16"]
+[Link "https://www.chess.com/game/live/101328673248"]
+
+1. d4 b6 2. Nf3 g6 3. e3 Bg7 4. Bc4 d5 5. Bb3 Nc6 6. Na3 Bb7 7. O-O e5 8.
+Nxe5 Bxe5 9. dxe5 Nxe5 10. c3 Nf6 11. Qd4 Qe7 12. c4 dxc4 13. Nxc4 Rd8 14.
+Qf4 Nxc4 15. Bxc4 O-O 16. b4 a5 17. bxa5 bxa5 18. Bb2 Rd6 19. Rad1 Rfd8 20.
+Ba3 Qe4 21. Qh6 Rxd1 22. f3 Rxf1+ 23. Kxf1 Qxc4+ 24. Kf2 Rd2+ 25. Kg3 Nd7
+26. h4 Rxa2 27. Be7 Qc2 28. h5 Qxg2+ 29. Kf4 Qxf3+ 30. Kg5 Qxe3+ 31. Kh4
+Ra4+ 32. Qf4 Qxf4+ 33. Kh3 Ra3+ 34. Bxa3 Qf3+ 35. Kh4 Qxa3 36. Kg5 Qc5+ 37.
+Kh6 Qe3# 0-1
+

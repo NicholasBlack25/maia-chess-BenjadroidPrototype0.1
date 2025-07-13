@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Olena_Makarena"]
+[Result "1-0"]
+[WhiteElo "713"]
+[BlackElo "669"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2024.03.22"]
+[UTCTime "09:23:20"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "rk3N2/1Q2p3/1p6/p2B1p1p/6p1/8/PP3P1P/4K3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense-2.d4-Bb7"]
+[StartTime "09:23:20"]
+[EndDate "2024.03.22"]
+[EndTime "09:27:16"]
+[Link "https://www.chess.com/game/live/104838584375"]
+
+1. d4 b6 2. e4 Bb7 3. Nf3 d5 4. Nc3 dxe4 5. Ng5 f6 6. Ngxe4 f5 7. Ng5 h6 8.
+Nf3 g5 9. Bc4 g4 10. Ne5 h5 11. Nf7 Qd7 12. Nxh8 Bxg2 13. Bxg8 Bxh1 14.
+Bf7+ Kd8 15. Ng6 Bf3 16. Ne2 Qd6 17. Nxf8 c5 18. c3 Nc6 19. Be3 cxd4 20.
+cxd4 Nxd4 21. Bxd4 Bxe2 22. Qxe2 Qxd4 23. Rd1 Qxd1+ 24. Qxd1+ Kc7 25. Qd7+
+Kb8 26. Bd5 a5 27. Qb7# 1-0
+

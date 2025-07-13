@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.19"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Luis3Lira"]
+[Result "1-0"]
+[WhiteElo "665"]
+[BlackElo "676"]
+[ECO "C46"]
+[TimeControl "600"]
+[UTCDate "2023.06.19"]
+[UTCTime "02:15:37"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "5bnr/Q1p1k1pp/4Pp2/8/3N4/5P2/PP2K2P/n1B2B1R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Three-Knights-Opening"]
+[StartTime "02:15:37"]
+[EndDate "2023.06.19"]
+[EndTime "02:27:23"]
+[Link "https://www.chess.com/game/live/80880046845"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 f6 4. d4 d6 5. Nd5 Be6 6. dxe5 dxe5 7. Qd3 Bxd5
+8. exd5 Nb4 9. Qb5+ Qd7 10. Qxb7 Nxc2+ 11. Ke2 Nxa1 12. Qxa8+ Ke7 13. Qxa7
+e4 14. Nd4 Qg4+ 15. f3 exf3+ 16. gxf3 Qe6+ 17. dxe6 1-0
+

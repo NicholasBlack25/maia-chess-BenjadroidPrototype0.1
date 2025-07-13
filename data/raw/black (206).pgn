@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "araf2579"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "611"]
+[BlackElo "633"]
+[ECO "D30"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "03:24:22"]
+[Termination "araf2579 won by checkmate"]
+[CurrentPosition "k7/1B6/P1N5/8/8/2K5/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-3.e3-Nf6"]
+[StartTime "03:24:22"]
+[EndDate "2023.06.12"]
+[EndTime "03:34:08"]
+[Link "https://www.chess.com/game/live/80279377439"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. a3 Ne4 5. b4 Qh4 6. g3 Nxf2 7. Qa4+ Bd7 8.
+Qc2 Qf6 9. c5 Nc6 10. Nc3 Nxb4 11. Qxf2 Nd3+ 12. Bxd3 Qxf2+ 13. Kxf2 b6 14.
+Nf3 bxc5 15. dxc5 Bxc5 16. Ne5 d4 17. Ne4 dxe3+ 18. Bxe3 Bxe3+ 19. Kxe3 O-O
+20. Nxd7 Rfd8 21. Ndf6+ gxf6 22. Nxf6+ Kg7 23. Nh5+ Kh6 24. Nf4 Rab8 25.
+Rhf1 Rb2 26. h4 f5 27. Nxe6 Rd5 28. g4 fxg4 29. Rf6+ Kh5 30. Ng7+ Kxh4 31.
+Rh1+ Kg5 32. Ra6 g3 33. Rh5+ Kg4 34. Rxd5 g2 35. Bf5+ Kg3 36. Rd1 Rb3+ 37.
+Kd4 Kf2 38. Bxh7 g1=Q 39. Rf6+ Kg2+ 40. Ke4 Qxd1 41. Rg6+ Rg3 42. Rxg3+
+Kxg3 43. Nf5+ Kg4 44. Ne3+ Kh5 45. Nxd1 a5 46. Bg8 a4 47. Nc3 c5 48. Nxa4
+c4 49. Kd4 c3 50. Kxc3 Kg6 51. Nc5 Kg7 52. Bc4 Kf6 53. a4 Ke7 54. a5 Kd8
+55. Bd5 Kc8 56. Bh1 Kb8 57. a6 Ka7 58. Bb7 Kb8 59. Nd7+ Ka7 60. Bc8 Ka8 61.
+Nb6+ Ka7 62. Nd5 Ka8 63. Nb4 Ka7 64. Nc6+ Ka8 65. Bb7# 1-0
+

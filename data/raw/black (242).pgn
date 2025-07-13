@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.23"]
+[Round "-"]
+[White "cookedink"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "630"]
+[BlackElo "611"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.23"]
+[UTCTime "07:59:22"]
+[Termination "cookedink won by checkmate"]
+[CurrentPosition "2K5/5B2/5Q2/6pk/7p/5P2/6Pb/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "07:59:22"]
+[EndDate "2023.06.23"]
+[EndTime "08:10:35"]
+[Link "https://www.chess.com/game/live/81246114787"]
+
+1. e4 d5 2. Qf3 Nf6 3. e5 Bg4 4. Qf4 Qd7 5. exf6 exf6 6. h3 Qe6+ 7. Ne2 Bd6
+8. Qxg4 Qxg4 9. hxg4 O-O 10. f3 Re8 11. Rh5 Bg3+ 12. Kd1 g6 13. Rxd5 Bf2
+14. d3 Nc6 15. Bh6 Re7 16. Nbc3 Rd8 17. Rxd8+ Nxd8 18. Nd5 Re5 19. Nxf6+
+Kh8 20. a4 Be3 21. a5 Bxh6 22. a6 Bg5 23. Nd7 Rb5 24. c4 Rxb2 25. c5 Rd2+
+26. Kc1 Rxd3+ 27. Kc2 Rxd7 28. c6 Nxc6 29. axb7 Rd2+ 30. Kc3 Rd6 31. Kc4
+Be7 32. Kc5 Rd8+ 33. Kxc6 Rb8 34. Rxa7 h5 35. g5 Bxg5 36. Nd4 Be3 37. Kxc7
+Bxd4 38. Ra8 Rxa8 39. bxa8=Q+ Kg7 40. Bc4 Be5+ 41. Kc8 g5 42. Qe4 f6 43.
+Be6 h4 44. Qb7+ Kh6 45. Qf7 f5 46. Qxf5 Bh2 47. Qf6+ Kh5 48. Bf7# 1-0
+

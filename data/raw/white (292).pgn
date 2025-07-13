@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.02"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "NIKITA12689452"]
+[Result "0-1"]
+[WhiteElo "507"]
+[BlackElo "588"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2021.03.02"]
+[UTCTime "13:08:14"]
+[Termination "NIKITA12689452 won by checkmate"]
+[CurrentPosition "8/p1p3kp/4B1p1/8/3Pn1N1/2PbP3/PP4PP/R1B2rK1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[StartTime "13:08:14"]
+[EndDate "2021.03.02"]
+[EndTime "13:19:24"]
+[Link "https://www.chess.com/game/live/8429609607"]
+
+1. d4 d5 2. e3 Nc6 3. Qh5 Nf6 4. Qf5 e6 5. Qd3 Nb4 6. Qb5+ Bd7 7. Qxb7 Qb8
+8. Qxb8+ Rxb8 9. Nc3 Ne4 10. Nxe4 dxe4 11. c3 Nc6 12. f3 g6 13. fxe4 Bh6
+14. Nf3 Na5 15. Ne5 Ba4 16. Ng4 Nc4 17. Nxh6 Nd6 18. Bc4 Nxe4 19. O-O Bc2
+20. Nxf7 O-O 21. Bxe6 Bd3 22. Nh6+ Kg7 23. Rxf8 Rxf8 24. Ng4 Rf1# 0-1
+

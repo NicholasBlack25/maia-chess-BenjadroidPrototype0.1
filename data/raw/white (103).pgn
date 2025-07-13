@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.15"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Krish3693"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "675"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.11.15"]
+[UTCTime "07:20:56"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/6R1/3npkR1/b2p1p2/3P3q/2P1P3/PPK2P2/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense"]
+[StartTime "07:20:56"]
+[EndDate "2023.11.15"]
+[EndTime "07:30:17"]
+[Link "https://www.chess.com/game/live/82167251914"]
+
+1. d4 e6 2. e3 Qf6 3. Nc3 c6 4. Qg4 h5 5. Qe4 d5 6. Qd3 Nh6 7. Nb5 cxb5 8.
+Qxb5+ Bd7 9. Qxb7 Bc6 10. Bb5 Qe7 11. Bxc6+ Nxc6 12. Qxc6+ Qd7 13. Qxa8+
+Ke7 14. Nf3 Qd8 15. Qxa7+ Qd7 16. Qa3+ Ke8 17. Qa5 Nf5 18. Ne5 Qd8 19. Qb5+
+Ke7 20. Bd2 f6 21. Bb4+ Nd6 22. Ng6+ Kf7 23. Nxh8+ Kg8 24. Ng6 Nxb5 25. h3
+Bxb4+ 26. c3 Ba5 27. O-O-O Kh7 28. g4 Kxg6 29. Rdg1 hxg4 30. Rxg4+ Kf7 31.
+h4 g6 32. Kc2 f5 33. Rg5 Nd6 34. Rhg1 Qh8 35. Rxg6 Qxh4 36. Rg7+ Kf6 37.
+R1g6# 1-0
+

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.14"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "christianjoshuasantuyo"]
+[Result "0-1"]
+[WhiteElo "637"]
+[BlackElo "628"]
+[ECO "C42"]
+[TimeControl "600"]
+[UTCDate "2023.06.14"]
+[UTCTime "08:22:47"]
+[Termination "christianjoshuasantuyo won by checkmate"]
+[CurrentPosition "2k4r/pp6/2p2p2/1Bb1n1p1/6bp/2N3K1/PPP3PP/5R2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Variation"]
+[StartTime "08:22:47"]
+[EndDate "2023.06.14"]
+[EndTime "08:25:21"]
+[Link "https://www.chess.com/game/live/80470157989"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. d3 d6 5. d4 dxe5 6. dxe5 Qxd1+ 7. Kxd1
+Nxf2+ 8. Ke1 Nxh1 9. Nc3 Nc6 10. Bc4 Nxe5 11. Bb5+ c6 12. Bf4 f6 13. Ke2
+Bg4+ 14. Ke3 Bc5+ 15. Ke4 O-O-O 16. Rxh1 Rd4+ 17. Ke3 Rxf4+ 18. Kxf4 g5+
+19. Kg3 h5 20. Rf1 h4# 0-1
+

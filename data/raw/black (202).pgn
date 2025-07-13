@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "bichem93"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "681"]
+[BlackElo "627"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "09:07:37"]
+[Termination "bichem93 won by checkmate"]
+[CurrentPosition "r5kr/ppp3bp/2n1B3/3p2B1/5Q2/2p2N2/PP3PPP/R3R1K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation"]
+[StartTime "09:07:37"]
+[EndDate "2023.06.08"]
+[EndTime "09:17:23"]
+[Link "https://www.chess.com/game/live/79954245673"]
+
+1. e4 d5 2. e5 Nc6 3. d4 e6 4. c3 Nge7 5. Nf3 Nf5 6. Bd3 Nh4 7. O-O Nxf3+
+8. Qxf3 f6 9. exf6 e5 10. fxg7 Bxg7 11. Qg3 Qf6 12. Nd2 exd4 13. Nf3 dxc3
+14. Re1+ Kd7 15. Bg5 Qd6 16. Bf5+ Qe6 17. Bxe6+ Ke8 18. Bxc8+ Kf7 19. Qf4+
+Kg8 20. Be6# 1-0
+

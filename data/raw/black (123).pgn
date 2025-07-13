@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.12"]
+[Round "-"]
+[White "Draco1_1"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "609"]
+[BlackElo "573"]
+[ECO "A45"]
+[TimeControl "1800"]
+[UTCDate "2023.10.12"]
+[UTCTime "15:13:32"]
+[Termination "Draco1_1 won by checkmate"]
+[CurrentPosition "rnQ1kb1r/p3pppp/2p5/1p1p4/3PqB2/2P2bPB/P3PP1P/R3K2R b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-Tartakower-Attack-2...d5-3.Nf3"]
+[StartTime "15:13:32"]
+[EndDate "2023.10.12"]
+[EndTime "15:23:29"]
+[Link "https://www.chess.com/game/live/90862726681"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Ne4 4. Qd3 Bf5 5. Qb5+ c6 6. Qa4 Qd6 7. Nc3 Nxc3
+8. bxc3 b5 9. Qa5 Bxc2 10. Bf4 Qg6 11. Bh3 Be4 12. Qb6 Bxf3 13. Qb7 Qe4 14.
+Qc8# 1-0
+

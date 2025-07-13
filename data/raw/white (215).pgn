@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "paring123"]
+[Result "1-0"]
+[WhiteElo "635"]
+[BlackElo "631"]
+[ECO "B12"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "09:17:46"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r1bqk2B/pp1n3p/2pb1n2/3P4/8/2N2P2/PPP3PP/R2QKBNR b KQq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Fantasy-Variation-3...e6-4.Nc3"]
+[StartTime "09:17:46"]
+[EndDate "2023.06.08"]
+[EndTime "09:21:25"]
+[Link "https://www.chess.com/game/live/79954849245"]
+
+1. d4 d5 2. e4 e6 3. Nc3 c6 4. f3 f6 5. Bf4 e5 6. dxe5 fxe5 7. Bxe5 Bd6 8.
+Bxg7 Nf6 9. Bxh8 Nbd7 10. exd5 1-0
+

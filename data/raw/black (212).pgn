@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "Claggers94"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "600"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "07:32:32"]
+[Termination "Claggers94 won by checkmate"]
+[CurrentPosition "8/8/2Q5/kQ6/1p5P/p2K4/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Kings-Indian-Attack-2...d5"]
+[StartTime "07:32:32"]
+[EndDate "2023.06.12"]
+[EndTime "07:42:53"]
+[Link "https://www.chess.com/game/live/80294355029"]
+
+1. e4 d5 2. d3 e6 3. e5 d4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. c3 dxc3 7. bxc3 Bxc3+
+8. Nxc3 Nb4 9. d4 Qe7 10. Bb5+ c6 11. Bg5 Qc7 12. d5 cxb5 13. Rc1 Qc4 14.
+dxe6 Bxe6 15. Ne2 Nd3+ 16. Kd2 Bg4 17. Rxc4 Nxf2 18. Qf1 Nxh1 19. Qxh1 f6
+20. exf6 gxf6 21. Bxf6 Nxf6 22. Nf4 bxc4 23. Qe1+ Kd7 24. Ne5+ Kd6 25. Nxg4
+Nxg4 26. Qe6+ Kc5 27. Qxg4 Rad8+ 28. Kc3 Rhe8 29. Qg5+ Kb6 30. Nd5+ Rxd5
+31. Qxd5 Re3+ 32. Kxc4 Re2 33. Qd4+ Ka6 34. Kd3 Rxa2 35. Qc4+ Ka5 36. Qxa2+
+Kb6 37. h4 h5 38. Qd5 Ka6 39. Qxh5 b5 40. g4 b4 41. Qf7 Ka5 42. Qb3 a6 43.
+g5 Kb5 44. g6 a5 45. g7 a4 46. Qc4+ Ka5 47. g8=Q a3 48. Qa8+ Kb6 49. Qac6+
+Ka5 50. Q4b5# 1-0
+

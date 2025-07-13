@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.25"]
+[Round "-"]
+[White "bubbIes22"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "356"]
+[BlackElo "639"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.25"]
+[UTCTime "04:09:28"]
+[Termination "bubbIes22 won on time"]
+[CurrentPosition "8/8/p6k/1p1R3P/1PPP4/8/P5K1/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "04:09:28"]
+[EndDate "2023.06.25"]
+[EndTime "04:26:02"]
+[Link "https://www.chess.com/game/live/81405099223"]
+
+1. e4 d5 2. Bd3 Nf6 3. Nc3 dxe4 4. Nxe4 Ng4 5. f3 f5 6. fxg4 fxe4 7. Bxe4
+e5 8. Nf3 Nc6 9. b3 Nb4 10. Nxe5 Bxg4 11. Bf3 Bf5 12. c3 Bc2 13. Qe2 Bf5
+14. Nc4+ Be7 15. O-O Nc2 16. Rb1 O-O 17. Be4 Bxe4 18. Qxe4 Bc5+ 19. Ne3 Qg5
+20. Qxc2 Rxf1+ 21. Kxf1 Rf8+ 22. Kg1 Qxg2+ 23. Kxg2 g5 24. b4 Bd6 25. Nf5
+h5 26. Nxd6 cxd6 27. d4 g4 28. Qg6+ Kh8 29. Bh6 Rg8 30. Bg7+ Rxg7 31. Qe8+
+Rg8 32. Qxh5+ Kg7 33. Qxg4+ Kf8 34. Qxg8+ Kxg8 35. Rf1 b6 36. Rf6 d5 37. h4
+b5 38. Rf5 a6 39. Rxd5 Kg7 40. h5 Kh6 41. c4 1-0
+

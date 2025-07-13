@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.24"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Sean_Monty"]
+[Result "1-0"]
+[WhiteElo "701"]
+[BlackElo "607"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.11.24"]
+[UTCTime "14:57:20"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "Qnkr1b1r/1pp2ppp/4pnb1/1N1pN3/3P4/2P1P3/PP3PPP/R1B2RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-2.e3"]
+[StartTime "14:57:20"]
+[EndDate "2023.11.24"]
+[EndTime "15:02:02"]
+[Link "https://www.chess.com/game/live/94108779750"]
+
+1. d4 Nf6 2. e3 Nc6 3. Nf3 d5 4. c3 Bf5 5. Na3 e6 6. Bb5 Qd7 7. O-O a6 8.
+Qb3 axb5 9. Qxb5 O-O-O 10. Qa4 Nb8 11. Qa8 Qb5 12. Ne5 Bg6 13. Nxb5 1-0
+

@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.25"]
+[Round "-"]
+[White "Tetto96"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "612"]
+[BlackElo "517"]
+[ECO "C46"]
+[TimeControl "600"]
+[UTCDate "2023.10.25"]
+[UTCTime "20:03:35"]
+[Termination "Tetto96 won by checkmate"]
+[CurrentPosition "r4b1r/ppBR3p/5Np1/5n1k/5Q2/6P1/PP3P1P/4R1K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Three-Knights-Opening-3...d6"]
+[StartTime "20:03:35"]
+[EndDate "2023.10.25"]
+[EndTime "20:13:32"]
+[Link "https://www.chess.com/game/live/81981465114"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nc6 4. d3 d5 5. exd5 Nb4 6. d4 Bf5 7. Bd3 Qd7 8.
+Nxe5 Nxc2+ 9. Bxc2 Bxc2 10. Qxc2 Qe7 11. O-O f6 12. Ng4 g6 13. d6 Qxd6 14.
+Re1+ Ne7 15. g3 f5 16. Bf4 Qxd4 17. Bxc7 fxg4 18. Rad1 Qc5 19. Qa4+ Kf7 20.
+Qf4+ Nf5 21. Rd7+ Kf6 22. Ne4+ Ke6 23. Nxc5+ Kf6 24. Qe5+ Kg5 25. Ne4+ Kh5
+26. Nf6+ Kh6 27. Nxg4+ Kg5 28. Qf4+ Kh5 29. Nf6# 1-0
+

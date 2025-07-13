@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.09"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Tigran_Gassparyan"]
+[Result "0-1"]
+[WhiteElo "569"]
+[BlackElo "573"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.07.09"]
+[UTCTime "07:14:57"]
+[Termination "Tigran_Gassparyan won by checkmate"]
+[CurrentPosition "8/8/1kBp4/2pP4/2K2r2/q7/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-2...d6"]
+[StartTime "07:14:57"]
+[EndDate "2023.07.09"]
+[EndTime "07:28:49"]
+[Link "https://www.chess.com/game/live/82626014711"]
+
+1. e4 e5 2. Nc3 d6 3. d3 c5 4. Nf3 f6 5. Nd5 Ne7 6. c4 b6 7. Be3 g5 8. g4
+h6 9. h4 gxh4 10. Nxh4 Nxd5 11. exd5 a5 12. Nf5 Bxf5 13. gxf5 Nd7 14. a3
+Be7 15. Bh3 Rb8 16. Qg4 b5 17. Qg6+ Kf8 18. Bxh6+ Rxh6 19. Qxh6+ Kf7 20.
+Rg1 Nf8 21. Qg7+ Ke8 22. O-O-O bxc4 23. dxc4 Qb6 24. Rd2 Qb3 25. Bg4 Qa2
+26. Bh5+ Kd7 27. b4 Qa1+ 28. Kc2 Qa2+ 29. Kd3 Qb3+ 30. Ke2 axb4 31. Bf7
+Qxc4+ 32. Rd3 e4 33. Be6+ Kc7 34. Qxe7+ Kb6 35. Qxf6 Qxd3+ 36. Ke1 Qc3+ 37.
+Qxc3 bxc3 38. Rg8 c2 39. Kd2 e3+ 40. Kc1 exf2 41. Kxc2 f1=Q 42. Bd7 Qf3 43.
+Bc6 Qxf5+ 44. Kb3 Ka6+ 45. Kc4 Qf4+ 46. Kc3 Qf3+ 47. Kc4 Qxa3 48. Rxf8 Rxf8
+49. Bb5+ Kb6 50. Bc6 Rf4# 0-1
+

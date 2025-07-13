@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "AdinaAG"]
+[Result "1-0"]
+[WhiteElo "575"]
+[BlackElo "621"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.10.06"]
+[UTCTime "22:09:14"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "k7/pQ5p/1pB3p1/8/3P4/2P1n1P1/PP5K/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Queens-Knight-Variation"]
+[StartTime "22:09:14"]
+[EndDate "2023.10.06"]
+[EndTime "22:16:47"]
+[Link "https://www.chess.com/game/live/81807944710"]
+
+1. e4 e6 2. Nc3 Qf6 3. Nf3 g6 4. d3 Bg7 5. Bd2 b6 6. Nd4 Qxd4 7. f3 Qe5 8.
+f4 Qf6 9. g3 e5 10. Bh3 exf4 11. O-O fxg3 12. Rxf6 Bxf6 13. hxg3 Bd4+ 14.
+Kg2 Nf6 15. Qf3 Bb7 16. Be3 Be5 17. Nb5 Na6 18. c3 c6 19. d4 Bb8 20. Qxf6
+Rf8 21. Bh6 cxb5 22. Rf1 Bxe4+ 23. Kh2 Nc7 24. Bxf8 Nd5 25. Qxf7+ Kd8 26.
+Bg7 Bd3 27. Qf8+ Kc7 28. Be5+ Kc6 29. Bxb8 Bxf1 30. Bxf1 Ne3 31. Qd6+ Kb7
+32. Bxb5 Rxb8 33. Qxd7+ Ka8 34. Bc6+ Rb7 35. Qxb7# 1-0
+

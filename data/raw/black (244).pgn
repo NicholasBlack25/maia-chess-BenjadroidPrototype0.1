@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.24"]
+[Round "-"]
+[White "Zizouflo"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "579"]
+[BlackElo "609"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.24"]
+[UTCTime "06:26:18"]
+[Termination "Zizouflo won by checkmate"]
+[CurrentPosition "8/1Q2R2p/k5p1/r1P5/8/6P1/5P1P/b5K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "06:26:18"]
+[EndDate "2023.06.24"]
+[EndTime "06:33:32"]
+[Link "https://www.chess.com/game/live/81327062231"]
+
+1. e4 d5 2. Qf3 e6 3. exd5 exd5 4. Qe3+ Be6 5. Nf3 Nc6 6. Ng5 f6 7. Nxe6
+Qd6 8. b3 d4 9. Qe4 Nge7 10. Ba3 Nb4 11. Bxb4 Qxb4 12. Nxc7+ Kd8 13. Nxa8
+f5 14. Qe5 Nc6 15. Qxf5 d3 16. c3 Qh4 17. Qxd3+ Kc8 18. Qf5+ Kb8 19. g3
+Qe7+ 20. Be2 Kxa8 21. b4 g6 22. Qg4 Bg7 23. b5 Ne5 24. Qe4 Re8 25. Bf3 a6
+26. bxa6 Ka7 27. O-O Nxf3+ 28. Qxf3 Kxa6 29. c4 Rd8 30. Nc3 Rxd2 31. Rfe1
+Bxc3 32. Rxe7 Bxa1 33. c5 Rxa2 34. Qb3 Ra5 35. Qxb7# 1-0
+

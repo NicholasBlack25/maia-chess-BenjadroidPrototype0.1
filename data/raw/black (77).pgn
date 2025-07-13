@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.27"]
+[Round "-"]
+[White "jobsidian"]
+[Black "BenjaminVega10"]
+[Result "1/2-1/2"]
+[WhiteElo "766"]
+[BlackElo "746"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.12.27"]
+[UTCTime "19:40:09"]
+[Termination "Game drawn by insufficient material"]
+[CurrentPosition "8/7k/8/8/6K1/8/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3"]
+[StartTime "19:40:09"]
+[EndDate "2023.12.27"]
+[EndTime "19:48:48"]
+[Link "https://www.chess.com/game/live/97444914903"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nc6 5. Nf3 Nf6 6. O-O Ne4 7. Nxe4
+Qxe4 8. d4 Bf5 9. Bd3 Qd5 10. Bxf5 Qxf5 11. Qd3 Qd5 12. c4 Nb4 13. cxd5
+Nxd3 14. b3 O-O-O 15. a3 Rxd5 16. Rd1 Nxc1 17. Raxc1 e6 18. h3 Bxa3 19. Ra1
+Ra5 20. Ne5 b5 21. Nd3 Rd8 22. b4 Ra4 23. Nc5 Bxb4 24. Nxa4 bxa4 25. Rxa4
+Bc3 26. Rxa7 e5 27. Ra8+ Kd7 28. Rxd8+ Kxd8 29. dxe5+ Kc8 30. Rc1 Bxe5 31.
+Re1 Bc3 32. Re8+ Kb7 33. Rf8 c5 34. Rxf7+ Kb6 35. Rf3 Bb2 36. Rb3+ Ka5 37.
+Rxb2 c4 38. Re2 Kb4 39. Re8 c3 40. Rc8 Kb3 41. Rb8+ Kc4 42. Rc8+ Kb3 43.
+Rb8+ Kc4 44. Kf1 c2 45. Ke2 c1=Q 46. Rc8+ Kb3 47. Rxc1 Kb2 48. Rc8 g5 49.
+Rh8 h5 50. Rh7 g4 51. Rxh5 gxh3 52. gxh3 Kc3 53. Rh8 Kd4 54. f4 Ke4 55. h4
+Kxf4 56. h5 Kg5 57. h6 Kg6 58. h7 Kg7 59. Kf3 Kxh8 60. Kg4 Kxh7 1/2-1/2
+

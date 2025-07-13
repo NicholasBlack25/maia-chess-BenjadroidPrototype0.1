@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.18"]
+[Round "-"]
+[White "danimontanes3"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "488"]
+[BlackElo "565"]
+[ECO "C43"]
+[TimeControl "600"]
+[UTCDate "2023.10.18"]
+[UTCTime "17:59:00"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r7/7p/1pp5/p4bk1/3p4/6bP/PPP3P1/2K2B2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Steinitz-Attack"]
+[StartTime "17:59:00"]
+[EndDate "2023.10.18"]
+[EndTime "18:06:39"]
+[Link "https://www.chess.com/game/live/81914789524"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nc6 4. dxe5 Nxe5 5. Nxe5 Nxe4 6. Nf3 c6 7. Bg5 f5
+8. Bxd8 Kxd8 9. h3 Bc5 10. Nc3 Nxf2 11. Qe2 Nxh1 12. Qe5 Re8 13. Qxe8+ Kxe8
+14. O-O-O Nf2 15. Rd2 b6 16. Nd4 Ne4 17. Nxe4 fxe4 18. Nf5 d5 19. Nxg7+ Kf7
+20. Nh5 e3 21. Rd3 Bf5 22. Rc3 a5 23. Nf4 Bb4 24. Rxe3 d4 25. Re5 Kf6 26.
+Re1 Bxe1 27. Nh5+ Kg5 28. Ng3 Bxg3 0-1
+

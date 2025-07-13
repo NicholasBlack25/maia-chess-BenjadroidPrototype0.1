@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "rhzzz91"]
+[Result "1-0"]
+[WhiteElo "624"]
+[BlackElo "527"]
+[ECO "C11"]
+[TimeControl "600"]
+[UTCDate "2023.06.03"]
+[UTCTime "09:02:57"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "1Q1r4/R1k2n2/8/1R6/2K5/8/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Classical-Variation"]
+[StartTime "09:02:57"]
+[EndDate "2023.06.03"]
+[EndTime "09:13:00"]
+[Link "https://www.chess.com/game/live/79522157871"]
+
+1. d4 d5 2. e4 e6 3. Nc3 Nf6 4. Nf3 Nxe4 5. Bb5+ c6 6. Bd3 f5 7. Ne5 Bd6 8.
+Qh5+ g6 9. Nxg6 Rg8 10. Qxh7 Rxg6 11. Qxg6+ Kd7 12. Nxe4 fxe4 13. Qf7+ Qe7
+14. Qxe7+ Bxe7 15. f3 exd3 16. cxd3 Bb4+ 17. Bd2 Bxd2+ 18. Kxd2 b5 19. h4
+Na6 20. h5 c5 21. dxc5 Nxc5 22. h6 Ba6 23. h7 b4 24. a3 Nxd3 25. g4 Nxb2
+26. axb4 Nd3 27. g5 Ne5 28. Rhe1 Nxf3+ 29. Kd1 Nxg5 30. Rxa6 Nxh7 31. Rh1
+Nf6 32. Rh6 Ne4 33. Rhxe6 Nf2+ 34. Kd2 Rc8 35. Rxa7+ Kd8 36. Rd6+ Ke8 37.
+Rxd5 Ne4+ 38. Kd3 Nf6 39. Re5+ Kf8 40. b5 Ng4 41. Rf5+ Ke8 42. b6 Rd8+ 43.
+Ke4 Rb8 44. b7 Nh6 45. Re5+ Kd7 46. Rd5+ Kc7 47. Rb5 Re8+ 48. Kd5 Rd8+ 49.
+Kc4 Nf7 50. b8=Q+ 1-0
+

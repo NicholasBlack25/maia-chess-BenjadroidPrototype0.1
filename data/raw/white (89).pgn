@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "flecha535"]
+[Result "1-0"]
+[WhiteElo "733"]
+[BlackElo "744"]
+[ECO "D03"]
+[TimeControl "600"]
+[UTCDate "2024.01.01"]
+[UTCTime "03:17:57"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r4k1r/1bp2Qbp/pp4p1/n5q1/2BP4/4P3/PPP2PPP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Torre-Grunfeld-Variation-4.e3-Bg7"]
+[StartTime "03:17:57"]
+[EndDate "2024.01.01"]
+[EndTime "03:20:55"]
+[Link "https://www.chess.com/game/live/97818008477"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 d5 5. Nc3 Nc6 6. Bb5 Ne4 7. Nxd5 Nxg5
+8. Nxe7 Qxe7 9. Nxg5 Qxg5 10. O-O a6 11. Bc4 Na5 12. Qd3 b6 13. Qe4+ Kf8
+14. Qf3 Bb7 15. Qxf7# 1-0
+

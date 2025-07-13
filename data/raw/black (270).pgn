@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.15"]
+[Round "-"]
+[White "Harry92403"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "702"]
+[BlackElo "493"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2021.09.15"]
+[UTCTime "17:05:56"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/8/1k6/8/8/8/5q2/2K3q1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3"]
+[StartTime "17:05:56"]
+[EndDate "2021.09.15"]
+[EndTime "17:19:38"]
+[Link "https://www.chess.com/game/live/25464645153"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nce2 Nc6 5. b4 Nxb4 6. Ba3 Nd5 7. c4
+Ngf6 8. Qa4+ c6 9. cxd5 Qxd5 10. Nf4 Qe5+ 11. Be2 Qxa1+ 12. Bd1 Qxa2 13. d4
+Qe6+ 14. Nxe6 fxe6 15. d5 exd5 16. Nf3 Ne4 17. Ne5 Nc3 18. Bh5+ g6 19.
+Bxg6+ hxg6 20. Nxg6 Nxa4 21. Nxh8 d4 22. O-O Nc3 23. h3 Ne4 24. Ng6 Bf5 25.
+Nxf8 Kxf8 26. g4 Be6 27. f3 Ng3 28. Re1 d3 29. Rxe6 Rd8 30. Bxe7+ Ke8 31.
+Bxd8+ Kxd8 32. Kg2 Ne2 33. g5 b5 34. g6 Kd7 35. Rf6 d2 36. Kf2 d1=Q 37.
+Rf7+ Kd6 38. Rf6+ Kc5 39. Rf5+ Kb4 40. Rf4+ Ka5 41. g7 b4 42. g8=Q b3 43.
+Qxb3 Qxb3 44. Rf5+ Kb6 45. Kxe2 a5 46. h4 Qe6+ 47. Re5 Qxe5+ 48. Kf2 a4 49.
+h5 Qxh5 50. Ke2 a3 51. Kd2 a2 52. Kc2 a1=Q 53. Kb3 Qb5+ 54. Kc2 Qaa4+ 55.
+Kc3 Qe5+ 56. Kd3 Qd5+ 57. Kc3 Qxf3+ 58. Kb2 Qad1 59. Ka2 Qfd5+ 60. Ka3 Qa5+
+61. Kb2 Qdd2+ 62. Kb3 Qdd5+ 63. Kc2 Qac5+ 64. Kb2 Qb5+ 65. Kc3 Qe5+ 66. Kd2
+c5 67. Kc2 c4 68. Kd2 Qb4+ 69. Kc2 Qe4+ 70. Kc1 Qee1+ 71. Kc2 c3 72. Kd3
+Qd6+ 73. Kc2 Qc5 74. Kd3 Qg3+ 75. Kc2 Qcf2+ 76. Kb3 c2+ 77. Kb2 c1=Q+ 78.
+Kxc1 Qgg1# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "ch_e_k"]
+[Result "1-0"]
+[WhiteElo "747"]
+[BlackElo "708"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.01.01"]
+[UTCTime "14:40:47"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "1rb2k1Q/pp1p2p1/2n5/3Nq1N1/3r2n1/4P3/PPP3PP/2KR3R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5-Nc6-3.Nf3"]
+[StartTime "14:40:47"]
+[EndDate "2024.01.01"]
+[EndTime "14:46:46"]
+[Link "https://www.chess.com/game/live/97858916571"]
+
+1. d4 Nc6 2. Nf3 e5 3. dxe5 f6 4. Bf4 Bc5 5. Nc3 Nh6 6. exf6 Qxf6 7. Nb5
+Ng4 8. e3 O-O 9. Nxc7 Rb8 10. Nd5 Qe6 11. Bc4 Bxe3 12. fxe3 Rxf4 13. Ng5
+Qe5 14. Qd3 Rxc4 15. O-O-O Rd4 16. Qxh7+ Kf8 17. Qh8# 1-0
+

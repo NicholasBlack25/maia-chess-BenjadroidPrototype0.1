@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.18"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "AjaxPulaski"]
+[Result "0-1"]
+[WhiteElo "677"]
+[BlackElo "702"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.11.18"]
+[UTCTime "01:24:06"]
+[Termination "AjaxPulaski won by checkmate"]
+[CurrentPosition "5bk1/8/6p1/5p2/3p2n1/n7/5q2/K2q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3-Nf6"]
+[StartTime "01:24:06"]
+[EndDate "2023.11.18"]
+[EndTime "01:41:41"]
+[Link "https://www.chess.com/game/live/93983701952"]
+
+1. d4 d5 2. e3 Nf6 3. Nc3 Nc6 4. f3 e6 5. Bb5 a6 6. Bd3 b5 7. Nge2 e5 8.
+Nxb5 axb5 9. Bxb5 Bd7 10. Nc3 e4 11. O-O g6 12. f4 Ng4 13. Be2 h5 14. Nb5
+Bg7 15. c3 O-O 16. h3 Nf6 17. b3 Na5 18. Rb1 Rb8 19. Na7 Rb7 20. Nb5 Bxb5
+21. Bxb5 Rxb5 22. Ba3 Re8 23. g4 hxg4 24. hxg4 Qd7 25. Qe2 c6 26. Kf2 Nxg4+
+27. Ke1 f5 28. Rh1 Bf8 29. Qg2 Bxa3 30. Qh3 Qg7 31. b4 Nc4 32. Rb3 Ngxe3
+33. Rh2 Ng4 34. Rg2 Bc1 35. Rb1 Bxf4 36. Ke2 Bd2 37. Rh1 Bxc3 38. a3 Bxd4
+39. Qh4 Bf6 40. Qg3 Nxa3 41. Qd6 Be7 42. Qxc6 Rxb4 43. Qxe8+ Bf8 44. Rh8+
+Kxh8 45. Rh2+ Kg8 46. Qe6+ Qf7 47. Qa6 Rb2+ 48. Kd1 Rxh2 49. Qa5 d4 50. Qe1
+Qh7 51. Qg1 Rh1 52. Qxh1 Qxh1+ 53. Kd2 Qh3 54. Kc1 Qd3 55. Kb2 e3 56. Ka2
+e2 57. Kb2 e1=Q 58. Ka2 Qf2+ 59. Ka1 Qd1# 0-1
+

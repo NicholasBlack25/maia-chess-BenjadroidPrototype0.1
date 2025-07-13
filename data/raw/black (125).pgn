@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.16"]
+[Round "-"]
+[White "isacjosh14"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "566"]
+[BlackElo "588"]
+[ECO "B07"]
+[TimeControl "600"]
+[UTCDate "2023.10.16"]
+[UTCTime "20:15:02"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "N1r5/pQ2nk1p/5p1p/1B1p4/3P1Nn1/2b5/1Pbq2PP/2K4R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense"]
+[StartTime "20:15:02"]
+[EndDate "2023.10.16"]
+[EndTime "20:23:50"]
+[Link "https://www.chess.com/game/live/81896856560"]
+
+1. e4 d6 2. Qf3 e6 3. Nh3 Ne7 4. d3 Ng6 5. Bg5 f6 6. Bh6 Ne5 7. Qf4 gxh6 8.
+Nc3 d5 9. exd5 exd5 10. Nb5 Nbc6 11. d4 Ng4 12. Nxc7+ Kf7 13. Nxa8 Bb4+ 14.
+c3 Qa5 15. Rc1 Qxa2 16. Qb8 Rf8 17. Qc7+ Ne7 18. Rc2 Qb1+ 19. Kd2 Bf5 20.
+Nf4 Qxc2+ 21. Ke1 Rc8 22. Qxb7 Qxf2+ 23. Kd1 Bc2+ 24. Kc1 Bxc3 25. Bb5 Qd2#
+0-1
+

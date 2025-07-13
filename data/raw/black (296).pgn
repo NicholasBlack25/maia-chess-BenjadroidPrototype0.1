@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.09.03"]
+[Round "-"]
+[White "erik3636"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "663"]
+[BlackElo "664"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.09.03"]
+[UTCTime "06:36:25"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "7r/ppp4p/8/8/P1Pk2P1/3b1n2/1P1K3P/RN3r2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Modern-Icelandic-Palme-Gambit-4.dxe6"]
+[StartTime "06:36:25"]
+[EndDate "2024.09.03"]
+[EndTime "06:47:59"]
+[Link "https://www.chess.com/game/live/109063250828"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e5 4. dxe6 Bc5 5. exf7+ Kxf7 6. d3 Ng4 7. f3 Nf2
+8. Qe2 Nxh1 9. g4 Bf2+ 10. Kd1 Re8 11. Qd2 Re1+ 12. Kc2 Rxf1 13. Qf4+ Ke7
+14. Qg5+ Ke8 15. Qxg7 Bxg1 16. Bg5 Bd4 17. Qg8+ Kd7 18. Qxd8+ Kc6 19. Qxd4
+Nf2 20. Qf6+ Kd7 21. Qe7+ Kc6 22. Qe8+ Kc5 23. Be7+ Kd4 24. Qd8+ Nd7 25.
+Qh8+ Ne5 26. Bf6 Nxd3 27. Bxe5+ Nxe5 28. a4 Bf5+ 29. Kd2 Rxh8 30. Ke2 Bd3+
+31. Kd2 Nxf3# 0-1
+

@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.09.05"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "itswick3d"]
+[Result "1-0"]
+[WhiteElo "588"]
+[BlackElo "500"]
+[ECO "C42"]
+[TimeControl "600"]
+[UTCDate "2023.09.05"]
+[UTCTime "05:11:41"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "8/p1p2pp1/7p/4R3/2PpQ1Pk/3P3q/PP3P2/2K4R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-3.d3-Nc6"]
+[StartTime "05:11:41"]
+[EndDate "2023.09.05"]
+[EndTime "05:19:19"]
+[Link "https://www.chess.com/game/live/81540976454"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 Nc6 4. Bg5 d6 5. Nc3 Bg4 6. h3 Bh5 7. g4 Bg6 8.
+Bh4 Be7 9. Ne2 d5 10. exd5 Nxd5 11. c4 Bxh4 12. Nxh4 Qxh4 13. Qb3 Nde7 14.
+Qxb7 Rc8 15. Bg2 Nd4 16. Nxd4 exd4 17. Bc6+ Kf8 18. O-O-O Nxc6 19. Qxc8+
+Ke7 20. Qxh8 h6 21. Rhe1+ Kf6 22. Qe8 Kg5 23. Qxc6 Qxh3 24. Re5+ Kh4 25.
+Rh1 Be4 26. Qxe4 1-0
+

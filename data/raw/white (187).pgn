@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.27"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "RyuZakli"]
+[Result "0-1"]
+[WhiteElo "592"]
+[BlackElo "605"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.07.27"]
+[UTCTime "06:13:20"]
+[Termination "RyuZakli won by checkmate"]
+[CurrentPosition "r3k3/pp2p2p/2p1P1pQ/3p2N1/8/4q2P/PPb3P1/n1K2n2 w q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined-El-Columpio-Defense-4.d4"]
+[StartTime "06:13:20"]
+[EndDate "2023.07.27"]
+[EndTime "06:20:25"]
+[Link "https://www.chess.com/game/live/84177537559"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d5 5. h3 Nh6 6. Ng5 Bf5 7. Qh5 g6 8.
+Nxf7 Nxf7 9. Qf3 Nxd4 10. Qc3 Nxc2+ 11. Kd1 Nxa1 12. Bf4 Bc2+ 13. Kc1 c6
+14. Qb4 Bh6 15. Bxh6 Nxh6 16. e6 Qb6 17. Qh4 Nf5 18. Qf4 Rf8 19. Nd2 Ne3
+20. Qh6 Rxf2 21. Nf3 Rxf1+ 22. Rxf1 Nxf1 23. Ng5 Qe3# 0-1
+

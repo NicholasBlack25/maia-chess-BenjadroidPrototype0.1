@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.14"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Alrelio"]
+[Result "0-1"]
+[WhiteElo "691"]
+[BlackElo "667"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.14"]
+[UTCTime "09:09:57"]
+[Termination "Alrelio won by resignation"]
+[CurrentPosition "r3k2r/5ppp/pb2p3/1b1pn3/1P5q/4P3/P4PPP/3R2KR w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.Bf4"]
+[StartTime "09:09:57"]
+[EndDate "2024.01.14"]
+[EndTime "09:17:01"]
+[Link "https://www.chess.com/game/live/95945901304"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Nc6 4. Nc3 a6 5. e3 Nf6 6. Bb5 Bd7 7. Bxa6 bxa6
+8. Ne5 Bb4 9. Qd2 Nxe5 10. dxe5 Ne4 11. Qd4 c5 12. Qd3 Bb5 13. Qd1 Nxc3 14.
+Qg4 Ne2+ 15. Kf1 Nxf4+ 16. Kg1 Ng6 17. c3 Ba5 18. b4 cxb4 19. cxb4 Bb6 20.
+Rd1 Nxe5 21. Qh4 Qxh4 0-1
+

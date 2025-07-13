@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.22"]
+[Round "-"]
+[White "SammySamy"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "491"]
+[BlackElo "502"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2021.03.22"]
+[UTCTime "14:08:15"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/p2k4/2pn4/K7/8/8/r7/1r6 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "14:08:15"]
+[EndDate "2021.03.22"]
+[EndTime "14:16:38"]
+[Link "https://www.chess.com/game/live/10161117839"]
+
+1. e4 d5 2. d3 dxe4 3. dxe4 Qxd1+ 4. Kxd1 Nf6 5. Bb5+ Bd7 6. Be2 Nxe4 7.
+Nc3 Nxf2+ 8. Kd2 Nxh1 9. Ke3 Nc6 10. Ne4 f5 11. Nc5 Nb4 12. Nxb7 e5 13. Nc5
+O-O-O 14. Nxd7 Rxd7 15. Bd2 Bc5+ 16. Kf3 Nxc2 17. Rc1 Rxd2 18. Ba6+ Kd7 19.
+Bc4 e4+ 20. Kf4 Rf8 21. Bb3 g6 22. Bxc2 Rxg2 23. Ba4+ c6 24. Rxc5 Rb8 25.
+Rc1 Rbxb2 26. Nh3 Rxh2 27. Ng1 Rxa2 28. Bb3 Raf2+ 29. Ke3 Rb2 30. Bc4 Ng3
+31. Bg8 Rh1 32. Bxh7 Rxg1 33. Bxg6 Rxc1 34. Bxf5+ Nxf5+ 35. Kxe4 Nd6+ 36.
+Ke5 Re2+ 37. Kd4 Rd1+ 38. Kc5 Rc2+ 39. Kb4 Rb1+ 40. Ka5 Ra2# 0-1
+

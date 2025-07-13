@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.11"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Dopster_X-inactive"]
+[Result "1/2-1/2"]
+[WhiteElo "642"]
+[BlackElo "658"]
+[ECO "D00"]
+[TimeControl "900+10"]
+[UTCDate "2023.06.11"]
+[UTCTime "21:56:53"]
+[Termination "Game drawn by repetition"]
+[CurrentPosition "1k6/ppb5/8/3R1P2/8/7r/7P/7K w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Diemer-Vienna-Variation"]
+[StartTime "21:56:53"]
+[EndDate "2023.06.11"]
+[EndTime "22:15:09"]
+[Link "https://www.chess.com/game/live/80259646929"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. Bb5+ c6 6. Bf4 Qa5 7. b4 Qa3 8.
+Qd2 cxb5 9. Nxb5 Qb2 10. Nc7+ Kd8 11. Rc1 e3 12. Qxe3 Qxb4+ 13. c3 Qc4 14.
+Nxa8 Nd5 15. Qe5 e6 16. Bg5+ f6 17. Bxf6+ gxf6 18. Qxb8+ Qc8 19. Qxc8+ Kxc8
+20. Ne2 Ba3 21. Rd1 Kb8 22. Nb6 Nxb6 23. Nf4 Nd5 24. Nxd5 exd5 25. O-O Bb2
+26. a4 Bxc3 27. f4 Bc2 28. Rc1 Bxd4+ 29. Kh1 Bxa4 30. Rfe1 f5 31. Re7 Bb6
+32. Rf7 h5 33. Rxf5 h4 34. Rxd5 h3 35. gxh3 Bc6 36. Rd1 Bxd5+ 37. Rxd5 Rxh3
+38. f5 Bc7 39. Rd2 Rf3 40. Rd5 Rh3 41. Rd2 Ba5 42. Rd5 Bc7 1/2-1/2
+

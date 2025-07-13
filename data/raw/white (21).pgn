@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Emirhaneffe"]
+[Result "1-0"]
+[WhiteElo "704"]
+[BlackElo "682"]
+[ECO "A46"]
+[TimeControl "600"]
+[UTCDate "2024.03.06"]
+[UTCTime "18:14:32"]
+[Termination "BenjaminVega10 won on time"]
+[CurrentPosition "3q4/pp6/8/k5P1/2Kb3r/5P2/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-Tartakower-Defense-3.Nc3"]
+[StartTime "18:14:32"]
+[EndDate "2024.03.06"]
+[EndTime "18:33:38"]
+[Link "https://www.chess.com/game/live/101445434218"]
+
+1. d4 d6 2. Nf3 Nf6 3. Nc3 c5 4. e3 Qa5 5. Bc4 Ne4 6. O-O Nxc3 7. Qd3 Na4
+8. Ng5 g6 9. Nxf7 Bf5 10. e4 Rg8 11. exf5 gxf5 12. Qxf5 Qc7 13. Qxh7 Rg7
+14. Qf5 Nb6 15. Bh6 Rg8 16. Ne5 Bxh6 17. Bxg8 dxe5 18. dxe5 Nc6 19. Qf7+
+Kd7 20. e6+ Kd6 21. Rad1+ Nd4 22. c3 Kc6 23. cxd4 c4 24. b4 c3 25. d5+ Kb5
+26. a3 Ka4 27. Qh7 Bg5 28. Qc2+ Kb5 29. Bh7 Bf4 30. g3 Bg5 31. Bd3+ Nc4 32.
+Qa4+ Kxa4 33. Bxc4 Qxc4 34. d6 Qxe6 35. Rfe1 Qb3 36. d7 Rd8 37. Rd3 Qxa3
+38. Re5 Qa1+ 39. Kg2 Bf6 40. Re4 c2 41. b5+ Ka5 42. Ree3 c1=Q 43. Ra3+
+Qcxa3 44. Rxa3+ Qxa3 45. h4 e5 46. g4 Qc1 47. f3 Qc2+ 48. Kg3 Qc4 49. g5
+Be7 50. Kh3 Qxb5 51. Kg4 Qxd7+ 52. Kh5 Rh8+ 53. Kg6 Qe8+ 54. Kf5 Qf8+ 55.
+Ke4 Rxh4+ 56. Kxe5 Bf6+ 57. Kf5 Bd4+ 58. Ke6 Qe8+ 59. Kd5 Qd8+ 60. Kc4 1-0
+

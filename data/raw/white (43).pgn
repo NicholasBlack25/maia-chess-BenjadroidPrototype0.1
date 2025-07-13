@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.11"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "anuragnarwani"]
+[Result "1-0"]
+[WhiteElo "732"]
+[BlackElo "693"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.01.11"]
+[UTCTime "10:52:10"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "6n1/3Q4/5pkp/8/4PN2/8/PPP1qPr1/2KR4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3"]
+[StartTime "10:52:10"]
+[EndDate "2024.01.11"]
+[EndTime "11:07:38"]
+[Link "https://www.chess.com/game/live/98709314385"]
+
+1. d4 e6 2. Nf3 Qf6 3. e4 d6 4. Bg5 Qg6 5. Bb5+ c6 6. Bd3 h6 7. Bf4 Qxg2 8.
+Rf1 e5 9. dxe5 dxe5 10. Bxe5 Bh3 11. Nc3 Bg4 12. Be2 f6 13. Bf4 Na6 14. Nh4
+Qh3 15. Ng6 Rd8 16. Bd2 Rh7 17. Nxf8 Kxf8 18. Bxg4 Qxh2 19. Bf5 g6 20. Bxg6
+Rg7 21. Bh5 Rg1 22. Qe2 Rg7 23. O-O-O Nb4 24. Qc4 a5 25. Na4 Qxh5 26. Bxb4+
+axb4 27. Qxb4+ Ke8 28. Qxb7 Rxd1+ 29. Rxd1 Qe2 30. Qxc6+ Kf8 31. Nc5 Rg2
+32. Ne6+ Kf7 33. Qd7+ Kg6 34. Nf4+ 1-0
+

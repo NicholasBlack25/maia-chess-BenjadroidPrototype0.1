@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.23"]
+[Round "-"]
+[White "waly190"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "561"]
+[BlackElo "535"]
+[ECO "C21"]
+[TimeControl "600"]
+[UTCDate "2023.10.23"]
+[UTCTime "05:42:07"]
+[Termination "waly190 won by resignation"]
+[CurrentPosition "8/p7/2kpbQ2/1p2R3/8/1P6/P1P2P1P/3R2K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Center-Game"]
+[StartTime "05:42:07"]
+[EndDate "2023.10.23"]
+[EndTime "05:53:55"]
+[Link "https://www.chess.com/game/live/81955904408"]
+
+1. e4 e5 2. d4 f6 3. dxe5 fxe5 4. Nf3 Nc6 5. Ng5 Be7 6. Bc4 Bxg5 7. Qh5+ g6
+8. Bxg5 Nce7 9. Qf3 Nf5 10. Bxd8 Kxd8 11. exf5 Nh6 12. O-O Rf8 13. g4 d6
+14. Nc3 gxf5 15. gxf5 Nxf5 16. Nd5 Be6 17. Rad1 c6 18. Rfe1 b5 19. b3 Rf7
+20. Bxb5 Nh4 21. Qg3 cxb5 22. Qxh4+ Kd7 23. Nf6+ Ke7 24. Nxh7+ Kd7 25. Rxe5
+Rh8 26. Nf6+ Kc6 27. Qxh8 Rxf6 28. Qxf6 1-0
+

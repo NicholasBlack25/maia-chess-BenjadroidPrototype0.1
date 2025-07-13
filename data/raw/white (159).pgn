@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "ezezzzzza"]
+[Result "0-1"]
+[WhiteElo "613"]
+[BlackElo "657"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2023.07.01"]
+[UTCTime "09:56:56"]
+[Termination "ezezzzzza won by checkmate"]
+[CurrentPosition "q2K4/7r/8/3n4/3k4/8/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation-3.e3"]
+[StartTime "09:56:56"]
+[EndDate "2023.07.01"]
+[EndTime "10:08:24"]
+[Link "https://www.chess.com/game/live/81944421931"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 e5 4. dxe5 Bb4+ 5. c3 Ba5 6. b4 Bb6 7. Be2 a5 8.
+bxa5 Rxa5 9. h4 f6 10. exf6 gxf6 11. Bd2 f5 12. c4 Rc5 13. Qa4 Be6 14. Nc3
+dxc4 15. Nb5 Nf6 16. O-O-O Rg8 17. Bb4 Rd5 18. Bxc4 Rxd1+ 19. Rxd1 Qc8 20.
+Bxe6 Qxe6 21. Qa8+ Kf7 22. Qxb7 Nxb4 23. Nxc7 Bxc7 24. Qxc7+ Nd7 25. Rxd7+
+Kf6 26. Nd4 Qe4 27. Rxh7 Rxg2 28. Qf7+ Ke5 29. h5 Rxf2 30. h6 Qxe3+ 31. Kb1
+Rf1+ 32. Kb2 Qd2+ 33. Ka3 Qc3+ 34. Ka4 Qxd4 35. Qe7+ Kf4 36. Qc7+ Ke4 37.
+Re7+ Kd3 38. Rd7 Nd5+ 39. Ka5 Nxc7 40. Rxd4+ Kxd4 41. h7 Rh1 42. Kb6 Nd5+
+43. Kc6 f4 44. a3 f3 45. a4 f2 46. a5 f1=Q 47. a6 Qxa6+ 48. Kd7 Rxh7+ 49.
+Kd8 Qa8# 0-1
+

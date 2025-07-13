@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "samad2592"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "546"]
+[BlackElo "586"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2023.06.03"]
+[UTCTime "06:18:10"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "6k1/8/8/8/8/8/q7/4K2q w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation"]
+[StartTime "06:18:10"]
+[EndDate "2023.06.03"]
+[EndTime "06:25:39"]
+[Link "https://www.chess.com/game/live/79512038077"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. Bb5 Bb4 6. Bg5 Bg4 7. O-O O-O 8.
+Bxf6 Qxf6 9. dxe5 Nxe5 10. Be2 Bxc3 11. bxc3 h5 12. Nxe5 Qxe5 13. Bxg4 hxg4
+14. Qxg4 Qxc3 15. exd5 Qxc2 16. Rad1 Qxa2 17. d6 Qe6 18. Qxe6 fxe6 19. dxc7
+a5 20. Rfe1 a4 21. Rxe6 Rac8 22. Rc1 a3 23. Rb6 a2 24. g4 Rxc7 25. Ra1 Rc2
+26. Rxb7 Rfxf2 27. Rd7 Rxh2 28. Rdd1 Rcg2+ 29. Kf1 Rxg4 30. Ke1 Rh1+ 31.
+Kd2 Rxd1+ 32. Rxd1 Rd4+ 33. Ke1 Rxd1+ 34. Kxd1 a1=Q+ 35. Kd2 g5 36. Ke3
+Qa3+ 37. Ke4 g4 38. Kf4 g3 39. Kg4 g2 40. Kf4 g1=Q 41. Ke4 Qg4+ 42. Ke5
+Qa5+ 43. Kd6 Qg6+ 44. Kd7 Qa7+ 45. Kd8 Qa8+ 46. Kd7 Qf7+ 47. Kd6 Qa6+ 48.
+Ke5 Qh5+ 49. Kd4 Qa4+ 50. Kd3 Qh3+ 51. Kd2 Qa2+ 52. Ke1 Qh1# 0-1
+

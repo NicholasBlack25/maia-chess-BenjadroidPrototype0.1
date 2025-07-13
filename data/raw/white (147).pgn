@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.23"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "chess_masterr1913"]
+[Result "0-1"]
+[WhiteElo "525"]
+[BlackElo "476"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.10.23"]
+[UTCTime "05:53:54"]
+[Termination "chess_masterr1913 won by resignation"]
+[CurrentPosition "r2k4/p2r2p1/1pp2b2/4p3/8/3q4/5P1P/1K6 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-2.e3"]
+[StartTime "05:53:54"]
+[EndDate "2023.10.23"]
+[EndTime "06:00:54"]
+[Link "https://www.chess.com/game/live/81955963328"]
+
+1. d4 Nf6 2. e3 b6 3. Nc3 Bb7 4. Bc4 Bxg2 5. Nh3 Bxh1 6. Ng5 Qc8 7. Bxf7+
+Kd8 8. Bb3 Rg8 9. Qd3 e6 10. Nb5 h6 11. e4 hxg5 12. Bxg5 Bxe4 13. Qe3 Bc6
+14. O-O-O Bxb5 15. Bxe6 dxe6 16. c3 Be7 17. Bxf6 Bxf6 18. Qh3 Qa6 19. Qh7
+Re8 20. d5 e5 21. d6 c6 22. b3 Qxa2 23. Qf5 Qxb3 24. d7 Qxc3+ 25. Kb1 Re7
+26. Rd6 Nxd7 27. Rxd7+ Rxd7 28. Qh7 Bd3+ 29. Qxd3 Qxd3+ 0-1
+

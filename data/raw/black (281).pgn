@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.26"]
+[Round "-"]
+[White "NiklasEmhart"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "597"]
+[BlackElo "484"]
+[ECO "A10"]
+[TimeControl "600"]
+[UTCDate "2021.02.26"]
+[UTCTime "13:23:52"]
+[Termination "NiklasEmhart won by checkmate"]
+[CurrentPosition "r4r1k/6R1/b1p3NB/p1n5/1p6/3B4/6K1/2Q5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Anglo-Scandinavian-Defense-2.cxd5-Qxd5-3.Nc3"]
+[StartTime "13:23:52"]
+[EndDate "2021.02.26"]
+[EndTime "13:41:47"]
+[Link "https://www.chess.com/game/live/8084701975"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qe5 4. e4 Nf6 5. d4 Qe6 6. d5 Nxd5 7. Nxd5
+Qxe4+ 8. Ne3 Qb4+ 9. Bd2 Qxb2 10. Bc1 Qxa1 11. Bb5+ c6 12. Bc4 Qc3+ 13. Bd2
+Qe5 14. g3 Qc5 15. Nf3 b5 16. Bf1 Na6 17. h4 Nb4 18. Ng5 Nxa2 19. f4 Nc3
+20. Qc1 b4 21. Rh2 e5 22. fxe5 Qxe5 23. Rg2 f6 24. Nf3 Qe4 25. Rf2 g5 26.
+hxg5 fxg5 27. g4 Bd6 28. Nxg5 Qe5 29. Nf7 O-O 30. Nxe5 Bxe5 31. Rg2 Rf4 32.
+Nc4 Re4+ 33. Kf2 Bd4+ 34. Kf3 Re8 35. g5 a5 36. g6 hxg6 37. Rxg6+ Bg7 38.
+Bh6 Rf8+ 39. Kg3 Ne4+ 40. Kg2 Kh7 41. Rxg7+ Kh8 42. Bd3 Nc5 43. Ne5 Ba6 44.
+Ng6# 1-0
+

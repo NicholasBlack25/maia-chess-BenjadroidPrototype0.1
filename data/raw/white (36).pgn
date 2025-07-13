@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "gallisam"]
+[Result "1-0"]
+[WhiteElo "723"]
+[BlackElo "704"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.07"]
+[UTCTime "01:55:40"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r3qr1k/p5Qp/2p5/8/1n6/1P2P3/PB3PPP/5RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...Bf5"]
+[StartTime "01:55:40"]
+[EndDate "2024.01.07"]
+[EndTime "02:00:12"]
+[Link "https://www.chess.com/game/live/98331343059"]
+
+1. d4 d5 2. Nf3 Bf5 3. Ne5 e6 4. e3 Na6 5. Bd3 Bd6 6. Bxf5 exf5 7. Nf3 Nf6
+8. O-O O-O 9. Qd3 Nb4 10. Qxf5 Qc8 11. Qg5 Nxc2 12. Ne5 Ne4 13. Qf4 f6 14.
+Nc3 Nxa1 15. Nxe4 Bxe5 16. dxe5 fxe5 17. Qxe5 dxe4 18. Qxe4 Qe8 19. Qd5+
+Kh8 20. b3 Nc2 21. Bb2 Nb4 22. Qxb7 c6 23. Qxg7# 1-0
+

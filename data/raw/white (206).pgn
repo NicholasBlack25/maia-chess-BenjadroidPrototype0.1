@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "tonirocavanrell"]
+[Result "1-0"]
+[WhiteElo "671"]
+[BlackElo "654"]
+[ECO "D04"]
+[TimeControl "600"]
+[UTCDate "2023.06.07"]
+[UTCTime "09:13:43"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "6r1/2k2KP1/5P2/3p4/3P4/2P4P/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Colle-System-3...Bg4"]
+[StartTime "09:13:43"]
+[EndDate "2023.06.07"]
+[EndTime "09:27:38"]
+[Link "https://www.chess.com/game/live/79868372563"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 Bg4 4. Nc3 e6 5. h3 Bh5 6. g4 Bg6 7. Ne5 Be4 8.
+Bb5+ c6 9. Nxe4 Nxe4 10. Nxc6 bxc6 11. Qd3 Qa5+ 12. c3 cxb5 13. O-O Be7 14.
+f3 Ng3 15. Rf2 Nc6 16. e4 O-O-O 17. Rg2 Bd6 18. exd5 exd5 19. Rxg3 Bxg3 20.
+Qf5+ Rd7 21. Bd2 Bh4 22. Bg5 g6 23. Qf6 Qd8 24. Bxh4 Rf8 25. Qxc6+ Qc7 26.
+Qxb5 h6 27. Re1 g5 28. Qa6+ Kd8 29. Re6 fxe6 30. Qxe6 gxh4 31. Qxh6 Re8 32.
+Qxh4+ Kc8 33. g5 Re1+ 34. Kf2 Re6 35. f4 Qd8 36. f5 Re8 37. f6 Rf7 38. a4
+Rg8 39. Kg3 Qc7+ 40. Kg4 Qa5 41. Qh5 Qxa4 42. Qxf7 Qd1+ 43. Kf5 Rd8 44.
+Qxa7 Qc2+ 45. Ke6 Qxb2 46. Qa6+ Qb7 47. Qxb7+ Kxb7 48. g6 Kc7 49. g7 Rg8
+50. Kf7 1-0
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.27"]
+[Round "-"]
+[White "Suri_Leo"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "638"]
+[BlackElo "614"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.27"]
+[UTCTime "07:53:02"]
+[Termination "Suri_Leo won by checkmate"]
+[CurrentPosition "r1bq1rk1/ppp2ppQ/2nb4/4p1N1/2B5/2N5/PPPP1PPP/R1B1R1K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.Bc4-Nf6-5.Nf3"]
+[StartTime "07:53:02"]
+[EndDate "2023.06.27"]
+[EndTime "07:55:11"]
+[Link "https://www.chess.com/game/live/81591287869"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 Nf6 5. Nf3 Nc6 6. Ng5 e6 7. O-O Ng4
+8. Qxg4 Bd6 9. Re1 O-O 10. Qh3 e5 11. Qxh7# 1-0
+

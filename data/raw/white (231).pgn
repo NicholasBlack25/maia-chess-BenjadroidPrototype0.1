@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.13"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "LORENZO3NO"]
+[Result "0-1"]
+[WhiteElo "647"]
+[BlackElo "650"]
+[ECO "C26"]
+[TimeControl "600"]
+[UTCDate "2023.06.13"]
+[UTCTime "11:40:20"]
+[Termination "LORENZO3NO won by checkmate"]
+[CurrentPosition "7R/p2kb3/3p3P/4p3/1nP1Kr2/4B3/4r3/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Variation-3.d4-exd4"]
+[StartTime "11:40:20"]
+[EndDate "2023.06.13"]
+[EndTime "11:45:48"]
+[Link "https://www.chess.com/game/live/80395339275"]
+
+1. e4 Nf6 2. Nc3 e5 3. d4 exd4 4. Nd5 Nxd5 5. exd5 Qf6 6. Nf3 d6 7. Bb5+ c6
+8. dxc6 bxc6 9. Qd3 cxb5 10. Qxb5+ Bd7 11. Qb7 Qe6+ 12. Be3 Bc6 13. Ng5
+Bxb7 14. Nxe6 fxe6 15. O-O-O Bxg2 16. Rhg1 Bf3 17. Rxd4 e5 18. Rdg4 Bxg4
+19. Rxg4 Be7 20. Rxg7 Rf8 21. Rxh7 Nc6 22. Bh6 Rf6 23. h4 Nb4 24. Kd2 Nxa2
+25. c4 Rb8 26. Be3 Rxb2+ 27. Kd3 Nb4+ 28. Ke4 Re2 29. h5 Rfxf2 30. Rh8+ Kd7
+31. h6 Rf4# 0-1
+

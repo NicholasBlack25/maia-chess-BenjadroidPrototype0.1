@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.17"]
+[Round "-"]
+[White "connordknowles"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "729"]
+[BlackElo "698"]
+[ECO "A25"]
+[TimeControl "600"]
+[UTCDate "2024.01.17"]
+[UTCTime "17:42:48"]
+[Termination "connordknowles won by checkmate"]
+[CurrentPosition "8/8/8/5Q2/6k1/3B2PR/6K1/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Reversed-Sicilian-Closed-3.e3"]
+[StartTime "17:42:48"]
+[EndDate "2024.01.17"]
+[EndTime "17:50:26"]
+[Link "https://www.chess.com/game/live/99252356371"]
+
+1. c4 Nc6 2. e3 e5 3. Nc3 Bc5 4. a3 d6 5. b4 Nxb4 6. axb4 Bxb4 7. Qa4+ Bd7
+8. Qxb4 Nf6 9. Qxb7 O-O 10. Rxa7 Rxa7 11. Qxa7 d5 12. Nxd5 Nxd5 13. cxd5
+Bf5 14. Ba3 Qxd5 15. Bxf8 Kxf8 16. Qb8+ Ke7 17. Qxc7+ Kf6 18. Nf3 e4 19.
+Nh4 Bg4 20. Qb6+ Kg5 21. Qb5 Qxb5 22. Bxb5 Kxh4 23. O-O f5 24. Rc1 g5 25.
+Rc7 f4 26. Rxh7+ Bh5 27. g3+ fxg3 28. fxg3+ Kh3 29. Rxh5+ Kg4 30. Rh6 Kf3
+31. Rh5 g4 32. h3 gxh3 33. Rxh3 Kg4 34. Kg2 Kf5 35. d3 exd3 36. Bxd3+ Kg4
+37. e4 Kg5 38. e5 Kg4 39. e6 Kg5 40. e7 Kg4 41. e8=Q Kg5 42. Qe5+ Kg4 43.
+Qf5# 1-0
+

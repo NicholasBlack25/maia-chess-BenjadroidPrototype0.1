@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "andriseportb"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "576"]
+[BlackElo "616"]
+[ECO "D07"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "06:58:37"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/1Rp5/5k2/p4p1p/8/P1P2P2/3r3r/6RK w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Chigorin-Janowski-Variation-4...Nf6-5.e4"]
+[StartTime "06:58:37"]
+[EndDate "2023.06.12"]
+[EndTime "07:02:07"]
+[Link "https://www.chess.com/game/live/80292055169"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. Nc3 Nc6 5. Nf3 e5 6. Be3 Bg4 7. Bxc4 exd4
+8. Bxf7+ Kxf7 9. Bxd4 Nxd4 10. Qxd4 Qxd4 11. Nxd4 Bb4 12. O-O Rad8 13. Nf5
+Rhe8 14. f3 Bxc3 15. bxc3 Bxf5 16. exf5 a5 17. g4 h5 18. g5 g6 19. gxf6
+gxf5 20. Rab1 Rg8+ 21. Kh1 Rd2 22. a3 Kxf6 23. Rxb7 Rgg2 24. Rg1 Rxh2# 0-1
+

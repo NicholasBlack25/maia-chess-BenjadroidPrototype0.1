@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Draco1_1"]
+[Result "1/2-1/2"]
+[WhiteElo "573"]
+[BlackElo "609"]
+[ECO "D02"]
+[TimeControl "1800"]
+[UTCDate "2023.10.12"]
+[UTCTime "15:23:58"]
+[Termination "Game drawn by stalemate"]
+[CurrentPosition "8/8/K1k5/P1b5/8/8/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation"]
+[StartTime "15:23:58"]
+[EndDate "2023.10.12"]
+[EndTime "15:59:44"]
+[Link "https://www.chess.com/game/live/90863350355"]
+
+1. d4 d5 2. Nf3 Qd6 3. g3 Bg4 4. Bf4 Qh6 5. Bxh6 gxh6 6. Ne5 Nf6 7. Nxg4
+Nxg4 8. e3 h5 9. h3 Rg8 10. hxg4 hxg4 11. Rh5 Rg6 12. Rxd5 Nc6 13. Qd3 Rh6
+14. Qb3 e6 15. Qxb7 Bb4+ 16. c3 exd5 17. Qxc6+ Rxc6 18. a3 Be7 19. Bb5 Kd7
+20. Bxc6+ Kxc6 21. Nd2 h5 22. O-O-O h4 23. gxh4 Bxh4 24. Rf1 Rg8 25. f3 Re8
+26. e4 dxe4 27. fxe4 Rf8 28. Rh1 Bf2 29. d5+ Kb7 30. Nc4 Re8 31. Na5+ Kb6
+32. Nc4+ Kc5 33. Nd2 f5 34. exf5 Kxd5 35. f6 Ke6 36. Rh6 g3 37. Ne4 g2 38.
+Ng5+ Kf5 39. Nh3 g1=Q+ 40. Nxg1 Bxg1 41. f7 Rf8 42. Rh7 Be3+ 43. Kc2 Kf6
+44. b4 Rxf7 45. Rxf7+ Kxf7 46. c4 c5 47. Kb3 Bc1 48. bxc5 Ke7 49. a4 Kd7
+50. Kb4 Kc7 51. Kb5 Be3 52. c6 Bf4 53. a5 Be3 54. c5 Bf4 55. Ka6 Be3 56.
+Kxa7 Bxc5+ 57. Ka6 Kxc6 1/2-1/2
+

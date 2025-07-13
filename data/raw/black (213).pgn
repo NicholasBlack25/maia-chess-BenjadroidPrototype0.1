@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "solodud3"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "556"]
+[BlackElo "607"]
+[ECO "C21"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "08:51:12"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r3k2r/pppbqppp/7n/1B2P3/1b1nNP2/4B1P1/PPP1Q2P/2KR2NR b kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Center-Game"]
+[StartTime "08:51:12"]
+[EndDate "2023.06.12"]
+[EndTime "08:55:29"]
+[Link "https://www.chess.com/game/live/80298718593"]
+
+1. e4 e5 2. d4 d5 3. dxe5 Nc6 4. f4 dxe4 5. Nc3 Bc5 6. Nxe4 Qh4+ 7. g3 Bb4+
+8. Bd2 Qe7 9. Bb5 Bd7 10. Qe2 Nh6 11. O-O-O Nd4 12. Be3 0-1
+

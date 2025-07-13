@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.18"]
+[Round "-"]
+[White "TheHUD18"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "651"]
+[BlackElo "559"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2023.10.18"]
+[UTCTime "18:07:20"]
+[Termination "TheHUD18 won by resignation"]
+[CurrentPosition "1k6/2p2ppp/8/1p6/p7/8/PP4PP/RK1Q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation"]
+[StartTime "18:07:20"]
+[EndDate "2023.10.18"]
+[EndTime "18:12:49"]
+[Link "https://www.chess.com/game/live/81914862398"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 d5 5. exd5 Nxd5 6. Nxd5 e4 7. Ng1 a6
+8. d3 exd3 9. cxd3 b5 10. Bb3 Nb4 11. Nxb4 Bxb4+ 12. Bd2 Bg4 13. Qxg4 Qxd3
+14. Qxb4 O-O-O 15. Nf3 Rhe8+ 16. Kd1 Qe2+ 17. Kc1 Qxf2 18. Qg4+ Kb8 19. Kc2
+Re2 20. Rhe1 Rexd2+ 21. Nxd2 Qxd2+ 22. Kb1 a5 23. Rd1 Qxd1+ 24. Bxd1 Rxd1+
+25. Qxd1 a4 1-0
+

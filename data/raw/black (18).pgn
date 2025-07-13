@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.09"]
+[Round "-"]
+[White "fclangaro"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "737"]
+[BlackElo "713"]
+[ECO "A06"]
+[TimeControl "600"]
+[UTCDate "2024.02.09"]
+[UTCTime "21:39:36"]
+[Termination "fclangaro won by checkmate"]
+[CurrentPosition "r5kr/1p3pQp/p2R1n2/1B2pNp1/4p3/4P3/2P2P1P/R5K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-1...d5"]
+[StartTime "21:39:36"]
+[EndDate "2024.02.09"]
+[EndTime "21:44:53"]
+[Link "https://www.chess.com/game/live/101253746261"]
+
+1. Nf3 d5 2. Nc3 c6 3. d4 Bf5 4. e3 Na6 5. Nh4 Be4 6. Nxe4 dxe4 7. Be2 Nf6
+8. O-O c5 9. dxc5 Qc7 10. Re1 Qxc5 11. a3 e5 12. b4 Nxb4 13. axb4 Qxb4 14.
+Ba3 Qa4 15. Bxf8 Qb5 16. Bxb5+ Kxf8 17. Re2 Ke7 18. Rd2 g5 19. Nf5+ Ke6 20.
+g4 Nxg4 21. Ng7+ Kf6 22. Nh5+ Kg6 23. Ng3 a6 24. Rd6+ Nf6 25. Qh5+ Kg7 26.
+Nf5+ Kf8 27. Qh6+ Kg8 28. Qg7# 1-0
+

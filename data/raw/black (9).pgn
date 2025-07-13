@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.04.08"]
+[Round "-"]
+[White "V8DXNT"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "714"]
+[BlackElo "729"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2024.04.08"]
+[UTCTime "07:17:54"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "2kr3r/pp5p/2b5/2Q5/8/6qP/PP6/3R1RK1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5"]
+[StartTime "07:17:54"]
+[EndDate "2024.04.08"]
+[EndTime "07:21:02"]
+[Link "https://www.chess.com/game/live/106299466473"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 c6 4. dxc6 Nxc6 5. Nf3 e5 6. Bb5 Bd7 7. Bxc6
+Bxc6 8. O-O Bc5 9. d3 Qb6 10. Be3 Ng4 11. h3 Nxe3 12. fxe3 Bxe3+ 13. Kh2
+Bf4+ 14. g3 Qe3 15. Ne4 g5 16. Nexg5 Bxg5 17. Nxg5 Qxg5 18. Qf3 O-O-O 19.
+Qxf7 Qd2+ 20. Kg1 Qxc2 21. Qf5+ Bd7 22. Qxe5 Qxd3 23. Qc5+ Bc6 24. Rad1
+Qxg3# 0-1
+

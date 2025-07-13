@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "tropicalcider"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "635"]
+[BlackElo "677"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "07:57:22"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "2k1r3/5ppp/2K5/8/8/q1P5/P1P4P/R7 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation"]
+[StartTime "07:57:22"]
+[EndDate "2023.06.08"]
+[EndTime "08:06:21"]
+[Link "https://www.chess.com/game/live/79950034645"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. dxe5 Nxe5 6. exd5 Nxf3+ 7. gxf3
+Bb4 8. Bc4 Bf5 9. Bg5 Bxc3+ 10. bxc3 c6 11. Qe2+ Kf8 12. Bxf6 Qxf6 13. dxc6
+Qxc6 14. Qe5 Qxf3 15. Qc5+ Ke8 16. Qb5+ Bd7 17. Qe5+ Kd8 18. Bd5 Qg4 19.
+Kd2 Re8 20. Qd6 Qg5+ 21. Kd3 Rc8 22. Bxb7 Qf5+ 23. Kd4 Qg4+ 24. Kd5 Qe2 25.
+Bxc8 Kxc8 26. Qc5+ Kd8 27. Kd6 Qd2+ 28. Qd5 Qxf2 29. Qa8+ Bc8 30. Qxa7 Qxa7
+31. Rhd1 Qa3+ 32. Kc6+ Bd7+ 33. Rxd7+ Kc8 34. Rc7+ Kd8 35. Rc8+ Kxc8 0-1
+

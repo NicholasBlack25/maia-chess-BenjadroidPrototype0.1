@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "alvarorv90"]
+[Result "0-1"]
+[WhiteElo "675"]
+[BlackElo "696"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.12.06"]
+[UTCTime "19:21:24"]
+[Termination "alvarorv90 won by checkmate"]
+[CurrentPosition "4kr2/2pp2p1/1p2p1Pp/3b1p1P/1QnKq3/2P5/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-2.d4-e6-3.Nc3-Bb4"]
+[StartTime "19:21:24"]
+[EndDate "2023.12.06"]
+[EndTime "19:31:37"]
+[Link "https://www.chess.com/game/live/94211900616"]
+
+1. d4 Nc6 2. Nc3 e6 3. e4 Bb4 4. Bd2 Bxc3 5. Bxc3 Nf6 6. e5 Ne4 7. Nf3 h6
+8. Bd3 Ng5 9. h4 Nxf3+ 10. Qxf3 b6 11. O-O-O a5 12. g4 a4 13. b3 axb3 14.
+axb3 Qe7 15. h5 Qa3+ 16. Bb2 Qb4 17. c3 Qxb3 18. Bc2 Qa2 19. Kd2 Qxb2 20.
+Qf4 Qb5 21. g5 Ra2 22. g6 f5 23. Ra1 Rxa1 24. Rxa1 Bb7 25. Ba4 Qb2+ 26. Bc2
+Qxa1 27. Qh4 Rf8 28. d5 Nxe5 29. Qb4 Bxd5 30. f4 Nc4+ 31. Kd3 Qf1+ 32. Kd4
+Qxf4+ 33. Be4 Qxe4# 0-1
+

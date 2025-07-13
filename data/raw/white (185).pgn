@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.23"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "shahtaha"]
+[Result "0-1"]
+[WhiteElo "602"]
+[BlackElo "598"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.07.23"]
+[UTCTime "23:54:40"]
+[Termination "shahtaha won by checkmate"]
+[CurrentPosition "r1b1k2r/ppRp3p/5n2/4p2q/7K/6PB/P6P/7R w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation"]
+[StartTime "23:54:40"]
+[EndDate "2023.07.24"]
+[EndTime "00:01:38"]
+[Link "https://www.chess.com/game/live/83895556461"]
+
+1. e4 e5 2. d3 Bc5 3. Nf3 Nc6 4. g3 Qf6 5. Bg5 Qd6 6. Nc3 Nd4 7. Qd2 Nxf3+
+8. Ke2 Nxd2 9. Kxd2 Bxf2 10. Bh3 f6 11. Bh4 g5 12. Raf1 Bd4 13. Nb5 Qb4+
+14. c3 Bxc3+ 15. Nxc3 Qxb2+ 16. Ke3 Qxc3 17. Bxg5 Qd4+ 18. Kf3 fxg5 19. Rc1
+Qxd3+ 20. Kg4 Qxe4+ 21. Kxg5 Qg6+ 22. Kh4 Nf6 23. Rxc7 Qh5# 0-1
+

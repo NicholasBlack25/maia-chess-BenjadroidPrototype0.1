@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.29"]
+[Round "-"]
+[White "karimbagheri1"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "767"]
+[BlackElo "747"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.12.29"]
+[UTCTime "10:45:21"]
+[Termination "karimbagheri1 won by checkmate"]
+[CurrentPosition "4Q1k1/8/7Q/6p1/8/p4P2/3r2PP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "10:45:21"]
+[EndDate "2023.12.29"]
+[EndTime "10:53:41"]
+[Link "https://www.chess.com/game/live/97585796511"]
+
+1. e4 d5 2. f3 Nf6 3. e5 Nh5 4. Qe2 Nc6 5. Qe3 Nb4 6. Bd3 e6 7. Qd4 Qh4+ 8.
+Qxh4 Bc5 9. Ne2 d4 10. Na3 b6 11. Nc4 Ba6 12. Nf4 Bxc4 13. a3 Nxf4 14. Qxf4
+Bxd3 15. axb4 Bxb4 16. cxd3 a5 17. Qxd4 O-O 18. b3 Rfd8 19. Qe4 c5 20. Ba3
+f5 21. Qh4 Rxd3 22. Bxb4 Rxb3 23. Bc3 b5 24. Qe7 b4 25. Qxe6+ Kh8 26. Qxb3
+bxc3 27. Qxc3 a4 28. Qxc5 a3 29. O-O g5 30. e6 Re8 31. Qxf5 h6 32. Qg6 Rd8
+33. e7 Rxd2 34. Qxh6+ Kg8 35. e8=Q# 1-0
+

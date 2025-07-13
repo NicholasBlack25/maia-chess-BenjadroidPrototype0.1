@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.21"]
+[Round "-"]
+[White "Facuen"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "632"]
+[BlackElo "691"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.11.21"]
+[UTCTime "01:34:37"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/4k2p/bp2p3/p1prKpN1/P7/1PP5/2B2r1P/4R3 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Chigorin-Variation-2...d5-3.exd5-Qxd5-4.Nc3"]
+[StartTime "01:34:37"]
+[EndDate "2023.11.21"]
+[EndTime "01:40:39"]
+[Link "https://www.chess.com/game/live/94077085140"]
+
+1. e4 d5 2. exd5 Qxd5 3. Qe2 e6 4. Nc3 Qf5 5. Qf3 Qxc2 6. Ne4 Ba3 7. Qxa3
+Qxe4+ 8. Qe3 Nf6 9. Qxe4 Nxe4 10. Bc4 Nc6 11. a4 Nb4 12. b3 Nc2+ 13. Ke2
+Nxa1 14. Bb2 Nc2 15. Bd3 Nb4 16. Bxe4 f5 17. Bxg7 Rg8 18. Bc3 a5 19. Bc2 b6
+20. Nf3 Ba6+ 21. Ke3 Nd5+ 22. Kd4 Nxc3 23. dxc3 Rd8+ 24. Ke3 Rxg2 25. Kf4
+c5 26. Re1 Ke7 27. Ng5 Rxf2+ 28. Ke5 Rd5# 0-1
+

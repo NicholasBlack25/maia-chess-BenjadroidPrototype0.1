@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.09.26"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "mohss11v"]
+[Result "0-1"]
+[WhiteElo "585"]
+[BlackElo "530"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.09.26"]
+[UTCTime "15:35:18"]
+[Termination "mohss11v won by checkmate"]
+[CurrentPosition "8/3k1bpp/8/8/2r5/8/2q5/3q2K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense"]
+[StartTime "15:35:18"]
+[EndDate "2023.09.26"]
+[EndTime "15:43:21"]
+[Link "https://www.chess.com/game/live/81714825400"]
+
+1. e4 e5 2. Nc3 Nc6 3. d3 Nb4 4. Qh5 Nf6 5. Qxe5+ Be7 6. Nd5 Nc6 7. Nxc7+
+Kf8 8. Bf4 Nxe5 9. Bxe5 d6 10. Nxa8 dxe5 11. O-O-O Bc5 12. Nf3 Be6 13. Nxe5
+Qa5 14. d4 Nxe4 15. Bc4 Nxf2 16. Rhf1 Nxd1 17. Rxd1 Qxa2 18. Bxa2 Bxa2 19.
+Nd7+ Ke7 20. Re1+ Kxd7 21. dxc5 Re8 22. Rf1 Bc4 23. Rxf7+ Bxf7 24. b4 Bg6
+25. c4 Rxa8 26. b5 Rc8 27. g4 Rxc5 28. b6 axb6 29. g5 Rxg5 30. h4 Rc5 31.
+Kd2 Rxc4 32. Ke3 Re4+ 33. Kf3 Rxh4 34. Ke3 Rc4 35. Kf3 Bf7 36. Ke3 b5 37.
+Kd2 b4 38. Kd3 b3 39. Ke3 b2 40. Kf3 b1=Q 41. Kg3 b5 42. Kh3 b4 43. Kg3 b3
+44. Kf3 b2 45. Ke2 Qc2+ 46. Ke3 b1=Q 47. Kf3 Qd3+ 48. Kf2 Qbc2+ 49. Kg1
+Qdd1# 0-1
+

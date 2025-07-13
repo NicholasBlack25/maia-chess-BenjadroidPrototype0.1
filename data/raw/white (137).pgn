@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.11"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Msizwana01"]
+[Result "0-1"]
+[WhiteElo "564"]
+[BlackElo "484"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.10.11"]
+[UTCTime "20:20:55"]
+[Termination "Msizwana01 won by checkmate"]
+[CurrentPosition "2r1kb1r/Q2b1ppp/8/8/8/P1n1P1P1/2P2P2/R4K1q w k -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense"]
+[StartTime "20:20:55"]
+[EndDate "2023.10.11"]
+[EndTime "20:28:54"]
+[Link "https://www.chess.com/game/live/81851042098"]
+
+1. d4 e6 2. e3 Qh4 3. Nc3 Bb4 4. g3 Qe4 5. Ne2 Qxh1 6. a3 Bf8 7. Qd3 Qxh2
+8. Nf4 Qh6 9. Nxe6 dxe6 10. Qb5+ c6 11. Qa4 Qf6 12. b4 b5 13. Bxb5 Qf3 14.
+Bxc6+ Nxc6 15. d5 exd5 16. b5 d4 17. bxc6 Nf6 18. Bb2 dxc3 19. Bxc3 Nd5 20.
+c7+ Bd7 21. c8=Q+ Rxc8 22. Qxa7 Nxc3 23. Kf1 Qh1# 0-1
+

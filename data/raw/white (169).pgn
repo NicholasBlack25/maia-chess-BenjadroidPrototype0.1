@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.05"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "apwnypowny"]
+[Result "1-0"]
+[WhiteElo "567"]
+[BlackElo "547"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.07.05"]
+[UTCTime "08:40:27"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "5b1r/3q2pp/2pk1p2/Q7/3P1B1n/2P5/PP3PPP/R3R1K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense"]
+[StartTime "08:40:27"]
+[EndDate "2023.07.05"]
+[EndTime "08:46:16"]
+[Link "https://www.chess.com/game/live/82285299607"]
+
+1. d4 Nc6 2. e3 e5 3. Nf3 Qf6 4. c3 Nge7 5. Na3 a5 6. Nb5 Ra6 7. Nxc7+ Kd8
+8. Nxa6 bxa6 9. Qb3 Nf5 10. Qb6+ Ke8 11. Bxa6 Bxa6 12. Qxa6 exd4 13. exd4
+Qe6+ 14. Ne5 Nh4 15. O-O f6 16. Qa8+ Ke7 17. Nxc6+ dxc6 18. Qa7+ Qd7 19.
+Re1+ Kd6 20. Qc5+ Kc7 21. Qxa5+ Kd6 22. Bf4# 1-0
+

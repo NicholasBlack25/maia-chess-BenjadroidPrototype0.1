@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.24"]
+[Round "-"]
+[White "Flakiiiiii"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "639"]
+[BlackElo "624"]
+[ECO "A05"]
+[TimeControl "600"]
+[UTCDate "2023.06.24"]
+[UTCTime "07:07:37"]
+[Termination "Flakiiiiii won by resignation"]
+[CurrentPosition "8/N3k3/7R/7P/3B2P1/1P2PP2/3K4/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-1...Nf6-2.d3-d5"]
+[StartTime "07:07:37"]
+[EndDate "2023.06.24"]
+[EndTime "07:14:47"]
+[Link "https://www.chess.com/game/live/81329481727"]
+
+1. Nf3 d5 2. d3 Nf6 3. c4 dxc4 4. dxc4 Qxd1+ 5. Kxd1 Be6 6. Nc3 Bxc4 7. b3
+Ba6 8. a4 e6 9. Bb2 Bc5 10. Ne5 Ne4 11. Nxe4 Bb4 12. Nc4 b5 13. axb5 Bxb5
+14. Bxg7 Rg8 15. Bf6 Rg4 16. f3 Rf4 17. e3 Rf5 18. g4 Rd5+ 19. Ke2 Rd2+ 20.
+Nxd2 Bxd2 21. Kxd2 Nc6 22. Na5 Bxf1 23. Rhxf1 e5 24. Nxc6 h6 25. Rxa7 Rxa7
+26. Nxa7 Kd7 27. Bxe5 c5 28. Rc1 Ke6 29. Rxc5 f6 30. Bd4 Kf7 31. h4 Kg6 32.
+h5+ Kg7 33. Rc6 Kf7 34. Rxf6+ Ke7 35. Rxh6 1-0
+

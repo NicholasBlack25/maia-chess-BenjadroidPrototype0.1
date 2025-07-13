@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.26"]
+[Round "-"]
+[White "himmynutron7"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "691"]
+[BlackElo "629"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.26"]
+[UTCTime "00:21:51"]
+[Termination "himmynutron7 won by checkmate"]
+[CurrentPosition "r5r1/ppp2R2/3b3p/3Bk3/3pP1b1/6Q1/PPP2PP1/RN4K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.e5"]
+[StartTime "00:21:51"]
+[EndDate "2023.06.26"]
+[EndTime "00:27:23"]
+[Link "https://www.chess.com/game/live/81477742891"]
+
+1. e4 d5 2. e5 d4 3. Nf3 Nc6 4. Bc4 e6 5. d3 f6 6. O-O fxe5 7. Re1 Nf6 8.
+Nxe5 Nxe5 9. Rxe5 Ng4 10. Rg5 e5 11. h3 Qf6 12. hxg4 Bd6 13. Rf5 Qh4 14.
+Bf7+ Ke7 15. Rh5 Qf6 16. Bg5 Qxg5 17. Rxg5 h6 18. Rxg7 e4 19. Bd5+ Kf6 20.
+Rf7+ Ke5 21. dxe4 Rg8 22. Qf3 Bxg4 23. Qg3# 1-0
+

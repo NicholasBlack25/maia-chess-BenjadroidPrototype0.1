@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "phnoexus"]
+[Result "1-0"]
+[WhiteElo "545"]
+[BlackElo "458"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.11.06"]
+[UTCTime "02:02:31"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "Q7/4k1p1/2p5/ppnr2P1/4p3/4PN2/PPP2P2/2KR3R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Mieses-Opening-Reversed-Rat-Variation"]
+[StartTime "02:02:31"]
+[EndDate "2023.11.06"]
+[EndTime "02:12:43"]
+[Link "https://www.chess.com/game/live/82084337422"]
+
+1. d3 e5 2. e3 e4 3. Qh5 Nf6 4. Qe5+ Be7 5. dxe4 O-O 6. Nf3 Bb4+ 7. Bd2
+Bxd2+ 8. Nbxd2 Re8 9. Qf4 Qe7 10. O-O-O d5 11. Bb5 c6 12. Ba4 Bg4 13. h3
+Bh5 14. g3 dxe4 15. g4 Bg6 16. Ng5 h6 17. h4 Nbd7 18. Bb3 Nc5 19. Bxf7+ Kf8
+20. Bxg6 b5 21. Nh7+ Kg8 22. Qf5 Red8 23. g5 hxg5 24. hxg5 Nd5 25. Bf7+
+Qxf7 26. Qh3 a5 27. Nf6+ Kf8 28. Qh8+ Ke7 29. Nxd5+ Rxd5 30. Qxa8 Qf3 31.
+Nxf3 1-0
+

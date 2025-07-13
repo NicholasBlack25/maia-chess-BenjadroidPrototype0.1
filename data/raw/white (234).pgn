@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.15"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "AnduxArt"]
+[Result "0-1"]
+[WhiteElo "637"]
+[BlackElo "1559"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.06.15"]
+[UTCTime "03:28:40"]
+[Termination "AnduxArt won by checkmate"]
+[CurrentPosition "6k1/1p4pp/p1p4r/3p4/PP2p3/2Q1PqP1/2P1n2P/6K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...d5"]
+[StartTime "03:28:40"]
+[EndDate "2023.06.15"]
+[EndTime "03:40:40"]
+[Link "https://www.chess.com/game/live/80538641223"]
+
+1. e3 d5 2. Nc3 Nf6 3. f4 Nc6 4. Nb5 a6 5. Nc3 e5 6. Nf3 e4 7. Ne5 Nxe5 8.
+fxe5 Ng8 9. d4 Bb4 10. Bd2 Qg5 11. Nxd5 Bxd2+ 12. Qxd2 Qd8 13. Qc3 c6 14.
+Nf4 Ne7 15. Nh5 O-O 16. Bc4 Nf5 17. e6 Qh4+ 18. g3 Qxh5 19. O-O Bxe6 20.
+Bxe6 fxe6 21. Rad1 Rf6 22. d5 exd5 23. b4 Raf8 24. a4 Rh6 25. Kf2 Nd4+ 26.
+Ke1 Rxf1+ 27. Kxf1 Qxd1+ 28. Kg2 Qf3+ 29. Kg1 Ne2# 0-1
+

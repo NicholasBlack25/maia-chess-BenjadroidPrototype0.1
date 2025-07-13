@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.10"]
+[Round "-"]
+[White "thaboss187"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "719"]
+[BlackElo "725"]
+[ECO "D07"]
+[TimeControl "600"]
+[UTCDate "2024.01.10"]
+[UTCTime "21:14:13"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/1pp2k2/8/P7/1p6/1Pq5/2K5/6q1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Chigorin-Defense-3.e3"]
+[StartTime "21:14:13"]
+[EndDate "2024.01.10"]
+[EndTime "21:26:57"]
+[Link "https://www.chess.com/game/live/98660170203"]
+
+1. e3 d5 2. d4 Nc6 3. c4 dxc4 4. Bxc4 e6 5. f4 Na5 6. Nf3 Nxc4 7. Qa4+ Bd7
+8. Qxc4 Nf6 9. O-O Ne4 10. Re1 Be7 11. d5 Bh4 12. Nxh4 Qxh4 13. g3 Nxg3 14.
+hxg3 Qxg3+ 15. Kf1 a6 16. dxe6 Bb5 17. exf7+ Kf8 18. Qxb5 axb5 19. a4 Kxf7
+20. a5 b4 21. b3 h5 22. Nd2 h4 23. Ne4 Qf3+ 24. Nf2 h3 25. Re2 h2 26. Ke1
+h1=Q+ 27. Nxh1 Rxh1+ 28. Kd2 Rd8+ 29. Kc2 Rdd1 30. Rd2 Qc6+ 31. Kb2 Rxc1
+32. Rxc1 Rxc1 33. Ka2 Qc3 34. Rb2 Qxe3 35. Rb1 Rc2+ 36. Rb2 Rxb2+ 37. Kxb2
+Qxf4 38. Kc2 g5 39. Kd3 g4 40. Ke2 g3 41. Ke1 g2 42. Ke2 g1=Q 43. Kd3 Qfd4+
+44. Kc2 Qc3# 0-1
+

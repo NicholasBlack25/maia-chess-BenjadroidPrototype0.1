@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.08"]
+[Round "-"]
+[White "lmann7"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "630"]
+[BlackElo "601"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.11.08"]
+[UTCTime "21:10:57"]
+[Termination "BenjaminVega10 won on time"]
+[CurrentPosition "3r1rk1/pp3pp1/8/7p/P1N1pNq1/4Qb2/1P3P1K/4RR2 w - h6"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Gambit-2...dxe4"]
+[StartTime "21:10:57"]
+[EndDate "2023.11.08"]
+[EndTime "21:25:26"]
+[Link "https://www.chess.com/game/live/82109938214"]
+
+1. d4 d5 2. e4 dxe4 3. d5 e6 4. c4 Qd6 5. Nd2 exd5 6. cxd5 Qxd5 7. Bc4 Qd4
+8. Bb3 Nf6 9. Nc4 Qc5 10. Ne2 Nc6 11. O-O Bd6 12. Bf4 Bxf4 13. Nxf4 Bg4 14.
+Qd2 Ne5 15. Ne3 Rd8 16. Qc1 Qb5 17. Qxc7 O-O 18. a4 Qxb3 19. h3 Nf3+ 20.
+gxf3 Bxf3 21. Qc3 Qb6 22. Nc4 Qc5 23. Rae1 Qf5 24. Qe3 Ng4 25. hxg4 Qxg4+
+26. Kh2 h5 0-1
+

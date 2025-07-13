@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.11"]
+[Round "-"]
+[White "Foxuu151"]
+[Black "BenjaminVega10"]
+[Result "1/2-1/2"]
+[WhiteElo "640"]
+[BlackElo "642"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.11"]
+[UTCTime "22:31:44"]
+[Termination "Game drawn by agreement"]
+[CurrentPosition "5r2/3bk3/4p2p/6p1/3R1P2/6P1/4NK1P/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.e5"]
+[StartTime "22:31:44"]
+[EndDate "2023.06.11"]
+[EndTime "22:41:18"]
+[Link "https://www.chess.com/game/live/80261526949"]
+
+1. e4 d5 2. e5 Nc6 3. f4 e6 4. Bb5 a6 5. Bxc6+ bxc6 6. Qf3 f6 7. exf6 Nxf6
+8. c4 Bc5 9. b4 Bxb4 10. a3 Bc5 11. Nc3 Ne4 12. Nxe4 dxe4 13. Qxe4 Qd4 14.
+Qxc6+ Kd8 15. Qxa8 Qxa1 16. Kd1 Bxa3 17. Ne2 Bxc1 18. Nxc1 Qa4+ 19. Ke1
+Qxc4 20. Ne2 Qd3 21. Kf2 Qxd2 22. Qe4 Rf8 23. g3 Bd7 24. Qa8+ Ke7 25. Qxa6
+h6 26. Qc4 g5 27. Qxc7 Qd6 28. Qxd6+ Kxd6 29. Rd1+ Ke7 30. Rd4 1/2-1/2
+

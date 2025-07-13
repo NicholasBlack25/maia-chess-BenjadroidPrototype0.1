@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.07"]
+[Round "-"]
+[White "Yousuf0bin0ahmadullah"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "748"]
+[BlackElo "708"]
+[ECO "A06"]
+[TimeControl "600"]
+[UTCDate "2024.01.07"]
+[UTCTime "08:17:44"]
+[Termination "Yousuf0bin0ahmadullah won by checkmate"]
+[CurrentPosition "k7/1Q6/P2K4/8/8/8/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-1...d5"]
+[StartTime "08:17:44"]
+[EndDate "2024.01.07"]
+[EndTime "08:30:42"]
+[Link "https://www.chess.com/game/live/98354170739"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Qd5 4. d3 Qxg5 5. Bxg5 f6 6. Be3 e5 7. dxe4 Nc6
+8. a3 Be6 9. Nc3 Rd8 10. Bd3 Na5 11. O-O Bc4 12. Qg4 Nh6 13. Qh5+ Nf7 14.
+Rad1 Bxd3 15. Rxd3 Nc4 16. Rxd8+ Kxd8 17. Rd1+ Nfd6 18. Bxa7 Nxb2 19. Rd5
+c6 20. Bb6+ Ke7 21. Ra5 g6 22. Qh3 Nbc4 23. Bc7 Nxa5 24. Bxa5 f5 25. exf5
+Nxf5 26. Bb4+ Ke6 27. Ne4 Bxb4 28. Qb3+ Kd7 29. Qxb4 h5 30. Qxb7+ Ke6 31.
+Ng5+ Kf6 32. h4 Nxh4 33. f4 exf4 34. Ne4+ Ke5 35. Qb2+ Kxe4 36. Qxh8 f3 37.
+Qe8+ Kf5 38. gxf3 Nxf3+ 39. Kf2 Nd4 40. Qf7+ Kg5 41. a4 Nxc2 42. Qe7+ Kg4
+43. Qd7+ Kg5 44. Qd2+ Kg4 45. Qxc2 h4 46. Qc4+ Kg5 47. Qxc6 h3 48. Qc1+ Kh4
+49. Kg1 g5 50. Kh1 g4 51. Qe1+ g3 52. a5 Kg4 53. Qe2+ Kf4 54. a6 g2+ 55.
+Kh2 Kg5 56. Qd2+ Kh4 57. Qe1+ Kg4 58. Qg3+ Kf5 59. Qxh3+ Ke5 60. Qxg2 Kd6
+61. Kg3 Kc7 62. Kf4 Kb8 63. Ke5 Ka7 64. Qf1 Ka8 65. Qb5 Ka7 66. Kd6 Ka8 67.
+Qb7# 1-0
+

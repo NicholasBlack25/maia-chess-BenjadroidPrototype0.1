@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "dongwoo0612"]
+[Result "0-1"]
+[WhiteElo "618"]
+[BlackElo "605"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.07.22"]
+[UTCTime "00:18:32"]
+[Termination "dongwoo0612 won by checkmate"]
+[CurrentPosition "1kr2bRQ/5p2/p2P3p/4B3/8/1p1q1N1P/r7/1K6 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense"]
+[StartTime "00:18:32"]
+[EndDate "2023.07.22"]
+[EndTime "00:30:38"]
+[Link "https://www.chess.com/game/live/83724005761"]
+
+1. e4 e5 2. Nc3 Nc6 3. f3 d6 4. Nge2 Nf6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 c5
+8. Bb5+ Bd7 9. Qc4 a6 10. Bxd7+ Qxd7 11. Bf4 d5 12. exd5 Qe7+ 13. Ne2 O-O-O
+14. d6 Qd7 15. O-O-O Nh5 16. Qxc5+ Kb8 17. Qxh5 g6 18. Qg5 h6 19. Qf6 Rg8
+20. Nd4 g5 21. Be5 g4 22. h3 gxf3 23. Nxf3 Rxg2 24. c4 Rc8 25. b3 b5 26.
+Rhg1 Rxa2 27. Rg8 bxc4 28. Kb1 cxb3 29. Qh8 Qf5+ 30. Rd3 Qxd3# 0-1
+

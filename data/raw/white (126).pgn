@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.30"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "jsoback"]
+[Result "1-0"]
+[WhiteElo "691"]
+[BlackElo "672"]
+[ECO "C23"]
+[TimeControl "600"]
+[UTCDate "2023.11.30"]
+[UTCTime "10:35:48"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b1r3/1p3ppp/1bP2nk1/1P2p1Q1/3N4/1P3P2/P5PP/R1B2RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Bishops-Opening"]
+[StartTime "10:35:48"]
+[EndDate "2023.11.30"]
+[EndTime "10:39:27"]
+[Link "https://www.chess.com/game/live/94157522866"]
+
+1. e4 e5 2. Bc4 c6 3. f3 d5 4. exd5 cxd5 5. Bb5+ Nd7 6. Nc3 Ke7 7. Nxd5+
+Kd6 8. c4 Nc5 9. b3 a6 10. d4 axb5 11. cxb5 Kxd5 12. dxc5+ Ke6 13. Qxd8 Be7
+14. Qb6+ Kf5 15. Ne2 Nf6 16. c6 Bd8 17. Qe3 Re8 18. Nd4+ Kg6 19. O-O Bb6
+20. Qg5# 1-0
+

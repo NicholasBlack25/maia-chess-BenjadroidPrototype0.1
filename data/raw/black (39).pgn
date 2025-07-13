@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.13"]
+[Round "-"]
+[White "KETUMbite"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "668"]
+[BlackElo "732"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.01.13"]
+[UTCTime "08:20:45"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "N2k1bnr/4pppp/p7/1p6/8/1B3b2/PPQPqP1P/R1B1K2R w KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.e5"]
+[StartTime "08:20:45"]
+[EndDate "2024.01.13"]
+[EndTime "08:23:17"]
+[Link "https://www.chess.com/game/live/98873070585"]
+
+1. e4 d5 2. e5 Nc6 3. Nf3 d4 4. Bb5 a6 5. Ba4 b5 6. Bb3 Bg4 7. c3 dxc3 8.
+Nxc3 Qd3 9. Nd5 Nxe5 10. Nxc7+ Kd8 11. Nxa8 Nxf3+ 12. gxf3 Bxf3 13. Qc2
+Qe2# 0-1
+

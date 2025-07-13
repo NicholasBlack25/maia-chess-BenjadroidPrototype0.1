@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "chezzzz_master"]
+[Result "1-0"]
+[WhiteElo "610"]
+[BlackElo "587"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.07.20"]
+[UTCTime "08:54:02"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "6r1/2Q5/7p/3R4/2k1P3/2P1B1P1/PP5q/2K5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense"]
+[StartTime "08:54:02"]
+[EndDate "2023.07.20"]
+[EndTime "09:01:16"]
+[Link "https://www.chess.com/game/live/83582170921"]
+
+1. e4 e5 2. Nc3 Nc6 3. f3 Nf6 4. Nh3 Bc5 5. Nd5 Ng8 6. d3 h6 7. f4 exf4 8.
+Nhxf4 Nd4 9. c3 Nb5 10. d4 Bd6 11. Nh5 g6 12. Nhf6+ Nxf6 13. Nxf6+ Qxf6 14.
+Bxb5 c6 15. Bc4 c5 16. dxc5 Bxc5 17. Rf1 Qh4+ 18. g3 Qxh2 19. Qd5 d6 20.
+Qxf7+ Kd8 21. Qxg6 Bh3 22. Bg5+ Kc7 23. O-O-O Bxf1 24. Rxf1 Be3+ 25. Bxe3
+Rag8 26. Qf7+ Kc6 27. Bd5+ Kb5 28. Qxb7+ Ka5 29. Qxa7+ Kb5 30. Bxg8 Rxg8
+31. Rf5+ d5 32. Rxd5+ Kc4 33. Qc7# 1-0
+

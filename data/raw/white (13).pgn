@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.04"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Joddimama"]
+[Result "1-0"]
+[WhiteElo "708"]
+[BlackElo "681"]
+[ECO "C46"]
+[TimeControl "600"]
+[UTCDate "2024.06.04"]
+[UTCTime "00:21:24"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r3kQQ1/p1p5/2b4p/8/2p4B/5P2/qPP3PP/3R1R1K b q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Three-Knights-Opening-3...d6"]
+[StartTime "00:21:24"]
+[EndDate "2024.06.04"]
+[EndTime "00:28:23"]
+[Link "https://www.chess.com/game/live/107585351456"]
+
+1. Nc3 e5 2. e4 Nc6 3. Nf3 d6 4. Bc4 f5 5. d4 fxe4 6. Nxe4 Bf5 7. Bg5 Qd7
+8. dxe5 Bxe4 9. e6 Qc8 10. O-O h6 11. Bh4 Ne5 12. Nxe5 dxe5 13. Qe2 Bc6 14.
+Qxe5 b5 15. Rad1 Bd6 16. Qxg7 bxc4 17. Qxh8 Qb7 18. f3 Bc5+ 19. Kh1 Qa6 20.
+Qxg8+ Bf8 21. e7 Qxa2 22. exf8=Q# 1-0
+

@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.16"]
+[Round "-"]
+[White "Bird_Of_Hermes"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "637"]
+[BlackElo "573"]
+[ECO "B07"]
+[TimeControl "600"]
+[UTCDate "2023.10.16"]
+[UTCTime "20:28:21"]
+[Termination "Bird_Of_Hermes won by checkmate"]
+[CurrentPosition "7Q/8/8/8/6R1/4N3/4K3/7k b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Modern-Defense-Geller-System"]
+[StartTime "20:28:21"]
+[EndDate "2023.10.16"]
+[EndTime "20:38:42"]
+[Link "https://www.chess.com/game/live/81896954438"]
+
+1. e4 d6 2. Nf3 e6 3. Nc3 Ne7 4. d4 Ng6 5. Bg5 f6 6. Be3 Nh4 7. Nxh4 e5 8.
+dxe5 fxe5 9. Nf3 Nc6 10. Bb5 a6 11. Bxc6+ bxc6 12. Bg5 Be7 13. Bxe7 Qxe7
+14. Qe2 Bg4 15. O-O-O a5 16. h3 Be6 17. g4 d5 18. exd5 cxd5 19. Nxe5 Qb4
+20. Qb5+ Qxb5 21. Nxb5 d4 22. Nxc7+ Ke7 23. Nxa8 Rxa8 24. Rxd4 a4 25. Rhd1
+Ra5 26. Nd7 Bxa2 27. Nb6 a3 28. bxa3 Rxa3 29. R4d3 Ra6 30. Re1+ Kf6 31.
+Rd6+ Kg5 32. Re4 Ra3 33. h4+ Kxh4 34. g5+ Kxg5 35. Rd5+ Bxd5 36. Nxd5 Ra1+
+37. Kd2 h5 38. Ke2 Ra5 39. f4+ Kf5 40. Re5+ Kg4 41. Ne3+ Kxf4 42. Rxa5 Kg3
+43. Rxh5 Kf4 44. Rh7 g5 45. c4 g4 46. Rg7 Kg3 47. Rxg4+ Kh3 48. c5 Kh2 49.
+c6 Kh1 50. c7 Kh2 51. c8=Q Kh1 52. Qh8# 1-0
+

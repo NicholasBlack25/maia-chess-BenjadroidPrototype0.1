@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.10"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Lmecraft"]
+[Result "0-1"]
+[WhiteElo "717"]
+[BlackElo "580"]
+[ECO "B10"]
+[TimeControl "600"]
+[UTCDate "2024.01.10"]
+[UTCTime "17:38:12"]
+[Termination "Lmecraft won by checkmate"]
+[CurrentPosition "5b1r/4kppp/2Q1p3/2n5/1B2B1P1/5N1P/P1r2P2/q3K2R w K -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nc3-d5-3.Qe2"]
+[StartTime "17:38:12"]
+[EndDate "2024.01.10"]
+[EndTime "17:44:30"]
+[Link "https://www.chess.com/game/live/98647451765"]
+
+1. e4 c6 2. Nc3 d5 3. Qe2 Nf6 4. Nf3 Bg4 5. h3 Be6 6. d4 c5 7. Qb5+ Nbd7 8.
+dxc5 a6 9. Qxb7 Nxc5 10. Qc6+ Ncd7 11. exd5 Bxd5 12. Nxd5 Nxd5 13. Qxd5 e6
+14. Qd1 Qa5+ 15. Bd2 Qh5 16. g4 Qg6 17. Bd3 Qf6 18. Be4 Rb8 19. Qe2 Rxb2
+20. Qxa6 Rxc2 21. Qa8+ Ke7 22. Bb4+ Nc5 23. Qc6 Qxa1# 0-1
+

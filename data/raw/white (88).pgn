@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.31"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "whirexx"]
+[Result "0-1"]
+[WhiteElo "724"]
+[BlackElo "760"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.12.31"]
+[UTCTime "22:47:36"]
+[Termination "whirexx won by checkmate"]
+[CurrentPosition "8/pk6/n7/8/1BR5/6qK/P5r1/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[StartTime "22:47:36"]
+[EndDate "2023.12.31"]
+[EndTime "22:58:53"]
+[Link "https://www.chess.com/game/live/97801824713"]
+
+1. d4 d5 2. e3 e5 3. dxe5 Qh4 4. Nf3 Qe4 5. Nc3 Bb4 6. Bb5+ c6 7. Ba4 Bg4
+8. h3 d4 9. hxg4 dxc3 10. bxc3 Bxc3+ 11. Bd2 Bxa1 12. Qxa1 Qxa4 13. e6 Na6
+14. Qxg7 O-O-O 15. Qxh8 Qxc2 16. O-O Nf6 17. Qxf6 Qg6 18. Qxf7 b5 19. Ba5
+Rd6 20. Ne5 Qxe6 21. Qxh7 Qxe5 22. Qh8+ Qxh8 23. f4 b4 24. e4 Rd2 25. Rc1
+Qd4+ 26. Kh2 Qxe4 27. g5 Qxf4+ 28. Kh3 Qxg5 29. Rxc6+ Kb7 30. Bxb4 Rxg2 31.
+Rc4 Qg3# 0-1
+

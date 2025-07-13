@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "yeahimsharan"]
+[Result "1-0"]
+[WhiteElo "634"]
+[BlackElo "597"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "09:00:13"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r3kr2/pp1Q4/4p3/1B1pPp2/3Pn3/2P1P3/q2B2PP/3RK2R b Kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...e6"]
+[StartTime "09:00:13"]
+[EndDate "2023.06.08"]
+[EndTime "09:03:58"]
+[Link "https://www.chess.com/game/live/79953692289"]
+
+1. d4 d5 2. Nc3 e6 3. Nf3 Bb4 4. Bd2 Bxc3 5. bxc3 Nf6 6. Ne5 Qd6 7. f4 Qb6
+8. e3 Nc6 9. Qf3 Nxe5 10. fxe5 Ne4 11. Qg4 f5 12. Qxg7 Rf8 13. Qxh7 Qb2 14.
+Rd1 Qxc2 15. Qxc7 Qxa2 16. Bb5+ Bd7 17. Qxd7# 1-0
+

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.10"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Hossein_m8"]
+[Result "1-0"]
+[WhiteElo "709"]
+[BlackElo "713"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.01.10"]
+[UTCTime "07:47:43"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "3rk3/pbNp1p1p/1p1Qp1q1/8/2B1P3/6P1/PP3P1P/3R2K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening"]
+[StartTime "07:47:43"]
+[EndDate "2024.01.10"]
+[EndTime "07:52:51"]
+[Link "https://www.chess.com/game/live/98612037171"]
+
+1. d4 g5 2. Nf3 g4 3. Qd3 gxf3 4. Qxf3 Bg7 5. e4 Bxd4 6. Bc4 Nh6 7. Bxh6 e6
+8. c3 Qh4 9. O-O Qxh6 10. cxd4 Nc6 11. Qd3 Rg8 12. Nc3 Qg6 13. g3 Nb4 14.
+Qe3 Nc2 15. Qd3 Nxa1 16. Nb5 c5 17. Nc7+ Ke7 18. Nxa8 cxd4 19. Qxd4 b6 20.
+Rxa1 Bb7 21. Rd1 Rd8 22. Qd6+ Ke8 23. Nc7# 1-0
+

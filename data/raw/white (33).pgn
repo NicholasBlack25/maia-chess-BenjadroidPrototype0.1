@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.04"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "whosLucas"]
+[Result "0-1"]
+[WhiteElo "730"]
+[BlackElo "709"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.04"]
+[UTCTime "04:03:50"]
+[Termination "whosLucas won by checkmate"]
+[CurrentPosition "3r1rk1/pQp2pp1/1p5p/7P/8/P2nP3/1q3PP1/1K1R3R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation-3.Bf4-Nf6-4.e3"]
+[StartTime "04:03:50"]
+[EndDate "2024.01.04"]
+[EndTime "04:08:25"]
+[Link "https://www.chess.com/game/live/98080163537"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Nf6 4. e3 e6 5. Nc3 Bb4 6. Qd2 O-O 7. a3 Bxc3 8.
+Qxc3 Ne4 9. Qd3 b6 10. Ng5 Nxg5 11. Bxg5 Qxg5 12. h4 Qf6 13. h5 h6 14.
+O-O-O e5 15. dxe5 Nxe5 16. Qxd5 Be6 17. Qe4 Rad8 18. Bd3 Bf5 19. Qb7 Bxd3
+20. cxd3 Nxd3+ 21. Kb1 Qxb2# 0-1
+

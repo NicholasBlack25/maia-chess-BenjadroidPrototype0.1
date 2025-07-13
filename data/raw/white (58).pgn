@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.30"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "donweston"]
+[Result "0-1"]
+[WhiteElo "695"]
+[BlackElo "716"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.30"]
+[UTCTime "18:10:53"]
+[Termination "donweston won by resignation"]
+[CurrentPosition "8/p2kb3/2p5/3p1R1p/r5rn/8/5K2/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...c6"]
+[StartTime "18:10:53"]
+[EndDate "2024.01.30"]
+[EndTime "18:20:24"]
+[Link "https://www.chess.com/game/live/100377229867"]
+
+1. d4 d5 2. Nf3 c6 3. Nc3 e6 4. Bf4 Nd7 5. Qd3 h6 6. Nxd5 exd5 7. Qe3+ Qe7
+8. Ne5 Nxe5 9. Bxe5 f6 10. O-O-O fxe5 11. dxe5 g5 12. g3 Bg7 13. f4 gxf4
+14. gxf4 Qe6 15. Bh3 Qxh3 16. Qxh3 Bxh3 17. c3 Ne7 18. b4 Bg4 19. Rhg1 h5
+20. h3 Bxe2 21. Rd4 Nf5 22. Rd2 Bf3 23. e6 Be4 24. h4 Bxc3 25. Re2 Nxh4 26.
+Rg7 Bxg7 27. f5 Bxf5 28. e7 Bf6 29. a4 Bxe7 30. b5 O-O-O 31. Re5 Kd7 32.
+bxc6+ bxc6 33. a5 Rb8 34. Kd2 Rb5 35. a6 Ra5 36. Ke3 Rxa6 37. Kf4 Ra4+ 38.
+Kg3 Rg8+ 39. Kf2 Rgg4 40. Rxf5 0-1
+

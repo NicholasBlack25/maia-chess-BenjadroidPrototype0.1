@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.07"]
+[Round "-"]
+[White "Yatrik_13"]
+[Black "BenjaminVega10"]
+[Result "1/2-1/2"]
+[WhiteElo "600"]
+[BlackElo "569"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2023.07.07"]
+[UTCTime "08:41:04"]
+[Termination "Game drawn by stalemate"]
+[CurrentPosition "8/6R1/k2P4/p1K5/p7/P7/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation"]
+[StartTime "08:41:04"]
+[EndDate "2023.07.07"]
+[EndTime "08:55:37"]
+[Link "https://www.chess.com/game/live/82458112333"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. Nc3 d6 5. Ng5 Ng4 6. Nxf7 Qe7 7. Nxh8 Nd4
+8. Nd5 Qh4 9. g3 Qh3 10. Nxc7+ Kd7 11. Nxa8 Qg2 12. Qxg4+ Kd8 13. Nf7+ Ke7
+14. Qe6+ Nxe6 15. Rf1 Kxf7 16. Nc7 Qxe4+ 17. Kd1 Qxc4 18. Nxe6 Bxe6 19. d3
+Bg4+ 20. f3 Bxf3+ 21. Rxf3+ Qf4 22. Bxf4 exf4 23. Rxf4+ Ke7 24. Kd2 g5 25.
+Re4+ Kd7 26. Rae1 d5 27. Re8 Bb4+ 28. c3 Bd6 29. Kd1 h5 30. Rh8 h4 31. gxh4
+gxh4 32. Rxh4 b5 33. Ra4 bxa4 34. h4 Bg3 35. Rh1 a5 36. h5 Be5 37. h6 d4
+38. cxd4 Bxd4 39. h7 Bxb2 40. h8=Q Bxh8 41. Rxh8 Kc6 42. Kc2 Kb5 43. Kb2
+Kb4 44. a3+ Kc5 45. Rd8 Kb5 46. d4 Kc6 47. Rg8 Kd7 48. Rg5 Kc6 49. Kc3 Kb6
+50. Kc4 Kc6 51. Rg6+ Kb7 52. Kc5 Kc7 53. d5 Kb7 54. Rg7+ Ka6 55. d6 1/2-1/2
+

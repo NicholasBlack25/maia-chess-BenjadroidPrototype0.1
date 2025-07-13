@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.19"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Draco1_1"]
+[Result "0-1"]
+[WhiteElo "551"]
+[BlackElo "609"]
+[ECO "A45"]
+[TimeControl "1800"]
+[UTCDate "2023.10.19"]
+[UTCTime "15:28:23"]
+[Termination "Draco1_1 won by checkmate"]
+[CurrentPosition "r1b1k2r/1ppp1ppp/2n5/p3p3/1bBPn3/1NP1PN2/PP3q1P/R1BQK1R1 w Qkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-2.e3"]
+[StartTime "15:28:23"]
+[EndDate "2023.10.19"]
+[EndTime "15:32:21"]
+[Link "https://www.chess.com/game/live/91468222939"]
+
+1. d4 Nf6 2. e3 Nc6 3. Nd2 e5 4. Nb3 Bb4+ 5. c3 a5 6. Bb5 Ne4 7. Bc4 Qg5 8.
+Nf3 Qxg2 9. Rg1 Qxf2# 0-1
+

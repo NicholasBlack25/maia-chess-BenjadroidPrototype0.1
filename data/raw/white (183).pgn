@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.23"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "peterbenz"]
+[Result "0-1"]
+[WhiteElo "618"]
+[BlackElo "630"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.07.23"]
+[UTCTime "01:16:41"]
+[Termination "peterbenz won by checkmate"]
+[CurrentPosition "2kr3r/ppp2ppp/4bn2/4K1q1/1b2PpP1/7P/PPPP4/R1BQ1BNR w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game"]
+[StartTime "01:16:41"]
+[EndDate "2023.07.23"]
+[EndTime "01:21:20"]
+[Link "https://www.chess.com/game/live/83813977677"]
+
+1. e4 e5 2. Nc3 d5 3. f3 d4 4. Nb5 Be6 5. g3 Nc6 6. f4 exf4 7. g4 Bd6 8. h3
+Qh4+ 9. Ke2 O-O-O 10. Kd3 Nf6 11. Nxd4 Nxd4 12. Kxd4 Bb4+ 13. Ke5 Qg5# 0-1
+

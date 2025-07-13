@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.02"]
+[Round "-"]
+[White "Maxi_Minus"]
+[Black "BenjaminVega10"]
+[Result "1/2-1/2"]
+[WhiteElo "601"]
+[BlackElo "596"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2025.05.02"]
+[UTCTime "09:19:08"]
+[Termination "Game drawn by repetition"]
+[CurrentPosition "8/8/8/Qp6/P7/1B5P/1kP2PPK/4q3 b - - 8 47"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5-Nc6-3.Nf3"]
+[StartTime "09:19:08"]
+[EndDate "2025.05.02"]
+[EndTime "09:30:30"]
+[Link "https://www.chess.com/game/live/138015105456"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 f6 4. exf6 Nxf6 5. Nc3 d5 6. e4 d4 7. e5 Nxe5
+8. Nxe5 dxc3 9. bxc3 Bd6 10. Nc4 Ne4 11. Nxd6+ cxd6 12. Bd3 Nxc3 13. Qh5+
+g6 14. Qf3 Qe7+ 15. Be3 Be6 16. O-O O-O-O 17. Rfe1 Nd5 18. Bg5 Qxg5 19.
+Rxe6 Rhf8 20. Qe4 Nc3 21. Qc4+ Kd7 22. Rae1 Rde8 23. R6e3 Nd5 24. Rxe8 Rxe8
+25. Rxe8 Kxe8 26. Be4 Qc1+ 27. Qf1 Qa3 28. Bxd5 b5 29. Qe1+ Kd7 30. Qe6+
+Kc7 31. Qe7+ Kb6 32. Qxh7 Qc5 33. Bb3 d5 34. Qxg6+ Ka5 35. Qg5 Qc6 36. Qxd5
+Qc3 37. h3 Qe1+ 38. Kh2 Kb4 39. Qd4+ Ka5 40. Qxa7+ Kb4 41. a3+ Kc3 42. Qa5+
+Kb2 43. a4 Qe5+ 44. Kg1 Qe1+ 45. Kh2 Qe5+ 46. Kh1 Qe1+ 47. Kh2 1/2-1/2
+

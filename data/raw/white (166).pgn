@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.02"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "SajidAli8282"]
+[Result "0-1"]
+[WhiteElo "551"]
+[BlackElo "569"]
+[ECO "C26"]
+[TimeControl "600"]
+[UTCDate "2023.07.02"]
+[UTCTime "08:33:23"]
+[Termination "SajidAli8282 won by resignation"]
+[CurrentPosition "8/p2r2k1/1p4p1/7p/2P5/2KP2P1/PP3q2/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Variation"]
+[StartTime "08:33:23"]
+[EndDate "2023.07.02"]
+[EndTime "08:45:06"]
+[Link "https://www.chess.com/game/live/82025987919"]
+
+1. e4 e5 2. Nc3 Nf6 3. f3 g6 4. d3 Bg7 5. Bg5 Nc6 6. Nd5 O-O 7. f4 Nd4 8.
+Qd2 b6 9. fxe5 Bb7 10. Bxf6 Bxf6 11. Nxf6+ Kg7 12. Ng4 Qh4+ 13. g3 Qxg4 14.
+Qc3 c5 15. Be2 Qe6 16. Nf3 Rfe8 17. Nxd4 cxd4 18. Qxd4 f5 19. exf5 Bxh1 20.
+O-O-O Qxf5 21. Rxh1 Rxe5 22. Rf1 Qe6 23. Bg4 Qe7 24. c4 h5 25. Bxd7 Rd8 26.
+Rf4 Rxd7 27. Qf2 Re1+ 28. Kc2 Re2+ 29. Qxe2 Qxe2+ 30. Kc3 Qxh2 31. Rf2 Qxf2
+0-1
+

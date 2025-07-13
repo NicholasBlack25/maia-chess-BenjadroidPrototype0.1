@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.18"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "JoelMller113"]
+[Result "0-1"]
+[WhiteElo "706"]
+[BlackElo "755"]
+[ECO "A06"]
+[TimeControl "600"]
+[UTCDate "2024.03.18"]
+[UTCTime "21:28:12"]
+[Termination "JoelMller113 won by checkmate"]
+[CurrentPosition "r1b2kr1/pp6/8/3p3p/3P1p2/2PQ1N1P/PP3Pq1/R4R1K w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Old-Indian-Attack"]
+[StartTime "21:28:12"]
+[EndDate "2024.03.18"]
+[EndTime "21:34:27"]
+[Link "https://www.chess.com/game/live/104536266995"]
+
+1. d3 d5 2. Nf3 e6 3. Bf4 Bb4+ 4. c3 Bd6 5. e3 e5 6. Nxe5 Bxe5 7. Bxe5 d4
+8. exd4 Nc6 9. Qe2 Nxe5 10. Qxe5+ Kf8 11. d5 f6 12. Qf4 g5 13. Qf3 Ne7 14.
+d4 Nxd5 15. Bc4 c6 16. Nd2 f5 17. O-O g4 18. Qg3 h5 19. h3 f4 20. Qd3 gxh3
+21. gxh3 Rg8+ 22. Kh1 Qg5 23. Bxd5 cxd5 24. Nf3 Qg2# 0-1
+

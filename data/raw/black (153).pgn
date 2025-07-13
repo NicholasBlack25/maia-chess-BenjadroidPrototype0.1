@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.01"]
+[Round "-"]
+[White "OHIW"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "546"]
+[BlackElo "553"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.07.01"]
+[UTCTime "10:37:45"]
+[Termination "OHIW won by checkmate"]
+[CurrentPosition "5B2/2p5/5p1k/4p1pp/2B1Q3/2P3P1/Pr3P1P/RN1R2K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "10:37:45"]
+[EndDate "2023.07.01"]
+[EndTime "10:42:49"]
+[Link "https://www.chess.com/game/live/81946836923"]
+
+1. e4 d5 2. Nf3 dxe4 3. Nd4 e6 4. d3 Qh4 5. g3 Bb4+ 6. c3 Bxc3+ 7. bxc3 Qg5
+8. Bxg5 f6 9. Bf4 e5 10. Qa4+ Bd7 11. Qb3 Ne7 12. Qxb7 O-O 13. Qxa8 Na6 14.
+Qxa7 Nc5 15. Qxc5 Nf5 16. Nxf5 Bxf5 17. dxe4 Bxe4 18. Qc4+ Kh8 19. Qxe4 g5
+20. Be3 h5 21. Bc5 Rb8 22. Bc4 Kg7 23. O-O Rb2 24. Rd1 Kh6 25. Bf8# 1-0
+

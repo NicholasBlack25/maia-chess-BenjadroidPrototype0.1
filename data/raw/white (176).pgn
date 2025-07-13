@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.19"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Miklebri"]
+[Result "0-1"]
+[WhiteElo "571"]
+[BlackElo "585"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.07.19"]
+[UTCTime "07:36:31"]
+[Termination "Miklebri won by checkmate"]
+[CurrentPosition "5rk1/p4ppp/3Q4/1r6/3P4/8/1q5P/2KR2R1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense"]
+[StartTime "07:36:31"]
+[EndDate "2023.07.19"]
+[EndTime "07:43:12"]
+[Link "https://www.chess.com/game/live/83490998887"]
+
+1. e4 e5 2. Nc3 Nc6 3. d3 Nf6 4. f3 Bc5 5. Nh3 d6 6. Nd5 Nxd5 7. exd5 Nd4
+8. Ng5 Qf6 9. c3 Nf5 10. Ne4 Qh4+ 11. g3 Nxg3 12. Nxg3 O-O 13. d4 exd4 14.
+cxd4 Qe7+ 15. Ne4 Bb4+ 16. Bd2 Bxd2+ 17. Qxd2 Bf5 18. O-O-O Bxe4 19. fxe4
+Qxe4 20. Rg1 Qxd5 21. Qb4 Qxa2 22. Qxb7 Rae8 23. Bb5 Rb8 24. Qxc7 Rxb5 25.
+Qxd6 Qxb2# 0-1
+

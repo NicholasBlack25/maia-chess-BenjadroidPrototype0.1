@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.14"]
+[Round "-"]
+[White "Usth42"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "639"]
+[BlackElo "646"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.06.14"]
+[UTCTime "07:45:38"]
+[Termination "Usth42 won by checkmate"]
+[CurrentPosition "5R2/7Q/1N4Q1/1K6/8/7k/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...d5"]
+[StartTime "07:45:38"]
+[EndDate "2023.06.14"]
+[EndTime "07:59:24"]
+[Link "https://www.chess.com/game/live/80467808479"]
+
+1. e3 d5 2. Qf3 Nf6 3. Nc3 e5 4. d4 e4 5. Qd1 Nc6 6. a3 Ng4 7. h3 Qh4 8. g3
+Nxf2 9. gxh4 Nxd1 10. Nxd1 b5 11. b4 a5 12. Bb2 axb4 13. axb4 Rxa1 14. Bxa1
+Nxb4 15. Kd2 c5 16. c3 Nd3 17. Bxd3 exd3 18. dxc5 Bxc5 19. Kxd3 b4 20. cxb4
+Bxb4 21. Bxg7 Ba6+ 22. Kd4 Rg8 23. Bh6 Bb7 24. Nf3 Rg3 25. Ne5 Bd2 26. Nc3
+f6 27. Ng4 Ke7 28. Nxd5+ Bxd5 29. Kxd5 f5 30. e4 Rd3+ 31. Kc4 fxe4 32. Re1
+Bxh6 33. Rxe4+ Kd6 34. Kxd3 Kd5 35. Nf6+ Kd6 36. Nxh7 Kc5 37. Nf6 Bc1 38.
+h5 Bb2 39. Ng4 Kd5 40. h6 Kc5 41. h7 Bh8 42. Re8 Kd6 43. Rxh8 Ke7 44. Rb8
+Kf7 45. h8=Q Kg6 46. Ne5+ Kf5 47. Nd7 Kf4 48. Qg8 Kf3 49. h4 Kf4 50. h5 Kf3
+51. h6 Kf2 52. h7 Ke1 53. h8=Q Kd1 54. Nb6 Kc1 55. Kc4 Kc2 56. Kb5 Kd3 57.
+Qgg7 Kc2 58. Qg6+ Kd2 59. Qhg7 Ke3 60. Qc7 Kd2 61. Qgd6+ Ke3 62. Rd8 Ke2
+63. Qce7+ Kf3 64. Rf8+ Kg2 65. Qg6+ Kh3 66. Qeh7# 1-0
+

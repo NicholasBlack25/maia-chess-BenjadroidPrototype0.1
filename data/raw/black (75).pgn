@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.23"]
+[Round "-"]
+[White "jfleish26"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "722"]
+[BlackElo "720"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.12.23"]
+[UTCTime "03:38:24"]
+[Termination "jfleish26 won by resignation"]
+[CurrentPosition "5Q2/k6p/p1p2N2/8/7N/7P/PR3PP1/6K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...Bf5"]
+[StartTime "03:38:24"]
+[EndDate "2023.12.23"]
+[EndTime "03:44:56"]
+[Link "https://www.chess.com/game/live/97041617425"]
+
+1. e4 d5 2. e5 Nc6 3. d4 Bf5 4. Bb5 a6 5. Bxc6+ bxc6 6. Nf3 f6 7. exf6 exf6
+8. O-O Nh6 9. h3 Bd6 10. Nh4 Be4 11. Bxh6 gxh6 12. Qh5+ Kd7 13. Qxh6 Qe7
+14. Re1 c5 15. dxc5 Bxc5 16. c3 d4 17. Nd2 dxc3 18. Nxe4 Rae8 19. Nxf6+ Kc6
+20. Rxe7 Bxe7 21. Nxe8+ Kb7 22. Nf6 cxb2 23. Rb1 Bf8 24. Qf4 Ba3 25. Qf3+
+c6 26. Qxa3 Rf8 27. Rxb2+ Ka7 28. Qxf8 1-0
+

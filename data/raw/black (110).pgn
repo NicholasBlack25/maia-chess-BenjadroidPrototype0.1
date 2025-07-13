@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.28"]
+[Round "-"]
+[White "Seb021102"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "702"]
+[BlackElo "674"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.11.28"]
+[UTCTime "16:10:41"]
+[Termination "Seb021102 won by checkmate"]
+[CurrentPosition "5kQ1/7Q/8/8/8/8/P7/6K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-2.d4-e6-3.Nf3-d5-4.e5"]
+[StartTime "16:10:41"]
+[EndDate "2023.11.28"]
+[EndTime "16:21:55"]
+[Link "https://www.chess.com/game/live/94141963990"]
+
+1. e4 d5 2. e5 e6 3. d4 Nc6 4. Nf3 Bb4+ 5. c3 Ba5 6. b4 Bb6 7. Bb5 Bd7 8.
+O-O a6 9. Bxc6 Bxc6 10. c4 dxc4 11. Bg5 f6 12. exf6 gxf6 13. Bf4 Qd5 14.
+Nc3 Qf5 15. Qd2 h6 16. d5 exd5 17. Nd4 Qh5 18. Qe3+ Ne7 19. Nxc6 bxc6 20.
+Qe6 a5 21. b5 c5 22. Rad1 d4 23. Na4 Ba7 24. Rfe1 Qf7 25. Qxf7+ Kxf7 26.
+Bxc7 c3 27. Nb6 Rag8 28. Na4 Nd5 29. Bd6 c2 30. Rc1 d3 31. Bxc5 Bxc5 32.
+Nxc5 Nf4 33. Re4 Ne2+ 34. Rxe2 dxe2 35. Nd3 Rc8 36. b6 Rhd8 37. b7 Rxd3 38.
+bxc8=Q e1=Q+ 39. Rxe1 Rd2 40. Qc7+ Kg6 41. Rc1 a4 42. Rxc2 Rxc2 43. Qxc2+
+f5 44. Qxa4 h5 45. g3 Kg5 46. h4+ Kh6 47. f3 Kg6 48. g4 fxg4 49. fxg4 hxg4
+50. Qxg4+ Kf6 51. h5 Ke5 52. h6 Kd5 53. h7 Kd6 54. h8=Q Kd5 55. Qhh5+ Kd6
+56. Qgg6+ Ke7 57. Qhh7+ Kf8 58. Qgg8# 1-0
+

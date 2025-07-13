@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.13"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "murphywill"]
+[Result "1-0"]
+[WhiteElo "700"]
+[BlackElo "660"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.12.13"]
+[UTCTime "17:21:32"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b1r1k1/pp1p1pQp/2pB2p1/5N2/4n3/8/P4PPP/R5K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5"]
+[StartTime "17:21:32"]
+[EndDate "2023.12.13"]
+[EndTime "17:30:20"]
+[Link "https://www.chess.com/game/live/95748487794"]
+
+1. e3 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. d4 exd4 5. exd4 Qe7+ 6. Be2 Bd6 7. d5 Nb4
+8. O-O Nf6 9. Nb5 O-O 10. c3 Nbxd5 11. b4 c6 12. Nbd4 Nxc3 13. Qc2 Nxe2+
+14. Nxe2 Bxb4 15. Nh4 Nd5 16. Qb3 Qxh4 17. Ba3 Qe7 18. Ng3 Bc3 19. Bxe7 Re8
+20. Bd6 Bxa1 21. Rxa1 Nf6 22. Nf5 Ne4 23. Qb2 g6 24. Qg7# 1-0
+

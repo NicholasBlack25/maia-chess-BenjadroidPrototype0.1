@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "nikhilshah1118"]
+[Result "0-1"]
+[WhiteElo "685"]
+[BlackElo "666"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.12.12"]
+[UTCTime "18:24:41"]
+[Termination "nikhilshah1118 won by checkmate"]
+[CurrentPosition "5r2/6k1/3p1npR/3P1P2/8/7K/5q2/7r w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "18:24:41"]
+[EndDate "2023.12.12"]
+[EndTime "18:29:27"]
+[Link "https://www.chess.com/game/live/95739954082"]
+
+1. e4 e5 2. Qf3 Nc6 3. Bc4 Nf6 4. d3 Nd4 5. Qe3 Nxc2+ 6. Ke2 Nxe3 7. Bxe3
+g6 8. Nf3 Bg7 9. Nc3 O-O 10. Nd5 d6 11. Bg5 c6 12. h3 cxd5 13. exd5 a6 14.
+h4 Qb6 15. Rab1 Bg4 16. b3 Bxf3+ 17. gxf3 h6 18. Be3 Qc7 19. a4 Rab8 20. h5
+b5 21. axb5 axb5 22. Bxb5 Rxb5 23. hxg6 fxg6 24. Bxh6 Bxh6 25. Rxh6 Kg7 26.
+Rbh1 Qc2+ 27. Ke3 Rxb3 28. f4 exf4+ 29. Kxf4 Qxd3 30. Kg5 Qd2+ 31. f4 Rg3+
+32. Kh4 Qf2 33. f5 Rg1+ 34. Kh3 Rxh1# 0-1
+

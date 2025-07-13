@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.24"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "wanderxdz"]
+[Result "0-1"]
+[WhiteElo "594"]
+[BlackElo "627"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2023.07.24"]
+[UTCTime "00:01:51"]
+[Termination "wanderxdz won by checkmate"]
+[CurrentPosition "1k1r1r2/1p2p1pp/2p5/2Qp4/2n2P2/8/PqP3PP/2KR1B1R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Maroczy-Variation-2...d5"]
+[StartTime "00:01:51"]
+[EndDate "2023.07.24"]
+[EndTime "00:05:58"]
+[Link "https://www.chess.com/game/live/83895654233"]
+
+1. e4 d5 2. d3 Nf6 3. Nc3 Bg4 4. f3 Be6 5. e5 Nfd7 6. d4 Nc6 7. Be3 Nb6 8.
+Nh3 f6 9. Nf4 fxe5 10. Nxe6 Qd6 11. Nxf8 Rxf8 12. f4 exd4 13. Bxd4 Nxd4 14.
+Qxd4 O-O-O 15. Nb5 Qf6 16. Nxa7+ Kb8 17. Qb4 Kxa7 18. Qa5+ Kb8 19. O-O-O
+Nc4 20. Qb5 c6 21. Qc5 Qxb2# 0-1
+

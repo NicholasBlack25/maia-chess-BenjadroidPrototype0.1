@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.01"]
+[Round "-"]
+[White "edulang"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "500"]
+[BlackElo "536"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.07.01"]
+[UTCTime "10:51:54"]
+[Termination "edulang won by checkmate"]
+[CurrentPosition "2Q3k1/NR6/8/8/8/8/PP1B3P/3RK3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nf3"]
+[StartTime "10:51:54"]
+[EndDate "2023.07.01"]
+[EndTime "11:03:36"]
+[Link "https://www.chess.com/game/live/81147697666"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 e5 4. c3 Qe4+ 5. Be2 Bc5 6. d4 exd4 7. cxd4
+Bxd4 8. Nxd4 Qxg2 9. Kd2 Qxf2 10. Nb5 Qf4+ 11. Ke1 Nf6 12. Bxf4 Nc6 13.
+Nxc7+ Ke7 14. Nxa8 Bf5 15. Bb5 Rxa8 16. Bxc6 Rd8 17. Qe2+ Ne4 18. Bxe4 Kf6
+19. Bxf5 Kxf5 20. Bd2 g5 21. Qf3+ Kg6 22. Nc3 h5 23. Rg1 f5 24. Nd5 g4 25.
+Qg2 Rc8 26. Ne7+ Kf6 27. Nxc8 Ke5 28. Bh6 b5 29. Rd1 Kf6 30. Nxa7 b4 31.
+Rd6+ Ke7 32. Rd1 Kf7 33. Qc6 Ke7 34. Rf1 Kf7 35. Rxf5+ Ke7 36. Rxh5 Kf7 37.
+Qc7+ Ke6 38. Bd2 Kf6 39. Qc6+ Kg7 40. Rg5+ Kh7 41. Rxg4 Kh8 42. Rxb4 Kh7
+43. Rb7+ Kg8 44. Qc8# 1-0
+

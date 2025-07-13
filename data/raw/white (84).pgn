@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.24"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Paugaex"]
+[Result "1-0"]
+[WhiteElo "728"]
+[BlackElo "708"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.12.24"]
+[UTCTime "00:50:09"]
+[Termination "BenjaminVega10 won - game abandoned"]
+[CurrentPosition "r1b2rk1/pp4pp/2n1p3/3p4/4n3/4PN2/PPP1QPPP/R3KB1R b KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation"]
+[StartTime "00:50:09"]
+[EndDate "2023.12.24"]
+[EndTime "00:54:32"]
+[Link "https://www.chess.com/game/live/97117847989"]
+
+1. d4 d5 2. Nc3 Nc6 3. Bf4 Nf6 4. Nb5 e5 5. dxe5 Ne4 6. e6 fxe6 7. Nxc7+
+Qxc7 8. Bxc7 Bd6 9. Bxd6 Nxd6 10. Nf3 O-O 11. e3 Ne4 12. Qe2 1-0
+

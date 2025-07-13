@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.29"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "7Luigi"]
+[Result "1-0"]
+[WhiteElo "720"]
+[BlackElo "722"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.05.29"]
+[UTCTime "09:34:34"]
+[Termination "BenjaminVega10 won on time"]
+[CurrentPosition "8/5k2/4R3/2P5/8/7B/5K2/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening"]
+[StartTime "09:34:34"]
+[EndDate "2024.05.29"]
+[EndTime "09:52:46"]
+[Link "https://www.chess.com/game/live/107494146476"]
+
+1. d4 Na6 2. Nf3 c5 3. e4 d5 4. exd5 Qd6 5. Bc4 Nc7 6. Be3 Nxd5 7. dxc5
+Nxe3 8. fxe3 Qxc5 9. Qd4 b6 10. Ne5 Qxd4 11. exd4 Be6 12. Bb5+ Kd8 13. Nc3
+f6 14. O-O Nh6 15. Nc6+ Kc7 16. d5 Bf5 17. Nd4 a6 18. Bc6 Bd7 19. Bxa8 Ng4
+20. a4 Ne3 21. Rf2 e6 22. dxe6 Bc8 23. a5 b5 24. Ndxb5+ axb5 25. Nxb5+ Kd8
+26. a6 Bc5 27. Rd2+ Ke7 28. Kh1 Bxe6 29. Nc7 Bd7 30. c3 Nc4 31. Re2+ Kd6
+32. b4 Bb6 33. Bd5 Bxc7 34. Bxc4 Bb6 35. b5 Kc5 36. Re4 Ba7 37. Re7 Kd6 38.
+Rxg7 Bf5 39. Rxa7 Be4 40. b6 Rg8 41. Kg1 Rb8 42. Rxh7 Rxb6 43. Rh4 Ba8 44.
+Rh6 Kc5 45. Ra4 Rb1+ 46. Bf1 Rb6 47. h4 Bc6 48. Rc4+ Kd5 49. Rxf6 Rxa6 50.
+Rfxc6 Ra1 51. R6c5+ Kd6 52. h5 Ke6 53. h6 Kf6 54. h7 Kg7 55. Rc7+ Kh8 56.
+Rh4 Ra8 57. g4 Rg8 58. Bc4 Re8 59. g5 Re1+ 60. Bf1 Re6 61. c4 Rg6 62. Rh6
+Rxg5+ 63. Bg2 Rg7 64. Re6 Kxh7 65. Kf2 Kh8 66. Rxg7 Kxg7 67. c5 Kf7 68. Bh3
+1-0
+

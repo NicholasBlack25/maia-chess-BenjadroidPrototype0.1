@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "rojolele99"]
+[Result "0-1"]
+[WhiteElo "725"]
+[BlackElo "762"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2024.01.12"]
+[UTCTime "08:07:34"]
+[Termination "rojolele99 won by resignation"]
+[CurrentPosition "r1b4r/pp2qpk1/2p1p3/4N3/3Pn3/1K6/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation"]
+[StartTime "08:07:34"]
+[EndDate "2024.01.12"]
+[EndTime "08:19:04"]
+[Link "https://www.chess.com/game/live/98786018843"]
+
+1. d4 e6 2. e4 Qh4 3. Nh3 Qxe4+ 4. Be2 Qxg2 5. Rf1 Qxh3 6. Nc3 Qxh2 7. Nb5
+Na6 8. Be3 c6 9. Nc3 Qc7 10. Ne4 Qb6 11. b3 Qb4+ 12. Nd2 h5 13. Bd3 h4 14.
+Qf3 Qc3 15. O-O-O Qa1+ 16. Nb1 Qxa2 17. Rh1 Ba3+ 18. Kd2 Bb4+ 19. Ke2 Bf8
+20. Qg2 Nb4 21. f4 Nxd3 22. Rxd3 Qxc2+ 23. Rd2 Qxb3 24. Qg5 h3 25. f5 Qc4+
+26. Rd3 Qd5 27. Bf2 Qxh1 28. Bh4 Nf6 29. Nd2 Qh2+ 30. Kd1 Qd6 31. Bg3 Qe7
+32. Nc4 h2 33. Bd6 Qd8 34. Bxf8 Kxf8 35. fxe6 dxe6 36. Kc2 h1=Q 37. Rg3
+Qh7+ 38. Kb3 Qe7 39. Ne5 Ne4 40. Qxg7+ Qxg7 41. Rxg7 Kxg7 0-1
+

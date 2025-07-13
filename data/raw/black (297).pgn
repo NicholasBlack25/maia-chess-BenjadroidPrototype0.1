@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.03"]
+[Round "-"]
+[White "dineshkannan87"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "709"]
+[BlackElo "676"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2024.08.03"]
+[UTCTime "05:12:41"]
+[Termination "dineshkannan87 won by checkmate"]
+[CurrentPosition "2r5/4R2Q/2N2p1k/6pp/8/8/5PPP/2K5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Kings-Indian-Attack-2...d5"]
+[StartTime "05:12:41"]
+[EndDate "2024.08.03"]
+[EndTime "05:24:21"]
+[Link "https://www.chess.com/game/live/108531614302"]
+
+1. e4 e6 2. d3 d5 3. a3 Nc6 4. c3 Bc5 5. b4 Bb6 6. a4 d4 7. a5 dxc3 8. axb6
+Nxb4 9. Nxc3 Ne7 10. bxa7 Nec6 11. Qa4 Bd7 12. d4 Qh4 13. Nb5 O-O 14. Nxc7
+Rac8 15. a8=Q Qxe4+ 16. Ne2 g6 17. Qxb7 e5 18. dxe5 Qxe5 19. Bd2 Bg4 20.
+Bxb4 Nxb4 21. Qaxb4 Qxa1+ 22. Qb1 Qa5+ 23. Q1b4 Qa1+ 24. Qb1 Qe5 25. Nd5
+Rb8 26. Ne7+ Kg7 27. Nc6 Rxb7 28. Qxb7 Qa1+ 29. Kd2 Qa2+ 30. Kc1 Bxe2 31.
+Bxe2 Qxe2 32. Qb2+ f6 33. Qxe2 Rc8 34. Qc2 h5 35. Re1 g5 36. Re7+ Kh6 37.
+Qh7# 1-0
+

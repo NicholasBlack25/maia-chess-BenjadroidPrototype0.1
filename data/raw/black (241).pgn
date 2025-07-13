@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.23"]
+[Round "-"]
+[White "Cjongzy"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "629"]
+[BlackElo "611"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.06.23"]
+[UTCTime "07:40:13"]
+[Termination "Cjongzy won by checkmate"]
+[CurrentPosition "7r/8/kQ6/P7/5K2/8/8/1R6 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...d5"]
+[StartTime "07:40:13"]
+[EndDate "2023.06.23"]
+[EndTime "07:54:50"]
+[Link "https://www.chess.com/game/live/81244922849"]
+
+1. e3 d5 2. Qf3 Nc6 3. e4 Ne5 4. Qb3 Be6 5. Qxb7 dxe4 6. Qb5+ Bd7 7. Qxe5
+Nf6 8. g3 c6 9. Bg2 Qb6 10. Nc3 Ng4 11. Qf4 Qd4 12. Nce2 Qe5 13. Qxe5 Nxe5
+14. Bxe4 f5 15. Bf3 O-O-O 16. b3 e6 17. Bb2 Bc5 18. Bxe5 Bxf2+ 19. Kxf2 c5
+20. Bxg7 Rhg8 21. Bf6 Rdf8 22. Be7 Rf7 23. Bxc5 e5 24. Bxa7 f4 25. gxf4
+exf4 26. Bd5 Rff8 27. Bxg8 Rxg8 28. Nxf4 Rf8 29. Kf3 Bc6+ 30. Kg4 Bxh1 31.
+a4 Be4 32. d3 Rg8+ 33. Kh3 Bf5+ 34. Kh4 Rg4+ 35. Kh5 Rxf4 36. c4 Bg6+ 37.
+Kg5 Rf5+ 38. Kg4 h5+ 39. Kg3 Rg5+ 40. Kf4 Rg2 41. Nf3 Bxd3 42. a5 Rg4+ 43.
+Ke3 Be4 44. Rf1 Kb7 45. Bd4 Ka6 46. b4 Bxf3 47. Kxf3 Rxd4 48. Rc1 h4 49. h3
+Rd3+ 50. Kg2 Rd2+ 51. Kf3 Rd3+ 52. Kg4 Rd4+ 53. Kh5 Kb7 54. b5 Ka7 55. b6+
+Ka6 56. Rb1 Rxc4 57. b7 Rc5+ 58. Kxh4 Rc4+ 59. Kg3 Rc3+ 60. Kf4 Rc4+ 61.
+Ke3 Rc3+ 62. Kd4 Rxh3 63. b8=Q Rh4+ 64. Ke3 Rh3+ 65. Kf4 Rh8 66. Qb6# 1-0
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "luizneto96"]
+[Result "1-0"]
+[WhiteElo "660"]
+[BlackElo "645"]
+[ECO "B10"]
+[TimeControl "600"]
+[UTCDate "2023.06.20"]
+[UTCTime "21:54:19"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "rn2kb1r/ppNnqpp1/2p4p/3pP3/6P1/2N2P2/PPP4P/R1BQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Two-Knights-Attack-3...Nf6"]
+[StartTime "21:54:19"]
+[EndDate "2023.06.20"]
+[EndTime "21:59:30"]
+[Link "https://www.chess.com/game/live/81037232487"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Nf6 4. Ng5 h6 5. Nh3 Nxe4 6. d3 Nf6 7. Nf4 e5 8.
+d4 Bg4 9. f3 Bf5 10. g4 Be6 11. dxe5 Nfd7 12. Nxe6 Qe7 13. Nc7+ 1-0
+

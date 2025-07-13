@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.13"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "banderlog108"]
+[Result "0-1"]
+[WhiteElo "698"]
+[BlackElo "679"]
+[ECO "C40"]
+[TimeControl "600"]
+[UTCDate "2023.12.13"]
+[UTCTime "17:34:51"]
+[Termination "banderlog108 won by resignation"]
+[CurrentPosition "8/7p/1p2b3/p2n4/5p1k/8/5P1K/3r4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation"]
+[StartTime "17:34:51"]
+[EndDate "2023.12.13"]
+[EndTime "17:45:56"]
+[Link "https://www.chess.com/game/live/96227726543"]
+
+1. e4 e5 2. Nf3 d5 3. Nc3 Nf6 4. Nxe5 dxe4 5. d3 exd3 6. cxd3 Bb4 7. Be2
+Bxc3+ 8. bxc3 O-O 9. Bf4 Qd6 10. O-O Nc6 11. d4 Nxe5 12. dxe5 Qxd1 13. Bxd1
+Ne4 14. Re1 Nxc3 15. Rc1 Nxa2 16. Rxc7 b6 17. Be3 Be6 18. Bd4 Nb4 19. Bc3
+Nd5 20. Rc6 Rac8 21. Rxc8 Rxc8 22. Bb2 a5 23. Re4 f5 24. Rh4 g5 25. Rh5 g4
+26. h3 gxh3 27. gxh3 Kg7 28. Rg5+ Kh6 29. Bc1 Rxc1 30. Rg3 Rxd1+ 31. Kh2 f4
+32. Rf3 Kg5 33. h4+ Kxh4 34. Rh3+ Bxh3 35. e6 Bxe6 0-1
+

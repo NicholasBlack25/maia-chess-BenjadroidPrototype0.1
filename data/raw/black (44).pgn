@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.14"]
+[Round "-"]
+[White "ameen_ahmed"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "652"]
+[BlackElo "714"]
+[ECO "B10"]
+[TimeControl "600"]
+[UTCDate "2024.01.14"]
+[UTCTime "10:16:02"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r6r/p5p1/4p1kp/2n1P3/2P3P1/P4RP1/3b2KP/q7 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nf3-d5-3.d3"]
+[StartTime "10:16:02"]
+[EndDate "2024.01.14"]
+[EndTime "10:27:34"]
+[Link "https://www.chess.com/game/live/98966170319"]
+
+1. e4 c6 2. Nf3 d5 3. d3 Nf6 4. e5 Ng4 5. g3 d4 6. Bg2 Qa5+ 7. c3 dxc3 8.
+bxc3 Na6 9. O-O Bf5 10. d4 Qb5 11. Ng5 Bd3 12. Nxf7 Kxf7 13. Qe1 e6 14. Nd2
+c5 15. dxc5 Nxc5 16. f3 h6 17. fxg4+ Kg6 18. c4 Qb4 19. a3 Qc3 20. Bxb7
+Nxb7 21. Ne4 Qxa1 22. Nc3 Bc5+ 23. Kg2 Bd4 24. Rf3 Bxc3 25. Rxd3 Bxe1 26.
+Bd2 Nc5 27. Rf3 Bxd2 0-1
+

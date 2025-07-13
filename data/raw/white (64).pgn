@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "DanielAshtamker"]
+[Result "0-1"]
+[WhiteElo "676"]
+[BlackElo "703"]
+[ECO "D04"]
+[TimeControl "600"]
+[UTCDate "2023.12.06"]
+[UTCTime "08:02:46"]
+[Termination "DanielAshtamker won by resignation"]
+[CurrentPosition "1r3k2/p1p2p1p/4p2q/3p4/1P1Pb3/6K1/8/6R1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Colle-System-Anti-Colle-Variation"]
+[StartTime "08:02:46"]
+[EndDate "2023.12.06"]
+[EndTime "08:08:02"]
+[Link "https://www.chess.com/game/live/94207046544"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 Bf5 4. b3 e6 5. g4 Bxg4 6. Be2 Bf5 7. Ne5 Nc6 8.
+Bb5 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Nxc6 bxc6 12. Bxc6 Qd6 13. Bxa8 Rxa8
+14. Nc3 Ne4 15. Qd3 Nxf2 16. Nb5 Qb4+ 17. c3 Nxd3+ 18. Kd2 Qxb5 19. Rag1
+Be4 20. Rxg7+ Kxg7 21. Rg1+ Kf8 22. h4 Nb4 23. cxb4 Qd3+ 24. Ke1 Rb8 25. h5
+Qb1+ 26. Kf2 Qxa2+ 27. Kg3 Qxb3 28. h6 Qxe3+ 29. Kg4 Qxh6 30. Kg3 0-1
+

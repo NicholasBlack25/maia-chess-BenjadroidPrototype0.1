@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.26"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "tommydrapeau"]
+[Result "0-1"]
+[WhiteElo "636"]
+[BlackElo "631"]
+[ECO "B10"]
+[TimeControl "600"]
+[UTCDate "2023.06.26"]
+[UTCTime "00:16:57"]
+[Termination "tommydrapeau won by checkmate"]
+[CurrentPosition "8/Kqk3pp/4p3/8/2P3P1/8/P6P/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nc3-d5"]
+[StartTime "00:16:57"]
+[EndDate "2023.06.26"]
+[EndTime "00:21:49"]
+[Link "https://www.chess.com/game/live/81477672151"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nc6 5. Be3 Bf5 6. Qf3 e6 7. g4 Be4 8.
+Nxe4 dxe4 9. Qxe4 Bb4+ 10. Bd2 Bxd2+ 11. Kxd2 Nxd4 12. Qxb7 Qa5+ 13. c3 Rd8
+14. Ke3 Qe5+ 15. Kd2 Nf3+ 16. Kc2 Ne1+ 17. Kb3 Rb8 18. Qxb8+ Qxb8+ 19. Kc4
+Qc7+ 20. Kb3 Qb6+ 21. Ka3 Nc2+ 22. Ka4 Nxa1 23. Bb5+ Kd8 24. Nf3 a5 25.
+Rxa1 Ne7 26. Rd1+ Kc7 27. Ne5 Rd8 28. Rxd8 Kxd8 29. Nxf7+ Kc7 30. Ne5 Qxf2
+31. b4 Qf4 32. Kxa5 Qxe5 33. c4 Nc6+ 34. Ka6 Nxb4+ 35. Ka7 Qc5+ 36. Ka8 Nc6
+37. Bxc6 Qxc6+ 38. Ka7 Qb7# 0-1
+

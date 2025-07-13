@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.04"]
+[Round "-"]
+[White "Spaghetticatto"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "748"]
+[BlackElo "696"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2024.02.04"]
+[UTCTime "21:51:26"]
+[Termination "Spaghetticatto won by checkmate"]
+[CurrentPosition "r1b2rk1/ppp2ppQ/4pq2/4N3/3P3n/2BB4/P1P2PPP/1R3RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5-Nxd5"]
+[StartTime "21:51:26"]
+[EndDate "2024.02.04"]
+[EndTime "21:55:34"]
+[Link "https://www.chess.com/game/live/100822424659"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. d4 e6 5. Bc4 Bb4 6. Bd2 Bxc3 7. bxc3
+Nb6 8. Bd3 O-O 9. Nf3 Na4 10. Rb1 Nc6 11. O-O Ne7 12. Qe2 Nf5 13. Qe4 Nxc3
+14. Bxc3 Qf6 15. Ne5 Nh4 16. Qxh7# 1-0
+

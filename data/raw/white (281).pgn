@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.31"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "yeabuddylightweigh"]
+[Result "0-1"]
+[WhiteElo "516"]
+[BlackElo "510"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.05.31"]
+[UTCTime "07:44:17"]
+[Termination "yeabuddylightweigh won by checkmate"]
+[CurrentPosition "8/pp6/7p/2k4P/P5b1/1K1r4/3q4/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game"]
+[StartTime "07:44:17"]
+[EndDate "2023.05.31"]
+[EndTime "07:50:54"]
+[Link "https://www.chess.com/game/live/79258231713"]
+
+1. d4 Nf6 2. e4 Nxe4 3. f3 Nd6 4. Bd3 f5 5. Bg5 h6 6. Bf4 g5 7. Bxd6 cxd6
+8. Bxf5 e6 9. Bg6+ Ke7 10. Qd3 Bg7 11. Nd2 e5 12. Ne4 exd4 13. Qxd4 Bxd4
+14. Ne2 Qa5+ 15. c3 Bf2+ 16. Kxf2 Qb6+ 17. Nd4 Qxb2+ 18. Nc2 Qxc2+ 19. Kg3
+d5 20. f4 dxe4 21. fxg5 Rg8 22. Bxe4 Rxg5+ 23. Kf4 Qf2+ 24. Bf3 Nc6 25.
+Rae1+ Ne5 26. Rxe5+ Rxe5 27. Kxe5 Qe3+ 28. Be4 Qxc3+ 29. Kf4 Qd4 30. Re1 d5
+31. g4 dxe4 32. h4 e3+ 33. Kf3 Qxg4+ 34. Kxe3 Qg3+ 35. Ke2 Bg4+ 36. Kd2+
+Kd6 37. a4 Rd8 38. h5 Kc5+ 39. Kc1 Qxe1+ 40. Kc2 Qd2+ 41. Kb3 Rd3# 0-1
+

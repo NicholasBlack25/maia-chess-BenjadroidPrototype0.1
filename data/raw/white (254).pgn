@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.24"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "lalit_36"]
+[Result "1-0"]
+[WhiteElo "616"]
+[BlackElo "565"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.06.24"]
+[UTCTime "06:33:40"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "1rbQ1knN/pp4pB/4p3/4P3/6K1/4b2P/PPP4P/R6R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening"]
+[StartTime "06:33:40"]
+[EndDate "2023.06.24"]
+[EndTime "06:37:58"]
+[Link "https://www.chess.com/game/live/81327171935"]
+
+1. d4 h5 2. Nf3 h4 3. Ng5 e6 4. e4 h3 5. gxh3 Qf6 6. e5 Qf5 7. Bd3 Bb4+ 8.
+Nc3 Qxf2+ 9. Kxf2 Nc6 10. Nb5 Kd8 11. Nxf7+ Ke7 12. Nxh8 Rb8 13. Nxc7 Nxd4
+14. Bg5+ Kf8 15. Bh7 Bc5 16. Kg3 Nf5+ 17. Kg4 Ne3+ 18. Bxe3 Bxe3 19. Nxe6+
+dxe6 20. Qd8# 1-0
+

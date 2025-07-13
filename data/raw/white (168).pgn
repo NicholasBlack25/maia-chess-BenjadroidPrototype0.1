@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.05"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "velets"]
+[Result "0-1"]
+[WhiteElo "558"]
+[BlackElo "553"]
+[ECO "C29"]
+[TimeControl "600"]
+[UTCDate "2023.07.05"]
+[UTCTime "08:11:25"]
+[Termination "velets won by checkmate"]
+[CurrentPosition "rn2k2N/ppp3pp/2b1P3/5pb1/4n3/3P4/PPP2qPP/R2QKB1R w KQq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Main-Line-4.fxe5"]
+[StartTime "08:11:25"]
+[EndDate "2023.07.05"]
+[EndTime "08:15:24"]
+[Link "https://www.chess.com/game/live/82283507883"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 d4 5. Nb5 Nxe4 6. Nf3 Bd7 7. Nbxd4 f6
+8. d3 f5 9. e6 Bc6 10. Bg5 Be7 11. Ne5 Bxg5 12. Nf7 Qxd4 13. Nxh8 Qf2# 0-1
+

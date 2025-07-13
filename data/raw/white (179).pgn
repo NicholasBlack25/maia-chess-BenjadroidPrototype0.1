@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "ferdi84"]
+[Result "1-0"]
+[WhiteElo "602"]
+[BlackElo "628"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.07.20"]
+[UTCTime "08:36:01"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "6k1/1p3pp1/5b1p/8/7P/P2R1P1B/1p5P/1KB5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-2...d6"]
+[StartTime "08:36:01"]
+[EndDate "2023.07.20"]
+[EndTime "08:45:48"]
+[Link "https://www.chess.com/game/live/83580999607"]
+
+1. e4 e5 2. Nc3 d6 3. f3 Nc6 4. d3 Nf6 5. Nh3 Bxh3 6. gxh3 Be7 7. Nd5 Nd4
+8. Be3 O-O 9. c3 c6 10. Nxf6+ Bxf6 11. cxd4 exd4 12. Bf4 d5 13. Bg2 Re8 14.
+Qe2 a5 15. O-O-O a4 16. a3 h6 17. Rhg1 Rc8 18. Qf2 c5 19. exd5 Qxd5 20.
+Rge1 c4 21. Rxe8+ Rxe8 22. dxc4 Qxc4+ 23. Qc2 Rc8 24. b3 Qc3 25. h4 d3 26.
+Qxc3 Rxc3+ 27. Kb2 Rc2+ 28. Kb1 axb3 29. Bh3 b2 30. Rxd3 Rc1+ 31. Bxc1 1-0
+

@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.16"]
+[Round "-"]
+[White "Krishna_Mittal123"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "682"]
+[BlackElo "653"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.11.16"]
+[UTCTime "07:36:09"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "2kr1r2/pp4pp/2n1p3/8/q7/8/7P/4RK2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "07:36:09"]
+[EndDate "2023.11.16"]
+[EndTime "07:41:46"]
+[Link "https://www.chess.com/game/live/82176275556"]
+
+1. e4 d5 2. Qh5 Nf6 3. exd5 Nxh5 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. Nc3 c6 7.
+dxc6 Qxc6 8. d4 Nf4 9. Nf3 Nxg2+ 10. Kd1 Qxf3+ 11. Ne2 Qxf2 12. d5 e6 13.
+dxe6 fxe6 14. a4 Nc6 15. c4 Ne3+ 16. Bxe3 Qxe3 17. c5 Bxc5 18. Nc3 Bb4 19.
+Re1 Qd3+ 20. Kc1 Bxc3 21. bxc3 Qxc3+ 22. Kd1 Qxa1+ 23. Kd2 O-O-O+ 24. Ke2
+Qxa4 25. Kf1 Rhf8+ 0-1
+

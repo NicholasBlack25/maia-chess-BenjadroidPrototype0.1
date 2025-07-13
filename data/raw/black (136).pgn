@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.25"]
+[Round "-"]
+[White "tommytoughknuckles3rd"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "469"]
+[BlackElo "523"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.10.25"]
+[UTCTime "19:55:07"]
+[Termination "tommytoughknuckles3rd won by checkmate"]
+[CurrentPosition "r2k1B2/pppQ3p/4B1p1/8/4KP2/1P2P1P1/2n2q1P/6NR b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5"]
+[StartTime "19:55:07"]
+[EndDate "2023.10.25"]
+[EndTime "20:03:21"]
+[Link "https://www.chess.com/game/live/81981399468"]
+
+1. e3 e5 2. f4 e4 3. Nc3 d5 4. d3 Qh4+ 5. g3 Qd8 6. dxe4 dxe4 7. Bb5+ Bd7
+8. Bc4 Nc6 9. Nxe4 Nf6 10. Ng5 Bc5 11. Bxf7+ Kf8 12. Ne6+ Bxe6 13. Bxe6 Ne4
+14. Qh5 Bb4+ 15. c3 g6 16. Qh6+ Ke8 17. Qg7 Rf8 18. cxb4 Nxb4 19. b3 Nc2+
+20. Ke2 Nxa1 21. Ba3 Qd2+ 22. Kf3 Qxa2 23. Bxf8 Qf2+ 24. Kxe4 Nc2 25. Qf7+
+Kd8 26. Qd7# 1-0
+

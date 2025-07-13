@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.16"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Daintybear"]
+[Result "0-1"]
+[WhiteElo "699"]
+[BlackElo "715"]
+[ECO "C21"]
+[TimeControl "600"]
+[UTCDate "2023.12.16"]
+[UTCTime "02:43:32"]
+[Termination "Daintybear won by checkmate"]
+[CurrentPosition "6k1/pp5R/6p1/2n3N1/6P1/2b3P1/P2r4/1RK1r3 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Center-Game-Accepted-3.Qxd4"]
+[StartTime "02:43:32"]
+[EndDate "2023.12.16"]
+[EndTime "02:50:25"]
+[Link "https://www.chess.com/game/live/96433729347"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nf6 4. e5 Nc6 5. Qe3 Ng4 6. Qe4 Ncxe5 7. f3 d5
+8. Qa4+ Bd7 9. Bb5 c6 10. Nc3 cxb5 11. Nxb5 Bxb5 12. Qxb5+ Qd7 13. Qxd7+
+Nxd7 14. fxg4 Bc5 15. Nf3 O-O 16. Bf4 Rae8+ 17. Kd2 d4 18. h4 Bb4+ 19. c3
+dxc3+ 20. bxc3 Ba5 21. h5 g6 22. hxg6 fxg6 23. g3 Nc5 24. Ng5 Rd8+ 25. Kc2
+Rfe8 26. Rxh7 Re2+ 27. Bd2 Rdxd2+ 28. Kc1 Bxc3 29. Rb1 Re1# 0-1
+

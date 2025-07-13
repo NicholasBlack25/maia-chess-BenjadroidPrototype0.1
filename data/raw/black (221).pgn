@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.14"]
+[Round "-"]
+[White "SDArha"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "597"]
+[BlackElo "653"]
+[ECO "C44"]
+[TimeControl "600"]
+[UTCDate "2023.06.14"]
+[UTCTime "07:59:31"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r3kr2/ppp1np1Q/3p4/8/4P1b1/3P3P/PPP2P2/RNBqKBR1 w Qq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6-3.d3"]
+[StartTime "07:59:31"]
+[EndDate "2023.06.14"]
+[EndTime "08:02:16"]
+[Link "https://www.chess.com/game/live/80468476799"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 Qf6 4. Qd2 Bc5 5. Qc3 Nd4 6. Qxc5 Nxf3+ 7. gxf3
+Qxf3 8. Qxe5+ Ne7 9. Rg1 d6 10. Qxg7 Rf8 11. Qxh7 Bg4 12. h3 Qd1# 0-1
+
