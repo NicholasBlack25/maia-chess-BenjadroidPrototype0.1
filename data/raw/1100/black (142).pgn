@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.03"]
+[Round "-"]
+[White "aldesposaurus"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "566"]
+[BlackElo "574"]
+[ECO "C41"]
+[TimeControl "600"]
+[UTCDate "2023.08.03"]
+[UTCTime "10:37:20"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r1b1k2r/pp3p1p/3p2p1/n1pP2P1/4PQ2/1P6/P1PBBKPP/7q w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Nimzowitsch-Variation-4.Nc3"]
+[StartTime "10:37:20"]
+[EndDate "2023.08.03"]
+[EndTime "10:43:31"]
+[Link "https://www.chess.com/game/live/84798162689"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nf6 4. d4 Nc6 5. d5 Nd4 6. Nxd4 exd4 7. Qxd4 c5
+8. Qe3 Ng4 9. Qf3 Ne5 10. Qe3 Be7 11. Be2 Bg5 12. f4 Qf6 13. fxg5 Nc4 14.
+Qf4 Qd4 15. b3 Na5 16. Bh5 g6 17. Be2 Qxc3+ 18. Bd2 Qxa1+ 19. Kf2 Qxh1 0-1
+

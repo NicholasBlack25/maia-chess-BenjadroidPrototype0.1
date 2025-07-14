@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.29"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "kavya_pm"]
+[Result "0-1"]
+[WhiteElo "613"]
+[BlackElo "650"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.06.29"]
+[UTCTime "05:29:52"]
+[Termination "kavya_pm won by resignation"]
+[CurrentPosition "2b2rk1/1p1p1p1p/7P/3nK3/1p3P2/8/8/2qq4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game"]
+[StartTime "05:29:52"]
+[EndDate "2023.06.29"]
+[EndTime "05:34:51"]
+[Link "https://www.chess.com/game/live/81755626593"]
+
+1. e4 e5 2. Nc3 Bb4 3. Nd5 Na6 4. c3 Ba5 5. b4 Bb6 6. Nxb6 axb6 7. d4 exd4
+8. cxd4 Nxb4 9. Rb1 Nxa2 10. Ba3 Nc3 11. Qd3 Nxb1 12. Qxb1 Rxa3 13. Nf3 Qe7
+14. Bc4 Qxe4+ 15. Be2 Qxb1+ 16. Bd1 Ra1 17. O-O Qe4 18. Nd2 Qxd4 19. h4
+Qxd2 20. g3 Rxd1 21. Rxd1 Qxd1+ 22. Kg2 Nf6 23. f3 O-O 24. g4 b5 25. Kg3 c5
+26. Kf4 c4 27. g5 Nd5+ 28. Kf5 c3 29. h5 c2 30. h6 gxh6 31. gxh6 c1=Q 32.
+f4 b4 33. Ke5 0-1
+

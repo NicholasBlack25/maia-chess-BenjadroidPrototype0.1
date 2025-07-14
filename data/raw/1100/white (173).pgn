@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.10"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Tasdemiir"]
+[Result "1-0"]
+[WhiteElo "577"]
+[BlackElo "559"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2023.07.10"]
+[UTCTime "08:29:08"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b1k2r/ppppQppp/8/6B1/8/8/PPP2PPP/R3KB1R b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation"]
+[StartTime "08:29:08"]
+[EndDate "2023.07.10"]
+[EndTime "08:30:09"]
+[Link "https://www.chess.com/game/live/82716679289"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 Nxd4 5. Nxd4 exd4 6. Qxd4 Qe7 7. Bg5
+Qxe4+ 8. Nxe4 Nxe4 9. Qxe4+ Be7 10. Qxe7# 1-0
+

@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.20"]
+[Round "-"]
+[White "Naeyal"]
+[Black "BenjaminVega10"]
+[Result "1/2-1/2"]
+[WhiteElo "653"]
+[BlackElo "643"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.06.20"]
+[UTCTime "07:25:14"]
+[Termination "Game drawn by stalemate"]
+[CurrentPosition "8/8/8/8/5k1K/5q2/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3-Nf6"]
+[StartTime "07:25:14"]
+[EndDate "2023.06.20"]
+[EndTime "07:35:38"]
+[Link "https://www.chess.com/game/live/80985042663"]
+
+1. e3 d5 2. d4 Nf6 3. Nc3 Nc6 4. Nf3 Ne4 5. h3 Qd6 6. Bb5 Qg6 7. g3 Nxg3 8.
+fxg3 Qxg3+ 9. Ke2 Qg2+ 10. Kd3 Bf5+ 11. e4 dxe4+ 12. Ke3 Qxf3+ 13. Qxf3
+exf3 14. Bxc6+ bxc6 15. Rf1 Bxc2 16. Rxf3 O-O-O 17. Rxf7 c5 18. Rf2 cxd4+
+19. Kd2 dxc3+ 20. Kxc2 Rd2+ 21. Rxd2 cxd2 22. Bxd2 e5 23. Bc3 Bd6 24. Rg1
+Rf8 25. Rxg7 Rf2+ 26. Kb3 e4 27. Rxh7 e3 28. Be1 Re2 29. Bg3 Rg2 30. Bh4
+Bg3 31. Rg7 e2 32. Bxg3 Rxg3+ 33. Rxg3 e1=Q 34. Rg8+ Kd7 35. Rg7+ Kc6 36.
+Rg6+ Kb7 37. Rg4 Qd1+ 38. Ka3 Qd3+ 39. b3 Qxh3 40. Rb4+ Ka8 41. Ka4 Qd7+
+42. Ka5 c5 43. Rb5 Qc7+ 44. Ka4 c4 45. bxc4 Qxc4+ 46. Ka5 Qxa2+ 47. Kb4 a6
+48. Ra5 Qd2+ 49. Ka4 Qd4+ 50. Ka3 Qc3+ 51. Ka4 Qa1+ 52. Kb4 Qe1+ 53. Ka4
+Ka7 54. Rxa6+ Kxa6 55. Ka3 Ka5 56. Kb3 Qb4+ 57. Kc2 Ka4 58. Kd3 Qb3+ 59.
+Ke4 Kb5 60. Ke5 Kc5 61. Ke4 Qd5+ 62. Kf4 Kd4 63. Kg3 Ke3 64. Kg4 Qe4+ 65.
+Kg3 Qf3+ 66. Kh4 Kf4 1/2-1/2
+

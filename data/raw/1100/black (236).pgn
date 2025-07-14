@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.21"]
+[Round "-"]
+[White "bajzj"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "702"]
+[BlackElo "653"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.21"]
+[UTCTime "08:17:40"]
+[Termination "bajzj won by checkmate"]
+[CurrentPosition "5R1k/Q7/8/6p1/8/2N5/PKPP3P/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "08:17:40"]
+[EndDate "2023.06.21"]
+[EndTime "08:24:36"]
+[Link "https://www.chess.com/game/live/81074489941"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Bc4 Bg4 5. f3 exf3 6. Nxf7 Qd4 7. Nxh8
+Qxc4 8. gxf3 Bxf3 9. Qxf3 Ne4 10. Qh5+ Kd7 11. Qxh7 e6 12. Nf7 Bc5 13. Ne5+
+Kd6 14. Nxc4+ Kd5 15. Qh4 Nf2 16. Qd8+ Kxc4 17. Rf1 Nd3+ 18. Kd1 Nxc1 19.
+Kxc1 a5 20. Qxc7 Na6 21. Qxb7 Ra7 22. Qb3+ Kd4 23. Qxe6 Rb7 24. Qxa6 Rb6
+25. Qd3+ Ke5 26. Qc3+ Kd5 27. Rf5+ Kc6 28. Qxc5+ Kb7 29. Qxa5 g6 30. Rf7+
+Kc6 31. Nc3 Rxb2 32. Kxb2 g5 33. Rf6+ Kd7 34. Qa7+ Ke8 35. Rf8+ Kxf8 36.
+Rf1+ Kg8 37. Rf6 Kh8 38. Rf8# 1-0
+

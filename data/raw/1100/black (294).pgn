@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.11.05"]
+[Round "-"]
+[White "oreagantangs"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "682"]
+[BlackElo "667"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2024.11.05"]
+[UTCTime "00:24:21"]
+[Termination "oreagantangs won by checkmate"]
+[CurrentPosition "2kQ4/ppp2p2/8/1P5p/3Rp3/4P2P/5rPK/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Polish-Opening-1...d5-2.Bb2"]
+[StartTime "00:24:21"]
+[EndDate "2024.11.05"]
+[EndTime "00:33:29"]
+[Link "https://www.chess.com/game/live/120698480372"]
+
+1. b4 d5 2. Bb2 Nc6 3. b5 Nb4 4. a3 Qd6 5. axb4 Qxb4 6. Ra2 Nf6 7. c3 Qc4
+8. e3 Qxa2 9. Qc2 h5 10. Be2 Bg4 11. Nf3 e5 12. h3 Bxf3 13. Bxf3 e4 14. Be2
+O-O-O 15. O-O g5 16. Na3 Bxa3 17. Ra1 d4 18. Rxa2 dxc3 19. Rxa3 Rxd2 20.
+Qxc3 Rxe2 21. Qxf6 Re1+ 22. Kh2 Rd8 23. Qxg5 Rd2 24. Bc3 Rde2 25. Bxe1 Rxe1
+26. Ra4 Re2 27. Rd4 Rxf2 28. Qd8# 1-0
+

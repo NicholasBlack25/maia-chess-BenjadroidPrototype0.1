@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.16"]
+[Round "-"]
+[White "Bird_Of_Hermes"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "644"]
+[BlackElo "566"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.10.16"]
+[UTCTime "20:38:53"]
+[Termination "Bird_Of_Hermes won by checkmate"]
+[CurrentPosition "r1k3nr/pp4pp/3Q4/5B2/1BP5/5P2/q6P/1R2K2R b K -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nf3"]
+[StartTime "20:38:53"]
+[EndDate "2023.10.16"]
+[EndTime "20:43:47"]
+[Link "https://www.chess.com/game/live/81897029912"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 e6 4. d4 Nc6 5. c4 Qa5+ 6. Bd2 Bb4 7. Nc3 Nxd4
+8. Nxd4 e5 9. a3 exd4 10. axb4 Qxb4 11. Nd5 Qxb2 12. Rb1 Bg4 13. Nxc7+ Ke7
+14. f3 Bxf3 15. gxf3 Qa2 16. Bb4+ Kd7 17. Qxd4+ Kxc7 18. Qd6+ Kc8 19. Bh3+
+f5 20. Bxf5# 1-0
+

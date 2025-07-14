@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.12"]
+[Round "-"]
+[White "Draco1_1"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "609"]
+[BlackElo "573"]
+[ECO "D00"]
+[TimeControl "1800"]
+[UTCDate "2023.10.12"]
+[UTCTime "14:40:11"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b1k1nr/ppp2ppp/2n1p3/3p2B1/3P4/b1N2NP1/1qPQPP1P/2KR1B1R w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...e6-3.Bf4"]
+[StartTime "14:40:11"]
+[EndDate "2023.10.12"]
+[EndTime "14:45:33"]
+[Link "https://www.chess.com/game/live/90860475373"]
+
+1. d4 d5 2. Bf4 e6 3. Nc3 Bb4 4. Qd2 Nc6 5. a3 Qh4 6. O-O-O Qe7 7. Nf3 Bxa3
+8. g3 Qb4 9. Bg5 Qxb2# 0-1
+

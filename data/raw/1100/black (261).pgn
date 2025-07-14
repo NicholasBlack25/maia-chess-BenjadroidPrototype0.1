@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.27"]
+[Round "-"]
+[White "CAPT_Roy_Bringus"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "675"]
+[BlackElo "623"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.06.27"]
+[UTCTime "09:03:53"]
+[Termination "CAPT_Roy_Bringus won by checkmate"]
+[CurrentPosition "4Q3/8/8/2R4p/1P1k3K/8/3R4/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...f6"]
+[StartTime "09:03:53"]
+[EndDate "2023.06.27"]
+[EndTime "09:21:01"]
+[Link "https://www.chess.com/game/live/81595500405"]
+
+1. e4 d5 2. e5 Nc6 3. d4 f6 4. f4 g5 5. g3 Nh6 6. Bb5 Bg4 7. Nf3 a6 8.
+Bxc6+ bxc6 9. h3 Bf5 10. Nc3 Bg7 11. O-O Bxh3 12. Re1 O-O 13. fxg5 Nf5 14.
+gxf6 exf6 15. Kh2 Bg4 16. Kg2 fxe5 17. dxe5 Nd4 18. Qxd4 Bxf3+ 19. Kh2 Qe8
+20. a4 Qh5+ 21. Qh4 Qxh4+ 22. gxh4 Rf4 23. Bxf4 d4 24. Ne4 Rb8 25. b3 Re8
+26. Nc5 Bxe5 27. Bxe5 Rxe5 28. Rxe5 Bd5 29. Re8+ Kg7 30. Rg1+ Kf6 31. Rf1+
+Kg7 32. h5 Kh6 33. Rf5 Be4 34. Rf4 Bxc2 35. a5 d3 36. Re6+ Kxh5 37. Rf2 Bb1
+38. Kg3 h6 39. Rxc6 Ba2 40. b4 Bd5 41. Rxc7 Kg5 42. Nxa6 Be6 43. Nc5 h5 44.
+Nxe6+ Kg6 45. Kh4 d2 46. Rxd2 Kf6 47. Re2 Kf5 48. a6 Kf6 49. a7 Kg6 50.
+Rg2+ Kf5 51. Nd4+ Ke4 52. Nc6 Kd3 53. a8=Q Kc4 54. Ne5+ Kd4 55. Rc4+ Kxe5
+56. Qe8+ Kd5 57. Rc5+ Kd4 58. Rd2# 1-0
+

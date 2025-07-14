@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.30"]
+[Round "-"]
+[White "Kaplan81"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "604"]
+[BlackElo "705"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.11.30"]
+[UTCTime "16:57:11"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "7k/1p4p1/5p2/8/3B4/1P1K4/6pq/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...Bf5-4.Nf3"]
+[StartTime "16:57:11"]
+[EndDate "2023.11.30"]
+[EndTime "17:05:27"]
+[Link "https://www.chess.com/game/live/94160445254"]
+
+1. e4 d5 2. e5 Bf5 3. d4 Nc6 4. Nf3 f6 5. exf6 exf6 6. c3 Qd7 7. Qe2+ Be7
+8. Nbd2 Nh6 9. b4 O-O 10. Nh4 Bg4 11. f3 a5 12. fxg4 axb4 13. cxb4 Nxb4 14.
+Nf5 Nxf5 15. gxf5 Qxf5 16. Nf3 Nc2+ 17. Kd1 Nxa1 18. Nh4 Qd7 19. g4 c5 20.
+dxc5 Bxc5 21. Nf5 d4 22. Qe7 Bxe7 23. Nxe7+ Qxe7 24. Bc4+ Kh8 25. Bb2 Qc7
+26. Bb3 Nxb3 27. axb3 Ra1+ 28. Bxa1 d3 29. Kd2 Rd8 30. Rc1 Qxh2+ 31. Kc3 h5
+32. Rd1 hxg4 33. Rxd3 Rxd3+ 34. Kxd3 g3 35. Bd4 g2 0-1
+

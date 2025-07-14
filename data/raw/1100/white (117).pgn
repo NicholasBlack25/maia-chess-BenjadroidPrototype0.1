@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.21"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "jamie_miller"]
+[Result "1-0"]
+[WhiteElo "682"]
+[BlackElo "611"]
+[ECO "A04"]
+[TimeControl "600"]
+[UTCDate "2023.11.21"]
+[UTCTime "16:23:34"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "2q1k1Q1/3pP3/1p4pB/8/2P1R3/r7/n1PK1PP1/3R4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Kingside-Fianchetto-Variation-2.e4"]
+[StartTime "16:23:34"]
+[EndDate "2023.11.21"]
+[EndTime "16:29:26"]
+[Link "https://www.chess.com/game/live/94082414150"]
+
+1. e4 g6 2. Nf3 b6 3. Nc3 Bb7 4. Bc4 Bg7 5. d3 a5 6. Nd5 c6 7. Ng5 cxd5 8.
+exd5 f6 9. Qf3 fxg5 10. h4 gxh4 11. Rxh4 Bf6 12. Re4 Ba6 13. d6 Bxc4 14.
+dxc4 Nh6 15. Bxh6 Nc6 16. O-O-O Nb4 17. dxe7 Qc8 18. Qxf6 Nxa2+ 19. Kd2 a4
+20. Qxh8+ Kf7 21. Qg7+ Ke8 22. Qxh7 a3 23. bxa3 Rxa3 24. Qg8# 1-0
+

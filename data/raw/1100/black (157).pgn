@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.05"]
+[Round "-"]
+[White "Visage38"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "578"]
+[BlackElo "560"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.07.05"]
+[UTCTime "02:49:21"]
+[Termination "Visage38 won by checkmate"]
+[CurrentPosition "2kR4/Q7/8/2p4P/1p6/8/P4P2/3R2K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "02:49:21"]
+[EndDate "2023.07.05"]
+[EndTime "03:03:39"]
+[Link "https://www.chess.com/game/live/82264261343"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5+ Qe7 4. Qxh8 Qxe4+ 5. Ne2 Qxc2 6. Na3 Qe4 7. d3
+Qb4+ 8. Nc3 d6 9. Qxg8 Nc6 10. d4 Nxd4 11. Bb5+ c6 12. Bd3 Bg4 13. O-O
+O-O-O 14. Qxf7 Bh6 15. h3 Bxc1 16. Raxc1 Bf5 17. Bxf5+ gxf5 18. Rcd1 Rd7
+19. Qf8+ Kc7 20. g4 fxg4 21. hxg4 Qxb2 22. Rxd4 Qxc3 23. Ra4 b5 24. Rxa7+
+Kb6 25. Qb8+ Kc5 26. Rxd7 Qxa3 27. Qxd6+ Kb6 28. Qxa3 h5 29. gxh5 c5 30.
+Rd6+ Kc7 31. Rfd1 b4 32. Qa7+ Kc8 33. Rd8# 1-0
+

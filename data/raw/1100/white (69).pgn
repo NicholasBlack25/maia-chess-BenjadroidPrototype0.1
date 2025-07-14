@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.09"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "xaxatek"]
+[Result "0-1"]
+[WhiteElo "697"]
+[BlackElo "719"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2023.12.09"]
+[UTCTime "00:08:48"]
+[Termination "xaxatek won by checkmate"]
+[CurrentPosition "8/p5PR/1p6/8/2B5/4k3/PP6/2r1K3 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation"]
+[StartTime "00:08:48"]
+[EndDate "2023.12.09"]
+[EndTime "00:16:25"]
+[Link "https://www.chess.com/game/live/95819596173"]
+
+1. d4 d5 2. Nf3 Nc6 3. Nc3 f6 4. Bf4 e5 5. dxe5 fxe5 6. Nxe5 Nxe5 7. Bxe5
+Bd6 8. Qd4 c6 9. O-O-O Qe7 10. Bxg7 Bd7 11. Bxh8 O-O-O 12. e3 Nf6 13. Bxf6
+Qxf6 14. Qxf6 Bc7 15. Qd4 Bb6 16. Qh4 Rf8 17. Bd3 h5 18. Rhf1 Be8 19. Na4
+Bc7 20. Qh3+ Kb8 21. Qxh5 Bxh5 22. Nc5 Bxh2 23. Rh1 Rxf2 24. Rxh2 Bxd1 25.
+Kxd1 b6 26. Nd7+ Kc7 27. Ne5 c5 28. Rh7+ Kd6 29. g4 c4 30. Be2 Kxe5 31. g5
+d4 32. exd4+ Kxd4 33. g6 Ke3 34. Bxc4 Rd2+ 35. Ke1 Rxc2 36. g7 Rc1# 0-1
+

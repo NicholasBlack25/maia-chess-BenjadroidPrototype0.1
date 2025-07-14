@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.27"]
+[Round "-"]
+[White "rr150296"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "657"]
+[BlackElo "650"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2024.08.27"]
+[UTCTime "15:43:40"]
+[Termination "rr150296 won by resignation"]
+[CurrentPosition "2k2b1r/pp4pp/5p1n/3p1p2/1N1P3N/2q1P3/P4PPP/2RQ1K1R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System"]
+[StartTime "15:43:40"]
+[EndDate "2024.08.27"]
+[EndTime "15:49:09"]
+[Link "https://www.chess.com/game/live/108945378996"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 Bf5 4. Na3 Qd7 5. Bd3 e6 6. Nf3 O-O-O 7. Nb5 f6
+8. Bxc7 Nb4 9. Bxd8 Qxd8 10. Bxf5 exf5 11. c3 Nc6 12. Nh4 Qb6 13. Na3 Qxb2
+14. Nc2 Qxc3+ 15. Kf1 Nb4 16. Rc1 Nh6 17. Nxb4 1-0
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.31"]
+[Round "-"]
+[White "bunfuger"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "538"]
+[BlackElo "554"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.05.31"]
+[UTCTime "00:46:31"]
+[Termination "BenjaminVega10 won - game abandoned"]
+[CurrentPosition "rnb1kb1r/p4p1p/2pp1q2/8/p3P3/2N5/PPP2PPP/R3K1NR w KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-2...d6"]
+[StartTime "00:46:31"]
+[EndDate "2023.05.31"]
+[EndTime "00:49:24"]
+[Link "https://www.chess.com/game/live/79233067699"]
+
+1. e4 e5 2. Nc3 d6 3. Bb5+ c6 4. Ba4 Nf6 5. d4 exd4 6. Qxd4 b5 7. Bg5 bxa4
+8. Bxf6 gxf6 9. Qxf6 Qxf6 0-1
+

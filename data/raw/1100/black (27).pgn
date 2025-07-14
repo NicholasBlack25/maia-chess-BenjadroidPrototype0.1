@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.05"]
+[Round "-"]
+[White "HassaanVector"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "719"]
+[BlackElo "706"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.01.05"]
+[UTCTime "01:30:00"]
+[Termination "HassaanVector won by checkmate"]
+[CurrentPosition "4k2Q/6R1/8/8/8/2P3K1/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation"]
+[StartTime "01:30:00"]
+[EndDate "2024.01.05"]
+[EndTime "01:41:54"]
+[Link "https://www.chess.com/game/live/98157046079"]
+
+1. e4 d5 2. exd5 Qxd5 3. Qe2 e5 4. f4 e4 5. Nc3 Qf5 6. g3 Bc5 7. g4 Qxf4 8.
+Nxe4 Bxg1 9. Rxg1 Bxg4 10. Rxg4 Qe5 11. Rg5 Qe6 12. Qe3 Nc6 13. Nc5 Qxe3+
+14. dxe3 Nb4 15. Rg2 O-O-O 16. c3 Nc6 17. e4 Nf6 18. Rxg7 Rhe8 19. Rxf7
+Nxe4 20. Bh3+ Kb8 21. Nxe4 Rxe4+ 22. Kf2 Ne5 23. Bg5 Nxf7 24. Bxd8 Nxd8 25.
+Rg1 b5 26. b3 c6 27. Rg8 Kc7 28. Rg7+ Kb6 29. Rxh7 Nb7 30. Bg2 Rf4+ 31. Kg3
+Rf5 32. Rh6 Rc5 33. b4 Rc4 34. Bxc6 Nd8 35. Bd5+ Kc7 36. Bxc4 bxc4 37. Rh7+
+Kb6 38. Rh8 Nc6 39. Rh6 a5 40. bxa5+ Kxa5 41. Rxc6 Ka4 42. Rxc4+ Ka3 43. h4
+Kxa2 44. h5 Kb2 45. Rc8 Kb3 46. h6 Kc2 47. h7 Kd3 48. h8=Q Ke4 49. Qh4+ Kf5
+50. Rc5+ Ke6 51. Qh6+ Ke7 52. Rc7+ Kd8 53. Rg7 Ke8 54. Qh8# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "HamzaYaJlid"]
+[Result "0-1"]
+[WhiteElo "560"]
+[BlackElo "623"]
+[ECO "B10"]
+[TimeControl "600"]
+[UTCDate "2023.07.06"]
+[UTCTime "10:03:40"]
+[Termination "HamzaYaJlid won by checkmate"]
+[CurrentPosition "8/5R2/5p2/8/P4k1K/6r1/1P5r/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nc3-d5-3.d3-dxe4"]
+[StartTime "10:03:40"]
+[EndDate "2023.07.06"]
+[EndTime "10:12:33"]
+[Link "https://www.chess.com/game/live/82376994359"]
+
+1. e4 c6 2. Nc3 d5 3. d3 dxe4 4. dxe4 Nd7 5. f3 e5 6. Bc4 Bc5 7. Nd5 cxd5
+8. Bxd5 Qf6 9. Nh3 Nb6 10. Bg5 Bf2+ 11. Kxf2 Qg6 12. f4 exf4 13. Bxf4 Nxd5
+14. Qxd5 Nf6 15. Qb5+ Bd7 16. Qxb7 Rc8 17. Rhd1 Qxe4 18. Qxe4+ Nxe4+ 19.
+Kf3 Bc6 20. Ke3 O-O 21. Be5 Rfe8 22. Bf4 Nc3+ 23. Kf2 Nxd1+ 24. Rxd1 Be4
+25. Rd7 Rxc2+ 26. Kg3 Rxg2+ 27. Kh4 h6 28. Rxa7 g5+ 29. Bxg5 hxg5+ 30. Nxg5
+Rxh2+ 31. Kg3 Rg2+ 32. Kh4 f6 33. Nxe4 Rxe4+ 34. Kh3 Reg4 35. Ra8+ Kg7 36.
+Ra7+ Kg6 37. a4 Kg5 38. Rg7+ Kf4 39. Rf7 R4g3+ 40. Kh4 Rh2# 0-1
+

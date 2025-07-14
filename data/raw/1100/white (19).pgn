@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.04.26"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "warmngie"]
+[Result "0-1"]
+[WhiteElo "721"]
+[BlackElo "738"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.04.26"]
+[UTCTime "09:35:22"]
+[Termination "warmngie won by checkmate"]
+[CurrentPosition "8/6pk/5p2/n5PK/7P/8/8/3q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.Nf3"]
+[StartTime "09:35:22"]
+[EndDate "2024.04.26"]
+[EndTime "09:43:27"]
+[Link "https://www.chess.com/game/live/107863194149"]
+
+1. d4 Nc6 2. Nf3 Nf6 3. Bf4 e6 4. Nc3 Bb4 5. Qd3 O-O 6. O-O-O d5 7. Nb5 Bd6
+8. Nxd6 cxd6 9. Qb5 e5 10. dxe5 dxe5 11. Nxe5 Nxe5 12. Bxe5 Bd7 13. Qb3 b5
+14. e4 dxe4 15. Bxb5 Bxb5 16. Qxb5 Qb6 17. Qe2 Qe6 18. f4 Qxa2 19. Bc7 Rac8
+20. Rd8 Rcxd8 21. Bxd8 Rxd8 22. Rd1 Rxd1+ 23. Kxd1 Qxb2 24. g4 h6 25. g5
+hxg5 26. fxg5 Qd4+ 27. Ke1 Qg1+ 28. Qf1 Qxf1+ 29. Kxf1 Nd5 30. h4 Kh7 31.
+c4 Ne3+ 32. Ke2 Nxc4 33. Kf2 a5 34. Kg3 a4 35. Kf4 a3 36. Kxe4 a2 37. Kd4
+Na5 38. Ke4 a1=Q 39. Kf5 Qb1+ 40. Kg4 f6 41. Kh5 Qd1# 0-1
+

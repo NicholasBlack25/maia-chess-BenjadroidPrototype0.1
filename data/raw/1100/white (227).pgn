@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.13"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "DoolingIsNinja"]
+[Result "1-0"]
+[WhiteElo "617"]
+[BlackElo "606"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.06.13"]
+[UTCTime "08:37:59"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "4B3/pR6/3k4/2p5/5b1P/2P1p3/PP3PP1/3K3R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit"]
+[StartTime "08:37:59"]
+[EndDate "2023.06.13"]
+[EndTime "08:47:44"]
+[Link "https://www.chess.com/game/live/80384455429"]
+
+1. d4 e5 2. Nc3 exd4 3. Qxd4 Nc6 4. Qe4+ Be7 5. Nd5 Nf6 6. Nxf6+ gxf6 7.
+Qg4 d6 8. Qg7 Rf8 9. Bh6 Kd7 10. Qxh7 Nb4 11. O-O-O Nd5 12. Rxd5 c6 13.
+Qf5+ Ke8 14. Bxf8 Bxf8 15. Qe4+ Be7 16. Rh5 Kd7 17. Nf3 f5 18. Qxf5+ Kc7
+19. Qxf7 Bd7 20. Nd4 c5 21. Ne6+ Bxe6 22. Qxe6 Bg5+ 23. e3 Bf6 24. Rh7+ Kc6
+25. Qe4+ d5 26. Qe6+ Qd6 27. Qxd6+ Kxd6 28. Rxb7 Bg5 29. Bb5 d4 30. c3 dxe3
+31. h4 Bf4 32. Kd1 Re8 33. Bxe8 1-0
+

@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.23"]
+[Round "-"]
+[White "Abo7meed1"]
+[Black "BenjaminVega10"]
+[Result "1/2-1/2"]
+[WhiteElo "605"]
+[BlackElo "618"]
+[ECO "C41"]
+[TimeControl "600"]
+[UTCDate "2023.07.23"]
+[UTCTime "02:21:30"]
+[Termination "Game drawn by stalemate"]
+[CurrentPosition "8/R7/8/8/8/P2Q2P1/5RKP/2k5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense"]
+[StartTime "02:21:30"]
+[EndDate "2023.07.23"]
+[EndTime "02:35:29"]
+[Link "https://www.chess.com/game/live/83817634749"]
+
+1. e4 e5 2. Nf3 d6 3. g3 Nc6 4. Bg2 Nf6 5. Nc3 d5 6. exd5 Nxd5 7. O-O Nxc3
+8. dxc3 Bd6 9. Re1 f6 10. c4 Nb4 11. a3 Na6 12. b4 Bf5 13. c5 O-O 14. cxd6
+cxd6 15. b5 Nc5 16. Nh4 g6 17. Nxf5 gxf5 18. Be3 Na4 19. c4 Qa5 20. Bd2 Nc3
+21. Bxc3 Qxc3 22. Qxd6 Rad8 23. Qe6+ Rf7 24. Bd5 Rxd5 25. cxd5 Qc4 26. d6
+Qxb5 27. Red1 Kg7 28. d7 Rxd7 29. Rxd7+ Kg6 30. Qf7+ Kg5 31. Qg7+ Kh5 32.
+Qxh7+ Kg4 33. Qh4+ Kf3 34. Rh7 Qb2 35. Rf1 f4 36. Qh3 b5 37. Qg2+ Ke2 38.
+f3+ Ke3 39. Qxb2 Kd3 40. Qxb5+ Ke3 41. Rxa7 Kd4 42. Qb6+ Kd3 43. Qxf6 e4
+44. Qxf4 exf3 45. Qxf3+ Kd4 46. Qf4+ Kd3 47. Rf3+ Ke2 48. Rf2+ Kd3 49. Rf3+
+Ke2 50. Kg2 Ke1 51. Qe3+ Kd1 52. Qd3+ Kc1 53. Rf2 1/2-1/2
+

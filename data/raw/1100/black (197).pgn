@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "reihzbzj"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "654"]
+[BlackElo "668"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "08:06:34"]
+[Termination "reihzbzj won by checkmate"]
+[CurrentPosition "2krr3/p1Q3p1/5p2/3pp3/8/1q5P/5PP1/2R1R1K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined-2...d5"]
+[StartTime "08:06:34"]
+[EndDate "2023.06.08"]
+[EndTime "08:12:48"]
+[Link "https://www.chess.com/game/live/79950617355"]
+
+1. e4 d5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6+ bxc6 5. exd5 cxd5 6. O-O Bg4 7. d4
+Ne4 8. Qe2 e6 9. h3 Bxf3 10. Qxf3 Qd6 11. Bf4 Qb4 12. b3 Bd6 13. Bxd6 Nxd6
+14. Qf4 Nb5 15. Nd2 Nxd4 16. Nf3 Nxf3+ 17. Qxf3 O-O-O 18. Qg3 Rhg8 19. Rfe1
+Qa3 20. Qh4 Qb2 21. Rab1 Qxc2 22. Rbc1 Qxa2 23. Qxh7 Rge8 24. Qh4 f6 25.
+Qf4 e5 26. Qg4+ Kb7 27. Qb4+ Kc8 28. Qc5 Qxb3 29. Qxc7# 1-0
+

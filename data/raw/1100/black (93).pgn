@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.16"]
+[Round "-"]
+[White "N473R"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "608"]
+[BlackElo "644"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.11.16"]
+[UTCTime "07:22:47"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "3rk1nr/pp3ppp/2P5/3Np1q1/QPB1P3/5b2/1P3P1P/R4RK1 w k -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Steiner-Variation-2...d5"]
+[StartTime "07:22:47"]
+[EndDate "2023.11.16"]
+[EndTime "07:28:59"]
+[Link "https://www.chess.com/game/live/82176206678"]
+
+1. e4 d5 2. c4 e6 3. d4 Nc6 4. Nf3 Bb4+ 5. Nc3 dxc4 6. d5 e5 7. Bxc4 Bg4 8.
+O-O Nd4 9. a3 Qf6 10. axb4 Nxf3+ 11. gxf3 Bxf3 12. Qa4+ c6 13. dxc6 Rd8 14.
+Nd5 Qg6+ 15. Bg5 Qxg5# 0-1
+

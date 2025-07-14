@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Pablowrk"]
+[Result "1-0"]
+[WhiteElo "694"]
+[BlackElo "615"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.12.01"]
+[UTCTime "15:22:28"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/8/2P5/4b3/8/1K6/1PQ5/2k5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game"]
+[StartTime "15:22:28"]
+[EndDate "2023.12.01"]
+[EndTime "15:35:43"]
+[Link "https://www.chess.com/game/live/94168460128"]
+
+1. e4 e5 2. Nc3 Qf6 3. Nh3 Nc6 4. Nd5 Qh4 5. Nxc7+ Kd8 6. Nxa8 Qxe4+ 7. Be2
+Qxg2 8. Rf1 Qxh3 9. d3 Qxh2 10. Be3 d5 11. c3 Bh3 12. Qb3 Bxf1 13. Bxf1 d4
+14. Qxb7 dxe3 15. Qc7+ Ke8 16. Qxc6+ Ke7 17. fxe3 Qg3+ 18. Ke2 Qh2+ 19. Bg2
+Nf6 20. Rh1 Qg3 21. Qc7+ Nd7 22. Qxa7 g6 23. Nc7 Bh6 24. Rh3 Qxg2+ 25. Kd1
+Qxh3 26. Qa3+ Kf6 27. Qd6+ Kf5 28. e4+ Kf4 29. a4 Qh1+ 30. Kc2 Ke3 31. Nd5+
+Kf3 32. Qxd7 Qh2+ 33. Kb3 Rb8+ 34. Nb4 Ke3 35. Qa7+ Kd2 36. Qxb8 Bf4 37. a5
+f5 38. exf5 gxf5 39. a6 Qf2 40. a7 Qxa7 41. Qxa7 h5 42. Qh7 e4 43. dxe4
+fxe4 44. c4 e3 45. Qxh5 e2 46. Nc2 Bg3 47. c5 e1=Q 48. Nxe1 Kxe1 49. Qe8+
+Kd2 50. Qg6 Be5 51. c6 Kc1 52. Qc2# 1-0
+

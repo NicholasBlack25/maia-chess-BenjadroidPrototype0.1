@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.09.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "MarioB450C"]
+[Result "0-1"]
+[WhiteElo "651"]
+[BlackElo "666"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.09.03"]
+[UTCTime "14:52:12"]
+[Termination "MarioB450C won by checkmate"]
+[CurrentPosition "r7/p3kpQp/1p1p4/1B1p1b2/3Nn3/7P/PPP3P1/1K1q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense"]
+[StartTime "14:52:12"]
+[EndDate "2024.09.03"]
+[EndTime "14:58:36"]
+[Link "https://www.chess.com/game/live/109070011924"]
+
+1. d4 Nc6 2. Nc3 e5 3. e3 exd4 4. exd4 d5 5. Bf4 Qf6 6. Nb5 Bd6 7. Bxd6
+cxd6 8. Nc7+ Kd7 9. Nxa8 Qe6+ 10. Be2 Nxd4 11. Qxd4 b6 12. O-O-O Qh6+ 13.
+f4 Nf6 14. Bb5+ Ke7 15. Nf3 Bg4 16. Rhe1+ Ne4 17. h3 Qxf4+ 18. Re3 Bf5 19.
+Qxg7 Rxa8 20. Nd4 Qxe3+ 21. Rd2 Qxd2+ 22. Kb1 Qd1# 0-1
+

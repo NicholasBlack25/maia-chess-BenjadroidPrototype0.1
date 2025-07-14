@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.16"]
+[Round "-"]
+[White "Rahulwarrior1997"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "607"]
+[BlackElo "660"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.11.16"]
+[UTCTime "16:01:11"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "3r2k1/p1p3pp/2p3b1/4p3/2P3P1/2K4P/P1P5/3q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-Deferred-Blackmar-Diemer-Gambit"]
+[StartTime "16:01:11"]
+[EndDate "2023.11.16"]
+[EndTime "16:09:04"]
+[Link "https://www.chess.com/game/live/82179771974"]
+
+1. e4 d5 2. f3 Nf6 3. d4 dxe4 4. fxe4 Nxe4 5. Nf3 Bg4 6. Nc3 Nxc3 7. bxc3
+Nc6 8. h3 Bh5 9. g4 Bg6 10. Bb5 e6 11. Bxc6+ bxc6 12. Bg5 f6 13. Bc1 Bd6
+14. Rg1 e5 15. Qe2 O-O 16. dxe5 fxe5 17. Ng5 Be7 18. Ne6 Qd5 19. Nxf8 Rxf8
+20. c4 Qd4 21. Be3 Qxa1+ 22. Qd1 Bb4+ 23. Bd2 Bxd2+ 24. Kxd2 Qd4+ 25. Ke1
+Qxg1+ 26. Kd2 Rd8+ 27. Kc3 Qxd1 0-1
+

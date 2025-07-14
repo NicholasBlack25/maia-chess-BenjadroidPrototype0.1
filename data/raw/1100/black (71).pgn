@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.20"]
+[Round "-"]
+[White "Tipha17"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "731"]
+[BlackElo "696"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.12.20"]
+[UTCTime "02:13:54"]
+[Termination "Tipha17 won by resignation"]
+[CurrentPosition "8/pp5Q/1kp5/8/5P2/2N5/PPP2K2/R7 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Knight-Variation-2...d5-3.exd5"]
+[StartTime "02:13:54"]
+[EndDate "2023.12.20"]
+[EndTime "02:18:17"]
+[Link "https://www.chess.com/game/live/96777564515"]
+
+1. e4 d5 2. Nf3 e6 3. exd5 Nf6 4. dxe6 fxe6 5. Ng5 Bc5 6. d4 Bd6 7. Bb5+
+Bd7 8. Bxd7+ Nfxd7 9. Nxe6 Qf6 10. d5 Rf8 11. Nxf8 Nxf8 12. f3 Qg6 13. Nc3
+Qxg2 14. Rf1 Qxh2 15. Be3 Bg3+ 16. Bf2 Bxf2+ 17. Rxf2 Qe5+ 18. Re2 Qxe2+
+19. Qxe2+ Kd7 20. Qb5+ c6 21. Qc5 Na6 22. Qd4 Re8+ 23. Kf2 Ne6 24. dxe6+
+Kxe6 25. Qe4+ Kd7 26. Qxh7 Nb4 27. Qxg7+ Re7 28. Qd4+ Kc7 29. Qxb4 Rh7 30.
+Qf4+ Kc8 31. Qf5+ Kc7 32. Qxh7+ Kb6 33. f4 1-0
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.05"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "dailystrug"]
+[Result "0-1"]
+[WhiteElo "714"]
+[BlackElo "723"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.01.05"]
+[UTCTime "01:19:02"]
+[Termination "dailystrug won by checkmate"]
+[CurrentPosition "5rk1/p4pp1/7P/4b2Q/5q2/6KR/2r4P/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.Nf3"]
+[StartTime "01:19:02"]
+[EndDate "2024.01.05"]
+[EndTime "01:29:07"]
+[Link "https://www.chess.com/game/live/98156435481"]
+
+1. d4 Nc6 2. Nf3 Nf6 3. e4 Nxe4 4. d5 Nb8 5. Nc3 Nxc3 6. bxc3 e6 7. Bc4 d6
+8. Bb3 Na6 9. c4 Nc5 10. dxe6 Nxe6 11. c5 Nxc5 12. Bc4 Ne4 13. Qe2 Qe7 14.
+O-O Be6 15. Bg5 Nxg5 16. Nxg5 Bxc4 17. Qxc4 Qxg5 18. Qxc7 Qd8 19. Rae1+ Be7
+20. Qxb7 O-O 21. Qf3 Qa5 22. Re4 Bf6 23. Qg4 d5 24. Re3 Qxa2 25. c4 dxc4
+26. Rh3 c3 27. Qh5 h6 28. Qf5 Rac8 29. g4 c2 30. g5 c1=Q 31. gxh6 Qxf1+ 32.
+Kxf1 Rc1+ 33. Kg2 Qe6 34. Qh5 Qe4+ 35. f3 Rc2+ 36. Kg3 Be5+ 37. f4 Qxf4#
+0-1
+

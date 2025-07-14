@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.10"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "GeprekBenz"]
+[Result "1-0"]
+[WhiteElo "634"]
+[BlackElo "620"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.06.10"]
+[UTCTime "09:54:42"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "1kr5/P7/1KB5/8/8/8/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Bogoljubov-Vehre-Variation"]
+[StartTime "09:54:42"]
+[EndDate "2023.06.10"]
+[EndTime "10:10:10"]
+[Link "https://www.chess.com/game/live/80129998585"]
+
+1. d4 d5 2. e4 Nf6 3. Nc3 Nc6 4. Nf3 e5 5. Bb5 Bb4 6. dxe5 dxe4 7. Qxd8+
+Kxd8 8. exf6 exf3 9. gxf3 Re8+ 10. Kd2 gxf6 11. a3 Ba5 12. b4 Bb6 13. Nd5
+Bxf2 14. Nxf6 Re3 15. Kd1 Rxf3 16. Nxh7 Nd4 17. Bc4 Bf5 18. Ng5 Rc3 19.
+Bxf7 Nxc2 20. Kd2 Nxa1 21. Kxc3 Nc2 22. h4 Ke7 23. Bf4 Bd4+ 24. Kd2 Nxa3
+25. Bxc7 Nc4+ 26. Ke2 Bg4+ 27. Kd3 Rc8 28. Re1+ Kd7 29. Kxc4 Bf2 30. Re4
+Rxc7+ 31. Kd5 Bxh4 32. Ne6 Bxe6+ 33. Bxe6+ Ke7 34. Rxh4 b5 35. Rh7+ Kd8 36.
+Kd6 Rxh7 37. Bd5 a5 38. bxa5 b4 39. a6 Kc8 40. Kc5 Rc7+ 41. Kxb4 Ra7 42.
+Kb5 Kb8 43. Bc6 Rc7 44. Kb6 Rc8 45. a7# 1-0
+

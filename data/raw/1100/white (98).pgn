@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.10"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "K1ngCab00se"]
+[Result "1-0"]
+[WhiteElo "616"]
+[BlackElo "572"]
+[ECO "D04"]
+[TimeControl "600"]
+[UTCDate "2023.11.10"]
+[UTCTime "03:19:50"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r4rk1/p6Q/4pqpb/1p3pN1/3P1n1P/N1P5/PP4P1/2R2RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Colle-System-3...c6-4.Bd3"]
+[StartTime "03:19:50"]
+[EndDate "2023.11.10"]
+[EndTime "03:25:12"]
+[Link "https://www.chess.com/game/live/82121209590"]
+
+1. d4 d5 2. e3 c6 3. Nf3 Nf6 4. Bd3 g6 5. e4 dxe4 6. Bxe4 Nxe4 7. c3 Qd6 8.
+Qd3 Qe6 9. O-O f5 10. Bg5 Nxg5 11. Nxg5 Qf6 12. h4 Bh6 13. f4 O-O 14. Qc4+
+e6 15. Na3 b5 16. Qc5 Nd7 17. Qxc6 Nb6 18. Rac1 Bd7 19. Qc7 Nd5 20. Qxd7
+Nxf4 21. Qxh7# 1-0
+

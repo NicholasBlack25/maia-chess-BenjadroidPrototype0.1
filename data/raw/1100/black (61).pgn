@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.10"]
+[Round "-"]
+[White "marcusss3"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "641"]
+[BlackElo "680"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.12.10"]
+[UTCTime "22:29:37"]
+[Termination "marcusss3 won by checkmate"]
+[CurrentPosition "Q7/k7/2Q3pr/3p3p/pp1P4/2P5/Pn3PB1/5RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening"]
+[StartTime "22:29:37"]
+[EndDate "2023.12.10"]
+[EndTime "22:36:46"]
+[Link "https://www.chess.com/game/live/95723844170"]
+
+1. g3 c6 2. Bg2 Nf6 3. e4 d5 4. e5 Ng4 5. d4 Bf5 6. h3 Nh6 7. Nc3 e6 8.
+Nge2 Nd7 9. O-O Nb6 10. g4 Bxg4 11. hxg4 Nxg4 12. Nf4 Qh4 13. Nh3 O-O-O 14.
+Bg5 Qh5 15. Ne2 Nc4 16. Nef4 Nxb2 17. Qe2 Be7 18. Nxh5 Bxg5 19. Nxg5 f6 20.
+Nf7 g6 21. Nxf6 Nxf6 22. Rab1 Nc4 23. Rb4 b5 24. c3 a5 25. Rb3 a4 26. Rbb1
+Na3 27. Rb2 h5 28. Qf3 Rdf8 29. Nxh8 Rxh8 30. Qxf6 Rh6 31. Qxe6+ Kb7 32.
+Qd7+ Kb6 33. e6 Nc4 34. Qd8+ Ka6 35. e7 Nxb2 36. e8=Q b4 37. Qxc6+ Ka7 38.
+Qda8# 1-0
+

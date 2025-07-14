@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.04.24"]
+[Round "-"]
+[White "Liam82739"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "742"]
+[BlackElo "730"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2024.04.24"]
+[UTCTime "13:58:22"]
+[Termination "Liam82739 won by checkmate"]
+[CurrentPosition "r2k3r/2p1Q1p1/pbpN4/7p/1P1p2p1/P7/2P2PP1/R1B1R1K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...Bf5"]
+[StartTime "13:58:22"]
+[EndDate "2024.04.24"]
+[EndTime "14:05:16"]
+[Link "https://www.chess.com/game/live/107706172631"]
+
+1. e4 d5 2. e5 Nc6 3. d4 Bf5 4. a3 f6 5. Nf3 Nh6 6. Bb5 Ng4 7. O-O e6 8.
+Nc3 Be7 9. Nh4 a6 10. Nxf5 exf5 11. Bxc6+ bxc6 12. h3 fxe5 13. hxg4 fxg4
+14. dxe5 h5 15. e6 Bc5 16. b4 Bb6 17. Qe2 d4 18. Ne4 Qe7 19. Re1 Qxe6 20.
+Nd6+ Ke7 21. Qxe6+ Kd8 22. Qe7# 1-0
+

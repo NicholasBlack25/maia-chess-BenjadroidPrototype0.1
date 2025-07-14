@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.16"]
+[Round "-"]
+[White "coacher"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "643"]
+[BlackElo "666"]
+[ECO "C02"]
+[TimeControl "600"]
+[UTCDate "2023.11.16"]
+[UTCTime "16:30:57"]
+[Termination "coacher won by resignation"]
+[CurrentPosition "8/4Q2p/8/Nkp1P3/8/2B3PK/PP5P/R7 w - c6"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Advance-Variation"]
+[StartTime "16:30:57"]
+[EndDate "2023.11.16"]
+[EndTime "16:40:38"]
+[Link "https://www.chess.com/game/live/82180014950"]
+
+1. e4 d5 2. e5 e6 3. d4 Nc6 4. Be3 Be7 5. Nf3 Bb4+ 6. c3 Qe7 7. cxb4 Qxb4+
+8. Nbd2 Nxd4 9. Bxd4 f5 10. Bc3 Qc5 11. Nd4 Ne7 12. Bb5+ Bd7 13. Bxd7+ Kxd7
+14. O-O Ng6 15. f4 Qf8 16. Qb3 Kc8 17. Nxe6 Qe7 18. Qxd5 Qh4 19. Nc5 Nxf4
+20. Qxb7+ Kd8 21. Qxa8+ Ke7 22. Qxh8 Qg5 23. g3 Nh3+ 24. Kg2 Qe3 25. Qxg7+
+Kd8 26. Kxh3 Qxc5 27. Rxf5 a5 28. Rf8+ Qxf8 29. Qxf8+ Kd7 30. Nc4 Kc6 31.
+Nxa5+ Kb5 32. Qe7 c5 1-0
+

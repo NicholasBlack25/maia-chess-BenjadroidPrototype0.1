@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.29"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "EfeBatin1"]
+[Result "1-0"]
+[WhiteElo "709"]
+[BlackElo "699"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2024.01.29"]
+[UTCTime "08:53:06"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "6r1/p2Q4/1p3b2/2pb4/2p3kP/6P1/PPP2P2/3RR1K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation"]
+[StartTime "08:53:06"]
+[EndDate "2024.01.29"]
+[EndTime "09:01:29"]
+[Link "https://www.chess.com/game/live/100257199573"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Nxd4 5. Nxd4 exd4 6. Qxd4 b6 7. Nd5
+Nxd5 8. Qxd5 c6 9. Qe5+ Qe7 10. Qc7 Qd8 11. Qf4 c5 12. Bc4 f6 13. e5 Bb7
+14. O-O Qc7 15. Re1 Be7 16. Qg4 d5 17. Qxg7 Rf8 18. exf6 Rxf6 19. Qxf6 dxc4
+20. Bf4 Qd7 21. Rad1 Bd5 22. Qh8+ Kf7 23. Qxh7+ Kf6 24. Be5+ Kg5 25. h4+
+Kg4 26. g3 Rg8 27. Bf6 Bxf6 28. Qxd7+ 1-0
+

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.10"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Arbrix1"]
+[Result "1-0"]
+[WhiteElo "717"]
+[BlackElo "710"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.10"]
+[UTCTime "17:25:40"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r6r/B1p1R2p/Q1k2p1n/1p1p2p1/3P4/7P/PPP2P2/2K5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Anti-Torre-Attack"]
+[StartTime "17:25:40"]
+[EndDate "2024.01.10"]
+[EndTime "17:33:40"]
+[Link "https://www.chess.com/game/live/98646434609"]
+
+1. d4 d5 2. Nf3 Bg4 3. h3 Bxf3 4. gxf3 Nc6 5. Be3 Qd7 6. Nc3 O-O-O 7. Qd3
+e5 8. Nb5 Kb8 9. dxe5 Nxe5 10. Bxa7+ Kc8 11. Qd4 b6 12. e3 f6 13. O-O-O
+Nxf3 14. Qa4 Qc6 15. Qa6+ Kd7 16. Nd4 Nxd4 17. Rxd4 Bc5 18. Bb5 Bxd4 19.
+Bxc6+ Kxc6 20. exd4 Ra8 21. Re1 Nh6 22. Re7 g5 23. Qa4+ b5 24. Qa6# 1-0
+

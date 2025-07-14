@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.21"]
+[Round "-"]
+[White "20525xxx"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "578"]
+[BlackElo "575"]
+[ECO "C45"]
+[TimeControl "600"]
+[UTCDate "2023.08.21"]
+[UTCTime "19:01:25"]
+[Termination "20525xxx won by checkmate"]
+[CurrentPosition "2r3r1/kQN4p/p2N4/2R2p2/P3p3/8/1P2KPPP/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-3...d6"]
+[StartTime "19:01:25"]
+[EndDate "2023.08.21"]
+[EndTime "19:09:53"]
+[Link "https://www.chess.com/game/live/81416790626"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 dxe5 5. Bg5 Bb4+ 6. c3 f6 7. cxb4 Nxb4
+8. Bd2 c5 9. Bb5+ Bd7 10. a4 a6 11. Bxd7+ Qxd7 12. Nh4 Nh6 13. Qh5+ Nf7 14.
+Nf5 Nc2+ 15. Kf1 Qxd2 16. Nxd2 Nxa1 17. Ke2 O-O-O 18. Qxf7 Nb3 19. Qxb3 g6
+20. Ne7+ Kb8 21. Rc1 Rhe8 22. Nd5 f5 23. Rxc5 Ka7 24. Nc7 Rc8 25. exf5 gxf5
+26. Nc4 e4 27. Nd6 Rg8 28. Qxb7# 1-0
+

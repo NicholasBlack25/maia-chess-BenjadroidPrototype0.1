@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "daochick08"]
+[Result "1-0"]
+[WhiteElo "680"]
+[BlackElo "613"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2023.06.07"]
+[UTCTime "08:31:05"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "3r2k1/3Bbp1p/6p1/1P4P1/5P1P/4K3/3Q4/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation"]
+[StartTime "08:31:05"]
+[EndDate "2023.06.07"]
+[EndTime "08:45:33"]
+[Link "https://www.chess.com/game/live/79865508941"]
+
+1. d4 d5 2. Nf3 g6 3. Nc3 e6 4. Bg5 Be7 5. Qd2 Nf6 6. e4 O-O 7. exd5 exd5
+8. Bh4 Bf5 9. Qh6 Ng4 10. Qf4 Nc6 11. Ne5 Ngxe5 12. dxe5 Bb4 13. Bxd8 Nxd8
+14. Bb5 Ne6 15. Qf3 Nd4 16. Qxd5 Nxc2+ 17. Ke2 Rad8 18. Qxb7 Bg4+ 19. f3
+Bf5 20. Rad1 Nd4+ 21. Rxd4 Rxd4 22. Qxa7 Rfd8 23. Rd1 Bxc3 24. Rxd4 Bxd4
+25. Qxc7 Rc8 26. Qd6 Bxb2 27. g4 Be6 28. a4 Ra8 29. Qd2 Bxe5 30. Bd7 Bc4+
+31. Ke3 Rd8 32. f4 Bf6 33. g5 Be7 34. h4 Bb5 35. axb5 1-0
+

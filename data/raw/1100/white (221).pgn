@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "mehisvasar"]
+[Result "0-1"]
+[WhiteElo "602"]
+[BlackElo "627"]
+[ECO "C10"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "06:28:55"]
+[Termination "mehisvasar won by checkmate"]
+[CurrentPosition "8/8/8/8/8/4K1k1/5nn1/3q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Rubinstein-Variation-4.Nxe4"]
+[StartTime "06:28:55"]
+[EndDate "2023.06.12"]
+[EndTime "06:41:44"]
+[Link "https://www.chess.com/game/live/80290256909"]
+
+1. d4 e6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 e5 5. dxe5 Qxd1+ 6. Kxd1 f6 7. exf6
+gxf6 8. Nf3 Bg4 9. Bb5+ c6 10. Bc4 b5 11. Be6 Bxe6 12. Re1 Nd7 13. Nd6+ Ke7
+14. Nb7 Rb8 15. Na5 Nc5 16. Bf4 Rd8+ 17. Nd2 Bh6 18. Bxh6 Nxh6 19. b4 Ne4
+20. Nb7 Rxd2+ 21. Kc1 f5 22. Na5 Rxf2 23. Nxc6+ Kf6 24. Nxa7 Rd8 25. Nxb5
+Rdd2 26. Na3 Rde2 27. Rxe2 Rxe2 28. h4 Re1+ 29. Kb2 Rxa1 30. Kxa1 Nc3 31.
+h5 Ng4 32. Kb2 Nd1+ 33. Kc1 Nde3 34. g3 Nf1 35. Nb5 Nxg3 36. Nd4 f4 37. Kd1
+Nxh5 38. Nxe6 Kxe6 39. a4 Ngf6 40. a5 Kd7 41. b5 Nd5 42. a6 Nb6 43. a7 Kd6
+44. Ke1 Kc5 45. c4 Kxc4 46. Kf2 Kxb5 47. Kf3 Ka6 48. Kg4 Nf6+ 49. Kxf4 Kxa7
+50. Kg5 Nbd7 51. Kh6 Kb6 52. Kg7 Kc6 53. Kh6 Kd6 54. Kg7 Ke6 55. Kh6 Kf7
+56. Kg5 Kg7 57. Kh4 h6 58. Kg3 Kg6 59. Kf4 h5 60. Kg3 Kg5 61. Kh3 h4 62.
+Kh2 Kg4 63. Kg2 h3+ 64. Kh2 Ne5 65. Kh1 Ne4 66. Kh2 Nf3+ 67. Kh1 Nh4 68.
+Kh2 Ng5 69. Kh1 Kg3 70. Kg1 Ne4 71. Kh1 Nf2+ 72. Kg1 h2+ 73. Kf1 h1=Q+ 74.
+Ke2 Qd1+ 75. Ke3 Ng2# 0-1
+

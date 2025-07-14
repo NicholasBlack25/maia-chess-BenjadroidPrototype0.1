@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "masik_pasik"]
+[Result "0-1"]
+[WhiteElo "619"]
+[BlackElo "620"]
+[ECO "C26"]
+[TimeControl "600"]
+[UTCDate "2023.07.22"]
+[UTCTime "10:32:12"]
+[Termination "masik_pasik won by resignation"]
+[CurrentPosition "r1b3k1/pp6/8/2P5/P2q4/8/1P3r2/4K3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Variation"]
+[StartTime "10:32:12"]
+[EndDate "2023.07.22"]
+[EndTime "10:44:21"]
+[Link "https://www.chess.com/game/live/83761124431"]
+
+1. e4 e5 2. Nc3 Nf6 3. d3 d6 4. f3 Be7 5. Nd5 Nc6 6. Bd2 O-O 7. Nh3 Nxd5 8.
+exd5 Nd4 9. f4 exf4 10. Bxf4 Qd7 11. Ng5 h6 12. Qh5 Bxg5 13. Bxg5 Qb5 14.
+O-O-O Qxd5 15. h4 Ne6 16. Be2 Qxg2 17. Bxh6 gxh6 18. c3 Nf4 19. Qxh6 Nxe2+
+20. Kc2 Ng3+ 21. Kb3 Nxh1 22. Rxh1 Qxh1 23. Qg5+ Kh8 24. Qf6+ Kg8 25. Qg5+
+Kh7 26. Qe7 Qd1+ 27. Kc4 Qg4+ 28. Kb3 Kg8 29. Qxc7 f5 30. Qxd6 f4 31. c4
+Qxh4 32. Qd5+ Kg7 33. Qe5+ Kg8 34. Qd5+ Kh8 35. a4 f3 36. Qd6 Kg8 37. c5
+Qf4 38. Qxf4 Rxf4 39. Kc3 f2 40. d4 f1=Q 41. d5 Qc4+ 42. Kd2 Qxd5+ 43. Ke3
+Qd4+ 44. Ke2 Rf2+ 45. Ke1 0-1
+

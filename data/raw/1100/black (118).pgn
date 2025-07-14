@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.07"]
+[Round "-"]
+[White "Hiwaqo"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "500"]
+[BlackElo "548"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.10.07"]
+[UTCTime "17:52:44"]
+[Termination "Hiwaqo won by checkmate"]
+[CurrentPosition "r3r3/p4ppp/2Q1k3/2np1N2/3P2P1/P7/2P2K1P/5B1R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "17:52:44"]
+[EndDate "2023.10.07"]
+[EndTime "17:57:03"]
+[Link "https://www.chess.com/game/live/81814886896"]
+
+1. e4 e5 2. f3 Nf6 3. Nc3 c6 4. d3 Qa5 5. f4 Bb4 6. Bd2 exf4 7. e5 Nd5 8.
+a3 Bxc3 9. bxc3 Nxc3 10. Bxc3 Qxc3+ 11. Kf2 d5 12. Ne2 Qxe5 13. d4 Qe4 14.
+Qd2 Bg4 15. Re1 f3 16. Ng3 Qxe1+ 17. Qxe1+ Kd7 18. gxf3 Re8 19. Qb4 Na6 20.
+Qxb7+ Kd6 21. fxg4 Nc5 22. Nf5+ Ke6 23. Qxc6# 1-0
+

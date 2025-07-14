@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.11"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "RajivSinghR"]
+[Result "1/2-1/2"]
+[WhiteElo "573"]
+[BlackElo "534"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.10.11"]
+[UTCTime "20:35:02"]
+[Termination "Game drawn by stalemate"]
+[CurrentPosition "2Q5/8/3k4/6QP/8/4K3/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3-e6"]
+[StartTime "20:35:02"]
+[EndDate "2023.10.11"]
+[EndTime "20:48:26"]
+[Link "https://www.chess.com/game/live/81851141420"]
+
+1. d4 d5 2. e3 e6 3. Nc3 c6 4. Bb5 cxb5 5. Qd3 a6 6. Nxb5 axb5 7. Qxb5+ Bd7
+8. Qxb7 Ra6 9. Nf3 Bc6 10. Qb3 Ba4 11. Qd3 Rc6 12. b3 Bb4+ 13. Bd2 Bxd2+
+14. Kxd2 Ra6 15. Ne5 Qc8 16. f3 f6 17. f4 fxe5 18. fxe5 Bd7 19. e4 dxe4 20.
+Qxe4 Nc6 21. Qf4 Nh6 22. c4 Nb4 23. Qf1 Ng4 24. h3 Nh6 25. g4 g5 26. Qf6
+Nf7 27. Rhf1 Rf8 28. Qg7 h6 29. Rxf7 Rxf7 30. Qxh6 Rf2+ 31. Ke3 Nc2+ 32.
+Kxf2 Nxa1 33. Qh8+ Ke7 34. Qf6+ Ke8 35. Qxg5 Qc6 36. d5 Qc5+ 37. Kf3 Rxa2
+38. Qg8+ Ke7 39. d6+ Qxd6 40. exd6+ Kxd6 41. Qb8+ Ke7 42. g5 Nxb3 43. Qxb3
+Ra4 44. c5 Rd4 45. g6 e5 46. g7 e4+ 47. Kf4 e3+ 48. Kxe3 Rd1 49. Qxd1 Be6
+50. c6 Kf7 51. Qg1 Kf6 52. c7 Kf7 53. g8=Q+ Ke7 54. c8=Q Bxc8 55. Qxc8 Kf6
+56. h4 Ke5 57. Qg5+ Kd6 58. h5 1/2-1/2
+

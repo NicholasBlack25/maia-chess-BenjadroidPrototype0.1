@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.09"]
+[Round "-"]
+[White "ComingDown3"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "710"]
+[BlackElo "698"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2024.06.09"]
+[UTCTime "15:51:48"]
+[Termination "ComingDown3 won by resignation"]
+[CurrentPosition "r4rk1/1p1QB1pp/p1p1p3/4P3/6n1/1B3N2/PP3PPP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...Bf5-4.c3-e6"]
+[StartTime "15:51:48"]
+[EndDate "2024.06.09"]
+[EndTime "15:58:45"]
+[Link "https://www.chess.com/game/live/107675974232"]
+
+1. e4 d5 2. e5 Bf5 3. d4 Nc6 4. c3 e6 5. Nf3 Nh6 6. Bb5 Be7 7. O-O O-O 8.
+Bf4 Bg5 9. Bxg5 f6 10. Bf4 Ng4 11. Nbd2 fxe5 12. dxe5 Be4 13. Bg5 Ne7 14.
+c4 c6 15. Ba4 a6 16. cxd5 Qxd5 17. Bb3 Qd3 18. Bxe7 Bxf3 19. Nxf3 Qd7 20.
+Qxd7 1-0
+

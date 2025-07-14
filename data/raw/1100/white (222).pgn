@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Hungthehang"]
+[Result "1-0"]
+[WhiteElo "609"]
+[BlackElo "572"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "06:42:26"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/2B5/1R6/8/K7/Q7/k7/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation"]
+[StartTime "06:42:26"]
+[EndDate "2023.06.12"]
+[EndTime "06:58:26"]
+[Link "https://www.chess.com/game/live/80290915543"]
+
+1. d4 d5 2. Nf3 f6 3. Nc3 c6 4. e3 g5 5. Qd3 g4 6. Nh4 b6 7. Ng6 Ba6 8. Qf5
+hxg6 9. Qxg6+ Kd7 10. Qxg4+ e6 11. Bxa6 f5 12. Qf4 Bd6 13. Qf3 Nxa6 14. g4
+Nb4 15. Qd1 fxg4 16. a3 Na6 17. Qxg4 Nf6 18. Qg7+ Qe7 19. Qxe7+ Bxe7 20. b4
+b5 21. f3 c5 22. dxc5 Raf8 23. e4 dxe4 24. fxe4 Kc6 25. Bg5 Ne8 26. Bxe7
+Rf3 27. Kd2 Rf2+ 28. Ne2 Rhxh2 29. Rxh2 Rxh2 30. e5 Kd7 31. Bd6 Ng7 32. Rg1
+Nf5 33. Kc3 Rxe2 34. a4 Re3+ 35. Kb2 Nd4 36. Rg7+ Kc6 37. Rxa7 Re2 38.
+Rxa6+ Kd5 39. axb5 Rxc2+ 40. Ka3 Kc4 41. b6 Kb5 42. Ra5+ Kc4 43. b7 Nb3 44.
+b8=Q Rc3 45. Qb5+ Kd4 46. c6 Ke4 47. c7 Nd4+ 48. Ka4 Nxb5 49. Rxb5 Rxc7 50.
+Bxc7 Kd4 51. Rb6 Kc3 52. Rxe6 Kd4 53. b5 Kd5 54. Rd6+ Kxe5 55. b6 Kf5 56.
+b7 Ke5 57. b8=Q Kf5 58. Qf8+ Ke5 59. Rf6+ Kd5 60. Qd6+ Ke4 61. Qe5+ Kd3 62.
+Rd6+ Kc2 63. Qc5+ Kb2 64. Rb6+ Ka2 65. Qa3# 1-0
+

@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.10"]
+[Round "-"]
+[White "Abdelkrim15"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "685"]
+[BlackElo "717"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2024.01.10"]
+[UTCTime "07:53:53"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "3r1k2/3K1ppp/1q6/8/8/7P/PPP5/4RB2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Gambit-2...dxe4"]
+[StartTime "07:53:53"]
+[EndDate "2024.01.10"]
+[EndTime "08:00:50"]
+[Link "https://www.chess.com/game/live/98612123353"]
+
+1. e4 d5 2. d4 dxe4 3. Qe2 Nf6 4. Nc3 Qxd4 5. f4 Bg4 6. Qb5+ c6 7. Qxb7 e3
+8. Qxa8 e5 9. fxe5 Qxe5 10. h3 Bh5 11. Qxa7 Bc5 12. Nf3 Bxf3 13. Qa4 O-O
+14. gxf3 Qg3+ 15. Ke2 Qf2+ 16. Kd3 Qxf3 17. Rg1 Rd8+ 18. Kc4 Ne4 19. Nxe4
+Qxe4+ 20. Kxc5 Qxa4 21. Bxe3 Na6+ 22. Kb6 Qb5+ 23. Ka7 Qb8+ 24. Kxa6 Qa8+
+25. Kb6 Rb8+ 26. Kc5 Qa7+ 27. Kxc6 Qxe3 28. Rd1 Qxg1 29. Kc7 Qb6+ 30. Kd7
+Kf8 31. Re1 Rd8# 0-1
+

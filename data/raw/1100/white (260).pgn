@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.25"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Yernbe"]
+[Result "0-1"]
+[WhiteElo "634"]
+[BlackElo "673"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2023.06.25"]
+[UTCTime "23:43:11"]
+[Termination "Yernbe won by checkmate"]
+[CurrentPosition "6k1/6p1/6r1/p7/P2b3K/8/8/7q w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game"]
+[StartTime "23:43:11"]
+[EndDate "2023.06.25"]
+[EndTime "23:47:38"]
+[Link "https://www.chess.com/game/live/81475370823"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d3 d5 5. exd5 Nxd5 6. Nb5 Bd6 7. d4 exd4
+8. Qe2+ Qe7 9. Bg5 Qxe2+ 10. Bxe2 O-O 11. Nbxd4 Nxd4 12. Nxd4 Bb4+ 13. c3
+Nxc3 14. bxc3 Bxc3+ 15. Bd2 Bxa1 16. Nc6 bxc6 17. f4 a5 18. O-O Bd4+ 19.
+Kh1 Ba6 20. Bxa6 Rxa6 21. g4 c5 22. h4 c4 23. g5 c3 24. Bxc3 Bxc3 25. f5 c5
+26. h5 c4 27. Rg1 Bd4 28. Rg2 c3 29. g6 fxg6 30. hxg6 hxg6 31. fxg6 Rff6
+32. a4 Rxg6 33. Rxg6 Rxg6 34. Kh2 c2 35. Kh3 c1=Q 36. Kh4 Qh1# 0-1
+

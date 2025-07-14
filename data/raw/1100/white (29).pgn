@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.16"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "akash1234567891"]
+[Result "1-0"]
+[WhiteElo "705"]
+[BlackElo "684"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.02.16"]
+[UTCTime "07:07:47"]
+[Termination "BenjaminVega10 won - game abandoned"]
+[CurrentPosition "r7/pb1k1pp1/5p2/1q1p3p/1b1P4/1N2R3/PPP2PPP/R1B3K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Polish-Defense-2.Nf3-Bb7"]
+[StartTime "07:07:47"]
+[EndDate "2024.02.16"]
+[EndTime "07:15:00"]
+[Link "https://www.chess.com/game/live/101287259746"]
+
+1. d4 b5 2. Nf3 Bb7 3. Ne5 d6 4. Ng4 h5 5. e4 Nf6 6. Nxf6+ exf6 7. Bxb5+ c6
+8. Bc4 d5 9. exd5 cxd5 10. Bb5+ Nd7 11. Qe2+ Be7 12. O-O Qa5 13. Bxd7+ Kxd7
+14. Re1 Rhe8 15. Nd2 Bb4 16. Nb3 Rxe2 17. Rxe2 Qb5 18. Re3 1-0
+

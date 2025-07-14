@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.25"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "sabhorse"]
+[Result "1/2-1/2"]
+[WhiteElo "570"]
+[BlackElo "571"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2021.02.25"]
+[UTCTime "15:19:49"]
+[Termination "Game drawn by stalemate"]
+[CurrentPosition "k7/8/8/8/6b1/K7/2q5/1q5q w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense"]
+[StartTime "15:19:49"]
+[EndDate "2021.02.25"]
+[EndTime "15:31:58"]
+[Link "https://www.chess.com/game/live/8005445269"]
+
+1. d4 Nc6 2. e3 e5 3. Nc3 exd4 4. exd4 d5 5. Nf3 Be7 6. g3 Bf6 7. Nb5 Qe7+
+8. Be2 a6 9. Nc3 Qe6 10. Nh4 Nxd4 11. Bf4 Be5 12. Nxd5 Qxd5 13. Bxe5 Qxh1+
+14. Bf1 Nc6 15. Bxg7 f6 16. Bxh8 Qxh2 17. Qe2+ Kd7 18. O-O-O+ Nd4 19. Rxd4+
+Kc6 20. Qe4+ Kb6 21. Rd8 Ka7 22. Rxg8 Qxf2 23. Qe6 Qxf1+ 24. Kd2 Bxe6 25.
+Rxa8+ Kxa8 26. c4 Bxc4 27. Bxf6 Qxf6 28. Ng2 Qf2+ 29. Kc3 Be6 30. b4 Qxg2
+31. a4 Qxg3+ 32. Kd4 h5 33. b5 axb5 34. axb5 h4 35. Kc5 h3 36. b6 cxb6+ 37.
+Kb5 h2 38. Kxb6 Qb3+ 39. Kc7 h1=Q 40. Kd6 Bg4 41. Kc7 b5 42. Kb6 b4 43. Kb5
+Qc3 44. Ka4 b3 45. Ka3 b2+ 46. Ka2 Qc2 47. Ka3 b1=Q 1/2-1/2
+

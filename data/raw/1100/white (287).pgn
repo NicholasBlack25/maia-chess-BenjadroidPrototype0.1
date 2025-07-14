@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "MathieuCarlotti"]
+[Result "0-1"]
+[WhiteElo "556"]
+[BlackElo "627"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2021.04.08"]
+[UTCTime "13:56:21"]
+[Termination "MathieuCarlotti won by checkmate"]
+[CurrentPosition "5b1r/p3pkpp/1p6/5p2/1P5P/1PQbn3/P2B2PR/R3Kq2 w Q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[StartTime "13:56:21"]
+[EndDate "2021.04.08"]
+[EndTime "14:03:41"]
+[Link "https://www.chess.com/game/live/11629351177"]
+
+1. d4 d5 2. e3 f5 3. c3 Nf6 4. Bb5+ c6 5. Qa4 Bd7 6. Nf3 cxb5 7. Qb4 Nc6 8.
+Qc5 b6 9. Qa3 b4 10. cxb4 Ne4 11. Ne5 Nxe5 12. dxe5 Bb5 13. Nc3 Bd3 14.
+Nxd5 Qxd5 15. f3 Nd6 16. h4 Qxe5 17. f4 Qe4 18. Rh2 Nc4 19. Qa6 Rc8 20.
+Qxc8+ Kf7 21. b3 Nxe3 22. Bd2 Qxf4 23. Qc3 Qf1# 0-1
+

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.08"]
+[Round "-"]
+[White "bsmig20"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "528"]
+[BlackElo "553"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2021.04.08"]
+[UTCTime "12:32:49"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "7r/ppn1k1pp/2p1p1q1/4n3/8/6P1/PPPP4/R1B2RK1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "12:32:49"]
+[EndDate "2021.04.08"]
+[EndTime "12:37:32"]
+[Link "https://www.chess.com/game/live/11624066485"]
+
+1. e4 d5 2. f3 dxe4 3. fxe4 e6 4. Nc3 Bd6 5. Qf3 Qh4+ 6. g3 Bxg3+ 7. hxg3
+Qe7 8. Bc4 Nf6 9. Nh3 e5 10. Nb5 Ng4 11. O-O Qc5+ 12. Kh1 Qxc4 13. Qb3
+Qxe4+ 14. Kg1 Be6 15. Qc3 c6 16. Nc7+ Ke7 17. Nxa8 Na6 18. Nc7 Nxc7 19. Ng5
+Qg6 20. Nxe6 fxe6 21. Qxe5 Nxe5 0-1
+

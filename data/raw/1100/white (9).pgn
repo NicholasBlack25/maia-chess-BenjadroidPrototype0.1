@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Superloulou78330"]
+[Result "0-1"]
+[WhiteElo "664"]
+[BlackElo "688"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.08.22"]
+[UTCTime "07:24:27"]
+[Termination "Superloulou78330 won by checkmate"]
+[CurrentPosition "8/3rk2p/6p1/1Q2p3/1n2P3/5P2/P2q2PP/3K4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Modern-Defense-with-1-d4-2.Nf3-Bg7"]
+[StartTime "07:24:27"]
+[EndDate "2024.08.22"]
+[EndTime "07:36:53"]
+[Link "https://www.chess.com/game/live/108849109032"]
+
+1. d4 g6 2. Nf3 Bg7 3. Ng5 d6 4. e3 e5 5. Bc4 Qxg5 6. Qf3 f6 7. dxe5 dxe5
+8. Qd5 Nh6 9. e4 c6 10. Qd6 Qxc1+ 11. Ke2 Qxc2+ 12. Nd2 Bg4+ 13. f3 b5 14.
+Be6 Bxe6 15. Qxe6+ Kd8 16. Rhd1 Nd7 17. Rac1 Qxb2 18. Qxc6 Rc8 19. Qb7 Rxc1
+20. Ke1 Rxd1+ 21. Kxd1 Nc5 22. Qxg7 Re8 23. Qxf6+ Re7 24. Qd6+ Rd7 25. Qf8+
+Kc7 26. Qxh6 Nd3 27. Qe3 Nb4 28. Qxa7+ Kd6 29. Qb6+ Ke7 30. Qxb5 Qxd2# 0-1
+

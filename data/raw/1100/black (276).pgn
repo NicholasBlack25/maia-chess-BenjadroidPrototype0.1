@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.01"]
+[Round "-"]
+[White "JakeAndux11"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "1209"]
+[BlackElo "527"]
+[ECO "A04"]
+[TimeControl "600"]
+[UTCDate "2021.03.01"]
+[UTCTime "14:59:47"]
+[Termination "JakeAndux11 won by checkmate"]
+[CurrentPosition "3k3r/3Q2p1/1N6/p4p1p/6n1/1P2P1K1/P1P3P1/R7 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Ware-Defense"]
+[StartTime "14:59:47"]
+[EndDate "2021.03.01"]
+[EndTime "15:06:25"]
+[Link "https://www.chess.com/game/live/8349842541"]
+
+1. Nf3 a5 2. d4 c5 3. dxc5 b6 4. cxb6 Qxb6 5. e4 Nc6 6. b3 Nb4 7. Be3 Qf6
+8. Na3 Nh6 9. Bc4 e5 10. Nb5 Ng4 11. Nc7+ Kd8 12. Nxa8 Nxe3 13. fxe3 Ba6
+14. Bxa6 Nxa6 15. O-O Nc5 16. Qd2 Nxe4 17. Qd3 Bd6 18. Nd4 exd4 19. Rxf6
+Nxf6 20. Qxd4 Bxh2+ 21. Kxh2 h5 22. Nb6 Ng4+ 23. Kg3 f5 24. Qxd7# 1-0
+

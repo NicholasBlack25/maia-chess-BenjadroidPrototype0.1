@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.29"]
+[Round "-"]
+[White "dahivahi"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "570"]
+[BlackElo "629"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.06.29"]
+[UTCTime "07:51:51"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "7r/p2Nqkpp/p3pp2/8/4b3/2P2PB1/PP1r2P1/4R1K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3-Nf6"]
+[StartTime "07:51:51"]
+[EndDate "2023.06.29"]
+[EndTime "07:58:35"]
+[Link "https://www.chess.com/game/live/81764063071"]
+
+1. d4 d5 2. e3 Nf6 3. c3 c6 4. Na3 e6 5. Nh3 Na6 6. Be2 Ne4 7. O-O c5 8.
+Bxa6 bxa6 9. dxc5 Nxc5 10. Qf3 Bd6 11. e4 dxe4 12. Qe3 Bb7 13. Ng5 Qc7 14.
+Nxe4 Nxe4 15. f3 Bf4 16. Qd4 Bxh2+ 17. Kh1 Ng3+ 18. Kxh2 Nxf1+ 19. Kg1 Ng3
+20. Bf4 Qe7 21. Bxg3 Rd8 22. Qa4+ Kf8 23. Nc4 Rd3 24. Ne5 Rd2 25. Re1 f6
+26. Nd7+ Kf7 27. Qe4 Bxe4 0-1
+

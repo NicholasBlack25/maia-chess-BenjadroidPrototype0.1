@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.17"]
+[Round "-"]
+[White "AngelxGenesis"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "708"]
+[BlackElo "677"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2024.08.17"]
+[UTCTime "06:37:49"]
+[Termination "AngelxGenesis won by checkmate"]
+[CurrentPosition "8/pppQ2R1/3kp2N/3p4/3P4/4n3/q6p/1R5K b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation-3...Bf5-4.Nf3"]
+[StartTime "06:37:49"]
+[EndDate "2024.08.17"]
+[EndTime "06:47:07"]
+[Link "https://www.chess.com/game/live/108760980194"]
+
+1. e4 d5 2. e5 Nc6 3. Nf3 Bf5 4. d4 Nb4 5. Na3 Qd7 6. Bd3 Nh6 7. Bxf5 Qxf5
+8. O-O Ng4 9. Nb5 O-O-O 10. Na3 e6 11. c3 Na6 12. Ng5 Bxa3 13. bxa3 Nh6 14.
+h3 f6 15. Nf3 fxe5 16. Nxe5 Qe4 17. Bxh6 gxh6 18. Nf7 Rdg8 19. g3 h5 20.
+Nxh8 h4 21. g4 h5 22. f3 Qf4 23. Rf2 hxg4 24. fxg4 Qg3+ 25. Rg2 Qxh3 26.
+Nf7 Qxc3 27. g5 h3 28. Rg4 Qxa3 29. g6 Qb2 30. Qf1 h2+ 31. Kh1 Nb4 32. g7
+Nc2 33. Rb1 Qxa2 34. Nh6 Ne3 35. Qf8+ Rxf8 36. gxf8=Q+ Kd7 37. Rg7+ Kc6 38.
+Qe8+ Kd6 39. Qd7# 1-0
+

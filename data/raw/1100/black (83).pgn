@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.06"]
+[Round "-"]
+[White "SnowCatWill"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "559"]
+[BlackElo "554"]
+[ECO "B07"]
+[TimeControl "600"]
+[UTCDate "2023.11.06"]
+[UTCTime "22:15:21"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "rn2k2r/pp2pp1p/3p4/2pP1q2/8/5N2/PbPB1PPP/RN1BK2R w KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-2.d4-Nf6"]
+[StartTime "22:15:21"]
+[EndDate "2023.11.06"]
+[EndTime "22:17:12"]
+[Link "https://www.chess.com/game/live/82092209926"]
+
+1. e4 d6 2. d4 Nf6 3. e5 Bg4 4. exf6 Bxd1 5. fxg7 Bxg7 6. Nf3 c6 7. Be2
+Qa5+ 8. Bd2 Qf5 9. Bxd1 c5 10. d5 Bxb2 0-1
+

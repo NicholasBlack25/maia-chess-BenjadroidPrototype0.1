@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.17"]
+[Round "-"]
+[White "QuiteLarge"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "647"]
+[BlackElo "680"]
+[ECO "A06"]
+[TimeControl "600"]
+[UTCDate "2023.11.17"]
+[UTCTime "01:54:06"]
+[Termination "QuiteLarge won by resignation"]
+[CurrentPosition "7r/p1p1k1pp/5p2/5Q2/3PN3/4B2P/5PP1/1RR3K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-1...d5"]
+[StartTime "01:54:06"]
+[EndDate "2023.11.17"]
+[EndTime "02:00:36"]
+[Link "https://www.chess.com/game/live/82183786318"]
+
+1. Nf3 d5 2. Nc3 e6 3. d4 Nc6 4. e3 Bd6 5. a3 e5 6. h3 f6 7. Bb5 exd4 8.
+exd4 Bd7 9. Nxd5 Bb4+ 10. Nxb4 Nxb4 11. Bxd7+ Qxd7 12. axb4 Qe7+ 13. Be3
+Qxb4+ 14. Nd2 O-O-O 15. O-O Qxb2 16. Rb1 Qa3 17. Qe2 Ne7 18. Qb5 Rd5 19.
+Qxb7+ Kd7 20. Nc4 Qc3 21. Nd2 Qxc2 22. Rfc1 Qe4 23. Nxe4 Nf5 24. Qxd5+ Ke7
+25. Qxf5 1-0
+

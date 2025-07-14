@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.02"]
+[Round "-"]
+[White "d4gigakoks"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "525"]
+[BlackElo "563"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2021.03.02"]
+[UTCTime "12:54:32"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "1B2k2r/p4ppp/4p3/2b5/8/4p3/PP2K2P/RN4q1 w k -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Gambit-2...dxe4"]
+[StartTime "12:54:32"]
+[EndDate "2021.03.02"]
+[EndTime "12:57:04"]
+[Link "https://www.chess.com/game/live/8428511073"]
+
+1. e4 d5 2. d4 dxe4 3. g4 Nf6 4. f4 Nxg4 5. f5 Bxf5 6. Bb5+ c6 7. d5 Ne3 8.
+dxc6 Nxd1 9. cxb7+ Nc6 10. Bxc6+ Bd7 11. Bxd7+ Qxd7 12. Bd2 Rb8 13. Kxd1
+Qxb7 14. Bf4 e3 15. Bxb8 Qxh1 16. c4 Qxg1+ 17. Ke2 e6 18. c5 Bxc5 0-1
+

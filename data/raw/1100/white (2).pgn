@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.02.14"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Redhound23"]
+[Result "0-1"]
+[WhiteElo "625"]
+[BlackElo "647"]
+[ECO "D04"]
+[TimeControl "600"]
+[UTCDate "2025.02.14"]
+[UTCTime "00:16:26"]
+[Termination "Redhound23 won by resignation"]
+[CurrentPosition "3q1rk1/2p3bp/p3p1p1/3P1pN1/4P3/1r6/PPP3PP/R1B2K2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Colle-System"]
+[StartTime "00:16:26"]
+[EndDate "2025.02.14"]
+[EndTime "00:24:14"]
+[Link "https://www.chess.com/game/live/122864850490"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Ne4 4. Qe2 g6 5. Nbd2 Bg7 6. Nxe4 dxe4 7. Nd2 Bf5
+8. f3 exf3 9. Qxf3 Nc6 10. Bb5 O-O 11. Bxc6 bxc6 12. Qxc6 Rb8 13. O-O Bd7
+14. Qc4 Bh3 15. Nf3 Be6 16. Qc5 a6 17. e4 f5 18. Ng5 Bd7 19. Qc4+ e6 20. d5
+Bb5 21. Qb3 Bxf1 22. Kxf1 Rxb3 0-1
+

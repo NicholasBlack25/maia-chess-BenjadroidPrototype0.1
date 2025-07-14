@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Kish00007"]
+[Result "0-1"]
+[WhiteElo "582"]
+[BlackElo "556"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.08.01"]
+[UTCTime "06:17:32"]
+[Termination "Kish00007 won by checkmate"]
+[CurrentPosition "4r1k1/Qp2np1p/6p1/4b3/1PB3b1/2P5/P1r3qP/R3R2K w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "06:17:32"]
+[EndDate "2023.08.01"]
+[EndTime "06:24:01"]
+[Link "https://www.chess.com/game/live/84609760037"]
+
+1. e4 e5 2. Qh5 Qf6 3. Bc4 g6 4. Qe2 Nc6 5. Nf3 Nd4 6. Nxd4 exd4 7. c3 dxc3
+8. dxc3 Ne7 9. O-O Bg7 10. Rd1 O-O 11. Be3 d6 12. Qd2 Qh4 13. Bf4 Re8 14.
+Bxd6 cxd6 15. Qxd6 Qxe4 16. b3 Bg4 17. Nd2 Qf5 18. Re1 Rad8 19. Qg3 Rxd2
+20. b4 Be5 21. Qe3 Rc2 22. Qxa7 Qxf2+ 23. Kh1 Qxg2# 0-1
+

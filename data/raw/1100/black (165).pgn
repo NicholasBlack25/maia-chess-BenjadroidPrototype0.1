@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.18"]
+[Round "-"]
+[White "aniyahnicole02"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "607"]
+[BlackElo "587"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.07.18"]
+[UTCTime "06:44:56"]
+[Termination "aniyahnicole02 won by checkmate"]
+[CurrentPosition "5Q1k/pp4pp/8/6q1/2B5/1PP5/P6K/7R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Saragossa-Opening-1...e5"]
+[StartTime "06:44:56"]
+[EndDate "2023.07.18"]
+[EndTime "06:53:56"]
+[Link "https://www.chess.com/game/live/83401574105"]
+
+1. c3 e5 2. d4 d6 3. dxe5 f6 4. exf6 Nxf6 5. f3 c5 6. e4 Nc6 7. Na3 Ne5 8.
+Bf4 Nf7 9. Nb5 Qb6 10. Nxd6+ Nxd6 11. e5 Nh5 12. exd6 Nxf4 13. Qc1 Qxd6 14.
+g3 Qe6+ 15. Ne2 Nxe2 16. Bxe2 c4 17. O-O Bd6 18. Re1 O-O 19. b3 Qh3 20.
+Bxc4+ Kh8 21. Qe3 Bd7 22. Red1 Bxg3 23. Rxd7 Bxh2+ 24. Kf2 Qxd7 25. Rh1
+Rxf3+ 26. Qxf3 Qd2+ 27. Qe2 Rf8+ 28. Kg2 Qg5+ 29. Kxh2 Rf4 30. Qe8+ Rf8 31.
+Qxf8# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "naman3221"]
+[Result "0-1"]
+[WhiteElo "635"]
+[BlackElo "644"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.22"]
+[UTCTime "08:38:23"]
+[Termination "naman3221 won by checkmate"]
+[CurrentPosition "8/p7/8/8/3Q2P1/5k2/PP3P1P/4r1K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "08:38:23"]
+[EndDate "2023.06.22"]
+[EndTime "08:44:32"]
+[Link "https://www.chess.com/game/live/81162099175"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ne5 Nf6 4. d3 exd3 5. cxd3 Bg4 6. Be2 Bxe2 7. Qxe2
+Nc6 8. Bf4 Nxe5 9. Bxe5 Nd7 10. O-O f6 11. Qh5+ g6 12. Qe2 fxe5 13. d4 exd4
+14. Nd2 Nb8 15. Nc4 Nc6 16. Rad1 e5 17. Nxe5 Nxe5 18. Qxe5+ Kd7 19. Qxh8
+Bd6 20. Qxh7+ Qe7 21. Qh3+ Qe6 22. Rfe1 Be5 23. Qh7+ Kd6 24. Rxe5 Qxe5 25.
+Qxg6+ Qe6 26. Rxd4+ Ke5 27. Qe4+ Kf6 28. Qf4+ Qf5 29. Qxc7 Qe5 30. Rd6+ Kf5
+31. Qf7+ Ke4 32. Re6 Kd5 33. Rxe5+ Kxe5 34. Qxb7 Re8 35. g4 Kf4 36. Qb4+
+Kf3 37. Qd4 Re1# 0-1
+

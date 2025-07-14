@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.04"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "fenachop"]
+[Result "0-1"]
+[WhiteElo "698"]
+[BlackElo "703"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.06.04"]
+[UTCTime "00:19:00"]
+[Termination "fenachop won by checkmate"]
+[CurrentPosition "1n2k1nr/rb3ppp/pN1pp3/8/8/3BP3/PPPQ1PqP/R4RK1 w k -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3-c5"]
+[StartTime "00:19:00"]
+[EndDate "2024.06.04"]
+[EndTime "00:21:12"]
+[Link "https://www.chess.com/game/live/107585332042"]
+
+1. d4 e6 2. Nf3 c5 3. dxc5 Bxc5 4. Nc3 a6 5. e3 d6 6. Bd3 b6 7. O-O Bb7 8.
+Ng5 Qxg5 9. Na4 Bb4 10. Nxb6 Ra7 11. Bd2 Bxd2 12. Qxd2 Qxg2# 0-1
+

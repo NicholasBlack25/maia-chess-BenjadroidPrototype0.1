@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.21"]
+[Round "-"]
+[White "bluefire117"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "605"]
+[BlackElo "618"]
+[ECO "C24"]
+[TimeControl "600"]
+[UTCDate "2023.07.21"]
+[UTCTime "08:06:15"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "8/6q1/7r/3k4/4R3/4K3/6P1/3q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Bishops-Opening-Berlin-Defense"]
+[StartTime "08:06:15"]
+[EndDate "2023.07.21"]
+[EndTime "08:18:30"]
+[Link "https://www.chess.com/game/live/83665784631"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Qe7 4. d4 Nxe4 5. dxe5 Qb4+ 6. Nfd2 Bc5 7. c3
+Qb6 8. Nxe4 Bxf2+ 9. Nxf2 d6 10. exd6 cxd6 11. Qe2+ Be6 12. Bxe6 fxe6 13.
+Qxe6+ Kd8 14. Bg5+ Kc7 15. Qe7+ Nd7 16. O-O Rhe8 17. Qxg7 Qxb2 18. Nd2 b5
+19. Rab1 Qxa2 20. Qxh7 a6 21. Qd3 Nc5 22. Qd5 Qxd5 23. Rbe1 Nd3 24. Rxe8
+Rxe8 25. h3 Qxg5 26. Nxd3 Qxd2 27. Rf7+ Kd8 28. Ra7 Qxd3 29. Ra8+ Ke7 30.
+Rxa6 Qxc3 31. Ra2 Qe1+ 32. Kh2 Qe5+ 33. Kg1 b4 34. Ra7+ Ke6 35. Rb7 Qc5+
+36. Kh2 d5 37. h4 d4 38. h5 d3 39. h6 Qe5+ 40. Kh3 Rh8 41. Rxb4 Rxh6+ 42.
+Kg4 Qg7+ 43. Kf3 d2 44. Re4+ Kd5 45. Ke3 d1=Q 0-1
+

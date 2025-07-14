@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.12"]
+[Round "-"]
+[White "BreezyShark"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "688"]
+[BlackElo "693"]
+[ECO "C55"]
+[TimeControl "600"]
+[UTCDate "2023.12.12"]
+[UTCTime "20:16:34"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "5r1k/7p/2p1Np2/1p2P3/5p1P/1pP5/1q6/3r1KR1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Two-Knights-Open"]
+[StartTime "20:16:34"]
+[EndDate "2023.12.12"]
+[EndTime "20:25:49"]
+[Link "https://www.chess.com/game/live/95740829024"]
+
+1. e4 e5 2. d4 Nc6 3. Nf3 Nf6 4. Bc4 d6 5. Bg5 Be7 6. dxe5 dxe5 7. Bxf6
+Bxf6 8. Qd5 O-O 9. Nc3 Nb4 10. Qd2 a5 11. Rd1 Be6 12. a3 Bxc4 13. axb4 axb4
+14. Nd5 b3 15. c3 c6 16. Nxf6+ gxf6 17. h4 b5 18. g4 Be6 19. g5 fxg5 20.
+Nxg5 Bg4 21. f3 Bh5 22. f4 Bxd1 23. Qxd1 exf4 24. Rg1 Qa5 25. Ne6+ Kh8 26.
+Qd4+ f6 27. e5 Qa1+ 28. Kf2 Qxb2+ 29. Kf1 Ra1+ 30. Qd1 Rxd1# 0-1
+

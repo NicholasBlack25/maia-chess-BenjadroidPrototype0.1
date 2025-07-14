@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.25"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "erwinsmith07"]
+[Result "1-0"]
+[WhiteElo "570"]
+[BlackElo "482"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2021.02.25"]
+[UTCTime "14:43:29"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "4r3/pQ3R2/5k2/5P2/8/7B/PPP1PP1P/2K4R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5"]
+[StartTime "14:43:29"]
+[EndDate "2021.02.25"]
+[EndTime "14:50:02"]
+[Link "https://www.chess.com/game/live/8003107567"]
+
+1. d4 e5 2. dxe5 d6 3. exd6 cxd6 4. Nf3 Qf6 5. Bg5 Qd8 6. Bxd8 Kxd8 7. Nc3
+d5 8. Nxd5 Nc6 9. Nd4 Be6 10. Nxc6+ Kc8 11. Nce7+ Bxe7 12. Nxe7+ Nxe7 13.
+Qd3 Rd8 14. Qxh7 Bf5 15. Qxg7 Ng6 16. Qxf7 Rf8 17. Qc4+ Kd8 18. O-O-O+ Ke8
+19. g4 Ke7 20. gxf5 Ne5 21. Qc7+ Ke8 22. Qxe5+ Kf7 23. Qc7+ Kf6 24. Bh3 Rf7
+25. Rd7 Raf8 26. Qxb7 Re8 27. Rxf7+ 1-0
+

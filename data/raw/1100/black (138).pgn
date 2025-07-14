@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.26"]
+[Round "-"]
+[White "KingAjedrezCarlos"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "547"]
+[BlackElo "509"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.10.26"]
+[UTCTime "01:31:02"]
+[Termination "KingAjedrezCarlos won by checkmate"]
+[CurrentPosition "r1b5/pp1kQp1p/6pB/2p5/8/NnPP1B2/PP3q1P/3KR1NR b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "01:31:02"]
+[EndDate "2023.10.26"]
+[EndTime "01:35:52"]
+[Link "https://www.chess.com/game/live/81983294788"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5+ Ne7 4. Qxh8 d5 5. exd5 Qxd5 6. d3 Nbc6 7. Bh6
+Nd4 8. Qxf8+ Kd7 9. Na3 Qa5+ 10. c3 c5 11. O-O-O Qa4 12. Re1 Nb3+ 13. Kd1
+Qg4+ 14. Be2 Qxg2 15. Bf3 Qxf2 16. Qxe7# 1-0
+

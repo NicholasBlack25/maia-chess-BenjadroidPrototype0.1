@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.21"]
+[Round "-"]
+[White "Arroju"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "638"]
+[BlackElo "627"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.07.21"]
+[UTCTime "10:04:25"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "2r1k2r/ppK4p/2p1b3/5p2/1q1P2n1/6B1/4BPPP/7R w k -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack-2...f6"]
+[StartTime "10:04:25"]
+[EndDate "2023.07.21"]
+[EndTime "10:10:12"]
+[Link "https://www.chess.com/game/live/83672960175"]
+
+1. d4 d5 2. Bg5 f6 3. Qd3 e6 4. Bh4 g5 5. Bg3 Nc6 6. Nf3 Nb4 7. Qb5+ c6 8.
+Qxb4 Bxb4+ 9. c3 Qa5 10. a3 Nh6 11. cxb4 Qa4 12. Nc3 Qb3 13. Kd2 Qxb2+ 14.
+Kd3 Qxa1 15. e4 dxe4+ 16. Kxe4 f5+ 17. Ke5 Ng4+ 18. Kd6 Qxc3 19. Nxg5 Qxa3
+20. Nxe6 Qxb4+ 21. Kc7 Bxe6 22. Be2 Rc8# 0-1
+

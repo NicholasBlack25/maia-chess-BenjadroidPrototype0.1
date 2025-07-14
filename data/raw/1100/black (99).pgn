@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.17"]
+[Round "-"]
+[White "indipendant"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "707"]
+[BlackElo "685"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.11.17"]
+[UTCTime "08:44:11"]
+[Termination "indipendant won by resignation"]
+[CurrentPosition "5rk1/p1b2n1p/2p2N2/5p2/3P1Pq1/1Q1KP3/PPPB2p1/R5R1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...d5"]
+[StartTime "08:44:11"]
+[EndDate "2023.11.17"]
+[EndTime "08:56:34"]
+[Link "https://www.chess.com/game/live/82185750092"]
+
+1. e3 d5 2. h4 e6 3. Nf3 Nc6 4. Ng5 Be7 5. Qf3 f6 6. Qh5+ g6 7. Nxe6 Bxe6
+8. Qe2 Ne5 9. f3 Qd6 10. Qb5+ Bd7 11. Qxb7 Qc6 12. Qb3 Nh6 13. Bb5 Nxf3+
+14. gxf3 Qd6 15. f4 Rb8 16. Bxd7+ Qxd7 17. Qxb8+ Bd8 18. Nc3 O-O 19. Qb3
+Nf7 20. Nxd5 Qg4 21. Rf1 Qxh4+ 22. Ke2 c6 23. Nc3 g5 24. d4 g4 25. Bd2 g3
+26. Rh1 Qg4+ 27. Kd3 g2 28. Rhg1 Bc7 29. Ne4 f5 30. Nf6+ 1-0
+

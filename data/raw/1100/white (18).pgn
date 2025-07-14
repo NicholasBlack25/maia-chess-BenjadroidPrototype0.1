@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.04.15"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "YangYangYangLi"]
+[Result "0-1"]
+[WhiteElo "730"]
+[BlackElo "768"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.04.15"]
+[UTCTime "07:01:56"]
+[Termination "YangYangYangLi won by checkmate"]
+[CurrentPosition "k2r4/p4Q2/8/7P/1pp1q3/2P5/PPKp1P2/3R4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation"]
+[StartTime "07:01:56"]
+[EndDate "2024.04.15"]
+[EndTime "07:14:06"]
+[Link "https://www.chess.com/game/live/106903286281"]
+
+1. d4 d5 2. Nf3 Nc6 3. Nc3 Bg4 4. Bf4 Bxf3 5. exf3 f6 6. Nb5 e5 7. dxe5
+fxe5 8. Qd2 exf4 9. Qxf4 Bd6 10. Nxd6+ Qxd6 11. Qe3+ Nge7 12. O-O-O O-O-O
+13. Bd3 Rde8 14. Qg5 g6 15. Rhe1 Nb4 16. Kb1 Nxd3 17. Rxd3 c5 18. f4 c4 19.
+Rd4 Nc6 20. Rxe8+ Rxe8 21. Rd1 d4 22. Qh6 Qe7 23. c3 d3 24. Kc1 b5 25. h4
+b4 26. g4 Rd8 27. f5 Ne5 28. fxg6 hxg6 29. h5 gxh5 30. gxh5 Nf3 31. Qc6+
+Kb8 32. Qxf3 Qe2 33. Qf4+ Kb7 34. Qf7+ Ka8 35. Rd2 Qe1+ 36. Rd1 d2+ 37. Kc2
+Qe4# 0-1
+

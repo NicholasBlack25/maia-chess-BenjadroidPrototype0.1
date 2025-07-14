@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.06"]
+[Round "-"]
+[White "AwiX25"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "674"]
+[BlackElo "647"]
+[ECO "C10"]
+[TimeControl "600"]
+[UTCDate "2025.03.06"]
+[UTCTime "21:46:51"]
+[Termination "AwiX25 won by checkmate"]
+[CurrentPosition "q5r1/8/4Q3/2pk4/3p4/PP4P1/2P2PK1/4R3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation...4.Nf3-Nf6-5.exd5-exd5"]
+[StartTime "21:46:51"]
+[EndDate "2025.03.06"]
+[EndTime "21:55:52"]
+[Link "https://www.chess.com/game/live/123621678180"]
+
+1. d4 d5 2. Nf3 Nc6 3. Nc3 Nf6 4. e4 e6 5. exd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6
+8. Bb5 Bd7 9. O-O a6 10. Re1+ Be7 11. Bxc6 Bxc6 12. Ne5 O-O-O 13. Nxc6 bxc6
+14. Qg4+ Kb7 15. Rxe7 Qxe7 16. Qxg7 c5 17. a3 cxd4 18. Qxd4 Rhg8 19. Na4
+Qg5 20. Nc5+ Kc8 21. g3 h5 22. Nxa6 h4 23. Kg2 hxg3 24. hxg3 Rd6 25. Qa7
+Rxa6 26. Qxa6+ Kd7 27. Qb5+ c6 28. Qb7+ Kd6 29. Re1 d4 30. Qe7+ Kd5 31.
+Qxf7+ Kc5 32. Qa7+ Kc4 33. Qa4+ Kd5 34. Qa5+ c5 35. b3 Qd8 36. Qa6 Qa8 37.
+Qe6# 1-0
+

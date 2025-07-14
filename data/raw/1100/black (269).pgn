@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.16"]
+[Round "-"]
+[White "truonga5kh"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "416"]
+[BlackElo "517"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2022.05.16"]
+[UTCTime "13:39:44"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "8/7R/2k5/3p2r1/p7/P2K4/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Kings-Indian-Attack-2...d5"]
+[StartTime "13:39:44"]
+[EndDate "2022.05.16"]
+[EndTime "13:49:59"]
+[Link "https://www.chess.com/game/live/46447231135"]
+
+1. e4 d5 2. d3 e6 3. exd5 exd5 4. d4 a5 5. Nf3 Bb4+ 6. Bd2 Qe7+ 7. Be2 Bc5
+8. b4 Bxb4 9. Bxb4 Qxb4+ 10. Nc3 Bf5 11. Rb1 Qxc3+ 12. Qd2 Qxd2+ 13. Kxd2
+Ne7 14. Rxb7 Nbc6 15. Rxc7 Nxd4 16. Rb1 Rd8 17. Nxd4 Bxc2 18. Kxc2 Rd6 19.
+Nc6 Rxc6+ 20. Rxc6 Nxc6 21. Bb5 Kd7 22. Bxc6+ Kxc6 23. f4 Re8 24. Kd3 f6
+25. g4 g5 26. fxg5 fxg5 27. Rh1 a4 28. h4 Rb8 29. hxg5 Rb2 30. Ra1 Rg2 31.
+Rh1 Rxg4 32. Rxh7 Rxg5 33. a3 0-1
+

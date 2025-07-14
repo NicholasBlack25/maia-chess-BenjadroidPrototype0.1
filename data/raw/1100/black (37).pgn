@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.12"]
+[Round "-"]
+[White "samu7u7"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "741"]
+[BlackElo "732"]
+[ECO "C49"]
+[TimeControl "600"]
+[UTCDate "2024.01.12"]
+[UTCTime "07:53:00"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "5rk1/5ppp/1rpP4/p1b5/4B1b1/P1N5/1PPQ1PP1/R1B1RK1q w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Double-Spanish-Variation-5.O-O-O-O-6.d3"]
+[StartTime "07:53:00"]
+[EndDate "2024.01.12"]
+[EndTime "08:02:08"]
+[Link "https://www.chess.com/game/live/98784906375"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bb5 Bb4 4. Nf3 Nf6 5. O-O O-O 6. d3 Ng4 7. d4 exd4
+8. Nxd4 d6 9. Nxc6 bxc6 10. Bxc6 Rb8 11. a3 Qh4 12. h3 Bc5 13. hxg4 Bxg4
+14. Qd2 Rb6 15. Bd5 a5 16. Re1 Qf6 17. Kf1 Qg6 18. e5 c6 19. Be4 Qh5 20.
+exd6 Qh1# 0-1
+

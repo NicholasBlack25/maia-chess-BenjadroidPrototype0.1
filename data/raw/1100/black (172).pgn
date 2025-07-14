@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.23"]
+[Round "-"]
+[White "Sanzzq"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "580"]
+[BlackElo "626"]
+[ECO "C45"]
+[TimeControl "600"]
+[UTCDate "2023.07.23"]
+[UTCTime "01:01:56"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "1R3b1r/N3kppp/b2p4/8/6n1/2P1qP2/P1P1Q1PP/4K2R b K -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-3...d6"]
+[StartTime "01:01:56"]
+[EndDate "2023.07.23"]
+[EndTime "01:07:08"]
+[Link "https://www.chess.com/game/live/83812841953"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 Nxe5 5. Nxe5 Qh4 6. Bb5+ c6 7. Bxc6+
+bxc6 8. Nc3 Ba6 9. Nxc6 Rc8 10. Nxa7 Rxc3 11. bxc3 Qxe4+ 12. Be3 Nf6 13.
+Rb1 Ng4 14. Rb8+ Ke7 15. f3 Qxe3+ 16. Qe2 0-1
+

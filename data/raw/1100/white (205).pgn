@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "TejasviVats"]
+[Result "0-1"]
+[WhiteElo "669"]
+[BlackElo "678"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.06.07"]
+[UTCTime "08:45:47"]
+[Termination "TejasviVats won by checkmate"]
+[CurrentPosition "rnb1Bk2/1pp1n1pp/8/p1b1N3/4PB2/2N5/PPP2qPP/R2QK2R w KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5"]
+[StartTime "08:45:47"]
+[EndDate "2023.06.07"]
+[EndTime "08:49:37"]
+[Link "https://www.chess.com/game/live/79866608187"]
+
+1. d4 e5 2. dxe5 Bc5 3. Nf3 d6 4. Bf4 a5 5. Bg5 Qd7 6. Bf4 Ne7 7. Nc3 O-O
+8. e4 Re8 9. Bc4 dxe5 10. Nxe5 Qd4 11. Bxf7+ Kf8 12. Bxe8 Qxf2# 0-1
+

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.28"]
+[Round "-"]
+[White "Nikkieboy"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "563"]
+[BlackElo "591"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.07.28"]
+[UTCTime "08:38:06"]
+[Termination "BenjaminVega10 won - game abandoned"]
+[CurrentPosition "3r1r2/1pk3pp/1pp5/2b5/4P1Q1/2P4P/PP1RbPP1/2K4R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation"]
+[StartTime "08:38:06"]
+[EndDate "2023.07.28"]
+[EndTime "08:49:54"]
+[Link "https://www.chess.com/game/live/84272409827"]
+
+1. e4 e5 2. d3 Nc6 3. c3 f6 4. Be3 Na5 5. h3 c6 6. Nd2 d5 7. Qf3 Qb6 8.
+Bxb6 axb6 9. Be2 d4 10. Qg3 Ne7 11. Ngf3 Ng6 12. Nc4 Be6 13. Nfxe5 Nxc4 14.
+dxc4 fxe5 15. Bh5 O-O-O 16. O-O-O Nf4 17. Qg5 Bxc4 18. Qxe5 Ne2+ 19. Bxe2
+Bxe2 20. Rxd4 Bc5 21. Qf5+ Kb8 22. Qf4+ Kc8 23. Rd2 Rhf8 24. Qg4+ Kc7 0-1
+

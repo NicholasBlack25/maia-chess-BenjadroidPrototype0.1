@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "26vee"]
+[Result "0-1"]
+[WhiteElo "619"]
+[BlackElo "662"]
+[ECO "C47"]
+[TimeControl "600"]
+[UTCDate "2023.06.22"]
+[UTCTime "08:57:43"]
+[Termination "26vee won by checkmate"]
+[CurrentPosition "r1bk1b1N/pppp1Bp1/7p/n7/3q1n2/1K6/P1P2PPP/R6R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation-Accepted"]
+[StartTime "08:57:43"]
+[EndDate "2023.06.22"]
+[EndTime "09:01:04"]
+[Link "https://www.chess.com/game/live/81163292209"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 exd4 5. Bc4 h6 6. Ne5 dxc3 7. Nxf7 Qe7
+8. Nxh8 Nxe4 9. Bf7+ Kd8 10. bxc3 Nxc3+ 11. Qe2 Nxe2 12. Bf4 Nxf4+ 13. Kd2
+Qd6+ 14. Kc3 Qd4+ 15. Kb3 Na5# 0-1
+

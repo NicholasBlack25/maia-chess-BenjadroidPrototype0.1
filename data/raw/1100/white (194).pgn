@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "MvksF"]
+[Result "1-0"]
+[WhiteElo "585"]
+[BlackElo "570"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.06.03"]
+[UTCTime "05:59:25"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "k7/8/2Rp4/1Q1P2b1/8/8/PP4PP/4K3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game"]
+[StartTime "05:59:25"]
+[EndDate "2023.06.03"]
+[EndTime "06:14:00"]
+[Link "https://www.chess.com/game/live/79510856715"]
+
+1. d4 Nf6 2. e4 Nxe4 3. Nc3 Nf6 4. Nf3 Nc6 5. Ne5 d6 6. Nxc6 b6 7. Bb5 Bb7
+8. Ne5+ Nd7 9. Ng4 a6 10. Ne5 axb5 11. Nxd7 Kxd7 12. Nxb5 Ba6 13. Qg4+ e6
+14. Nxd6 cxd6 15. Qf3 Rc8 16. Qxf7+ Kc6 17. Qxe6 Be7 18. d5+ Kb7 19. Qf7
+Qf8 20. Qe6 Rxc2 21. Qe4 Qxf2+ 22. Kd1 Qd2+ 23. Bxd2 Rxd2+ 24. Kxd2 Bg5+
+25. Kd1 Bb5 26. Rf1 Bxf1 27. Rc1 Bb5 28. Rc6 Re8 29. Qxh7 Re2 30. Qxg7+ Be7
+31. Qd4 Bg5 32. Qxb6+ Ka8 33. Qxb5 Re1+ 34. Kxe1 1-0
+

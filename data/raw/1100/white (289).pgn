@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "mustaq92"]
+[Result "0-1"]
+[WhiteElo "509"]
+[BlackElo "625"]
+[ECO "A04"]
+[TimeControl "600"]
+[UTCDate "2021.04.08"]
+[UTCTime "16:20:49"]
+[Termination "mustaq92 won by checkmate"]
+[CurrentPosition "r3kr2/1b1p2np/pp6/7q/8/6PK/PP5P/R7 w q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening"]
+[StartTime "16:20:49"]
+[EndDate "2021.04.08"]
+[EndTime "16:28:11"]
+[Link "https://www.chess.com/game/live/11637847107"]
+
+1. Nf3 e5 2. Nxe5 Qe7 3. Ng4 f5 4. Ne3 f4 5. Nf5 Qf6 6. Nd4 Qxd4 7. e3 fxe3
+8. fxe3 Qf6 9. d4 c5 10. dxc5 Bxc5 11. Qe2 Na6 12. Nd2 Qg6 13. Nc4 Nb4 14.
+Nd6+ Bxd6 15. Qb5 Nxc2+ 16. Kd1 Nxa1 17. Bd2 Qc2+ 18. Ke1 Qb1+ 19. Kf2 Qd1
+20. Bb4 Qc2+ 21. Kf3 b6 22. Bxd6 Bb7+ 23. e4 Qxe4+ 24. Kg3 Qg6+ 25. Kf2
+Qxd6 26. Bc4 Qd2+ 27. Be2 a6 28. Qe5+ Ne7 29. Qxg7 Rf8+ 30. Kg3 Qe3+ 31.
+Bf3 Nf5+ 32. Kh3 Nxg7 33. Rxa1 Qe6+ 34. Bg4 Qe3+ 35. g3 Qh6+ 36. Bh5+ Qxh5#
+0-1
+

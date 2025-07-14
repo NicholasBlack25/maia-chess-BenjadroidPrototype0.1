@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.23"]
+[Round "-"]
+[White "ARK00077"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "717"]
+[BlackElo "709"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.05.23"]
+[UTCTime "08:38:27"]
+[Termination "ARK00077 won by checkmate"]
+[CurrentPosition "Q1k2b1r/2pb1ppp/8/4p3/8/2n2N2/PPP2PPP/R1BR2K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Modern-Variation-3.d4-Qxd5-4.Nc3"]
+[StartTime "08:38:27"]
+[EndDate "2024.05.23"]
+[EndTime "08:42:33"]
+[Link "https://www.chess.com/game/live/107397679428"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Qxd5 4. Nc3 Qe6+ 5. Be2 Nc6 6. d5 Qe5 7. dxc6
+Bf5 8. cxb7 Rd8 9. Nf3 Qe6 10. O-O Ne4 11. Qxd8+ Kxd8 12. b8=Q+ Qc8 13.
+Rd1+ Bd7 14. Qxa7 Nxc3 15. Ba6 e5 16. Bxc8 Kxc8 17. Qa8# 1-0
+

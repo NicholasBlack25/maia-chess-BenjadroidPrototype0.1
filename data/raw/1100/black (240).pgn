@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.22"]
+[Round "-"]
+[White "tamiryirmiya"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "622"]
+[BlackElo "626"]
+[ECO "C41"]
+[TimeControl "600"]
+[UTCDate "2023.06.22"]
+[UTCTime "08:45:07"]
+[Termination "tamiryirmiya won by resignation"]
+[CurrentPosition "8/6P1/B4K2/8/3k4/8/R4P2/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Nimzowitsch-Variation-4.dxe5"]
+[StartTime "08:45:07"]
+[EndDate "2023.06.22"]
+[EndTime "08:57:39"]
+[Link "https://www.chess.com/game/live/81162643463"]
+
+1. e4 e5 2. d4 d6 3. Nf3 Nf6 4. dxe5 dxe5 5. Nxe5 Nxe4 6. Qd3 Bb4+ 7. c3
+Bc5 8. Qxe4 f6 9. Nc4+ Be7 10. g4 Nc6 11. g5 fxg5 12. Ne5 Nxe5 13. Qxe5 g4
+14. Qxg7 Rf8 15. h3 b5 16. hxg4 Bb7 17. Rxh7 Be4 18. Rh8 Rxh8 19. Qxh8+ Bf8
+20. Bh6 Qe7 21. Be3 O-O-O 22. Nd2 Qd7 23. Nxe4 Bg7 24. Qh4 a5 25. Bg5 Re8
+26. Bf6 Rxe4+ 27. Be2 Bxf6 28. Qxf6 b4 29. Qa6+ Kd8 30. Qa8+ Ke7 31. Qxe4+
+Qe6 32. Qa8 bxc3 33. bxc3 Qe5 34. O-O-O Qxc3+ 35. Kb1 Qb4+ 36. Kc1 Qa3+ 37.
+Kd2 Qxa2+ 38. Ke1 c5 39. Qd8+ Ke6 40. Qd6+ Kf7 41. Qxc5 Qa4 42. Qc4+ Qxc4
+43. Bxc4+ Kf6 44. Ke2 Kg5 45. Kf3 a4 46. Ra1 Kh4 47. Rxa4 Kh3 48. Ra1 Kh4
+49. Kf4 Kh3 50. g5 Kh4 51. Kf5 Kh3 52. g6 Kg2 53. Ra2 Kf3 54. Kf6 Ke4 55.
+g7 Kd4 56. Ba6 1-0
+

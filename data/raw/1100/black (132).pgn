@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.19"]
+[Round "-"]
+[White "Draco1_1"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "609"]
+[BlackElo "551"]
+[ECO "B01"]
+[TimeControl "1800"]
+[UTCDate "2023.10.19"]
+[UTCTime "15:01:20"]
+[Termination "Draco1_1 won by checkmate"]
+[CurrentPosition "8/8/8/6P1/8/6K1/2Q2Q2/4k3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Closed-2...dxe4-3.Nxe4"]
+[StartTime "15:01:20"]
+[EndDate "2023.10.19"]
+[EndTime "15:26:19"]
+[Link "https://www.chess.com/game/live/91466490595"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 e6 4. Bb5+ c6 5. Bc4 Qd4 6. Qe2 b5 7. Nf3 Qd8
+8. Qd3 bxc4 9. Qxc4 Nf6 10. d3 Ng4 11. O-O Ba6 12. Qa4 Bd6 13. Bg5 Bxh2+
+14. Kh1 f6 15. Nxh2 fxg5 16. Nxg4 O-O 17. Kh2 Bb5 18. Qb4 Na6 19. Qd6 Rf4
+20. Qxe6+ Kf8 21. Nxg5 Nb4 22. g3 Nxc2 23. gxf4 Qxg5 24. fxg5 Re8 25. Qf5+
+Ke7 26. Rae1+ Nxe1 27. Rxe1+ Kd8 28. Qe5 Rxe5 29. Rxe5 Bxd3 30. Ra5 a6 31.
+Ne5 Bf1 32. Nxc6+ Kd7 33. Nb8+ Kc7 34. Nxa6+ Kb6 35. b4 Bxa6 36. Rxa6+ Kxa6
+37. f4 Kb5 38. a3 Kc6 39. a4 g6 40. a5 Kb5 41. Kg3 Kxb4 42. a6 Kb5 43. a7
+Kb6 44. a8=Q Kc5 45. Qh8 Kd5 46. Qxh7 Ke4 47. Qxg6+ Ke3 48. f5 Ke4 49. f6+
+Ke3 50. f7 Ke2 51. f8=Q Ke3 52. Qc5+ Kd2 53. Qgc2+ Ke1 54. Q5f2# 1-0
+

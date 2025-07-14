@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Dupmar"]
+[Result "0-1"]
+[WhiteElo "688"]
+[BlackElo "608"]
+[ECO "C41"]
+[TimeControl "600"]
+[UTCDate "2023.12.01"]
+[UTCTime "15:17:18"]
+[Termination "Dupmar won by checkmate"]
+[CurrentPosition "4kn2/1b2b1Q1/pq3r1p/8/5pN1/2P5/PP3RPP/R1Br2K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense"]
+[StartTime "15:17:18"]
+[EndDate "2023.12.01"]
+[EndTime "15:21:47"]
+[Link "https://www.chess.com/game/live/94168420112"]
+
+1. e4 e5 2. Nf3 d6 3. c3 Nf6 4. Ng5 h6 5. Nxf7 Kxf7 6. Bc4+ Ke8 7. Qa4+ c6
+8. O-O b5 9. Bxb5 cxb5 10. Qxb5+ Nfd7 11. d4 a6 12. Qd5 Bb7 13. Qe6+ Be7
+14. dxe5 dxe5 15. f4 Rf8 16. Nd2 Rf6 17. Qg4 exf4 18. Qxg7 Nf8 19. Nc4 Nbd7
+20. e5 Nxe5 21. Nxe5 Qb6+ 22. Rf2 Rd8 23. Ng4 Rd1# 0-1
+

@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.21"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "BlackKnightC4"]
+[Result "0-1"]
+[WhiteElo "652"]
+[BlackElo "666"]
+[ECO "C26"]
+[TimeControl "600"]
+[UTCDate "2023.06.21"]
+[UTCTime "05:18:27"]
+[Termination "BlackKnightC4 won by checkmate"]
+[CurrentPosition "5r1K/8/6k1/8/8/8/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Variation-3.d4-exd4-4.Qxd4"]
+[StartTime "05:18:27"]
+[EndDate "2023.06.21"]
+[EndTime "05:32:39"]
+[Link "https://www.chess.com/game/live/81063688051"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 exd4 4. Qxd4 c5 5. Qe5+ Qe7 6. Qc7 Nc6 7. Bb5
+Nxe4 8. Nxe4 Qxe4+ 9. Be3 Qxg2 10. Bxc6 bxc6 11. Qe5+ Be7 12. Bxc5 d6 13.
+Bxd6 O-O 14. Bxe7 Re8 15. O-O-O Bg4 16. f3 Qxh1 17. fxg4 f6 18. Qe6+ Kh8
+19. Qxc6 Qxc6 20. Bxf6 gxf6 21. h4 Rad8 22. b4 Rxd1+ 23. Kxd1 Qf3+ 24. Nxf3
+Re4 25. g5 fxg5 26. hxg5 Rf4 27. Ne5 Rxb4 28. g6 hxg6 29. Nxg6+ Kg7 30. Ne7
+Rb2 31. Nf5+ Kf6 32. Nd4 Rxa2 33. Nb5 a5 34. c4 Rb2 35. Na3 a4 36. Kc1 Rb3
+37. Nb5 Ke5 38. Kc2 Rb4 39. Nc3 a3 40. c5 Rc4 41. Kb3 Rxc5 42. Kxa3 Rxc3+
+43. Kb4 Kd4 44. Kb5 Rc4 45. Kb6 Rc5 46. Kb7 Kd5 47. Kb6 Kd6 48. Ka6 Kc6 49.
+Ka7 Ra5+ 50. Kb8 Kd7 51. Kb7 Rb5+ 52. Ka6 Kc6 53. Ka7 Rb6 54. Ka8 Ra6+ 55.
+Kb8 Rb6+ 56. Kc8 Kd6 57. Kd8 Rb7 58. Kc8 Kc6 59. Kd8 Rd7+ 60. Ke8 Kd6 61.
+Kf8 Re7 62. Kg8 Ke6 63. Kf8 Kd7 64. Kg8 Ke8 65. Kh8 Rf7 66. Kg8 Ke7 67. Kh8
+Kf6 68. Kg8 Kg6 69. Kh8 Rf8# 0-1
+

@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.13"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "milad2711"]
+[Result "0-1"]
+[WhiteElo "723"]
+[BlackElo "701"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.13"]
+[UTCTime "08:24:08"]
+[Termination "milad2711 won by checkmate"]
+[CurrentPosition "1K4b1/1q2rk2/6n1/n7/8/3q4/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation"]
+[StartTime "08:24:08"]
+[EndDate "2024.01.13"]
+[EndTime "08:33:47"]
+[Link "https://www.chess.com/game/live/98873116275"]
+
+1. d4 d5 2. Nf3 f6 3. Bf4 g5 4. Bg3 g4 5. Nh4 c6 6. Qd3 Qa5+ 7. Nd2 Be6 8.
+Ng6 hxg6 9. Qxg6+ Bf7 10. Qxg4 e6 11. O-O-O Qxa2 12. h4 f5 13. Qf4 Qa1+ 14.
+Nb1 c5 15. dxc5 Bg7 16. c3 e5 17. Qg5 Bh6 18. Bxe5 Bxg5+ 19. e3 Rh7 20.
+hxg5 Rxh1 21. Bb5+ Kf8 22. c6 bxc6 23. Bd6+ Ne7 24. Rxh1 cxb5 25. Rh8+ Bg8
+26. f3 Kf7 27. e4 fxe4 28. fxe4 Ng6 29. Rh6 dxe4 30. b4 Nd7 31. g4 Re8 32.
+Kc2 e3 33. c4 bxc4 34. Nc3 Qa3 35. Nb5 Qb3+ 36. Kc1 e2 37. Bg3 e1=Q+ 38.
+Bxe1 Rxe1+ 39. Kd2 Qd1+ 40. Kc3 Qc1+ 41. Kd4 Qxg5 42. Rh3 Qxg4+ 43. Kd5
+Qxh3 44. Nxa7 c3 45. b5 c2 46. Kc6 Nde5+ 47. Kc7 c1=Q+ 48. Kd8 Nc4 49. Nc6
+Qd3+ 50. Kc7 Na5 51. b6 Re7+ 52. Kb8 Qxc6 53. b7 Qxb7# 0-1
+

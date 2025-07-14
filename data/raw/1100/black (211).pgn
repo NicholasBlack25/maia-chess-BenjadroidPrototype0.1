@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "chrollo098"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "614"]
+[BlackElo "607"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "07:19:11"]
+[Termination "chrollo098 won by checkmate"]
+[CurrentPosition "R7/8/8/6Q1/k1p5/1p6/3Q3P/5K2 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "07:19:11"]
+[EndDate "2023.06.12"]
+[EndTime "07:32:10"]
+[Link "https://www.chess.com/game/live/80293266877"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5+ Qe7 4. Qxh8 Qxe4+ 5. Kd1 Nc6 6. Qxg8 Nd4 7. Nc3
+Qxc2+ 8. Ke1 d6 9. Bc4 Be6 10. Bxe6 fxe6 11. Qxh7 O-O-O 12. Nge2 Nxe2 13.
+Kxe2 d5 14. b4 Bxb4 15. Rd1 Bxc3 16. Kf1 Bxa1 17. Re1 Qd3+ 18. Re2 Rd6 19.
+Ba3 Qxa3 20. Qxg6 Qc1+ 21. Re1 Qxd2 22. Rxa1 e5 23. Qg8+ Rd8 24. Qg4+ Kb8
+25. Rd1 Qxa2 26. f4 Qc4+ 27. Kg1 Qc5+ 28. Kf1 a5 29. fxe5 Qc4+ 30. Qxc4
+dxc4 31. Rxd8+ Ka7 32. e6 a4 33. e7 a3 34. e8=Q Kb6 35. Qe6+ c6 36. Qxc4 a2
+37. Qxa2 Kc7 38. Qd2 b6 39. g3 b5 40. g4 b4 41. g5 b3 42. Rh8 c5 43. g6 Kb6
+44. g7 c4 45. g8=Q Kb5 46. Qgg5+ Ka4 47. Ra8# 1-0
+

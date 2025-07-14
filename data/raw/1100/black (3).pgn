@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Gnt17"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "724"]
+[BlackElo "709"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:54:29"]
+[Termination "Gnt17 won by checkmate"]
+[CurrentPosition "rnbqk2r/p4Qpp/2p5/2b1p3/2B3n1/2N5/PPPP1PPP/R1B1K1NR b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5"]
+[StartTime "09:54:29"]
+[EndDate "2024.06.01"]
+[EndTime "09:55:58"]
+[Link "https://www.chess.com/game/live/107543160606"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 e5 4. Bb5+ c6 5. dxc6 bxc6 6. Bc4 Bc5 7. Qf3
+Ng4 8. Qxf7# 1-0
+

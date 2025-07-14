@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.06"]
+[Round "-"]
+[White "MYT2023"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "687"]
+[BlackElo "668"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2023.12.06"]
+[UTCTime "08:07:57"]
+[Termination "MYT2023 won by checkmate"]
+[CurrentPosition "r1k4r/ppQ1Rp1p/2p2Npb/8/8/5b2/PPKPB3/R1B4q b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation"]
+[StartTime "08:07:57"]
+[EndDate "2023.12.06"]
+[EndTime "08:13:13"]
+[Link "https://www.chess.com/game/live/94207071848"]
+
+1. e4 d5 2. Nc3 Nf6 3. Nf3 dxe4 4. Ng5 Bg4 5. f3 exf3 6. gxf3 Bh5 7. Nce4
+Nxe4 8. Nxe4 Nc6 9. c3 e5 10. Be2 Nd4 11. cxd4 exd4 12. Rg1 g6 13. Qa4+ c6
+14. Rg5 Bh6 15. Re5+ Kd7 16. Qxd4+ Kc7 17. Qc5 Qh4+ 18. Kd1 Qxh2 19. Re7+
+Kd8 20. Nf6 Qh1+ 21. Kc2 Bxf3 22. Qd6+ Kc8 23. Qc7# 1-0
+

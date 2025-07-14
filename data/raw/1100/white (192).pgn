@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Brkyh"]
+[Result "1-0"]
+[WhiteElo "562"]
+[BlackElo "450"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.06.03"]
+[UTCTime "05:17:27"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b1k2Q/p2pr3/1pp1p2N/3n4/3P4/3B2P1/PPP5/2KR4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation"]
+[StartTime "05:17:27"]
+[EndDate "2023.06.03"]
+[EndTime "05:27:14"]
+[Link "https://www.chess.com/game/live/79508422173"]
+
+1. d4 e6 2. e4 Qh4 3. g3 Qxe4+ 4. Ne2 Bb4+ 5. Nc3 Qxh1 6. Nf4 Qxh2 7. Qh5
+Qxg3 8. fxg3 Nf6 9. Qb5 c6 10. Qxb4 Ng4 11. Nh5 g6 12. Ng7+ Kd8 13. Bg5+ f6
+14. Bxf6+ Nxf6 15. Qd6 Ne8 16. Qf4 Nxg7 17. Qf6+ Ke8 18. Qxg7 Rf8 19. Qxh7
+b6 20. Qxg6+ Rf7 21. Ne4 Na6 22. O-O-O Nc7 23. Nf6+ Ke7 24. Ng8+ Kf8 25.
+Nf6 Ke7 26. Ng8+ Kf8 27. Nh6 Re7 28. Qf6+ Ke8 29. Bd3 Nd5 30. Qh8# 1-0
+

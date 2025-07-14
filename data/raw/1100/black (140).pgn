@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.31"]
+[Round "-"]
+[White "DimitarMitev1"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "546"]
+[BlackElo "541"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.10.31"]
+[UTCTime "15:22:47"]
+[Termination "BenjaminVega10 won on time"]
+[CurrentPosition "2k5/8/8/8/p7/8/KB6/3q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...c6"]
+[StartTime "15:22:47"]
+[EndDate "2023.10.31"]
+[EndTime "15:40:11"]
+[Link "https://www.chess.com/game/live/82034444880"]
+
+1. d4 d5 2. Nc3 c6 3. e3 Nf6 4. Nf3 Ne4 5. Nxe4 dxe4 6. Nd2 f6 7. Nxe4 Qa5+
+8. Bd2 Qd5 9. Nc3 Qd6 10. Be2 g6 11. O-O h5 12. Bd3 e5 13. Bxg6+ Kd7 14.
+Bxh5 exd4 15. Bg4+ Kd8 16. Bxc8 Kxc8 17. g3 f5 18. Ne2 Qh6 19. h4 Be7 20.
+exd4 Qh7 21. Nf4 Bxh4 22. Nh3 Bxg3 23. fxg3 Qxh3 24. Kf2 Nd7 25. Ke3 Qxg3+
+26. Qf3 f4+ 27. Kd3 Qg6+ 28. Kc3 c5 29. b3 cxd4+ 30. Kb2 Nc5 31. c3 Qf6 32.
+Rac1 Rh2 33. Rf2 Nd3+ 34. Kc2 Nxf2 35. Qxf4 Qg6+ 36. Kb2 Nd3+ 37. Ka1 Nxf4
+38. cxd4+ Kd7 39. Bxf4 Rc8 40. Rxc8 Kxc8 41. Bxh2 b5 42. Be5 a5 43. Kb2 b4
+44. a3 Qg2+ 45. Ka1 bxa3 46. d5 Qxd5 47. Bc3 Qxb3 48. Bf6 a2 49. Bb2 Qd1+
+50. Kxa2 a4 0-1
+

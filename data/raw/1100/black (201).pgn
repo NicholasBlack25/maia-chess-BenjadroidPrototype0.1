@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "Timur53797"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "647"]
+[BlackElo "635"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "08:38:52"]
+[Termination "Timur53797 won by checkmate"]
+[CurrentPosition "8/6P1/8/3B4/5K2/p7/P6R/k1Q5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-Tartakower-Attack-2...d5-3.Nf3"]
+[StartTime "08:38:52"]
+[EndDate "2023.06.08"]
+[EndTime "08:54:06"]
+[Link "https://www.chess.com/game/live/79952471333"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e5 4. c4 Nc6 5. Bg2 Bf5 6. O-O e4 7. Ne5 Nxe5 8.
+dxe5 dxc4 9. exf6 gxf6 10. Bf4 Bc5 11. Nc3 Qd4 12. e3 Qxd1 13. Raxd1 Rd8
+14. Rxd8+ Kxd8 15. Rd1+ Bd7 16. Bxe4 f5 17. Bxb7 Re8 18. Nd5 Re4 19. Bxc7+
+Ke8 20. Nf6+ Ke7 21. Nxe4 fxe4 22. Bxe4 Ba4 23. Rd5 Bb4 24. Bd6+ Ke6 25.
+Re5+ Kxd6 26. Rf5 c3 27. bxc3 Bxc3 28. Rxf7 a5 29. Rxh7 Kc5 30. Rh5+ Kc4
+31. f4 Bd1 32. Rh7 a4 33. Rc7+ Kb4 34. Rb7+ Ka3 35. Bd5 Bd2 36. h3 Bxe3+
+37. Kg2 Be2 38. Bf3 Ba6 39. Re7 Bc1 40. Bd5 Bd2 41. Kf3 Bb4 42. Re3+ Kb2
+43. g4 Bf1 44. h4 Be7 45. Rxe7 Bb5 46. f5 Bd3 47. h5 a3 48. h6 Bc2 49. f6
+Bd1+ 50. Kf4 Bc2 51. g5 Bg6 52. h7 Bxh7 53. Rxh7 Kc2 54. g6 Kb2 55. f7 Kc2
+56. g7 Kb2 57. f8=Q Kc2 58. Qc8+ Kb2 59. Rh2+ Ka1 60. Qc1# 1-0
+

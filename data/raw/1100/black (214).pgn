@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "Symarcus"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "597"]
+[BlackElo "608"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "09:06:23"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r3kb1r/pqp2ppp/3p4/4n3/8/3PB3/PPP1KP2/RN6 w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "09:06:23"]
+[EndDate "2023.06.12"]
+[EndTime "09:09:21"]
+[Link "https://www.chess.com/game/live/80299827089"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Qe7 4. Qf4 Nxe4 5. Bd3 Nc5+ 6. Ne2 d6 7. Qf3
+Nxd3+ 8. Qxd3 Bg4 9. O-O Bxe2 10. Qd4 Bxf1 11. Kxf1 Nc6 12. Qc4 Qe5 13. d3
+Qxh2 14. Be3 Qh1+ 15. Ke2 Qxg2 16. Qb3 Ne5 17. Qxb7 Qxb7 0-1
+

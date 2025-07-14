@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "KingJoseff123"]
+[Result "1/2-1/2"]
+[WhiteElo "527"]
+[BlackElo "480"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2021.03.01"]
+[UTCTime "14:27:23"]
+[Termination "Game drawn by timeout vs insufficient material"]
+[CurrentPosition "8/8/3k4/4R3/6P1/8/1B3K1P/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...e6"]
+[StartTime "14:27:23"]
+[EndDate "2021.03.01"]
+[EndTime "14:42:02"]
+[Link "https://www.chess.com/game/live/8347996941"]
+
+1. d4 d5 2. Nc3 e6 3. Nf3 Bb4 4. Ne5 Nf6 5. e3 O-O 6. a3 Bd6 7. Nxd5 Bxe5
+8. Nxf6+ gxf6 9. Qg4+ Kh8 10. dxe5 fxe5 11. Bd3 f5 12. Bxf5 exf5 13. Qh3 c5
+14. e4 fxe4 15. Qc3 b6 16. Qxe5+ Kg8 17. Qxe4 b5 18. Qxa8 Bb7 19. Qxb7 b4
+20. Qxa7 c4 21. axb4 c3 22. bxc3 Qf6 23. Ra6 Qxf2+ 24. Qxf2 Rxf2 25. Kxf2
+Nxa6 26. Rd1 Nc7 27. Rd8+ Kf7 28. c4 Ke7 29. Rc8 Na6 30. Rh8 Nxb4 31. Rxh7+
+Kf6 32. Rh6+ Kg7 33. Rb6 Nxc2 34. c5 Nd4 35. c6 Ne6 36. c7 Nxc7 37. Bb2+
+Kf7 38. Rb7 Ke8 39. Rxc7 Kd8 40. Rc5 Kd7 41. Rd5+ Kc6 42. Rd4 Kc5 43. Rf4
+Kd5 44. Rf5+ Ke6 45. Re5+ Kd6 46. g3 Kd7 47. g4 Kd6 1/2-1/2
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.20"]
+[Round "-"]
+[White "nitinpandeyyy"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "566"]
+[BlackElo "577"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.07.20"]
+[UTCTime "08:14:11"]
+[Termination "nitinpandeyyy won by checkmate"]
+[CurrentPosition "r1bqk2r/p1ppnQpp/1p3p2/2b1p3/P2nP3/8/BPPP1PPP/RNB1K1NR b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "08:14:11"]
+[EndDate "2023.07.20"]
+[EndTime "08:15:38"]
+[Link "https://www.chess.com/game/live/83579768701"]
+
+1. e4 e5 2. Qf3 Nc6 3. a4 Bc5 4. Bc4 f6 5. Ba2 Nd4 6. Qc3 b6 7. Qc4 Ne7 8.
+Qf7# 1-0
+

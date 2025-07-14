@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.03"]
+[Round "-"]
+[White "METRiiX"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "664"]
+[BlackElo "694"]
+[ECO "C24"]
+[TimeControl "600"]
+[UTCDate "2023.12.03"]
+[UTCTime "11:16:58"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b2rk1/pp1p1pp1/8/2pB3Q/3bP3/P2P4/6PP/6qK w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Bishops-Opening-Berlin-Defense-3.d3"]
+[StartTime "11:16:58"]
+[EndDate "2023.12.03"]
+[EndTime "11:24:56"]
+[Link "https://www.chess.com/game/live/94183409258"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c5 4. Nf3 Nc6 5. a3 Bd6 6. Ng5 O-O 7. Nh3 Nd4 8.
+Bg5 Be7 9. Nc3 h5 10. O-O Qb6 11. Bxf6 Bxf6 12. Qxh5 Qxb2 13. Bd5 Nxc2 14.
+Rae1 Nxe1 15. f4 Qxc3 16. fxe5 Bxe5 17. Ng5 Qd4+ 18. Rf2 Nf3+ 19. Nxf3 Qa1+
+20. Rf1 Bd4+ 21. Kh1 Qxf1+ 22. Ng1 Qxg1# 0-1
+

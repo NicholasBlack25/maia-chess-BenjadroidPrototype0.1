@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.28"]
+[Round "-"]
+[White "CHIN_KABAB_DUM_DUM"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "668"]
+[BlackElo "683"]
+[ECO "B07"]
+[TimeControl "600"]
+[UTCDate "2023.11.28"]
+[UTCTime "08:51:30"]
+[Termination "CHIN_KABAB_DUM_DUM won by checkmate"]
+[CurrentPosition "r2q1rk1/1p3p1Q/2np1bp1/p4bN1/2B5/8/PPP2PPP/R1B1K2R b KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-2.Bc4"]
+[StartTime "08:51:30"]
+[EndDate "2023.11.28"]
+[EndTime "08:55:03"]
+[Link "https://www.chess.com/game/live/94138784484"]
+
+1. e4 d6 2. Bc4 e6 3. Nf3 Be7 4. d4 Nf6 5. Nc3 O-O 6. d5 exd5 7. exd5 Bf5
+8. Ng5 c6 9. dxc6 Nxc6 10. Nd5 a5 11. Nxf6+ Bxf6 12. Qh5 g6 13. Qxh7# 1-0
+

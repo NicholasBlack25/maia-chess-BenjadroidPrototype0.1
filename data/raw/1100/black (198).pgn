@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "janarthanan_e"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "665"]
+[BlackElo "660"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "08:12:53"]
+[Termination "janarthanan_e won by checkmate"]
+[CurrentPosition "8/3B4/8/8/3P2R1/8/1PN2kQ1/3K4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Bf5-3.e3-e6"]
+[StartTime "08:12:53"]
+[EndDate "2023.06.08"]
+[EndTime "08:18:39"]
+[Link "https://www.chess.com/game/live/79951152905"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. g4 Be4 5. f3 Bb4+ 6. c3 Nc6 7. cxb4 Nxb4 8.
+fxe4 Nf6 9. Qa4+ Qd7 10. Qxb4 Nxe4 11. Qxb7 Rd8 12. Qxa7 Qe7 13. Qxc7 Qh4+
+14. Bg3 Nxg3 15. Qxg3 Qxg3+ 16. hxg3 Rc8 17. Nc3 f5 18. gxf5 exf5 19. Rh5
+g6 20. Rg5 O-O 21. Nxd5 Rc2 22. Rb1 Re8 23. Nf6+ Kf7 24. Nxe8 Kxe8 25. Bb5+
+Kf7 26. Kd1 Rg2 27. Ne2 Kf6 28. Nf4 Kxg5 29. Nxg2 f4 30. exf4+ Kg4 31. Rc1
+h5 32. Bd7+ Kxg3 33. Ne1 Kxf4 34. Rc6 g5 35. Rf6+ Ke4 36. Nc2 Kd3 37. Rf5
+g4 38. Rxh5 g3 39. Rh3 Ke4 40. Rxg3 Kf4 41. Rg4+ Kf3 42. a4 Kf2 43. a5 Kf3
+44. a6 Kf2 45. a7 Kf1 46. a8=Q Kf2 47. Qg2# 1-0
+

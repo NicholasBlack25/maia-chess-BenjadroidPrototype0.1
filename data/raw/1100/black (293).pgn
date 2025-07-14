@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.09"]
+[Round "-"]
+[White "satohorseman"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "671"]
+[BlackElo "627"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2025.01.09"]
+[UTCTime "22:33:55"]
+[Termination "satohorseman won by checkmate"]
+[CurrentPosition "3R4/p1kR2pp/1p2r3/1B3p2/8/NbP2N2/5BPP/6K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Maroczy-Variation-2...d5"]
+[StartTime "22:33:55"]
+[EndDate "2025.01.09"]
+[EndTime "22:40:46"]
+[Link "https://www.chess.com/game/live/122035876390"]
+
+1. e4 d5 2. d3 Nf6 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nxd4 6. Nxd4 Qe4+ 7. Qe2
+e5 8. Nf3 Bb4+ 9. c3 Bc5 10. Be3 Ng4 11. Bxc5 Nxf2 12. Qxe4 Nxe4 13. Nxe5
+b6 14. Bf2 Be6 15. Nf3 Nd6 16. Bb5+ c6 17. Bxc6+ Kd8 18. Bxa8 Nc4 19. O-O
+Re8 20. Na3 Nxb2 21. Rab1 Nd3 22. Rfd1 Bxa2 23. Rxd3+ Kc8 24. Rbd1 Bb3 25.
+R1d2 Kb8 26. Bc6 Re6 27. Rd8+ Kc7 28. Bb5 f5 29. R2d7# 1-0
+

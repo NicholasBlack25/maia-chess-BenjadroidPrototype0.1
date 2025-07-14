@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "emakemak"]
+[Result "0-1"]
+[WhiteElo "574"]
+[BlackElo "606"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.08.01"]
+[UTCTime "06:24:14"]
+[Termination "emakemak won by resignation"]
+[CurrentPosition "n7/1r6/4p3/4k3/2Kb4/p7/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "06:24:14"]
+[EndDate "2023.08.01"]
+[EndTime "06:35:22"]
+[Link "https://www.chess.com/game/live/84609855055"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. Bc4 Nc6 5. Qc3 Nxe4 6. Qxg7 Rf8 7. Qxh7
+Nf6 8. Qf5 d5 9. Bb5 Bxf5 10. Nf3 Bc5 11. Nh4 Qe7+ 12. Be2 Qe6 13. Nc3 Nd4
+14. f3 Nxc2+ 15. Kf1 Nxa1 16. Bd3 d4 17. Nxf5 dxc3 18. g4 cxb2 19. Bxb2 Rd8
+20. Ng7+ Ke7 21. Nxe6 fxe6 22. g5 Rxd3 23. gxf6+ Rxf6 24. Bxf6+ Kxf6 25.
+Rg1 Rxd2 26. Rg8 Kf7 27. Rc8 Rf2+ 28. Ke1 Bb6 29. Kd1 Rxh2 30. a4 Rh1+ 31.
+Ke2 Rh2+ 32. Kd3 Nb3 33. f4 Nc5+ 34. Kc4 Nd7 35. Rd8 Nf6 36. Rb8 Bg1 37.
+Rxb7 Rc2+ 38. Kd3 Rc6 39. a5 Nd5 40. Ke2 Nxf4+ 41. Kf1 Bd4 42. Ke1 Rc1+ 43.
+Kd2 Ra1 44. Rxc7+ Kf6 45. Rc8 Rxa5 46. Rf8+ Ke5 47. Kc2 Rc5+ 48. Kb3 Nd5
+49. Ra8 Rc3+ 50. Kb2 Rc7+ 51. Kb3 Rb7+ 52. Kc4 Nb6+ 53. Kd3 Nxa8 54. Kc4 a5
+55. Kd3 a4 56. Kc4 a3 0-1
+

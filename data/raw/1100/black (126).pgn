@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.16"]
+[Round "-"]
+[White "moreno1312"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "613"]
+[BlackElo "580"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.10.16"]
+[UTCTime "20:24:14"]
+[Termination "moreno1312 won by checkmate"]
+[CurrentPosition "2kr2nr/pbQ3pp/2n1N3/1p6/2p1NP2/1B1P4/PqP3PP/R3K2R b KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Queens-Knight-Variation"]
+[StartTime "20:24:14"]
+[EndDate "2023.10.16"]
+[EndTime "20:28:11"]
+[Link "https://www.chess.com/game/live/81896923920"]
+
+1. e4 e6 2. Nc3 d6 3. Bb5+ c6 4. Ba4 b5 5. Bb3 d5 6. f3 Bb7 7. d3 dxe4 8.
+Nxe4 Be7 9. Nh3 c5 10. Bg5 Bxg5 11. Nhxg5 Nc6 12. f4 Qd4 13. Qh5 O-O-O 14.
+Qxf7 c4 15. Nxe6 Qxb2 16. Qc7# 1-0
+

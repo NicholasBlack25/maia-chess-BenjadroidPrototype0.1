@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.01"]
+[Round "-"]
+[White "Narsish"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "591"]
+[BlackElo "572"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.07.01"]
+[UTCTime "10:18:12"]
+[Termination "Narsish won by checkmate"]
+[CurrentPosition "r4rk1/p1p3Qp/3b4/1p2B3/3P4/2P2N2/PP4PP/R3KR2 b Q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "10:18:12"]
+[EndDate "2023.07.01"]
+[EndTime "10:21:39"]
+[Link "https://www.chess.com/game/live/81945640919"]
+
+1. e4 e5 2. Qh5 d5 3. Qxe5+ Be7 4. exd5 Nf6 5. Bc4 Nc6 6. dxc6 bxc6 7. Na3
+Be6 8. Bxe6 fxe6 9. Qxe6 Qd4 10. Nf3 Qf4 11. Nb5 cxb5 12. d4 Ng4 13. Bxf4
+Nxf2 14. Rf1 Ng4 15. Qxg4 O-O 16. Be5 Bb4+ 17. c3 Bd6 18. Qxg7# 1-0
+

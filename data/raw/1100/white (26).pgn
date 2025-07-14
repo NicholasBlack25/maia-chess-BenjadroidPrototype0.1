@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.09"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "ranchison"]
+[Result "1-0"]
+[WhiteElo "713"]
+[BlackElo "743"]
+[ECO "A41"]
+[TimeControl "600"]
+[UTCDate "2024.02.09"]
+[UTCTime "17:44:26"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "k7/1Q6/2K5/8/8/8/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Tartakower-Variation"]
+[StartTime "17:44:26"]
+[EndDate "2024.02.09"]
+[EndTime "17:57:38"]
+[Link "https://www.chess.com/game/live/101239467989"]
+
+1. d4 d6 2. Nf3 c5 3. Bf4 Nc6 4. dxc5 dxc5 5. Nc3 f6 6. e4 e5 7. Bc4 exf4
+8. e5 fxe5 9. O-O Qxd1 10. Raxd1 Nb4 11. Nxe5 Nxc2 12. Nf7 Bg4 13. Rd5 f3
+14. Re5+ Be7 15. Nxh8 fxg2 16. Rc1 Nd4 17. Nd5 Nf3+ 18. Kxg2 Nxe5 19. Nxe7
+Nxc4 20. Rxc4 Nxe7 21. Rxg4 Kf8 22. h4 Kg8 23. Ng6 hxg6 24. f4 Rf8 25. a4
+a5 26. b3 b6 27. Kg3 Rf5 28. Kh3 Nd5 29. Kg3 Kf7 30. Kf3 Ke6 31. Rxg6+ Kf7
+32. Rd6 Rxf4+ 33. Kg3 Rd4 34. h5 Ne7 35. Rxb6 Rb4 36. Ra6 Rxb3+ 37. Kh4 Ra3
+38. Rxa5 Nf5+ 39. Kg5 c4 40. Rxf5+ Ke6 41. Ra5 c3 42. Kg6 c2 43. Rc5 Ra2
+44. a5 Kd6 45. Rc3 Ke5 46. Kxg7 Kf5 47. h6 Ke4 48. h7 Kd4 49. Rxc2 Rxc2 50.
+h8=Q Rg2+ 51. Kh6+ Ke4 52. a6 Rh2+ 53. Kg7 Rg2+ 54. Kh7 Kf5 55. a7 Rh2+ 56.
+Kg7 Rg2+ 57. Kf8 Ra2 58. Qh7+ Ke5 59. Qe7+ Kd4 60. Qd8+ Kc5 61. a8=Q Rxa8
+62. Qxa8 Kd6 63. Ke8 Kc7 64. Qd8+ Kc6 65. Qd7+ Kc5 66. Ke7 Kb6 67. Kd6 Ka5
+68. Kc5 Ka6 69. Qb5+ Ka7 70. Kc6 Ka8 71. Qb7# 1-0
+

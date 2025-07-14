@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.15"]
+[Round "-"]
+[White "bisonburger"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "691"]
+[BlackElo "706"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2023.12.15"]
+[UTCTime "00:34:53"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "5rk1/5p2/7p/p3P1p1/q7/5P1P/3R2PB/6K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Maroczy-Variation-2...d5"]
+[StartTime "00:34:53"]
+[EndDate "2023.12.15"]
+[EndTime "00:43:57"]
+[Link "https://www.chess.com/game/live/95759216450"]
+
+1. e4 d5 2. d3 Nf6 3. Nc3 e5 4. Nf3 Bc5 5. Bg5 h6 6. Bh4 g5 7. Bg3 Bg4 8.
+Be2 Nc6 9. h3 Bh5 10. Nxe5 d4 11. Nxc6 bxc6 12. Na4 Bb4+ 13. c3 dxc3 14.
+bxc3 Bxc3+ 15. Nxc3 Bxe2 16. Qxe2 Qd4 17. Qd2 O-O 18. O-O Nd5 19. Nxd5 cxd5
+20. Bxc7 dxe4 21. dxe4 Qxd2 22. Rfd1 Qc3 23. Rac1 Qf6 24. f3 a5 25. Bh2 Qb2
+26. a4 Rad8 27. e5 Rxd1+ 28. Rxd1 Qb3 29. Rd2 Qxa4 0-1
+

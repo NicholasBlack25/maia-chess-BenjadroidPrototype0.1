@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.01"]
+[Round "-"]
+[White "Judge1_1"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "585"]
+[BlackElo "604"]
+[ECO "C02"]
+[TimeControl "600"]
+[UTCDate "2023.07.01"]
+[UTCTime "10:08:24"]
+[Termination "Judge1_1 won by checkmate"]
+[CurrentPosition "r2k3r/p1R1Q1pp/4p3/B2pP3/p2q4/3b4/5PPP/5RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Advance-Variation"]
+[StartTime "10:08:24"]
+[EndDate "2023.07.01"]
+[EndTime "10:13:05"]
+[Link "https://www.chess.com/game/live/81945045621"]
+
+1. e4 d5 2. e5 e6 3. d4 c6 4. Qf3 f6 5. Qf4 Nd7 6. Bd3 fxe5 7. dxe5 Nc5 8.
+Be3 Nxd3+ 9. cxd3 Qa5+ 10. Nd2 Bb4 11. Ne2 Bxd2+ 12. Bxd2 Qb5 13. O-O Qxb2
+14. Nd4 b5 15. Nxc6 Kd7 16. Nd4 Ne7 17. Qg5 Ba6 18. a4 Qxd4 19. Rac1 bxa4
+20. Ba5 Bxd3 21. Rc7+ Kd8 22. Qxe7# 1-0
+

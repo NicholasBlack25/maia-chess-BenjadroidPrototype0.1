@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.21"]
+[Round "-"]
+[White "TooTriz"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "674"]
+[BlackElo "645"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.06.21"]
+[UTCTime "21:40:53"]
+[Termination "TooTriz won by checkmate"]
+[CurrentPosition "3k1R2/pb1r2pp/3P4/p7/2p3Q1/2P1B3/P7/RN4K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5-Nc6-3.Nf3"]
+[StartTime "21:40:53"]
+[EndDate "2023.06.21"]
+[EndTime "21:48:13"]
+[Link "https://www.chess.com/game/live/81122574775"]
+
+1. d4 Nc6 2. Nf3 e5 3. dxe5 f6 4. exf6 Nxf6 5. g3 Bb4+ 6. c3 Bc5 7. Qb3 Ne4
+8. e3 Na5 9. Qb5 b6 10. Qd3 Rf8 11. Bg2 Qe7 12. O-O Qe6 13. b4 Bd6 14. bxa5
+bxa5 15. h4 Bxg3 16. fxg3 Nxg3 17. Re1 Qg4 18. e4 Rxf3 19. Bxf3 Qxh4 20. e5
+Qh1+ 21. Bxh1 Nxh1 22. Kxh1 Bb7+ 23. Kg1 O-O-O 24. Be3 d6 25. Qd4 c5 26.
+Qg4+ Rd7 27. exd6 c4 28. Rf1 Kd8 29. Rf8# 1-0
+

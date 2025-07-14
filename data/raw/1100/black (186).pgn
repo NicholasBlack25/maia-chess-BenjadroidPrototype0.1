@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.04"]
+[Round "-"]
+[White "Air1311"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "626"]
+[BlackElo "640"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.06.04"]
+[UTCTime "07:06:29"]
+[Termination "BenjaminVega10 won on time"]
+[CurrentPosition "r3kb1r/p1p2ppp/1p1p4/4p3/2P3b1/BP1nq3/PK6/RQ6 w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense"]
+[StartTime "07:06:29"]
+[EndDate "2023.06.04"]
+[EndTime "07:19:56"]
+[Link "https://www.chess.com/game/live/79601411567"]
+
+1. Nc3 e5 2. e4 Nc6 3. Nb5 d6 4. d4 Nf6 5. Bd2 Nxe4 6. d5 Nd4 7. Ba5 Nxb5
+8. Bxb5+ Bd7 9. Bd3 Nc5 10. Bc4 b6 11. Bb4 Na4 12. Qb1 Qg5 13. Nf3 Qxg2 14.
+Rg1 Qxf3 15. Rg3 Qe4+ 16. Re3 Qxc4 17. c3 Qxd5 18. c4 Qh1+ 19. Ke2 Qxh2 20.
+b3 Nc5 21. Ba3 Bg4+ 22. Kd2 Qxf2+ 23. Kc3 Qxe3+ 24. Kb2 Nd3+ 0-1
+

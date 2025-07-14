@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "70962150102938gkl"]
+[Result "0-1"]
+[WhiteElo "686"]
+[BlackElo "688"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.12.03"]
+[UTCTime "05:26:19"]
+[Termination "70962150102938gkl won by checkmate"]
+[CurrentPosition "r4rk1/2Q1b1pp/5p2/p1P5/1n1P3P/5N2/PPqB4/2KR2R1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense"]
+[StartTime "05:26:19"]
+[EndDate "2023.12.03"]
+[EndTime "05:32:39"]
+[Link "https://www.chess.com/game/live/94181646288"]
+
+1. e4 Nc6 2. f4 d5 3. Nc3 dxe4 4. Nxe4 Nd4 5. c3 Bf5 6. Bd3 Bxe4 7. Bxe4
+Ne6 8. f5 Nf4 9. Qb3 Nd3+ 10. Bxd3 Qxd3 11. Qxb7 Qd8 12. d4 e6 13. g4 Nf6
+14. h3 exf5 15. gxf5 Nd5 16. Nf3 Be7 17. Bg5 O-O 18. h4 f6 19. Bd2 Qd6 20.
+O-O-O a5 21. c4 Nb4 22. c5 Qd7 23. Rhg1 Qxf5 24. Qxc7 Qc2# 0-1
+

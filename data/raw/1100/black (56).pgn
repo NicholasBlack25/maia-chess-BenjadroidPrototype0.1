@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.06"]
+[Round "-"]
+[White "jeweldavies"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "682"]
+[BlackElo "684"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.12.06"]
+[UTCTime "07:50:28"]
+[Termination "jeweldavies won by checkmate"]
+[CurrentPosition "8/7R/8/4Np1k/6p1/4p1PN/4rPKP/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening"]
+[StartTime "07:50:28"]
+[EndDate "2023.12.06"]
+[EndTime "08:02:39"]
+[Link "https://www.chess.com/game/live/94206985338"]
+
+1. e3 f6 2. Qh5+ g6 3. Qd5 e6 4. Qb3 Nc6 5. g3 d5 6. Bg2 Na5 7. Qb5+ c6 8.
+Qe2 Ne7 9. b3 b5 10. Bb2 Bg7 11. e4 Qd6 12. exd5 Qc5 13. dxc6 Naxc6 14. Nh3
+Qxc2 15. d3 Qxe2+ 16. Kxe2 Bb7 17. Kf1 Nd5 18. Nd2 Ndb4 19. a3 Nc2 20. Rc1
+N6d4 21. Bxb7 Rd8 22. Kg2 O-O 23. Bxd4 Rxd4 24. Rxc2 Rxd3 25. Be4 Rd4 26.
+Bf3 Bh6 27. Ne4 f5 28. Nc5 Rc8 29. b4 Bd2 30. Rd1 e5 31. Rdxd2 Rxd2 32.
+Rxd2 e4 33. Be2 a5 34. Nd7 Rc3 35. bxa5 Rxa3 36. Nf6+ Kg7 37. Ne8+ Kh6 38.
+Nc7 b4 39. Rb2 b3 40. Nb5 Rxa5 41. Rxb3 Ra2 42. Nd6 Rxe2 43. Nc4 g5 44.
+Rb6+ Kh5 45. Ne5 e3 46. Rb7 g4 47. Rxh7# 1-0
+

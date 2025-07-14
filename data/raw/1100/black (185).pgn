@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.04"]
+[Round "-"]
+[White "zorojojo"]
+[Black "BenjaminVega10"]
+[Result "1/2-1/2"]
+[WhiteElo "662"]
+[BlackElo "626"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.04"]
+[UTCTime "06:53:57"]
+[Termination "Game drawn by insufficient material"]
+[CurrentPosition "8/8/2K5/8/8/8/7k/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "06:53:57"]
+[EndDate "2023.06.04"]
+[EndTime "07:05:57"]
+[Link "https://www.chess.com/game/live/79600771299"]
+
+1. e4 d5 2. Bd3 dxe4 3. Bxe4 Nf6 4. Bf3 Bg4 5. Bxg4 Nxg4 6. Qxg4 e6 7. Qf3
+Nc6 8. Ne2 Ne5 9. Qxb7 Rb8 10. Qxa7 Bb4 11. O-O Nc4 12. Qd4 Qxd4 13. Nxd4
+Rd8 14. c3 Bc5 15. d3 Ne5 16. Rd1 O-O 17. b4 Bb6 18. Na3 g5 19. Nab5 g4 20.
+Bf4 h5 21. Bxe5 c5 22. bxc5 Bxc5 23. Nc6 Rd5 24. Ne7+ Bxe7 25. Re1 f6 26.
+Nc7 Rxd3 27. Bd4 e5 28. Rad1 Rxd1 29. Rxd1 exd4 30. Ne6 Re8 31. Nxd4 Bc5
+32. Nf5 Re2 33. Nd4 Rxa2 34. Kf1 Ra3 35. Ne2 f5 36. Rd5 Ba7 37. Rxf5 h4 38.
+Rg5+ Kf7 39. Rxg4 Ra1+ 40. Nc1 Rxc1+ 41. Ke2 Rc2+ 42. Kd3 Rxf2 43. Rxh4
+Rxg2 44. Rh7+ Rg7 45. Rxg7+ Kxg7 46. c4 Kg6 47. Ke4 Kh5 48. Kd5 Kh4 49. c5
+Bxc5 50. Kxc5 Kh3 51. Kc6 Kxh2 1/2-1/2
+

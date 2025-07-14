@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.26"]
+[Round "-"]
+[White "gordon_ramsey1"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "665"]
+[BlackElo "613"]
+[ECO "C41"]
+[TimeControl "600"]
+[UTCDate "2023.06.26"]
+[UTCTime "18:16:48"]
+[Termination "gordon_ramsey1 won by checkmate"]
+[CurrentPosition "B7/4Q3/6k1/2K3Q1/6p1/8/8/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Nimzowitsch-Variation-4.Nc3"]
+[StartTime "18:16:48"]
+[EndDate "2023.06.26"]
+[EndTime "18:30:55"]
+[Link "https://www.chess.com/game/live/81542510981"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d6 4. d4 Nc6 5. d5 Nb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bb5+ c6 9. dxc6 bxc6 10. Bxc6+ Bd7 11. Bxa8 Qg6 12. g3 f6 13. Nh4 Qg5 14.
+Nf5 g6 15. Nxd6+ Bxd6 16. Qxd6 Nxc2+ 17. Ke2 Qh5+ 18. Kf1 Nxa1 19. Qb8+ Ke7
+20. Qxh8 Bh3+ 21. Ke1 Nc2+ 22. Kd2 Qf3 23. Rd1 Qxf2+ 24. Kd3 Ne3 25. Qxh6
+Bf1+ 26. Ne2 Qxe2+ 27. Kc3 Nxd1+ 28. Kb4 Qxb2+ 29. Kc5 Qxa2 30. Qg7+ Ke6
+31. Qg8+ Ke7 32. Qxa2 Nc3 33. Qxa7+ Ke6 34. Qb6+ Kf7 35. Qb3+ Nd5 36. Qxd5+
+Kg7 37. h4 g5 38. hxg5 fxg5 39. Qxe5+ Kg6 40. Qe6+ Kh5 41. Qf7+ Kg4 42.
+Qxf1 Kxg3 43. e5 Kg4 44. e6 Kh5 45. e7 g4 46. e8=Q+ Kh4 47. Qh1+ Kg3 48.
+Qee1+ Kf4 49. Qee4+ Kg5 50. Qe5+ Kg6 51. Qhe4+ Kf7 52. Q5f4+ Kg7 53. Qe7+
+Kg6 54. Qfg5# 1-0
+

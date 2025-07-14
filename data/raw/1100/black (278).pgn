@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.02"]
+[Round "-"]
+[White "Chill_floyd"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "601"]
+[BlackElo "534"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2021.03.02"]
+[UTCTime "12:57:18"]
+[Termination "Chill_floyd won by checkmate"]
+[CurrentPosition "R2Rk3/1Q3pp1/1B2p1r1/1B4qp/2P5/8/5PP1/6K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation-3.e3"]
+[StartTime "12:57:18"]
+[EndDate "2021.03.02"]
+[EndTime "13:07:48"]
+[Link "https://www.chess.com/game/live/8428994427"]
+
+1. d4 d5 2. e3 Nc6 3. Nf3 e6 4. Nc3 Bb4 5. e4 dxe4 6. Ne5 Nxe5 7. dxe5 Qh4
+8. Qd4 Bxc3+ 9. Qxc3 Qg5 10. Qxc7 Qf5 11. Bb5+ Bd7 12. Qxb7 Rd8 13. h4 e3
+14. Bxe3 Qxe5 15. O-O Qxb2 16. c4 Nf6 17. Bxa7 Ne4 18. Bb6 Nc3 19. Ba6 Nxa2
+20. Rfb1 Qf6 21. Rxa2 Qxh4 22. Bb5 h5 23. Rd1 Rh6 24. Rxd7 Rg6 25. Ra8 Qg5
+26. Rdxd8# 1-0
+

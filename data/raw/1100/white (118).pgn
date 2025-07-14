@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.24"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "awesomeseoul"]
+[Result "0-1"]
+[WhiteElo "688"]
+[BlackElo "682"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.11.24"]
+[UTCTime "09:03:07"]
+[Termination "awesomeseoul won by checkmate"]
+[CurrentPosition "2k4r/2p5/p6p/2P3K1/P5P1/2R1Pq2/7r/QbB5 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Alburt-Defense"]
+[StartTime "09:03:07"]
+[EndDate "2023.11.24"]
+[EndTime "09:10:22"]
+[Link "https://www.chess.com/game/live/94106311002"]
+
+1. d4 d5 2. Nc3 Bf5 3. e3 e6 4. Nf3 Nc6 5. Bd3 Qf6 6. Bb5 Ne7 7. Nxd5 exd5
+8. c3 a6 9. Qb3 O-O-O 10. O-O Ng6 11. Bxc6 bxc6 12. a4 Bd3 13. Re1 Qf5 14.
+Ra3 Bc2 15. Qa2 Bb1 16. Qa1 Qc2 17. b4 c5 18. bxc5 Ne5 19. Nxe5 Bxc5 20.
+dxc5 d4 21. Nxf7 dxc3 22. Rxc3 Rd1 23. g4 Rxe1+ 24. Kg2 Qe4+ 25. f3 Re2+
+26. Kh3 Qxf3+ 27. Kh4 Rxh2+ 28. Kg5 h6+ 29. Nxh6 gxh6# 0-1
+

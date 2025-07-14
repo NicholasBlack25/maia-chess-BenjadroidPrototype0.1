@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.15"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "leonidh14"]
+[Result "0-1"]
+[WhiteElo "653"]
+[BlackElo "686"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.11.15"]
+[UTCTime "19:12:14"]
+[Termination "leonidh14 won by checkmate"]
+[CurrentPosition "4k2r/p1p2ppp/5n2/8/8/4P3/P3rPPP/4qK1R w k -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[StartTime "19:12:14"]
+[EndDate "2023.11.15"]
+[EndTime "19:15:09"]
+[Link "https://www.chess.com/game/live/82172253274"]
+
+1. d4 d5 2. e3 Nc6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. Nb5
+cxb5 8. Bxb5+ Bd7 9. Qd3 Rb8 10. Ba4 Bxa4 11. b3 Bb5 12. c4 dxc4 13. bxc4
+Qxd3 14. cxb5 Rxb5 15. Bd2 Rb2 16. Rd1 Bb4 17. Bxb4 Re2+ 18. Kf1 Qxd1+ 19.
+Be1 Qxe1# 0-1
+

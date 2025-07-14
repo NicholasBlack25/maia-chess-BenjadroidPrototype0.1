@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "-"]
+[White "JakeAndux11"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "1282"]
+[BlackElo "400"]
+[ECO "C40"]
+[TimeControl "600"]
+[UTCDate "2021.01.08"]
+[UTCTime "22:46:01"]
+[Termination "BenjaminVega10 won on time"]
+[CurrentPosition "4Q3/p4r1p/3p1k1p/2b5/8/6R1/PPP1N2q/1K2R3 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation"]
+[StartTime "22:46:01"]
+[EndDate "2021.01.08"]
+[EndTime "23:01:52"]
+[Link "https://www.chess.com/game/live/6181570046"]
+
+1. e4 e5 2. Nf3 Bd6 3. Nc3 Bc5 4. Nxe5 d6 5. Nf3 Nc6 6. d4 Nxd4 7. Nxd4 Nh6
+8. Bb5+ c6 9. Nxc6 bxc6 10. Bxc6+ Bd7 11. Bxa8 Qxa8 12. Bxh6 gxh6 13. Qf3
+f5 14. exf5 Bc6 15. Qe2+ Kf7 16. Qe6+ Kg7 17. f6+ Kg6 18. f7+ Kg7 19. f3
+Qb8 20. O-O-O Rf8 21. Rhe1 Rxf7 22. Qg4+ Kf8 23. Rd2 Qb7 24. Qe6 Bxf3 25.
+Qe8+ Kg7 26. gxf3 Qxf3 27. Rg1+ Kf6 28. Qd8+ Ke5 29. Rd3 Qf4+ 30. Kb1 Qxh2
+31. Re1+ Kf4 32. Ne2+ Ke5 33. Qe8+ Kf6 34. Rf3+ Kg7 35. Rg3+ Kf6 0-1
+

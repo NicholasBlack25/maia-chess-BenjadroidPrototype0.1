@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.04.10"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "vampstj"]
+[Result "1-0"]
+[WhiteElo "738"]
+[BlackElo "703"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:25:21"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "1Q6/R7/k7/3b1p2/4p3/6P1/5K1P/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation"]
+[StartTime "17:25:21"]
+[EndDate "2024.04.10"]
+[EndTime "17:35:17"]
+[Link "https://www.chess.com/game/live/106508887099"]
+
+1. d4 d5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bf4 Bf5 5. Ne5 Nxe5 6. dxe5 Ng8 7. e4
+dxe4 8. Qh5 e6 9. Rd1 Qe7 10. Bb5+ c6 11. Ba4 b5 12. Nxb5 cxb5 13. Bxb5+
+Qd7 14. Bxd7+ Ke7 15. Qg5+ f6 16. exf6+ gxf6 17. Bd6+ Kxd7 18. Bxf8+ Ke8
+19. Qg7 Rd8 20. Qxh8 e3 21. Qxg8 exf2+ 22. Kxf2 Rxd1 23. Qf7+ Kxf7 24. Rxd1
+Kxf8 25. c4 e5 26. c5 e4 27. Rd5 Be6 28. Rh5 Kg7 29. b4 h6 30. a4 Kg6 31.
+Rh4 Kg5 32. g3 f5 33. b5 Bd5 34. b6 axb6 35. cxb6 h5 36. a5 Kf6 37. a6 Ke6
+38. Rxh5 Kd6 39. b7 Kc7 40. Rh7+ Kb6 41. b8=Q+ Kxa6 42. Ra7# 1-0
+

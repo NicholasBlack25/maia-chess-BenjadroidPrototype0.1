@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.09.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "cesiah0219"]
+[Result "0-1"]
+[WhiteElo "582"]
+[BlackElo "618"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.09.03"]
+[UTCTime "01:18:25"]
+[Termination "cesiah0219 won by checkmate"]
+[CurrentPosition "3Kb3/3q1k2/8/8/8/8/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening"]
+[StartTime "01:18:25"]
+[EndDate "2023.09.03"]
+[EndTime "01:29:05"]
+[Link "https://www.chess.com/game/live/81522873788"]
+
+1. d4 h6 2. e4 g5 3. Bc4 a6 4. Qh5 e6 5. d5 Nf6 6. e5 Nxh5 7. dxe6 fxe6 8.
+Nc3 Bb4 9. a3 Bxc3+ 10. bxc3 Nc6 11. Nf3 Rf8 12. O-O g4 13. Nd4 Nxd4 14.
+cxd4 Ng7 15. f3 g3 16. hxg3 h5 17. Bh6 h4 18. gxh4 Qxh4 19. Bxg7 Rg8 20. g3
+Qxg3+ 21. Kh1 Qxg7 22. Rg1 Qxg1+ 23. Rxg1 Rxg1+ 24. Kxg1 d5 25. Bd3 Bd7 26.
+f4 Kf7 27. Bg6+ Kxg6 28. Kg2 Kf5 29. Kf3 Rg8 30. c3 Rg3+ 31. Kxg3 b6 32.
+Kf3 c5 33. dxc5 bxc5 34. a4 Bxa4 35. Ke3 Bc6 36. Kd3 Kxf4 37. c4 Kxe5 38.
+Kc3 d4+ 39. Kd3 a5 40. Kd2 a4 41. Kc2 Be4+ 42. Kb2 Bg6 43. Ka3 d3 44. Kxa4
+d2 45. Kb5 Kd6 46. Kb6 Ke5 47. Kxc5 d1=Q 48. Kb5 Qc1 49. c5 Be4 50. Kb6 Kf5
+51. Kb5 Bd3+ 52. Kb6 e5 53. c6 e4 54. c7 e3 55. Kb7 e2 56. c8=Q+ Qxc8+ 57.
+Kxc8 e1=Q 58. Kc7 Qc3+ 59. Kd7 Qg7+ 60. Kd6 Qe5+ 61. Kd7 Kf6 62. Kc6 Ke6
+63. Kb7 Qd6 64. Ka7 Qa6+ 65. Kb8 Bg6 66. Kc7 Be8 67. Kd8 Kf7 68. Kc7 Qc6+
+69. Kd8 Qd7# 0-1
+

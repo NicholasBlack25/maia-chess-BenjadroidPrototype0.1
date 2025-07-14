@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "PuchukPuchuk9"]
+[Result "1-0"]
+[WhiteElo "748"]
+[BlackElo "737"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.01"]
+[UTCTime "04:03:29"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "3q2nr/pp2kppp/4p3/1B1pP3/1Q6/3KP3/PP4rP/7R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation-3.Bf4-Bf5"]
+[StartTime "04:03:29"]
+[EndDate "2024.01.01"]
+[EndTime "04:07:00"]
+[Link "https://www.chess.com/game/live/97820958263"]
+
+1. d4 d5 2. Nf3 Bf5 3. Bf4 Nc6 4. Nc3 e6 5. Nb5 Bd6 6. Bxd6 cxd6 7. e3 Nb4
+8. Na3 Rc8 9. Bb5+ Ke7 10. Ne5 Bxc2 11. Nxc2 Nxc2+ 12. Ke2 Nxa1 13. Qxa1
+dxe5 14. dxe5 Rc2+ 15. Kd3 Rxf2 16. Qe1 Rxg2 17. Qb4+ 1-0
+

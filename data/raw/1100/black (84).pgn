@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.06"]
+[Round "-"]
+[White "Epi_joseluis"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "528"]
+[BlackElo "577"]
+[ECO "B07"]
+[TimeControl "600"]
+[UTCDate "2023.11.06"]
+[UTCTime "22:22:22"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "4r3/5R1p/2k5/6p1/8/1P2P1P1/P4K1P/r7 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense"]
+[StartTime "22:22:22"]
+[EndDate "2023.11.06"]
+[EndTime "22:35:34"]
+[Link "https://www.chess.com/game/live/82092252706"]
+
+1. e4 d6 2. Qf3 Nf6 3. Bc4 Nc6 4. Nc3 Nd4 5. Qd3 c5 6. b3 Ng4 7. Ba3 Nxf2
+8. Kxf2 e5 9. Rf1 Qh4+ 10. g3 Qf6+ 11. Ke1 Nxc2+ 12. Qxc2 Qe7 13. Nf3 Bg4
+14. Qd3 O-O-O 15. Qd5 Be6 16. Qd3 d5 17. Bxd5 Bxd5 18. exd5 c4 19. Qxc4+
+Kb8 20. Bxe7 Bxe7 21. d6 Bxd6 22. Qxf7 e4 23. Nd4 e3 24. dxe3 Rhe8 25. Rf3
+Bb4 26. Ne2 Kc8 27. Qf5+ Rd7 28. Kf2 Bxc3 29. Qc5+ Kd8 30. Qxc3 g5 31. Qa5+
+b6 32. Qxa7 Rxa7 33. Rd1+ Rd7 34. Nd4 b5 35. Nxb5 Rxd1 36. Nd4 Ra1 37. Nc6+
+Kc7 38. Rf7+ Kxc6 0-1
+

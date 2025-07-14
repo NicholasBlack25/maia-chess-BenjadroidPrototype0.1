@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.26"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Peace_In"]
+[Result "0-1"]
+[WhiteElo "526"]
+[BlackElo "705"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2021.02.26"]
+[UTCTime "13:07:27"]
+[Termination "Peace_In won by checkmate"]
+[CurrentPosition "8/6pk/R6p/8/P6P/8/1r6/3r1K2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense"]
+[StartTime "13:07:27"]
+[EndDate "2021.02.26"]
+[EndTime "13:23:35"]
+[Link "https://www.chess.com/game/live/8083996665"]
+
+1. d4 Nc6 2. Nc3 e6 3. d5 exd5 4. Nxd5 Nce7 5. Nxe7 Bxe7 6. Nf3 Nf6 7. e3
+d5 8. c4 Bb4+ 9. Nd2 Ne4 10. g3 Nxd2 11. Bxd2 Bxd2+ 12. Qxd2 Bg4 13. f3
+Bxf3 14. Rg1 O-O 15. cxd5 c6 16. Qb4 Re8 17. Qxb7 Qc8 18. Qb3 cxd5 19. Bg2
+Be4 20. Rf1 Bxg2 21. h4 Bxf1 22. Kxf1 Rb8 23. Qxd5 Rd8 24. Qg5 h6 25. Qh5
+Qe6 26. Rc1 Qxe3 27. Rc7 Qxg3 28. Qxf7+ Kh7 29. Qf5+ Qg6 30. Qxg6+ Kxg6 31.
+Rxa7 Rxb2 32. Ra6+ Kh7 33. a4 Rd1# 0-1
+

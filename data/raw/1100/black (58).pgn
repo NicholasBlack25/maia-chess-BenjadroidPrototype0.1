@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.06"]
+[Round "-"]
+[White "joaquimornelas"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "604"]
+[BlackElo "683"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.12.06"]
+[UTCTime "19:05:45"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/8/1kp3Q1/1p3p2/5q2/7P/6P1/1r4K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "19:05:45"]
+[EndDate "2023.12.06"]
+[EndTime "19:20:41"]
+[Link "https://www.chess.com/game/live/94211780474"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Qe7 4. Qf4 Nc6 5. Nc3 d5 6. e5 Nh5 7. Qf3 Nxe5
+8. Qxd5 Nf4 9. Qb5+ c6 10. Qc4 Be6 11. Qa4 O-O-O 12. Qxa7 Nc4 13. Bxc4
+Bxc4+ 14. Nge2 Nxe2 15. Nxe2 Re8 16. O-O Bxe2 17. Re1 g6 18. Qd4 f6 19. b3
+Rd8 20. Qe3 Qe5 21. Qxe2 Qxa1 22. Qg4+ f5 23. Qf4 Qxa2 24. d3 Qxc2 25. Qe5
+Bb4 26. Bf4 Bd6 27. Qd4 Bxf4 28. Qxf4 Rhe8 29. h3 Rxe1+ 30. Kh2 Rxd3 31.
+Qb4 Rxb3 32. Qxe1 b5 33. Qe6+ Kb7 34. Qf7+ Kb6 35. Qxh7 Qxf2 36. Qxg6 Qf4+
+37. Kg1 Rb1# 0-1
+

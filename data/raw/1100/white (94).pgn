@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "zavamister"]
+[Result "1-0"]
+[WhiteElo "570"]
+[BlackElo "585"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.11.06"]
+[UTCTime "22:19:58"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "rn1qk1Q1/p1ppp2p/1p4p1/5p2/8/8/PPP1NK1P/RNB4b b q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Mieses-Opening-1...g6"]
+[StartTime "22:19:58"]
+[EndDate "2023.11.06"]
+[EndTime "22:22:13"]
+[Link "https://www.chess.com/game/live/82092238048"]
+
+1. d3 g6 2. e3 Bg7 3. d4 b6 4. Bc4 Bb7 5. e4 Bxe4 6. Qg4 f5 7. Qg3 Bxd4 8.
+Qb3 Bxg2 9. Ne2 Bxf2+ 10. Kxf2 Bxh1 11. Bxg8 Rxg8 12. Qxg8# 1-0
+

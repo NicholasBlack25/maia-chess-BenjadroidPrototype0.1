@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.31"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "ericbaines55"]
+[Result "1-0"]
+[WhiteElo "494"]
+[BlackElo "445"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.05.31"]
+[UTCTime "00:36:06"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "8/2Q3p1/3R1k2/4Np2/P4P1p/b3P3/4K1PP/5B1n b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...c6"]
+[StartTime "00:36:06"]
+[EndDate "2023.05.31"]
+[EndTime "00:45:46"]
+[Link "https://www.chess.com/game/live/79232463787"]
+
+1. d4 d5 2. Nc3 c6 3. f4 Nf6 4. e3 h5 5. Nf3 Qa5 6. Bd2 e6 7. Ng5 Nbd7 8.
+Ne2 c5 9. Bxa5 b6 10. dxc5 bxa5 11. Nd4 Nxc5 12. Nb5 Rb8 13. Qe2 Nfe4 14.
+Nxe4 Nxe4 15. Nxa7 Bb7 16. c3 f5 17. Qb5+ Kf7 18. Qxa5 Bc6 19. Nxc6 Rxb2
+20. O-O-O Rb7 21. Ne5+ Ke7 22. Qa3+ Kf6 23. Qa6 Rf7 24. a4 Ba3+ 25. Kc2 Rb8
+26. Kd3 Nf2+ 27. Ke2 Nxh1 28. Qd3 Rb2+ 29. Rd2 Rb1 30. c4 Rc7 31. cxd5 Ke7
+32. dxe6 Kxe6 33. Qxb1 h4 34. Qb6+ Ke7 35. Qxc7+ Kf6 36. Rd6+ 1-0
+

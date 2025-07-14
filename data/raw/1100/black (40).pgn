@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.13"]
+[Round "-"]
+[White "halperin97"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "726"]
+[BlackElo "715"]
+[ECO "D20"]
+[TimeControl "600"]
+[UTCDate "2024.01.13"]
+[UTCTime "09:38:40"]
+[Termination "halperin97 won by resignation"]
+[CurrentPosition "5r2/4R2k/6p1/3Q3p/P1p5/8/7P/7K b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Accepted-Old-Variation"]
+[StartTime "09:38:40"]
+[EndDate "2024.01.13"]
+[EndTime "09:49:13"]
+[Link "https://www.chess.com/game/live/98877843951"]
+
+1. d4 d5 2. c4 dxc4 3. e3 c6 4. Bxc4 Qa5+ 5. Bd2 Qb6 6. b4 e6 7. a4 a5 8.
+bxa5 Qb2 9. Nc3 Bb4 10. Nge2 c5 11. Rb1 Qa3 12. O-O Rxa5 13. Qc2 cxd4 14.
+Ra1 Qxa1 15. Rxa1 dxc3 16. Bxc3 Bxc3 17. Qxc3 Nc6 18. Nd4 Rg5 19. Nxc6 bxc6
+20. Rb1 Ne7 21. Be2 O-O 22. f4 Rg6 23. Qd3 c5 24. Qc4 e5 25. f5 Nxf5 26. e4
+Ne3 27. Qd3 Rxg2+ 28. Kh1 Bg4 29. Re1 f5 30. Qxe3 fxe4 31. Qxe4 h5 32. Qxg2
+Bxe2 33. Qxe2 g6 34. Qxe5 c4 35. Qd5+ Kh7 36. Re7+ 1-0
+

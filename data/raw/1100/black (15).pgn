@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.17"]
+[Round "-"]
+[White "venkat890113"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "717"]
+[BlackElo "713"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2024.03.17"]
+[UTCTime "11:25:44"]
+[Termination "venkat890113 won by resignation"]
+[CurrentPosition "4Q3/8/8/pp3kB1/8/4PP1P/PP4P1/R2R2K1 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Nf6-3.e3"]
+[StartTime "11:25:44"]
+[EndDate "2024.03.17"]
+[EndTime "11:32:59"]
+[Link "https://www.chess.com/game/live/104413814421"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Nfd7 4. Bg3 f6 5. Bd3 e5 6. dxe5 fxe5 7. Nc3 Nc6
+8. Nxd5 Nc5 9. Nf3 Qxd5 10. Bg6+ hxg6 11. Qxd5 Bg4 12. Nxe5 Nxe5 13. Qxe5+
+Ne6 14. h3 Bh5 15. Qxe6+ Be7 16. Bxc7 g5 17. O-O Bf7 18. Qe5 a5 19. Qxg7
+Rh4 20. Qe5 Rc4 21. Bd6 O-O-O 22. Qxe7 Bd5 23. Qxg5 Rxc2 24. Qf5+ Rd7 25.
+Qxc2+ Bc6 26. Bf4 Rg7 27. f3 b5 28. Qxc6+ Kd8 29. Qf6+ Re7 30. Qf8+ Re8 31.
+Bg5+ Kd7 32. Rfd1+ Ke6 33. Qxe8+ Kf5 1-0
+

@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "andrzejkot"]
+[Result "1/2-1/2"]
+[WhiteElo "400"]
+[BlackElo "400"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2021.01.08"]
+[UTCTime "21:18:02"]
+[Termination "Game drawn by stalemate"]
+[CurrentPosition "8/4P3/8/Q7/7k/5P2/PPK3PP/R1B2B1R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Anti-Torre-Attack-3.Ne5"]
+[StartTime "21:18:02"]
+[EndDate "2021.01.08"]
+[EndTime "21:26:26"]
+[Link "https://www.chess.com/game/live/6180867811"]
+
+1. d4 d5 2. Nf3 Bg4 3. Ne5 f6 4. Nxg4 Qd6 5. Nc3 a5 6. Nb5 Ra6 7. Na3 Rb6
+8. e3 c5 9. Nb5 Qe6 10. Nc7+ Kd8 11. Nxe6+ Rxe6 12. dxc5 h5 13. Qxd5+ Rd6
+14. Qxb7 Rd1+ 15. Kxd1 Rh6 16. Qxb8+ Kd7 17. Qxf8 Rg6 18. Qxg8 Rxg4 19.
+Qd5+ Kc7 20. Qxh5 Re4 21. Qh7 Rf4 22. f3 Rc4 23. Qxg7 Rxc2 24. Qxe7+ Kc6
+25. Qxf6+ Kxc5 26. Qf8+ Kd5 27. Qa8+ Ke5 28. Qxa5+ Ke6 29. Kxc2 Kf6 30. e4
+Kg6 31. e5 Kh5 32. e6+ Kh4 33. e7 1/2-1/2
+

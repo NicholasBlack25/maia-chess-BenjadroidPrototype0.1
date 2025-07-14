@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.25"]
+[Round "-"]
+[White "Jasonwlf"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "608"]
+[BlackElo "596"]
+[ECO "A04"]
+[TimeControl "600"]
+[UTCDate "2025.03.25"]
+[UTCTime "21:08:30"]
+[Termination "Jasonwlf won by resignation"]
+[CurrentPosition "1r3rk1/ppN3pp/4bp2/3Q4/5BP1/P4P2/4P3/R3KB1R w KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening"]
+[StartTime "21:08:30"]
+[EndDate "2025.03.25"]
+[EndTime "21:12:45"]
+[Link "https://www.chess.com/game/live/136671442600"]
+
+1. Nf3 e5 2. h3 Nc6 3. g4 Bc5 4. a3 d5 5. b4 Bd4 6. c3 Bb6 7. d4 exd4 8.
+Bg5 f6 9. Bf4 dxc3 10. Nxc3 Nh6 11. b5 Nd4 12. Nxd4 Bxd4 13. Qxd4 Nxg4 14.
+f3 Qd7 15. hxg4 Qxb5 16. Nxb5 O-O 17. Nxc7 Rb8 18. Qxd5+ Be6 1-0
+

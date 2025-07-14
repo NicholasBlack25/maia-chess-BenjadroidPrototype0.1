@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.26"]
+[Round "-"]
+[White "METAL828"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "604"]
+[BlackElo "612"]
+[ECO "A04"]
+[TimeControl "600"]
+[UTCDate "2023.06.26"]
+[UTCTime "07:06:12"]
+[Termination "METAL828 won by checkmate"]
+[CurrentPosition "3krr2/pQ3p1p/3p3q/B7/3P1Np1/P5P1/1P6/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Quiet-System-2...d5"]
+[StartTime "07:06:12"]
+[EndDate "2023.06.26"]
+[EndTime "07:17:11"]
+[Link "https://www.chess.com/game/live/81502257827"]
+
+1. Nf3 d5 2. e3 Nf6 3. h3 Nc6 4. d4 Bf5 5. Nc3 Nb4 6. Bd3 Bxd3 7. cxd3 e6
+8. a3 Nc6 9. O-O Bd6 10. Ne2 Nh5 11. Bd2 e5 12. Nxe5 Nxe5 13. dxe5 Bxe5 14.
+d4 Bd6 15. Qc2 Qf6 16. Qd3 g5 17. e4 g4 18. h4 Qxh4 19. g3 Nxg3 20. fxg3
+Qh3 21. Qe3 O-O-O 22. e5 Rde8 23. Nf4 Qh6 24. Qf3 Rhg8 25. Qxd5 Rgf8 26.
+exd6 Kd7 27. Bb4 cxd6 28. Qxb7+ Kd8 29. Ba5# 1-0
+

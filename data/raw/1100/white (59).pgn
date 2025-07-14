@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.31"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "chasillious"]
+[Result "1-0"]
+[WhiteElo "703"]
+[BlackElo "681"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.31"]
+[UTCTime "17:44:47"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "4r1k1/p4pQp/6pB/2q2p2/8/2P5/P3rPPP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Symmetrical-Variation-3.c3-Bf5"]
+[StartTime "17:44:47"]
+[EndDate "2024.01.31"]
+[EndTime "17:54:22"]
+[Link "https://www.chess.com/game/live/100246082798"]
+
+1. d4 Nf6 2. Nf3 d5 3. c3 Bf5 4. Nbd2 e6 5. Ne5 Bd6 6. Ndf3 Ne4 7. Qa4+ c6
+8. e3 Na6 9. Bxa6 Bxe5 10. Nxe5 O-O 11. Bxb7 Rb8 12. Nxc6 Nc5 13. dxc5 Qc7
+14. Qa6 Rxb7 15. Nd4 Rbb8 16. Nxf5 exf5 17. Qd3 Rfe8 18. Qxd5 g6 19. O-O
+Rbd8 20. Qf3 Qxc5 21. e4 Rxe4 22. Bh6 Rde8 23. Qg3 Re2 24. Qg5 Rxb2 25. Qf6
+Rbe2 26. Qg7# 1-0
+

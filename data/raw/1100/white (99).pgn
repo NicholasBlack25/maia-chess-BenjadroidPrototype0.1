@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.11"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Afanasyev_Paul"]
+[Result "1-0"]
+[WhiteElo "626"]
+[BlackElo "689"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2023.11.11"]
+[UTCTime "09:54:22"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "1r3b1r/2pBkppp/4p3/p1Pp4/Q2P4/P2KP3/1P3qPP/RNB4R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation-3.e3"]
+[StartTime "09:54:22"]
+[EndDate "2023.11.11"]
+[EndTime "09:58:53"]
+[Link "https://www.chess.com/game/live/82132378032"]
+
+1. d4 d5 2. e3 Nc6 3. Nf3 Nf6 4. Qd3 e6 5. c4 Nb4 6. Qb3 Ne4 7. Ne5 a5 8.
+Qa4+ Bd7 9. Qd1 Bc8 10. a3 Nc6 11. c5 Qf6 12. Nxc6 Nxf2 13. Qa4 Bd7 14. Bb5
+bxc6 15. Bxc6 Nd3+ 16. Kd2 Qf2+ 17. Kxd3 Rb8 18. Bxd7+ Ke7 1-0
+

@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.24"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "caglar6707"]
+[Result "1-0"]
+[WhiteElo "632"]
+[BlackElo "597"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.24"]
+[UTCTime "07:00:59"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "3R4/1k2r2p/1Q4p1/p1P2p2/P7/8/1P3PPP/6K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Closed-2...dxe4-3.Nxe4"]
+[StartTime "07:00:59"]
+[EndDate "2023.06.24"]
+[EndTime "07:07:31"]
+[Link "https://www.chess.com/game/live/81328934319"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 f5 4. Nc5 Na6 5. Nxa6 bxa6 6. Qh5+ g6 7. Qg5
+a5 8. Bb5+ Bd7 9. c4 Bxb5 10. cxb5 Rb8 11. Qe3 Ra8 12. Nf3 Qb8 13. a4 Kd7
+14. Qd4+ Kc8 15. Qxh8 Nf6 16. Qxf8+ Kd7 17. Ne5+ Kd6 18. Qg7 Kxe5 19. O-O
+Ke6 20. Re1+ Kd6 21. Qxe7+ Kd5 22. Qxf6 c5 23. Qe5+ Kc4 24. Qc3+ Kd5 25. d4
+Kd6 26. Bf4+ Kd7 27. Bxb8 Rxb8 28. dxc5 Rc8 29. Rad1+ Kc7 30. b6+ Kb7 31.
+bxa7 Kxa7 32. Rd2 Ka6 33. Qf6+ Kb7 34. Rd8 Rc7 35. Re7 Rxe7 36. Qb6# 1-0
+

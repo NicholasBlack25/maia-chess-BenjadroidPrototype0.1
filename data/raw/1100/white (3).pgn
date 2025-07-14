@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.09"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "tobit0messi"]
+[Result "0-1"]
+[WhiteElo "646"]
+[BlackElo "683"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2025.01.09"]
+[UTCTime "22:26:54"]
+[Termination "tobit0messi won by checkmate"]
+[CurrentPosition "r5k1/ppN2r2/6pp/3p4/2P5/4P3/P4q1P/R5KR w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit"]
+[StartTime "22:26:54"]
+[EndDate "2025.01.09"]
+[EndTime "22:32:50"]
+[Link "https://www.chess.com/game/live/122035772682"]
+
+1. d4 e5 2. Nf3 f6 3. c3 Nc6 4. dxe5 fxe5 5. Bg5 Be7 6. Bxe7 Ngxe7 7. c4 e4
+8. Nd4 Nxd4 9. Qxd4 O-O 10. e3 Nc6 11. Qxe4 Qf6 12. f3 Qxb2 13. Bd3 Qc1+
+14. Kf2 Qd2+ 15. Kg3 g6 16. Na3 Qb2 17. Qd5+ Rf7 18. Nb5 Ne7 19. Qe4 Nf5+
+20. Kf4 Nd6+ 21. Kg4 Nxe4 22. Bxe4 d5+ 23. Bf5 Bxf5+ 24. Kg5 Qf6+ 25. Kh6
+Qg7+ 26. Kg5 h6+ 27. Kf4 Bh3+ 28. Kg3 Bxg2 29. Kxg2 Qf6 30. Nxc7 Qxf3+ 31.
+Kg1 Qf2# 0-1
+

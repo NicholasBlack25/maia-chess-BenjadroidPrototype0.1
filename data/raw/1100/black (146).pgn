@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.29"]
+[Round "-"]
+[White "Claytovskii"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "588"]
+[BlackElo "583"]
+[ECO "A25"]
+[TimeControl "600"]
+[UTCDate "2023.08.29"]
+[UTCTime "07:44:20"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/8/8/8/8/6kp/8/5r1K w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Reversed-Sicilian-Closed-3.g3"]
+[StartTime "07:44:20"]
+[EndDate "2023.08.29"]
+[EndTime "07:55:21"]
+[Link "https://www.chess.com/game/live/81480542214"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Nd4 4. e3 Qe7 5. exd4 exd4+ 6. Qe2 dxc3 7. Qxe7+
+Bxe7 8. bxc3 Nf6 9. Bg2 c6 10. d4 d5 11. cxd5 cxd5 12. Nf3 Ne4 13. Ne5 Nxc3
+14. Bd2 Bb4 15. Rb1 Nxb1 16. Bxb4 f6 17. Nd3 a5 18. O-O axb4 19. Rxb1 Rxa2
+20. Nxb4 Rd2 21. Nxd5 Rxd4 22. f4 O-O 23. Ne7+ Kf7 24. Nxc8 Rxc8 25. Re1
+Rc2 26. Rf1 g5 27. Bxb7 Rb4 28. Bd5+ Kg6 29. f5+ Kh6 30. h4 gxh4 31. gxh4
+Rxh4 32. Bf3 Rc5 33. Kg2 Kg5 34. Be2 Rxf5 35. Bd3 Rxf1 36. Kxf1 f5 37. Kg2
+h5 38. Kg3 Rg4+ 39. Kf3 f4 40. Be2 Rg3+ 41. Kf2 h4 42. Bf1 Kg4 43. Be2+ f3
+44. Bxf3+ Rxf3+ 45. Kg2 h3+ 46. Kh2 Rf2+ 47. Kg1 Kg3 48. Kh1 Rf1# 0-1
+

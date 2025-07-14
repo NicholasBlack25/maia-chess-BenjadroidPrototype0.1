@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.15"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "dsmith69"]
+[Result "1-0"]
+[WhiteElo "626"]
+[BlackElo "616"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2025.01.15"]
+[UTCTime "01:05:01"]
+[Termination "BenjaminVega10 won - game abandoned"]
+[CurrentPosition "Q7/7k/3B2p1/8/1p1P4/pP6/P1Pr4/4Kn2 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[StartTime "01:05:01"]
+[EndDate "2025.01.15"]
+[EndTime "01:12:51"]
+[Link "https://www.chess.com/game/live/122150800294"]
+
+1. d4 d5 2. e3 Nc6 3. Nc3 e5 4. f4 e4 5. Qe2 Bb4 6. Bd2 Bxc3 7. Bxc3 Nf6 8.
+Nh3 Bxh3 9. gxh3 O-O 10. Rg1 a5 11. Qg2 g6 12. f5 a4 13. fxg6 fxg6 14. Bb5
+Qd6 15. h4 a3 16. b3 Ra5 17. Be2 Raa8 18. h5 Nxh5 19. Bxh5 b5 20. O-O-O b4
+21. Be1 Ne7 22. Bg3 Qe6 23. Bxc7 Nf5 24. Rdf1 Nxe3 25. Qg5 Nxf1 26. Bg4 Qf7
+27. Bd6 Rfe8 28. h4 e3 29. h5 e2 30. Bxe2 Rxe2 31. hxg6 Qxg6 32. Qxd5+ Kh8
+33. Rxg6 hxg6 34. Qxa8+ Kh7 35. Kd1 Rd2+ 36. Ke1 1-0
+

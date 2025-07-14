@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.30"]
+[Round "-"]
+[White "Romildotex"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "752"]
+[BlackElo "703"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2024.01.30"]
+[UTCTime "18:09:14"]
+[Termination "Romildotex won by checkmate"]
+[CurrentPosition "r1bqkbr1/ppppnQ2/2n4p/4p3/2B1P3/3P4/PPP2PPP/RN2K1NR b KQq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "18:09:14"]
+[EndDate "2024.01.30"]
+[EndTime "18:10:23"]
+[Link "https://www.chess.com/game/live/100377189679"]
+
+1. e4 e5 2. Qf3 Nc6 3. Bc4 f6 4. d3 Nge7 5. Bg5 h6 6. Bxf6 gxf6 7. Qxf6 Rg8
+8. Qf7# 1-0
+

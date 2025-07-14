@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.11"]
+[Round "-"]
+[White "ChadGulada"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "704"]
+[BlackElo "723"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.01.11"]
+[UTCTime "22:54:20"]
+[Termination "ChadGulada won by checkmate"]
+[CurrentPosition "2Q5/pkpB3p/1p4p1/1N6/3p1b2/3P4/PPP2n1P/1K6 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nf3"]
+[StartTime "22:54:20"]
+[EndDate "2024.01.11"]
+[EndTime "22:59:59"]
+[Link "https://www.chess.com/game/live/98752552303"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qe4+ 4. Be2 Nc6 5. Ng5 Qxg2 6. Nf3 Qxh1+ 7.
+Bf1 Bf5 8. Nc3 O-O-O 9. d3 e5 10. Qe2 Nf6 11. Bd2 Bc5 12. O-O-O Ng4 13. Bh3
+Kb8 14. Rxh1 Rhe8 15. Ng5 Nxf2 16. Bxf5 Nxh1 17. Nxf7 Rd4 18. Be3 g6 19.
+Bd7 Rd8 20. Nxd8 Nxd8 21. Bxd4 exd4 22. Nb5 b6 23. Qe5 Bd6 24. Qe8 Kb7 25.
+Qxd8 Bf4+ 26. Kb1 Nf2 27. Qc8# 1-0
+

@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.18"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "bobf917"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "629"]
+[ECO "C41"]
+[TimeControl "600"]
+[UTCDate "2023.06.18"]
+[UTCTime "08:55:43"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "Q6k/4r2p/7P/4p3/4P3/5P2/7K/R7 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Hanham-Variation-4.Nc3-c6"]
+[StartTime "08:55:43"]
+[EndDate "2023.06.18"]
+[EndTime "09:10:05"]
+[Link "https://www.chess.com/game/live/80817660109"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. d4 Nd7 5. d5 c5 6. Bg5 Ngf6 7. Bb5 a6 8.
+Ba4 b5 9. Bb3 c4 10. Bxc4 bxc4 11. Qe2 Nb6 12. O-O Be7 13. h4 Ng4 14. Bxe7
+Qxe7 15. Ng5 f6 16. Ne6 Bxe6 17. dxe6 Qxe6 18. f3 Nh6 19. g4 f5 20. gxf5
+Qe7 21. Qe3 Nd7 22. Nd5 Qd8 23. Qc3 O-O 24. Qxc4 Rc8 25. Qxa6 Rxc2 26. Qxd6
+Rxb2 27. a4 Rb6 28. Qc7 Qxc7 29. Nxc7 g6 30. Rad1 Nf6 31. Ne6 Rxe6 32. fxe6
+g5 33. hxg5 Kh8 34. gxh6 Rg8+ 35. Kh2 Nh5 36. Rg1 Rf8 37. Rdf1 Nf4 38. a5
+Ne2 39. e7 Re8 40. Rg7 Ra8 41. Ra1 Nf4 42. Rf7 Ng6 43. a6 Re8 44. a7 Nxe7
+45. Rxe7 Rxe7 46. a8=Q+ 1-0
+

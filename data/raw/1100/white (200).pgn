@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "imdonas"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "668"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.06.07"]
+[UTCTime "07:54:20"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r4rk1/ppp2p1p/2N1b1p1/8/8/5Q2/PBP2PPP/R3KB1R b KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3"]
+[StartTime "07:54:20"]
+[EndDate "2023.06.07"]
+[EndTime "07:59:03"]
+[Link "https://www.chess.com/game/live/79863578407"]
+
+1. d4 e6 2. Nf3 g6 3. e4 Bg7 4. Nc3 Nf6 5. Bg5 d5 6. exd5 exd5 7. Ne5 O-O
+8. Qf3 Nc6 9. Nxd5 Be6 10. Nxf6+ Bxf6 11. Bxf6 Qxd4 12. Nxc6 Qxb2 13. Bxb2
+1-0
+

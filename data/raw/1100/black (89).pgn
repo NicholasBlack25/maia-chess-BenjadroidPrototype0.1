@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.14"]
+[Round "-"]
+[White "PumaChess85"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "631"]
+[BlackElo "638"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2023.11.14"]
+[UTCTime "16:09:18"]
+[Termination "PumaChess85 won by checkmate"]
+[CurrentPosition "r2qk2r/p2n1Qpp/2pbp3/8/2pP4/1P5P/P1P4P/RN3RK1 b kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Gambit-2...dxe4"]
+[StartTime "16:09:18"]
+[EndDate "2023.11.14"]
+[EndTime "16:12:19"]
+[Link "https://www.chess.com/game/live/82161647820"]
+
+1. e4 d5 2. d4 dxe4 3. f3 Nf6 4. Nh3 c6 5. Bc4 Bxh3 6. gxh3 e6 7. fxe4 Nxe4
+8. O-O Nd7 9. Qf3 Nd6 10. b3 b5 11. Ba3 bxc4 12. Bxd6 Bxd6 13. Qxf7# 1-0
+

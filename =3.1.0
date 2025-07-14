@@ -1,0 +1,3 @@
+Requirement already satisfied: h5py in c:\users\nickb\miniconda3\envs\maia-tf24\lib\site-packages (2.10.0)
+Requirement already satisfied: numpy>=1.7 in c:\users\nickb\miniconda3\envs\maia-tf24\lib\site-packages (from h5py) (1.21.6)
+Requirement already satisfied: six in c:\users\nickb\miniconda3\envs\maia-tf24\lib\site-packages (from h5py) (1.15.0)

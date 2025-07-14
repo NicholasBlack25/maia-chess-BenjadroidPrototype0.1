@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.31"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "annasmhmmds"]
+[Result "1-0"]
+[WhiteElo "525"]
+[BlackElo "573"]
+[ECO "D05"]
+[TimeControl "600"]
+[UTCDate "2023.10.31"]
+[UTCTime "15:11:42"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r4k1Q/ppp3p1/4p1b1/3p4/3K1P2/P7/1PP5/RN5R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Colle-System-3...e6"]
+[StartTime "15:11:42"]
+[EndDate "2023.10.31"]
+[EndTime "15:18:08"]
+[Link "https://www.chess.com/game/live/82034341812"]
+
+1. d4 Nf6 2. e3 d5 3. Nf3 e6 4. Ne5 Bb4+ 5. Bd2 Bd6 6. f4 O-O 7. f5 Ne4 8.
+Bd3 exf5 9. a3 Qh4+ 10. g3 Nxg3 11. Nf3 Qe7 12. hxg3 Bxg3+ 13. Ke2 f4 14.
+Qg1 Bg4 15. Bb4 Qe6 16. Bxh7+ Kh8 17. Bf5+ Kg8 18. Bxe6 fxe6 19. Bxf8 Kxf8
+20. exf4 Nc6 21. Qxg3 Nxd4+ 22. Kd3 Bxf3 23. Qh4 Be4+ 24. Kxd4 Bg6 25. Qh8+
+1-0
+

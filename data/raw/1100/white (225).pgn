@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.12"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "bramvanderheijden123"]
+[Result "0-1"]
+[WhiteElo "600"]
+[BlackElo "639"]
+[ECO "C42"]
+[TimeControl "600"]
+[UTCDate "2023.06.12"]
+[UTCTime "08:59:41"]
+[Termination "bramvanderheijden123 won by checkmate"]
+[CurrentPosition "8/p5kp/3N2p1/1p1P4/7P/6P1/1P3r2/r1KR4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-3.d3-Nc6"]
+[StartTime "08:59:41"]
+[EndDate "2023.06.12"]
+[EndTime "09:06:11"]
+[Link "https://www.chess.com/game/live/80299292387"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 Nc6 4. Nc3 Bc5 5. Be3 Bxe3 6. fxe3 Ng4 7. Qe2 Nd4
+8. exd4 exd4 9. Nxd4 Qh4+ 10. g3 Qf6 11. Bh3 Qxd4 12. Qxg4 Qe3+ 13. Qe2
+Qxe2+ 14. Nxe2 O-O 15. O-O-O d6 16. Nf4 Bxh3 17. Nxh3 Rad8 18. c4 c6 19. d4
+d5 20. exd5 cxd5 21. cxd5 Rxd5 22. Nf4 Ra5 23. d5 Rxa2 24. Rhe1 Ra5 25. Re5
+f6 26. Rf5 b5 27. Nh5 g6 28. Nxf6+ Kg7 29. Ne4 Rxf5 30. Nd6 Rf2 31. h4 Ra1#
+0-1
+

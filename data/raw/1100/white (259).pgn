@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.25"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "TH4MR444"]
+[Result "1-0"]
+[WhiteElo "648"]
+[BlackElo "659"]
+[ECO "B15"]
+[TimeControl "600"]
+[UTCDate "2023.06.25"]
+[UTCTime "21:19:59"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "1Q3k2/2R3p1/6Kp/p3N2n/4B3/8/5PPP/3b4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Main-Line"]
+[StartTime "21:19:59"]
+[EndDate "2023.06.25"]
+[EndTime "21:31:42"]
+[Link "https://www.chess.com/game/live/81466956071"]
+
+1. d4 d5 2. Nc3 c6 3. e4 dxe4 4. Nxe4 e6 5. c3 c5 6. Bb5+ Nc6 7. Qd3 Bd7 8.
+Bg5 f6 9. Bf4 cxd4 10. cxd4 Bb4+ 11. Kd1 e5 12. Bd2 Bxd2 13. Nxd2 exd4 14.
+Nc4 a6 15. Nd6+ Ke7 16. Nxb7 Qb6 17. Qe4+ Be6 18. Bxc6 f5 19. Qh4+ Nf6 20.
+Rc1 d3 21. Nf3 Qxb2 22. Nc5 Bxa2 23. Nxd3 Bb3+ 24. Ke1 Qa2 25. Qb4+ Kf7 26.
+Bxa8 Re8+ 27. Nfe5+ Rxe5+ 28. Nxe5+ Ke6 29. Rc5 Qb1+ 30. Ke2 Qd1+ 31. Ke3
+f4+ 32. Kxf4 Nh5+ 33. Kg5 h6+ 34. Kg6 Bc2+ 35. Be4 a5 36. Qb6+ Ke7 37. Rxd1
+Bxd1 38. Rc7+ Kf8 39. Qb8# 1-0
+

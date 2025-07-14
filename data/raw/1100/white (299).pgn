@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "JakeAndux11"]
+[Result "0-1"]
+[WhiteElo "400"]
+[BlackElo "1282"]
+[ECO "A06"]
+[TimeControl "600"]
+[UTCDate "2021.01.08"]
+[UTCTime "22:27:30"]
+[Termination "JakeAndux11 won by checkmate"]
+[CurrentPosition "r3kb1r/ppR1pppp/8/1P6/4n3/8/P2qBP1n/3KR3 w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-1...d5"]
+[StartTime "22:27:30"]
+[EndDate "2021.01.08"]
+[EndTime "22:32:17"]
+[Link "https://www.chess.com/game/live/6181428668"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. e4 dxe4 4. Ne5 Qd4 5. Bc4 Qxe5 6. Nxe4 Qxe4+ 7. Be2
+Qxg2 8. Rf1 Qe4 9. d3 Qe5 10. c4 Ng4 11. Qa4+ Bd7 12. Qb5 Bxb5 13. cxb5 Nd7
+14. Kd1 Nxh2 15. Re1 Nc5 16. d4 Qxd4+ 17. Bd2 Qxb2 18. Rc1 Ne4 19. Rxc7
+Qxd2# 0-1
+

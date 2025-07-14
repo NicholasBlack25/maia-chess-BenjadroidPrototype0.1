@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "JakeAndux11"]
+[Result "0-1"]
+[WhiteElo "527"]
+[BlackElo "1209"]
+[ECO "A03"]
+[TimeControl "600"]
+[UTCDate "2021.03.01"]
+[UTCTime "15:06:30"]
+[Termination "JakeAndux11 won by checkmate"]
+[CurrentPosition "1R5r/3kbpp1/4p3/7p/3PnPK1/4q3/6PP/8 w - h6"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Birds-Opening-Dutch-Variation"]
+[StartTime "15:06:30"]
+[EndDate "2021.03.01"]
+[EndTime "15:15:45"]
+[Link "https://www.chess.com/game/live/8350383993"]
+
+1. f4 d5 2. c4 Nf6 3. Nc3 dxc4 4. Qa4+ Nc6 5. Qxc4 Bf5 6. Nb5 a6 7. e3 axb5
+8. Qxb5 Rb8 9. Qxf5 e6 10. Qh3 Nb4 11. a3 Nc2+ 12. Kf2 Nxa1 13. Bb5+ c6 14.
+Bxc6+ bxc6 15. d4 Nb3 16. Nf3 Ne4+ 17. Ke2 Nxc1+ 18. Rxc1 Rxb2+ 19. Nd2
+Rxd2+ 20. Ke1 Qa5 21. Rxc6 Ra2+ 22. Kf1 Ra1+ 23. Ke2 Qd2+ 24. Kf3 Rxa3 25.
+Rc8+ Kd7 26. Rb8 Rxe3+ 27. Kg4 Rxh3 28. Kxh3 Qe3+ 29. Kh4 Be7+ 30. Kg4 h5#
+0-1
+

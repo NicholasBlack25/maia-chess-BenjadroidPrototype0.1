@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.29"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "king_ivs"]
+[Result "1-0"]
+[WhiteElo "755"]
+[BlackElo "780"]
+[ECO "D04"]
+[TimeControl "600"]
+[UTCDate "2023.12.29"]
+[UTCTime "00:14:38"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b4r/pppk3p/2n2p2/1B1R4/2P2B1K/8/PP6/4R3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Colle-System"]
+[StartTime "00:14:38"]
+[EndDate "2023.12.29"]
+[EndTime "00:24:03"]
+[Link "https://www.chess.com/game/live/97547974333"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Nc6 4. Nc3 Ng4 5. Ng5 e5 6. h4 exd4 7. Qf3 f6 8.
+Bb5 dxe3 9. Nxd5 Ne5 10. Qf4 exf2+ 11. Kxf2 Ng4+ 12. Kf3 Qxd5+ 13. Kg3 Bd6
+14. Re1+ Kd7 15. Nf7 Bxf4+ 16. Kxf4 Qxf7 17. Kxg4 Kd6+ 18. Kf4 g5+ 19. Kg3
+gxh4+ 20. Kxh4 Qd5 21. c4 Qxg2 22. Bf4+ Kd7 23. Rad1+ Qd5 24. Rxd5# 1-0
+

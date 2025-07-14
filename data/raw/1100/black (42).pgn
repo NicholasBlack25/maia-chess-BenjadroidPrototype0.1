@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.14"]
+[Round "-"]
+[White "Timurlenk101"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "706"]
+[BlackElo "692"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2024.01.14"]
+[UTCTime "08:45:59"]
+[Termination "Timurlenk101 won by resignation"]
+[CurrentPosition "8/6kp/8/8/3p1QpP/1Q1P4/5PP1/5RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Kings-Indian-Attack-2...d5"]
+[StartTime "08:45:59"]
+[EndDate "2024.01.14"]
+[EndTime "08:56:17"]
+[Link "https://www.chess.com/game/live/95945823938"]
+
+1. e4 d5 2. d3 e6 3. a3 Nc6 4. h3 Nd4 5. Nc3 Nf6 6. Be3 c5 7. Bg5 Be7 8.
+Bxf6 Bxf6 9. Nf3 a6 10. b4 b6 11. Rb1 a5 12. bxc5 bxc5 13. Nxd4 cxd4 14.
+Nb5 Ba6 15. a4 O-O 16. Be2 Qd7 17. O-O Bxb5 18. axb5 a4 19. c4 a3 20. cxd5
+exd5 21. b6 a2 22. Ra1 Qb7 23. Qb3 Rfb8 24. exd5 Be7 25. Bf3 Bc5 26. d6 Qa6
+27. Bxa8 Qxa8 28. b7 Qa6 29. d7 Be7 30. Rxa2 Qd6 31. Ra8 Qxd7 32. Rxb8+ Bf8
+33. Rc8 g5 34. b8=Q g4 35. Rxf8+ Kg7 36. Rxf7+ Qxf7 37. h4 Qf4 38. Qxf4 1-0
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.09"]
+[Round "-"]
+[White "dduk98"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "721"]
+[BlackElo "688"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2024.06.09"]
+[UTCTime "16:40:20"]
+[Termination "dduk98 won by checkmate"]
+[CurrentPosition "r2qk2r/pppnbQpp/5n2/8/2B5/2N2N2/PPbP1PPP/R1B1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5"]
+[StartTime "16:40:20"]
+[EndDate "2024.06.09"]
+[EndTime "16:43:07"]
+[Link "https://www.chess.com/game/live/107676673886"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Bf5 4. Bc4 e6 5. dxe6 fxe6 6. Qe2 Bxc2 7. Qxe6+
+Be7 8. Nf3 Nbd7 9. Qf7# 1-0
+

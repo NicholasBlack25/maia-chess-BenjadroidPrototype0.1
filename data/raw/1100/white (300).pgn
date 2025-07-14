@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "JakeAndux11"]
+[Result "0-1"]
+[WhiteElo "400"]
+[BlackElo "1282"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2021.01.08"]
+[UTCTime "22:38:38"]
+[Termination "JakeAndux11 won by checkmate"]
+[CurrentPosition "r3k2r/5ppp/2p5/5q2/pbPN4/2K5/PPn5/3R4 w kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Modern-Variation-3.d4-Qxd5"]
+[StartTime "22:38:38"]
+[EndDate "2021.01.08"]
+[EndTime "22:45:32"]
+[Link "https://www.chess.com/game/live/6181515039"]
+
+1. d4 Nf6 2. e4 d5 3. exd5 Qxd5 4. Bg5 Nbd7 5. Nc3 Qxg5 6. Bb5 Qxg2 7.
+Bxd7+ Bxd7 8. Qe2 Qxh1 9. O-O-O Qxh2 10. Qb5 Bxb5 11. Nxb5 Ne4 12. Nf3 Qf4+
+13. Nd2 Nxf2 14. c4 c6 15. Nc3 Nd3+ 16. Kc2 Nb4+ 17. Kb3 e5 18. dxe5 a5 19.
+Ka4 Qxe5 20. Nf3 b5+ 21. Ka3 Nc2+ 22. Kb3 Qf5 23. Nd4 a4+ 24. Nxa4 bxa4+
+25. Kc3 Bb4# 0-1
+

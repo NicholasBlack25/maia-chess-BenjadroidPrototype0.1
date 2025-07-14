@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Kaaaayl12"]
+[Result "1-0"]
+[WhiteElo "705"]
+[BlackElo "620"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.12.08"]
+[UTCTime "05:44:32"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "1r3rk1/2p2p1Q/4p1p1/nq1p2P1/3Pn3/4P3/PPP2PP1/3RK2R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-2.Nc3"]
+[StartTime "05:44:32"]
+[EndDate "2023.12.08"]
+[EndTime "05:48:23"]
+[Link "https://www.chess.com/game/live/95699755088"]
+
+1. d4 Nf6 2. Nc3 Nc6 3. e3 d5 4. Nf3 e6 5. Bb5 a6 6. Ba4 b5 7. Nxb5 Bb4+ 8.
+Bd2 O-O 9. Qe2 Rb8 10. O-O-O axb5 11. Bxb5 Bd7 12. Ba4 Na5 13. Bxd7 Qxd7
+14. Ng5 Bxd2+ 15. Kxd2 h6 16. h4 hxg5 17. hxg5 Ne4+ 18. Ke1 Qb5 19. Qh5 g6
+20. Qh7# 1-0
+

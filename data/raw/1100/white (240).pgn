@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.18"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "MozzaNoa"]
+[Result "0-1"]
+[WhiteElo "647"]
+[BlackElo "678"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.06.18"]
+[UTCTime "09:10:18"]
+[Termination "MozzaNoa won by checkmate"]
+[CurrentPosition "2kr3r/ppp2ppp/8/8/2P2Bb1/8/PPP1q1PP/R3KR2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Closed-2...d4"]
+[StartTime "09:10:18"]
+[EndDate "2023.06.18"]
+[EndTime "09:14:23"]
+[Link "https://www.chess.com/game/live/80818345835"]
+
+1. e4 d5 2. Nc3 d4 3. Nb5 e5 4. Nf3 Nf6 5. Nxe5 Nxe4 6. f3 Bd6 7. f4 Nc6 8.
+Bc4 Bxe5 9. fxe5 Nxe5 10. d3 Nxc4 11. dxc4 Qf6 12. Rf1 Qe5 13. Nxd4 Nc3+
+14. Ne2 Nxd1 15. Kxd1 Bg4 16. Bf4 O-O-O+ 17. Ke1 Qxe2# 0-1
+

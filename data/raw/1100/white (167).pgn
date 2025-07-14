@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.02"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "sanjayprajapati20011"]
+[Result "1-0"]
+[WhiteElo "560"]
+[BlackElo "585"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.07.02"]
+[UTCTime "08:45:22"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1q3k1/3n2P1/p1p1B2Q/4B3/8/8/PP5r/3RK1n1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Queens-Knight-Variation"]
+[StartTime "08:45:22"]
+[EndDate "2023.07.02"]
+[EndTime "08:52:11"]
+[Link "https://www.chess.com/game/live/82026619435"]
+
+1. e4 e6 2. Nc3 b6 3. g3 Bb7 4. f4 b5 5. d3 a6 6. Nf3 b4 7. Na4 d5 8. c3
+dxe4 9. dxe4 bxc3 10. Nxc3 Bb4 11. Bd2 f5 12. exf5 exf5 13. Qe2+ Ne7 14.
+Bh3 O-O 15. O-O-O Bxf3 16. Qxf3 Bxc3 17. Bxc3 c6 18. g4 Qc8 19. gxf5 Nd5
+20. Be5 Nd7 21. Rhg1 g6 22. fxg6 h6 23. Qh5 Nxf4 24. Qxh6 Ne2+ 25. Kd2 Nxg1
+26. g7 Rf2+ 27. Ke1 Rxh2 28. Be6# 1-0
+

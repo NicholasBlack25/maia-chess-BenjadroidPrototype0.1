@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.20"]
+[Round "-"]
+[White "cris145545"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "628"]
+[ECO "A20"]
+[TimeControl "600"]
+[UTCDate "2025.03.20"]
+[UTCTime "20:25:45"]
+[Termination "cris145545 won by checkmate"]
+[CurrentPosition "7r/1Qp2ppp/8/k2P3b/pB2p1q1/P3P3/3N1P2/R3K1NR b KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Kings-English-Variation-2.a3"]
+[StartTime "20:25:45"]
+[EndDate "2025.03.20"]
+[EndTime "20:31:22"]
+[Link "https://www.chess.com/game/live/136488487526"]
+
+1. c4 e5 2. a3 Nc6 3. b4 d5 4. c5 e4 5. Bb2 Bf5 6. e3 Nf6 7. d4 Bg4 8. Qb3
+Qd7 9. h3 Bh5 10. Bb5 a6 11. Ba4 b5 12. g4 Nxg4 13. hxg4 Qxg4 14. Qxd5 bxa4
+15. Qxc6+ Kd8 16. Qxa8+ Kd7 17. c6+ Kd6 18. Qd8+ Kxc6 19. d5+ Kb7 20. Nd2
+a5 21. bxa5 Ka6 22. Qa8+ Kb5 23. Qb7+ Kxa5 24. Bc3+ Bb4 25. Bxb4# 1-0
+

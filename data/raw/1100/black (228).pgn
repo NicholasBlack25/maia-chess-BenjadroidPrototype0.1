@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.16"]
+[Round "-"]
+[White "Ish_preet"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "634"]
+[BlackElo "656"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2023.06.16"]
+[UTCTime "06:27:00"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "5rk1/ppp4p/5p2/5PpK/1P6/7q/4B3/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Maroczy-Variation-2...d5"]
+[StartTime "06:27:00"]
+[EndDate "2023.06.16"]
+[EndTime "06:36:05"]
+[Link "https://www.chess.com/game/live/80635873405"]
+
+1. e4 d5 2. d3 Nf6 3. f3 e5 4. Ne2 Nc6 5. Nec3 dxe4 6. Nxe4 Nxe4 7. fxe4
+Qh4+ 8. g3 Qf6 9. Nc3 Nd4 10. Nd5 Nf3+ 11. Kf2 Bc5+ 12. Be3 Bxe3+ 13. Kxe3
+Qg5+ 14. Nf4 Bg4 15. Be2 exf4+ 16. gxf4 Qc5+ 17. d4 Nxd4 18. Bxg4 Nxc2+ 19.
+Kf3 Nxa1 20. Qxa1 Rd8 21. a3 Qc2 22. Rd1 Rxd1 23. Qxd1 Qxd1+ 24. Kg3 Qd3+
+25. Kh4 Qxe4 26. b4 O-O 27. h3 Qe7+ 28. Kg3 Qe3+ 29. Kh4 Qxa3 30. f5 f6 31.
+Be2 g5+ 32. Kh5 Qxh3# 0-1
+

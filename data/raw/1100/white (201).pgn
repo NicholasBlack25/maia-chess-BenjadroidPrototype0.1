@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "makwembere47"]
+[Result "1-0"]
+[WhiteElo "681"]
+[BlackElo "699"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2023.06.07"]
+[UTCTime "08:08:35"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "rnbQ2kr/ppp4N/7p/2b1p3/8/5N2/PPP1PPPP/R3KB1R b KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5"]
+[StartTime "08:08:35"]
+[EndDate "2023.06.07"]
+[EndTime "08:10:52"]
+[Link "https://www.chess.com/game/live/79864258179"]
+
+1. d4 e5 2. dxe5 Bc5 3. Nf3 Nh6 4. Bxh6 gxh6 5. Nc3 f6 6. Ne4 d6 7. Nxf6+
+Kf8 8. Qd3 dxe5 9. Nxh7+ Kg8 10. Qxd8+ 1-0
+

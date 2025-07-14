@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.11"]
+[Round "-"]
+[White "broto07"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "594"]
+[BlackElo "586"]
+[ECO "C61"]
+[TimeControl "600"]
+[UTCDate "2023.07.11"]
+[UTCTime "06:38:36"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "8/8/4k3/8/1K6/8/8/q2q4 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Ruy-Lopez-Opening-Birds-Defense-4.Nxd4-exd4-5.O-O"]
+[StartTime "06:38:36"]
+[EndDate "2023.07.11"]
+[EndTime "06:53:48"]
+[Link "https://www.chess.com/game/live/82796464329"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bd6 6. c3 Qh4 7. g3 Qh3
+8. Re1 c6 9. e5 Be7 10. Bc4 b5 11. Bb3 c5 12. cxd4 Bb7 13. f3 Nh6 14. d3
+Nf5 15. Bf4 f6 16. exf6 gxf6 17. Nd2 Nxd4 18. Rc1 a5 19. Ne4 f5 20. Nxc5
+Nxf3+ 21. Kf2 Qxh2+ 22. Ke3 Bxc5+ 23. d4 Bxd4+ 24. Kd3+ Nxe1+ 25. Qxe1+ Kf8
+26. Bd6+ Kg7 27. Qe7+ Kg6 28. Bf7+ Kh6 29. Qf6+ Bxf6 30. g4 fxg4 31. Bxh2
+Be4+ 32. Kxe4 Bxb2 33. Bf4+ Kg7 34. Bd5 Rhe8+ 35. Kf5 Rf8+ 36. Kg5 Bxc1 37.
+Bxa8 Bxf4+ 38. Kxg4 Kg6 39. Be4+ Kf6 40. Kxf4 a4 41. Bxh7 Re8 42. Bc2 Re2
+43. Bd3 Rxa2 44. Bxb5 a3 45. Bc4 Rf2+ 46. Ke3 Rc2 47. Kd3 Rxc4 48. Kxc4 a2
+49. Kb3 a1=Q 50. Kc4 Ke6 51. Kc5 d5 52. Kc6 d4 53. Kc5 d3 54. Kc4 d2 55.
+Kb4 d1=Q 0-1
+

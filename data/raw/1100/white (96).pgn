@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "haddads1"]
+[Result "1-0"]
+[WhiteElo "592"]
+[BlackElo "509"]
+[ECO "A43"]
+[TimeControl "600"]
+[UTCDate "2023.11.08"]
+[UTCTime "19:25:13"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "2rr2k1/6Q1/3p3p/2p3R1/5q2/2P2N2/PPK4P/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Old-Benoni-Defense"]
+[StartTime "19:25:13"]
+[EndDate "2023.11.08"]
+[EndTime "19:40:22"]
+[Link "https://www.chess.com/game/live/82109144302"]
+
+1. d4 c5 2. Be3 d6 3. c3 Nc6 4. Nd2 e5 5. d5 Na5 6. Qa4+ Bd7 7. Qc2 Qh4 8.
+Ngf3 Qf6 9. Bg5 Qg6 10. e4 Ne7 11. Nb3 Nxb3 12. Qxb3 Qxe4+ 13. Be2 Nxd5 14.
+Qxb7 Rc8 15. Nd2 Qxg2 16. Bf3 Qxg5 17. Bxd5 Qg6 18. O-O-O Be7 19. Rhg1 Qh6
+20. Bxf7+ Kxf7 21. Qxd7 Qf6 22. Rdf1 Rhd8 23. Qxa7 Qe6 24. f4 exf4 25.
+Rxf4+ Kg8 26. Qa4 Bg5 27. Rxg5 Qe1+ 28. Kc2 h6 29. Nf3 Qe3 30. Qa7 Qxf4 31.
+Qxg7# 1-0
+

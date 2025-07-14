@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.28"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "suzzonn"]
+[Result "1-0"]
+[WhiteElo "688"]
+[BlackElo "652"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.06.28"]
+[UTCTime "10:04:37"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1bkQ1n1/ppp4p/3p2p1/1B6/8/8/PPPR2PP/2K4R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3"]
+[StartTime "10:04:37"]
+[EndDate "2024.06.28"]
+[EndTime "10:11:41"]
+[Link "https://www.chess.com/game/live/107977958814"]
+
+1. d4 e6 2. Nf3 g6 3. Be3 Bg7 4. Nc3 Nc6 5. Qd3 Qe7 6. O-O-O d6 7. d5 exd5
+8. Nxd5 Qd7 9. Bg5 f6 10. Bh4 Nge7 11. Nxf6+ Bxf6 12. Bxf6 Rf8 13. Qc3 Ng8
+14. Bg7 Rf7 15. Be5 Nxe5 16. Nxe5 Qe6 17. Nxf7 Qxf7 18. e3 Qxf2 19. Bb5+
+Kd8 20. Qg7 Qxe3+ 21. Rd2 Qe6 22. Qf8+ Qe8 23. Qxe8# 1-0
+

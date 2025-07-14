@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.19"]
+[Round "-"]
+[White "Draco1_1"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "609"]
+[BlackElo "551"]
+[ECO "C40"]
+[TimeControl "1800"]
+[UTCDate "2023.10.19"]
+[UTCTime "15:33:58"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "6r1/1k6/7P/2p4K/3p4/3r4/7q/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation"]
+[StartTime "15:33:58"]
+[EndDate "2023.10.19"]
+[EndTime "15:54:23"]
+[Link "https://www.chess.com/game/live/91468745099"]
+
+1. e4 e5 2. Nf3 f6 3. Bc4 Ne7 4. O-O Nec6 5. d4 d6 6. Be3 Bh3 7. gxh3 exd4
+8. Nxd4 Na5 9. Bb5+ c6 10. Bd3 f5 11. exf5 d5 12. Qg4 Bd6 13. Bg5 Qc7 14.
+Qh5+ g6 15. Qe2+ Kd7 16. Re1 Bxh2+ 17. Kg2 c5 18. Qe7+ Kc8 19. Ne6 Qxe7 20.
+Bxe7 Nbc6 21. Kxh2 Nxe7 22. Nxc5 b6 23. Nb3 Nxb3 24. axb3 Nc6 25. Ra6 gxf5
+26. Bxf5+ Kb7 27. Bd3 Rhf8 28. Re7+ Nxe7 29. c4 d4 30. c5 bxc5 31. Na3
+Rxf2+ 32. Kg3 Rxb2 33. Nb5 Rxb3 34. Nd6+ Kc7 35. Nb5+ Kb7 36. Nd6+ Kb8 37.
+Ra3 Rxa3 38. Kf3 Rxd3+ 39. Kg4 a5 40. h4 a4 41. h5 a3 42. h6 a2 43. Nf5
+Nxf5 44. Kxf5 a1=Q 45. Kf6 Kb7 46. Kg7 Qg1+ 47. Kxh7 Qf2 48. Kg6 Rg8+ 49.
+Kh5 Qh2# 0-1
+

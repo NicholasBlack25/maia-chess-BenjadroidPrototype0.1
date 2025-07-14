@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.08"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "mustaq92"]
+[Result "0-1"]
+[WhiteElo "538"]
+[BlackElo "613"]
+[ECO "D00"]
+[TimeControl "600"]
+[UTCDate "2021.04.08"]
+[UTCTime "16:15:43"]
+[Termination "mustaq92 won by checkmate"]
+[CurrentPosition "5knr/3b2pp/8/5p2/7P/8/PP3PP1/n1Bq1KNR w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[StartTime "16:15:43"]
+[EndDate "2021.04.08"]
+[EndTime "16:19:40"]
+[Link "https://www.chess.com/game/live/11637739453"]
+
+1. d4 d5 2. e3 e5 3. c3 Qf6 4. Qa4+ Bd7 5. Bb5 c6 6. c4 cxb5 7. cxb5 a6 8.
+Nc3 axb5 9. Qxa8 Qd8 10. Nxd5 exd4 11. exd4 Nc6 12. Qxb7 Nxd4 13. Nc7+ Ke7
+14. Nxb5 Nc2+ 15. Kf1 Nxa1 16. Qe4+ Be6 17. Nd4 f5 18. Qe5 Qd5 19. Qc7+ Bd7
+20. Qb8 Qxd4 21. Qxf8+ Kxf8 22. h4 Qd1# 0-1
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.21"]
+[Round "-"]
+[White "Youssefinfanty"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "670"]
+[BlackElo "706"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2024.01.21"]
+[UTCTime "10:39:22"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "8/7B/5k2/1K2q2p/6pb/8/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Exchange-Variation"]
+[StartTime "10:39:22"]
+[EndDate "2024.01.21"]
+[EndTime "10:48:29"]
+[Link "https://www.chess.com/game/live/95987802884"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nc6 4. Nc3 Qe6+ 5. Be2 Nf6 6. Nf3 Ne4 7. Nxe4
+Qxe4 8. Ng5 Qxg2 9. Bf1 Qxh1 10. Qf3 Qxh2 11. Nxf7 Nxd4 12. Qf4 Nxc2+ 13.
+Ke2 Qxf4 14. Bxf4 Nxa1 15. Nxh8 e6 16. Bxc7 Bc5 17. Be5 g5 18. Bg2 Nc2 19.
+Bf6 g4 20. Kd3 Nb4+ 21. Kc4 b6 22. Bxa8 Ba6+ 23. Kb3 h5 24. Ng6 Nd3 25. f4
+Kf7 26. Kc3 Kxf6 27. Nh4 e5 28. fxe5+ Nxe5 29. b4 Bf2 30. a4 Bxh4 31. b5
+Bxb5 32. axb5 a5 33. Kd4 Nf3+ 34. Kd5 a4 35. Kc6 a3 36. Kxb6 Nd4 37. Kc5
+Nxb5 38. Kxb5 a2 39. Be4 a1=Q 40. Bh7 Qe5+ 0-1
+

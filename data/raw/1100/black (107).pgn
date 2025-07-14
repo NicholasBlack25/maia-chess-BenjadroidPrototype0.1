@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.27"]
+[Round "-"]
+[White "mr_audacious"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "704"]
+[BlackElo "687"]
+[ECO "C20"]
+[TimeControl "600"]
+[UTCDate "2023.11.27"]
+[UTCTime "13:24:47"]
+[Termination "mr_audacious won by resignation"]
+[CurrentPosition "6R1/8/8/7k/1KP5/1P6/1r2r3/6R1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[StartTime "13:24:47"]
+[EndDate "2023.11.27"]
+[EndTime "13:35:36"]
+[Link "https://www.chess.com/game/live/94131399086"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qf3 d5 4. Nc3 c6 5. exd5 cxd5 6. Nge2 e4 7. Qe3 Ng4
+8. Qg3 Nc6 9. f3 Qg5 10. fxg4 Qxg4 11. h3 Qxg3+ 12. Nxg3 Be6 13. Bb5 a6 14.
+Bxc6+ bxc6 15. Na4 O-O-O 16. Nb6+ Kc7 17. Na4 f5 18. d3 exd3 19. cxd3 Bd6
+20. Ne2 a5 21. Bf4 Rb8 22. Bxd6+ Kxd6 23. b3 c5 24. O-O-O Rhc8 25. Kb2 c4
+26. dxc4 Bd7 27. Nf4 Bxa4 28. Rxd5+ Ke7 29. Rxa5 Bc6 30. Re1+ Be4 31. Re5+
+Kf6 32. Rb5 Ra8 33. Nh5+ Kg5 34. g4 Bg2 35. Rxf5+ Kh4 36. Nf4 Bxh3 37. Nxh3
+Kxh3 38. Rh1+ Kxg4 39. Rfh5 g6 40. R5h4+ Kg5 41. Rxh7 Re8 42. Rf7 Re2+ 43.
+Kc3 Raxa2 44. Rg1+ Kh6 45. Rf6 Rac2+ 46. Kb4 Rb2 47. Rfxg6+ Kh5 48. Rg8 1-0
+

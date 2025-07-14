@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.24"]
+[Round "-"]
+[White "Bud1234_Chess"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "670"]
+[BlackElo "690"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.11.24"]
+[UTCTime "02:42:51"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r4r2/ppp2ppk/6p1/4b3/3q2bP/4K1P1/PPB2P2/R1B4R w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "02:42:51"]
+[EndDate "2023.11.24"]
+[EndTime "02:50:07"]
+[Link "https://www.chess.com/game/live/94104478688"]
+
+1. e4 d5 2. Nf3 Nf6 3. d3 Nc6 4. Nc3 e6 5. d4 Bd6 6. g3 Nxe4 7. Nxe4 dxe4
+8. Nh4 e5 9. Bc4 O-O 10. Ng6 hxg6 11. h4 Kh7 12. dxe5 Nxe5 13. Bd5 Bg4 14.
+Qd4 Nf3+ 15. Ke2 Nxd4+ 16. Ke3 Be5 17. Bxe4 Nxc2+ 18. Bxc2 Qd4# 0-1
+

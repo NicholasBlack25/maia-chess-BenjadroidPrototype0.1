@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.07"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "sl4vok212"]
+[Result "0-1"]
+[WhiteElo "698"]
+[BlackElo "725"]
+[ECO "D07"]
+[TimeControl "600"]
+[UTCDate "2024.01.07"]
+[UTCTime "01:36:08"]
+[Termination "sl4vok212 won by resignation"]
+[CurrentPosition "1r6/3k3p/1p6/1K4p1/8/7P/5n2/7n w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Chigorin-Defense-3.Nf3"]
+[StartTime "01:36:08"]
+[EndDate "2024.01.07"]
+[EndTime "01:42:06"]
+[Link "https://www.chess.com/game/live/98330150371"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 dxc4 4. Bd2 e6 5. Qa4 Bd7 6. Qxc4 Nf6 7. Nc3 Na5
+8. Qd3 a6 9. e4 Bb5 10. Nxb5 b6 11. O-O-O axb5 12. Qxb5+ Qd7 13. Qg5 Nxe4
+14. Qe5 Nxf2 15. Ng5 Nxh1 16. Bb5 c6 17. d5 cxb5 18. dxe6 fxe6 19. Nxe6 Nc4
+20. Bb4 Nxe5 21. Rxd7 Kxd7 22. Nxf8+ Rhxf8 23. Bxf8 Rxf8 24. b4 Nd3+ 25.
+Kc2 Nxb4+ 26. Kb3 Nd5 27. a4 bxa4+ 28. Kxa4 Ra8+ 29. Kb5 Rb8 30. Kc4 Ne3+
+31. Kb5 g5 32. g4 Nxg4 33. h3 Ngf2 0-1
+

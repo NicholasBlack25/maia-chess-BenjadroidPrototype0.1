@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.08"]
+[Round "-"]
+[White "aqat_azatbek"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "614"]
+[BlackElo "643"]
+[ECO "C42"]
+[TimeControl "600"]
+[UTCDate "2023.06.08"]
+[UTCTime "08:19:52"]
+[Termination "aqat_azatbek won by resignation"]
+[CurrentPosition "Q7/8/2P3k1/8/7R/5p2/5B1P/6K1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Variation"]
+[StartTime "08:19:52"]
+[EndDate "2023.06.08"]
+[EndTime "08:27:54"]
+[Link "https://www.chess.com/game/live/79951281207"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Nc3 Nxc3 5. dxc3 d6 6. Bb5+ c6 7. Bxc6+
+Nxc6 8. Nxc6 bxc6 9. O-O f5 10. Qh5+ g6 11. Qe2+ Qe7 12. Re1 Bd7 13. Bg5
+Qxe2 14. Rxe2+ Kf7 15. Be3 d5 16. Bd4 Rb8 17. Bxh8 Rxb2 18. c4 dxc4 19.
+Bxb2 Bc5 20. g3 Be6 21. Rae1 a5 22. Rxe6 Bb4 23. Re7+ Kf8 24. Rb7 Bxe1 25.
+Rxh7 a4 26. Ba3+ Kg8 27. Re7 Bd2 28. Re8+ Kh7 29. Rd8 Bc3 30. Rd6 c5 31.
+Bxc5 g5 32. Rd7+ Kh6 33. Rd6+ Kh5 34. Ra6 f4 35. gxf4 gxf4 36. Rxa4 f3 37.
+Rxc4 Be1 38. a4 Bxf2+ 39. Bxf2 Kg5 40. a5 Kf6 41. a6 Kf7 42. a7 Ke6 43.
+a8=Q Ke5 44. Rh4 Kf5 45. c4 Kg5 46. c5 Kg6 47. c6 1-0
+

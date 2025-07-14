@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.15"]
+[Round "-"]
+[White "Dubier9310"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "650"]
+[BlackElo "646"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2023.06.15"]
+[UTCTime "06:40:24"]
+[Termination "Dubier9310 won by checkmate"]
+[CurrentPosition "8/ppp3p1/8/5R2/2kR1BP1/r7/2K1N3/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation"]
+[StartTime "06:40:24"]
+[EndDate "2023.06.15"]
+[EndTime "06:53:56"]
+[Link "https://www.chess.com/game/live/80550085325"]
+
+1. d4 d5 2. Nf3 Nc6 3. Qd3 Nb4 4. Qb3 e5 5. dxe5 Bf5 6. Na3 d4 7. c3 Qd5 8.
+Qxd5 Nxd5 9. Nxd4 Be4 10. c4 Nf4 11. Bxf4 Bb4+ 12. Bd2 Bc5 13. Ndb5 O-O-O
+14. f3 Bf5 15. g4 Bg6 16. h4 Nh6 17. h5 Rhe8 18. hxg6 Nxg4 19. gxh7 Rxe5
+20. h8=Q Rxh8 21. Rxh8+ Kd7 22. Bh3 f5 23. O-O-O Rxe2 24. Bf4+ Kc6 25. fxg4
+Bxa3 26. bxa3 Rxa2 27. Bg2+ Rxg2 28. Nd4+ Kc5 29. Rh5 Ra2 30. Rxf5+ Kxc4
+31. Ne2 Ra1+ 32. Kc2 Rxa3 33. Rd4# 1-0
+

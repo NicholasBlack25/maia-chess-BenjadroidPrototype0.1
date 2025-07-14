@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Deleatu"]
+[Result "0-1"]
+[WhiteElo "576"]
+[BlackElo "579"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2023.10.03"]
+[UTCTime "15:12:01"]
+[Termination "Deleatu won by resignation"]
+[CurrentPosition "1k1r4/ppp2p1p/5P1P/8/1n6/1K5B/PP6/7q w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "15:12:01"]
+[EndDate "2023.10.03"]
+[EndTime "15:20:48"]
+[Link "https://www.chess.com/game/live/81777705140"]
+
+1. e4 d5 2. Qg4 Bxg4 3. f3 Bh5 4. exd5 Qxd5 5. Nc3 Qd8 6. d3 Nc6 7. Bf4 e5
+8. O-O-O exf4 9. Re1+ Nce7 10. Nb5 Qd7 11. g4 Bxg4 12. fxg4 Qxb5 13. Nh3
+O-O-O 14. Nxf4 Ng6 15. Nh5 Bb4 16. Re4 Nf6 17. Nxf6 gxf6 18. c3 Bc5 19. d4
+Qb6 20. h4 Bxd4 21. cxd4 Rxd4 22. Rxd4 Qxd4 23. h5 Nf4 24. h6 Rd8 25. Bh3
+Nd3+ 26. Kc2 Nb4+ 27. Kb3 Qe4 28. g5+ Kb8 29. gxf6 Qxh1 0-1
+

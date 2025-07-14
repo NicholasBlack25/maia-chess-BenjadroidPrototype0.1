@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "CptMorgan13"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "667"]
+[BlackElo "661"]
+[ECO "B00"]
+[TimeControl "600"]
+[UTCDate "2023.06.07"]
+[UTCTime "23:37:53"]
+[Termination "CptMorgan13 won by checkmate"]
+[CurrentPosition "r1bqk2r/p1p2Qpp/1bp1p3/3pP1N1/1P1n4/2P5/P4PPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Advance-Variation"]
+[StartTime "23:37:53"]
+[EndDate "2023.06.07"]
+[EndTime "23:40:29"]
+[Link "https://www.chess.com/game/live/79920035715"]
+
+1. e4 d5 2. e5 Nc6 3. d4 e6 4. Bb5 Bb4+ 5. c3 Ba5 6. b4 Bb6 7. Bxc6+ bxc6
+8. Nf3 Ne7 9. Ng5 Nf5 10. Qf3 Nxd4 11. Qxf7# 1-0
+

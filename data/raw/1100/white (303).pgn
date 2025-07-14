@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.03.18"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Nasirov001"]
+[Result "1-0"]
+[WhiteElo "645"]
+[BlackElo "605"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2025.03.18"]
+[UTCTime "21:11:19"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r6k/p2b1pQp/4pn2/8/8/8/P1P1BP1P/R3K1R1 b Q -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.Bf4-c5"]
+[StartTime "21:11:19"]
+[EndDate "2025.03.18"]
+[EndTime "21:17:45"]
+[Link "https://www.chess.com/game/live/136415877212"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 c5 4. dxc5 Bxc5 5. e3 Nc6 6. Nc3 Qa5 7. Ne5 d4 8.
+exd4 Bxd4 9. Nxc6 Bxc3+ 10. bxc3 Qxc3+ 11. Bd2 Qxc6 12. Qg4 Nf6 13. Qxg7
+Qe4+ 14. Be2 Qxg2 15. Qxg2 Bd7 16. Qxb7 O-O 17. Bh6 Rfb8 18. Rg1+ Kh8 19.
+Qg2 Rg8 20. Bg7+ Rxg7 21. Qxg7# 1-0
+

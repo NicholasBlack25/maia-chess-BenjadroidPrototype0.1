@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.25"]
+[Round "-"]
+[White "Dashetoboba"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "556"]
+[BlackElo "608"]
+[ECO "A01"]
+[TimeControl "600"]
+[UTCDate "2023.07.25"]
+[UTCTime "06:22:32"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "8/5k2/8/8/8/1P2P1P1/Pb1q3P/K7 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Classical-Variation"]
+[StartTime "06:22:32"]
+[EndDate "2023.07.25"]
+[EndTime "06:33:08"]
+[Link "https://www.chess.com/game/live/84005328935"]
+
+1. b3 d5 2. d4 Nc6 3. c3 Qd6 4. g3 e5 5. Nd2 Nxd4 6. cxd4 exd4 7. Bb2 Nf6
+8. Bxd4 Ne4 9. Nxe4 dxe4 10. e3 Qb4+ 11. Qd2 Qa3 12. Bb2 Qe7 13. O-O-O Bg4
+14. Be2 f5 15. f3 exf3 16. Nxf3 Qc5+ 17. Kb1 Be7 18. Qd7+ Kf7 19. Ne5+ Kf6
+20. Bxg4 fxg4 21. Nxg4+ Kg5 22. Bxg7 Rhd8 23. Qa4 Qf5+ 24. Kb2 Qxg4 25.
+Rxd8 Rxd8 26. Qxa7 Qe2+ 27. Ka1 Kg6 28. Qb6+ Kxg7 29. Qxc7 Rd1+ 30. Rxd1
+Qxd1+ 31. Kb2 Kf6 32. Qxb7 Bf8 33. Qxh7 Qd2+ 34. Ka1 Bg7 35. Qb1 Kf7+ 36.
+Qb2 Bxb2+ 0-1
+

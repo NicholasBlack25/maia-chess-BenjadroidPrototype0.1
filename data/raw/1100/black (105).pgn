@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.24"]
+[Round "-"]
+[White "s1mpleeeez"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "654"]
+[BlackElo "695"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.11.24"]
+[UTCTime "09:10:47"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r1bqkb1r/1p3ppp/p1n2n2/4p3/3p4/2P2N2/PP1PBPPP/RNBQ1K1R b kq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...d5"]
+[StartTime "09:10:47"]
+[EndDate "2023.11.24"]
+[EndTime "09:12:33"]
+[Link "https://www.chess.com/game/live/94106354446"]
+
+1. e3 d5 2. Nc3 c6 3. Be2 a6 4. e4 Nf6 5. exd5 cxd5 6. Nf3 d4 7. Nb1 Nc6 8.
+c3 e5 9. Kf1 0-1
+

@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Baruna777"]
+[Result "1-0"]
+[WhiteElo "693"]
+[BlackElo "677"]
+[ECO "A45"]
+[TimeControl "600"]
+[UTCDate "2023.11.20"]
+[UTCTime "06:31:14"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "r1b1r1kR/p3Pp2/2p1pBp1/qp1p4/3P4/2NBP3/PPP2PP1/2KR4 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game...3.e3-d5-4.Nf3-Be7"]
+[StartTime "06:31:14"]
+[EndDate "2023.11.20"]
+[EndTime "06:37:36"]
+[Link "https://www.chess.com/game/live/94069495684"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Nf6 4. e3 Be7 5. Nc3 c6 6. Qd3 O-O 7. O-O-O Na6
+8. h4 Qa5 9. Ng5 h6 10. Be5 hxg5 11. hxg5 g6 12. gxf6 Nb4 13. fxe7 Nxd3+
+14. Bxd3 Re8 15. Bf6 b5 16. Rh8# 1-0
+

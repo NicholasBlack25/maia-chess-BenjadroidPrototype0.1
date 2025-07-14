@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.03"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Harry92403"]
+[Result "0-1"]
+[WhiteElo "450"]
+[BlackElo "970"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2021.09.03"]
+[UTCTime "17:21:22"]
+[Termination "Harry92403 won by checkmate"]
+[CurrentPosition "8/7P/8/8/5R2/3k4/3rr3/q4K2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit"]
+[StartTime "17:21:22"]
+[EndDate "2021.09.03"]
+[EndTime "17:33:55"]
+[Link "https://www.chess.com/game/live/24428535901"]
+
+1. d4 e5 2. Nc3 exd4 3. Nd5 c6 4. Nf4 Bb4+ 5. c3 dxc3 6. bxc3 Bxc3+ 7. Bd2
+Bxa1 8. Qxa1 Nf6 9. Nh5 Nxh5 10. Qe5+ Qe7 11. Qxh5 d6 12. Nf3 g6 13. Qg4
+Bxg4 14. Ng5 Qxg5 15. Bxg5 Bxe2 16. Bxe2 f6 17. O-O fxg5 18. f3 b5 19. Bd3
+b4 20. Re1+ Kd8 21. Rb1 Na6 22. Bxa6 Re8 23. g3 Rb8 24. f4 gxf4 25. gxf4 h5
+26. Rd1 Rb6 27. Rxd6+ Kc7 28. Rxg6 Re1+ 29. Bf1 b3 30. axb3 Rxb3 31. Rg7+
+Kb6 32. Rh7 Rbb1 33. Rxh5 Rbd1 34. Rh8 Rxf1+ 35. Kg2 Rxf4 36. Rb8+ Ka6 37.
+Rc8 Rd2+ 38. Kg3 Re4 39. Rxc6+ Kb7 40. Rh6 Rd3+ 41. Kg2 Re2+ 42. Kf1 Rdd2
+43. Rh7+ Kb6 44. h4 a5 45. h5 a4 46. Rf7 a3 47. Rf6+ Kb5 48. h6 a2 49. Rf5+
+Kc4 50. Rf4+ Kd3 51. h7 a1=Q# 0-1
+

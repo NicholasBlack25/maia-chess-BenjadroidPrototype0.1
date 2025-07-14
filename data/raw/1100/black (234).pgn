@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.20"]
+[Round "-"]
+[White "Albeerbe"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "688"]
+[BlackElo "636"]
+[ECO "B02"]
+[TimeControl "600"]
+[UTCDate "2023.06.20"]
+[UTCTime "21:19:47"]
+[Termination "Albeerbe won by checkmate"]
+[CurrentPosition "8/8/p5Qk/7p/3PPN2/1P5B/P1r3PP/5RK1 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation"]
+[StartTime "21:19:47"]
+[EndDate "2023.06.20"]
+[EndTime "21:33:34"]
+[Link "https://www.chess.com/game/live/81034963315"]
+
+1. e4 d5 2. Nc3 Nf6 3. d3 e5 4. Nf3 Nc6 5. d4 Ng4 6. Nxd5 Nxd4 7. Nxd4 exd4
+8. Qxd4 c5 9. Qd1 Qa5+ 10. Nc3 Qb4 11. Bb5+ Bd7 12. Qxg4 a6 13. Bxd7+ Kd8
+14. O-O g6 15. b3 c4 16. Nd5 Qc5 17. Be3 Qa3 18. Nb6 Rb8 19. Nxc4 Qb4 20.
+Ne5 Ke7 21. Nd3 Qc3 22. Ba4 Qxc2 23. Ne1 Qc8 24. Qf4 Bg7 25. Rc1 Qe6 26.
+Qc7+ Kf6 27. Qf4+ Ke7 28. Ba7 Rbc8 29. Rc7+ Rxc7 30. Qxc7+ Kf6 31. Qxb7 Bh6
+32. Be3 Bxe3 33. fxe3+ Kg7 34. Bd7 Qe5 35. Nd3 Qd4 36. exd4 h5 37. Bh3 Rd8
+38. Qxf7+ Kh6 39. Qf6 Rc8 40. Nf4 Rc2 41. Qxg6# 1-0
+

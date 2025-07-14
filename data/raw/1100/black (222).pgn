@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.15"]
+[Round "-"]
+[White "AnduxArt"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "1559"]
+[BlackElo "637"]
+[ECO "A00"]
+[TimeControl "600"]
+[UTCDate "2023.06.15"]
+[UTCTime "03:41:19"]
+[Termination "AnduxArt won by checkmate"]
+[CurrentPosition "N1bk3r/p1Q2p1p/3p4/8/3P1pn1/2P3P1/PP3PBq/R3RK2 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...e5-2.Bg2-Nf6"]
+[StartTime "03:41:19"]
+[EndDate "2023.06.15"]
+[EndTime "03:48:33"]
+[Link "https://www.chess.com/game/live/80539279387"]
+
+1. g3 Nf6 2. Bg2 e5 3. e3 Nc6 4. d4 exd4 5. exd4 Qe7+ 6. Ne2 Qb4+ 7. Nbc3
+Ng4 8. O-O Qd6 9. Bf4 Qg6 10. Re1 d5 11. Nxd5 Bb4 12. c3 Bd6 13. Bxd6 cxd6
+14. Nc7+ Kd7 15. Nxa8 b5 16. Nf4 Qh6 17. Qb3 Qxh2+ 18. Kf1 g5 19. Qxb5 gxf4
+20. Qxc6+ Kd8 21. Qc7# 1-0
+

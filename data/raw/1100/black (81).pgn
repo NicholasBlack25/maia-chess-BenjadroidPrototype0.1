@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "Meler03"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "744"]
+[BlackElo "733"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.01.01"]
+[UTCTime "03:25:33"]
+[Termination "Meler03 won by checkmate"]
+[CurrentPosition "8/R7/2N5/1p6/k7/1p4p1/1P6/K7 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[StartTime "03:25:33"]
+[EndDate "2024.01.01"]
+[EndTime "03:35:12"]
+[Link "https://www.chess.com/game/live/97818582435"]
+
+1. e4 d5 2. f3 e6 3. exd5 exd5 4. Qe2+ Qe7 5. Qxe7+ Bxe7 6. Nc3 Be6 7. Nge2
+Bf6 8. d4 Nc6 9. Be3 Bf5 10. O-O-O Nb4 11. Nf4 Bxc2 12. Nfxd5 Bxd1 13.
+Nxc7+ Kd7 14. Nxa8 Nc2 15. Bb5+ Kc8 16. Kxd1 Nxe3+ 17. Kc1 Bxd4 18. Ne4
+Nxg2 19. Nd6+ Kb8 20. Rd1 Be3+ 21. Kb1 Ne7 22. Nxf7 Re8 23. Bxe8 Nf4 24.
+Re1 Bc5 25. Ne5 Kxa8 26. Rd1 a5 27. Nc4 b6 28. Rd8+ Ka7 29. Rd7+ Ka6 30. h4
+Nf5 31. h5 Nh4 32. Ne5 g5 33. hxg6 hxg6 34. Nd3 Nxf3 35. Nxf4 g5 36. Nd3
+Be3 37. Rd5 g4 38. Bb5+ Kb7 39. Bc6+ Kxc6 40. Rf5 Nd2+ 41. Ka1 g3 42. Ne1
+a4 43. Rf6+ Kb5 44. Rf5+ Ka6 45. Rf8 b5 46. Rg8 Bf2 47. Nd3 Nb3+ 48. axb3
+axb3 49. Nb4+ Ka5 50. Nc6+ Ka4 51. Ra8+ Ba7 52. Rxa7# 1-0
+

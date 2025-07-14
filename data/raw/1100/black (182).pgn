@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "yesforsure2"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "536"]
+[BlackElo "565"]
+[ECO "A03"]
+[TimeControl "600"]
+[UTCDate "2023.06.03"]
+[UTCTime "05:47:38"]
+[Termination "BenjaminVega10 won - game abandoned"]
+[CurrentPosition "r4b1r/pp2nkpp/2p5/6B1/7n/2K5/6q1/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Birds-Opening-Dutch-Variation"]
+[StartTime "05:47:38"]
+[EndDate "2023.06.03"]
+[EndTime "05:59:18"]
+[Link "https://www.chess.com/game/live/79510226115"]
+
+1. f4 d5 2. d3 Nc6 3. Nf3 e5 4. e3 Nb4 5. d4 e4 6. Bb5+ c6 7. Bf1 exf3 8.
+gxf3 Bf5 9. e4 dxe4 10. fxe4 Bxe4 11. Bd3 Bxh1 12. Be2 Qh4+ 13. Kd2 Qxf4+
+14. Kc3 Qd6 15. Qxh1 Ne7 16. Bg5 Ned5+ 17. Kd2 Qg6 18. Qg1 Qxc2+ 19. Ke1
+Qxb2 20. Bh5 Nc2+ 21. Ke2 Nxd4+ 22. Kd3 Qxa1 23. Qe1+ Ne7 24. Bxf7+ Kxf7
+25. Qf1+ Ndf5 26. Kc2 Qxa2+ 27. Kd1 Qxb1+ 28. Kd2 Qxf1 29. Kc3 Qg2 30. h4
+Nxh4 0-1
+

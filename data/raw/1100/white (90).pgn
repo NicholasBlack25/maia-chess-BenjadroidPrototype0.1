@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "salva_sso1"]
+[Result "1-0"]
+[WhiteElo "740"]
+[BlackElo "694"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2024.01.01"]
+[UTCTime "03:55:53"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r1b1kb1r/pp2pp1p/2n1q3/1N4pn/3P4/2P2NB1/PP2BPPP/R2QK2R b KQkq -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Krause-Variation-3.dxc5"]
+[StartTime "03:55:53"]
+[EndDate "2024.01.01"]
+[EndTime "04:02:50"]
+[Link "https://www.chess.com/game/live/97820386391"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 Nf6 4. Bf4 Qa5+ 5. c3 Qxc5 6. e3 Nc6 7. Bd3 d4
+8. exd4 Qd5 9. Na3 Nh5 10. Bg3 g5 11. Nb5 Qe6+ 12. Be2 1-0
+

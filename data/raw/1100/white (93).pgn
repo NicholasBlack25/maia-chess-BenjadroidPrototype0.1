@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.06"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "ale_c29"]
+[Result "1-0"]
+[WhiteElo "561"]
+[BlackElo "489"]
+[ECO "D05"]
+[TimeControl "600"]
+[UTCDate "2023.11.06"]
+[UTCTime "22:17:18"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r1bq1rk1/p1p2ppp/2p1pn2/3p4/3P4/2PBPPP1/PP4P1/RNBQK2R b KQ -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Colle-System-3...e6"]
+[StartTime "22:17:18"]
+[EndDate "2023.11.06"]
+[EndTime "22:19:52"]
+[Link "https://www.chess.com/game/live/82092221852"]
+
+1. d4 Nf6 2. e3 d5 3. Nf3 e6 4. c3 Bd6 5. Ne5 Nc6 6. Nxc6 bxc6 7. f3 O-O 8.
+Bd3 Bg3+ 9. hxg3 1-0
+

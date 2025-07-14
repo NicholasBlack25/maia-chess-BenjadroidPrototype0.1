@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.10.22"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "4f4kabar"]
+[Result "1-0"]
+[WhiteElo "684"]
+[BlackElo "647"]
+[ECO "A40"]
+[TimeControl "600"]
+[UTCDate "2024.10.22"]
+[UTCTime "14:00:37"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "5rk1/2Qbnppp/3p4/8/P6P/8/1PP3P1/1K2R3 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit"]
+[StartTime "14:00:37"]
+[EndDate "2024.10.22"]
+[EndTime "14:07:10"]
+[Link "https://www.chess.com/game/live/120236342480"]
+
+1. d4 e5 2. Nf3 e4 3. Ne5 d6 4. Bg5 Qxg5 5. Nc6 Nxc6 6. d5 Nce7 7. e3 Nxd5
+8. Bc4 c6 9. Nc3 Nxc3 10. Qd4 Nd5 11. O-O-O Ngf6 12. h4 Qf5 13. f4 Ng4 14.
+Rhf1 Ngxe3 15. Bxd5 Nxf1 16. Bxe4 Qxf4+ 17. Kb1 Ng3 18. Bxc6+ bxc6 19. Qxf4
+Nf5 20. Qe4+ Be7 21. Qxc6+ Bd7 22. Qxa8+ Bd8 23. Re1+ Ne7 24. Qxa7 O-O 25.
+a4 Bc7 26. Qxc7 1-0
+

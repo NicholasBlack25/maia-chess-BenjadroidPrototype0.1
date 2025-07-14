@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.26"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "MattyMac2"]
+[Result "0-1"]
+[WhiteElo "606"]
+[BlackElo "654"]
+[ECO "C25"]
+[TimeControl "600"]
+[UTCDate "2023.06.26"]
+[UTCTime "18:30:49"]
+[Termination "MattyMac2 won by checkmate"]
+[CurrentPosition "8/8/8/8/8/5kqK/8/8 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game"]
+[StartTime "18:30:49"]
+[EndDate "2023.06.26"]
+[EndTime "18:41:38"]
+[Link "https://www.chess.com/game/live/81543215007"]
+
+1. e4 e5 2. Nc3 Qh4 3. Nf3 Qf6 4. Bc4 Bc5 5. d3 g5 6. Nb5 g4 7. Bg5 Qc6 8.
+Nxe5 Qb6 9. Qxg4 Ne7 10. Qh5 d5 11. Qxf7+ Kd8 12. Qxe7+ Bxe7 13. Bxe7+ Kxe7
+14. O-O-O Nd7 15. Nxd7 Bxd7 16. Bxd5 Bxb5 17. f4 c6 18. Bb3 Rhf8 19. Rdf1
+c5 20. f5 c4 21. dxc4 Qc6 22. cxb5 Qxb5 23. g4 Kd6 24. c4 Qb4 25. g5 Rae8
+26. Rf4 Qc5 27. h4 Rf7 28. Ba4 Ref8 29. h5 Rxf5 30. Rxf5 Rxf5 31. g6 hxg6
+32. hxg6 Rg5 33. Rh6 Qg1+ 34. Bd1 Rxg6 35. Rxg6+ Qxg6 36. e5+ Kxe5 37. c5
+Qg1 38. b4 Kd5 39. a4 b5 40. axb5 Kc4 41. b6 axb6 42. cxb6 Qxb6 43. Be2+
+Kxb4 44. Kd2 Qd4+ 45. Bd3 Qb2+ 46. Ke3 Qc3 47. Ke4 Kc5 48. Ke3 Kd5 49. Ke2
+Kd4 50. Bh7 Qe3+ 51. Kf1 Qf3+ 52. Ke1 Qe3+ 53. Kf1 Kc3 54. Kg2 Kd2 55. Kf1
+Qf3+ 56. Kg1 Ke2 57. Bg8 Qg3+ 58. Kh1 Qxg8 59. Kh2 Kf3 60. Kh3 Qg3# 0-1
+

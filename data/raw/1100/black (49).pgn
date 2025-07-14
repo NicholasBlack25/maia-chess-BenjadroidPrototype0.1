@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.26"]
+[Round "-"]
+[White "ttvErm00n"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "756"]
+[BlackElo "701"]
+[ECO "B01"]
+[TimeControl "600"]
+[UTCDate "2024.01.26"]
+[UTCTime "08:07:49"]
+[Termination "ttvErm00n won by checkmate"]
+[CurrentPosition "8/8/2Q5/1Q4P1/pk6/1p4K1/PPP5/8 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.exd5"]
+[StartTime "08:07:49"]
+[EndDate "2024.01.26"]
+[EndTime "08:14:30"]
+[Link "https://www.chess.com/game/live/99995530139"]
+
+1. e4 d5 2. exd5 Qd7 3. Nc3 e6 4. dxe6 Qxe6+ 5. Be2 Nf6 6. Nf3 Bc5 7. d4
+Bb6 8. O-O c6 9. Re1 O-O 10. Bc4 Qxc4 11. Ne5 Qe6 12. Bg5 Nbd7 13. Nxd7
+Qxd7 14. Bxf6 gxf6 15. Re3 Bc7 16. d5 cxd5 17. Nxd5 Bxh2+ 18. Kxh2 Qb5 19.
+Ne7+ Kh8 20. Qf3 f5 21. Nxf5 Bxf5 22. Rae1 Rae8 23. Rxe8 Rxe8 24. Rxe8+
+Qxe8 25. Qxf5 h6 26. Qf6+ Kg8 27. Qxh6 a5 28. f4 f5 29. Qg5+ Kf8 30. Qxf5+
+Kg8 31. g4 Qe2+ 32. Kh3 b5 33. g5 Qf3+ 34. Kh4 Qh1+ 35. Kg3 Qe1+ 36. Kg4
+Qe2+ 37. Kg3 b4 38. Qg6+ Kf8 39. f5 a4 40. f6 b3 41. Qg7+ Ke8 42. f7+ Kd7
+43. f8=Q+ Kc6 44. Qff6+ Kd5 45. Qd7+ Kc4 46. Qfc6+ Kb4 47. Qdb7+ Qb5 48.
+Qbxb5# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.10"]
+[Round "-"]
+[White "nihalpushpakumara"]
+[Black "BenjaminVega10"]
+[Result "0-1"]
+[WhiteElo "639"]
+[BlackElo "642"]
+[ECO "C00"]
+[TimeControl "600"]
+[UTCDate "2023.06.10"]
+[UTCTime "10:13:42"]
+[Termination "BenjaminVega10 won by checkmate"]
+[CurrentPosition "8/7R/p6P/1pp5/8/P1P2k2/8/1r3K2 w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Kings-Indian-Attack-2...d5"]
+[StartTime "10:13:42"]
+[EndDate "2023.06.10"]
+[EndTime "10:26:10"]
+[Link "https://www.chess.com/game/live/80131178923"]
+
+1. e4 d5 2. d3 e6 3. Nc3 Nf6 4. Bf4 Nc6 5. Nf3 Bb4 6. a3 Bc5 7. Be3 Bxe3 8.
+fxe3 dxe4 9. dxe4 Qxd1+ 10. Rxd1 e5 11. Nd5 Kd7 12. Nxf6+ Ke6 13. Ng4 f5
+14. exf5+ Kxf5 15. Nf2 e4 16. Nd4+ Nxd4 17. Rxd4 Re8 18. h3 b6 19. g4+ Kg5
+20. Nxe4+ Kh4 21. Bb5 Re6 22. Nf2 Bb7 23. e4 a6 24. Bd7 Rf6 25. O-O Rf3 26.
+g5 Kxg5 27. Bg4 Kf4 28. Bxf3 Kxf3 29. e5 Kg3 30. e6 Bg2 31. Rg4+ Kf3 32.
+Nd3+ Bxf1 33. Kxf1 Re8 34. Rxg7 Rxe6 35. Rxh7 Re2 36. c3 Re3 37. Nc1 c5 38.
+h4 b5 39. Ne2 Rxe2 40. h5 Rxb2 41. h6 Rb1# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.27"]
+[Round "-"]
+[White "salisat"]
+[Black "BenjaminVega10"]
+[Result "1-0"]
+[WhiteElo "609"]
+[BlackElo "614"]
+[ECO "C21"]
+[TimeControl "600"]
+[UTCDate "2023.06.27"]
+[UTCTime "09:21:21"]
+[Termination "salisat won by resignation"]
+[CurrentPosition "2k2b1N/pp2n1pp/5p2/8/8/8/1PPN2PP/R1BK3R b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Center-Game"]
+[StartTime "09:21:21"]
+[EndDate "2023.06.27"]
+[EndTime "09:24:03"]
+[Link "https://www.chess.com/game/live/81596660457"]
+
+1. e4 e5 2. d4 d5 3. exd5 c6 4. dxc6 Nxc6 5. dxe5 Qxd1+ 6. Kxd1 Nxe5 7.
+Bb5+ Bd7 8. a4 O-O-O 9. f4 Bxb5+ 10. Nd2 Rd5 11. axb5 Rxb5 12. fxe5 Rxe5
+13. Ngf3 Rg5 14. Nxg5 f6 15. Nf7 Ne7 16. Nxh8 1-0
+

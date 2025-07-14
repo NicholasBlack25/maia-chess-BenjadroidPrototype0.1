@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.26"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "sunnysidedowner"]
+[Result "1-0"]
+[WhiteElo "620"]
+[BlackElo "603"]
+[ECO "B07"]
+[TimeControl "600"]
+[UTCDate "2023.06.26"]
+[UTCTime "07:17:17"]
+[Termination "BenjaminVega10 won by resignation"]
+[CurrentPosition "r7/1kp1R2Q/p2p2p1/1p1P1bP1/8/3PqP2/PPPR2P1/2K5 b - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Modern-Defense-Geller-System-2...Nf6-3.Nc3-e5"]
+[StartTime "07:17:17"]
+[EndDate "2023.06.26"]
+[EndTime "07:22:52"]
+[Link "https://www.chess.com/game/live/81502878055"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d3 Nc6 5. Bg5 Be7 6. h4 O-O 7. Qd2 Nd4 8.
+Nxd4 exd4 9. Nd5 Nxd5 10. exd5 Bxg5 11. hxg5 g6 12. Qf4 Re8+ 13. Be2 Qe7
+14. O-O-O Qxe2 15. Qh4 Kf8 16. Qxh7 Bg4 17. Qh8+ Ke7 18. Qxd4 Kd7 19. f3
+Bf5 20. Rd2 Qe7 21. Qa4+ Kc8 22. Rh7 Qe1+ 23. Rd1 Qe3+ 24. Rd2 a6 25. Rxf7
+b5 26. Qh4 Kb7 27. Qh7 Re7 28. Rxe7 1-0
+

@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.20"]
+[Round "-"]
+[White "BenjaminVega10"]
+[Black "Vineetnag123"]
+[Result "0-1"]
+[WhiteElo "684"]
+[BlackElo "665"]
+[ECO "D02"]
+[TimeControl "600"]
+[UTCDate "2023.11.20"]
+[UTCTime "06:39:01"]
+[Termination "Vineetnag123 won by checkmate"]
+[CurrentPosition "6k1/8/8/7K/8/8/6q1/7q w - -"]
+[Timezone "UTC"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...e6-3.e3"]
+[StartTime "06:39:01"]
+[EndDate "2023.11.20"]
+[EndTime "06:57:04"]
+[Link "https://www.chess.com/game/live/94069533656"]
+
+1. d4 d5 2. e3 e6 3. Nf3 f6 4. Nc3 c6 5. Nh4 Bd6 6. Ng6 hxg6 7. Qg4 Ne7 8.
+Bd3 f5 9. Bxf5 exf5 10. Qg5 Rh5 11. e4 Rxg5 12. Bxg5 Na6 13. h4 Nb4 14.
+O-O-O fxe4 15. h5 Qa5 16. h6 gxh6 17. Rxh6 Nxa2+ 18. Nxa2 Bf5 19. Rh8+ Kd7
+20. Rxa8 Nc8 21. Nc3 b6 22. Rh1 b5 23. Rh7+ Ke8 24. Kd2 b4 25. Ne2 b3+ 26.
+c3 Bb4 27. cxb4 Qxb4+ 28. Nc3 Qxd4+ 29. Ke2 Bg4+ 30. f3 exf3+ 31. gxf3 Qe5+
+32. Kd2 Qxg5+ 33. Kd3 Bf5+ 34. Kd4 Qf4+ 35. Kc5 Qxf3 36. Rh8+ Kf7 37. Rh7+
+Kg8 38. Rb8 Qe3+ 39. Kxc6 Qe6+ 40. Kb7 Qb6+ 41. Ka8 Qc6+ 42. Rbb7 Nb6+ 43.
+Kxa7 Nc8+ 44. Kb8 Qd6+ 45. Rhc7 Nb6 46. Nb5 Qf8+ 47. Ka7 Nc8+ 48. Ka6 Bd3
+49. Rc3 Qd6+ 50. Ka5 Qd8+ 51. Nc7 Nd6 52. Rbxb3 Nb7+ 53. Kb4 Qe7+ 54. Ka4
+Nc5+ 55. Kb4 Qxc7 56. Rxc5 Qb6+ 57. Kc3 Qxc5+ 58. Kxd3 Qc4+ 59. Ke3 Qxb3+
+60. Kf4 Qxb2 61. Kg5 d4 62. Kxg6 d3 63. Kf5 d2 64. Ke6 d1=Q 65. Ke7 Qbc2
+66. Ke6 Qce2+ 67. Kf6 Qdf1+ 68. Kg6 Qeg2+ 69. Kh5 Qfh1# 0-1
+
